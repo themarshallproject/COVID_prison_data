@@ -1,5 +1,20 @@
 # COVID Tracking in Prisons
 
+```
+                     ________
+M               M   /_  __/ /  ___
+M M           M M    / / / _ \/ -_)
+M M M       M M M   /_/_/_//_/\__/         __        ____
+M M M M   M M M M     /  |/  /__ ________ / /  ___ _/ / /
+M M M M M M M M M    / /|_/ / _ `/ __(_-</ _ \/ _ `/ / /
+M M M M M M M M M   /_/__/_/\_,_/_/ /___/_//_/\_,_/_/_/
+M M M M M M M M M     / _ \_______    (_)__ ____/ /_
+M M M M M M M M M    / ___/ __/ _ \  / / -_) __/ __/
+M M M M M M M M M   /_/  /_/  \___/_/ /\__/\__/\__/
+                                 |___/
+
+```
+
 ## Data sources and caveats
 The Marshall Project, the nonprofit investigative newsroom dedicated to the U.S. criminal justice system, [is compiling data on the prevalence of coronavirus infection in prisons across the country](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons). The Associated Press is sharing the data as the most comprehensive current national source of COVID-19 outbreaks in state and federal prisons.
 
