@@ -29,7 +29,7 @@ Each week, the reporters ask every prison agency for the total number of coronav
 
 The time series data is aggregated to the system level; there is one record for each prison agency on each date of collection. Not all departments could provide data for the exact date requested, and the data indicates the date for the figures.
 
-To estimate the rate of infection among prisoners, we also collected population data for each prison system. In cases where current data was unavailable, we used the most recent available population numbers from the agencies in 12 states: Alabama, Alaska, Arkansas, Indiana, Illinois, Louisiana, Minnesota, Maryland, Montana, Nevada, Ohio, Tennessee.
+To estimate the rate of infection among prisoners, we also collected population data for each prison system. In cases where current data was unavailable, we used the most recent available population numbers from the agencies in 10 states: Alabama, Alaska, Arkansas, Indiana, Illinois, Louisiana, Maryland, Montana, Nevada, Ohio.
 
 As with all COVID-19 data, our understanding of the spread and impact of the virus is limited by the availability of testing. Epidemiology and public health experts say that aside from a few states that have recently begun aggressively testing in prisons, it is likely that there are more cases of COVID-19 circulating undetected in facilities. Sixteen prison systems, including the Federal Bureau of Prisons, would not release information about how many prisoners they are testing.
 
