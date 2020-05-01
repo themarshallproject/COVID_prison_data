@@ -38,7 +38,7 @@ The Marshall Project plans to update this dataset on a weekly basis.
 ## Record layout
 There are two tables in this data, each in its own comma-separated values (csv) file.
 
-`tmp_covid_prisons.csv` contains our weekly time series data on tests, infections and deaths in prisons. The first dates in the table are on March 26
+`covid_prison_cases.csv` contains our weekly time series data on tests, infections and deaths in prisons. The first dates in the table are on March 26
  
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
@@ -54,7 +54,7 @@ It includes these columns:
 
 Any questions that a prison agency could not or would not answer are left blank.
 
-The second table in the dataset, `tmp_prison_pops.csv`, contains a one-time, recent snapshot of the population of people incarcerated in each of these prison systems, collected as close to April 15 as possible.
+The second table in the dataset, `prison_populations.csv`, contains a one-time, recent snapshot of the population of people incarcerated in each of these prison systems, collected as close to April 15 as possible.
 
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
