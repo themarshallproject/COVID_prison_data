@@ -39,7 +39,7 @@ The Marshall Project plans to update this dataset on a weekly basis.
 There are two tables in this data, each in its own comma-separated values (csv) file.
 
 `covid_prison_cases.csv` contains our weekly time series data on tests, infections and deaths in prisons. The first dates in the table are on March 26
- 
+
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
 * `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
@@ -69,5 +69,4 @@ In stories attribute this data to: “According to an analysis of state prison c
 Many reporters and editors at The Marshall Project contributed to this data, including: Katie Park, Tom Meagher, Weihua Li, Gabe Isman, Cary Aspinwall, Keri Blakinger, Andrew R. Calderón, Maurice Chammah, Eli Hager, Jamiles Lartey, Nicole Lewis, Joseph Neff, Alysia Santo, Beth Schwartzapfel, Christie Thompson, Abbie VanSickle.
 
 ## Bugs
-If you have questions about the data, please email us at ```info+covidtracker@themarshallproject.org``` or file a [Github issue](https://github.com/themarshallproject/COVID_prison_data/issues).
-
+If you have questions about the data, please email us at [info+covidtracker@themarshallproject.org](mailto:info+covidtracker@themarshallproject.org) or file a [Github issue](https://github.com/themarshallproject/COVID_prison_data/issues).
