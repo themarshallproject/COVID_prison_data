@@ -69,7 +69,7 @@ The third table in the dataset, `staff_populations.csv`, contains a one-time, re
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
 * `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
-* `april_pop` - The total population of people held in the agency's prisons and secure facilities.
+* `april_pop` - The total population of people working for the agency.
 * `as_of_date` - The date the data reflect. In some instances, an April figure was not available, and we used the most recent number we could acquire.
 * `notes` - Any caveats or notes about the data.
 
