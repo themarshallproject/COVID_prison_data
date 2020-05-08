@@ -31,12 +31,14 @@ The time series data is aggregated to the system level; there is one record for 
 
 To estimate the rate of infection among prisoners, we also collected population data for each prison system. In cases where current data was unavailable, we used the most recent available population numbers from the agencies in 10 states: Alabama, Alaska, Arkansas, Indiana, Illinois, Louisiana, Maryland, Montana, Nevada, Ohio.
 
+To estimate the rate of infection among prison employees, we collected staffing numbers for each system. Where current data was not publicly available, we acquired other numbers through our reporting, including calling agencies or from state budget documents. In six states, we were unable to find recent staffing figures: Alaska, Hawaii, Kentucky, Maryland, Montana, Utah.
+
 As with all COVID-19 data, our understanding of the spread and impact of the virus is limited by the availability of testing. Epidemiology and public health experts say that aside from a few states that have recently begun aggressively testing in prisons, it is likely that there are more cases of COVID-19 circulating undetected in facilities. Sixteen prison systems, including the Federal Bureau of Prisons, would not release information about how many prisoners they are testing.
 
 The Marshall Project plans to update this dataset on a weekly basis.
 
 ## Record layout
-There are two tables in this data, each in its own comma-separated values (csv) file.
+There are three tables in this data, each in its own comma-separated values (csv) file.
 
 `covid_prison_cases.csv` contains our weekly time series data on tests, infections and deaths in prisons. The first dates in the table are on March 26
 
@@ -61,6 +63,15 @@ It includes these columns:
 * `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
 * `april_pop` - The total population of people held in the agency's prisons and secure facilities.
 * `as_of_date` - The date the data reflect. In some instances, an April figure was not available, and we used the most recent number the agency could provide.
+
+The third table in the dataset, `staff_populations.csv`, contains a one-time, recent snapshot of the headcount of workers for each prison agency, collected as close to April 15 as possible.
+
+It includes these columns:
+* `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
+* `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
+* `april_pop` - The total population of people held in the agency's prisons and secure facilities.
+* `as_of_date` - The date the data reflect. In some instances, an April figure was not available, and we used the most recent number we could acquire.
+* `notes` - Any caveats or notes about the data.
 
 ## Attribution
 In stories attribute this data to: “According to an analysis of state prison cases by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system”

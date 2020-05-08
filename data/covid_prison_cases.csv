@@ -1,4 +1,55 @@
 name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,102,17,8,0,1,2020-05-06,
+Alaska,AK,,235,8,1,0,0,2020-05-06,
+Arizona,AZ,,277,52,69,0,5,2020-05-06,
+Arkansas,AR,,,127,944,0,5,2020-05-07,
+California,CA,,1551,169,398,0,1,2020-05-06,
+Colorado,CO,,1067,25,310,0,1,2020-05-07,
+Connecticut,CT,,,358,478,0,6,2020-05-06,
+Delaware,DE,301,267,64,125,0,3,2020-05-07,
+Florida,FL,,805,180,393,0,7,2020-05-06,
+Georgia,GA,,,100,316,1,10,2020-05-06,
+Hawaii,HI,,20,0,0,0,0,2020-05-06,
+Idaho,ID,68,47,5,0,0,0,2020-05-05,"Idaho's numbers have not included staff cases at 2 private prisons, one in the state (CAPP facility, operated by MTC) and Eagle Pass Correctional Facility in Texas."
+Illinois,IL,,600,157,176,0,12,2020-05-06,
+Indiana,IN,889,844,234,500,2,13,2020-05-06,
+Iowa,IA,,433,11,21,0,0,2020-05-06,
+Kansas,KS,,,96,615,0,3,2020-05-06,
+Kentucky,KY,,,51,340,0,2,2020-05-06,
+Louisiana,LA,,,120,338,3,4,2020-05-06,
+Maine,ME,,23,1,0,0,0,2020-05-06,
+Maryland,MD,,,183,61,0,2,2020-05-04,
+Massachusetts,MA,,1906,151,351,0,7,2020-05-06,
+Michigan,MI,,8113,293,2073,2,47,2020-05-06,
+Minnesota,MN,,428,43,83,0,0,2020-05-06,
+Mississippi,MS,43,37,7,4,0,1,2020-05-05,
+Missouri,MO,,380,20,32,0,1,2020-05-06,
+Montana,MT,,,3,2,0,0,2020-05-06,
+Nebraska,NE,,,5,0,,0,2020-05-06,
+Nevada,NV,,49,16,0,0,0,2020-05-06,
+New Hampshire,NH,,13,11,0,0,0,2020-05-06,
+New Jersey,NJ,,276,575,215,2,38,2020-05-06,Staff deaths are from media reports
+New Mexico,NM,64,14,4,0,0,0,2020-05-06,
+New York,NY,,619,1143,415,4,15,2020-05-06,
+North Carolina,NC,250,1234,29,627,0,4,2020-05-06,Staff numbers only from Neuse CI
+North Dakota,ND,116,32,3,0,0,0,2020-05-01,
+Ohio,OH,,6922,483,4312,2,42,2020-05-06,
+Oklahoma,OK,,1034,9,2,0,0,2020-05-06,
+Oregon,OR,,243,21,44,0,0,2020-05-06,
+Pennsylvania,PA,411,327,127,143,0,3,2020-05-06,
+Rhode Island,RI,200,110,11,4,0,0,2020-05-06,
+South Carolina,SC,,,56,42,1,2,2020-05-06,
+South Dakota,SD,47,82,4,2,0,0,2020-05-06,
+Tennessee,TN,,5962,55,1959,0,1,2020-05-05,
+Texas,TX,2379,2134,504,1336,5,23,2020-05-06,
+Utah,UT,,101,4,10,,0,2020-05-06,
+Vermont,VT,154,384,19,45,0,0,2020-05-06,
+Virginia,VA,,,65,580,0,3,2020-05-06,
+Washington,WA,,350,35,24,,,2020-05-06,
+West Virginia,WV,,34,1,0,0,0,2020-05-06,
+Wisconsin,WI,,155,23,20,0,0,2020-05-06,
+Wyoming,WY,,19,1,0,0,0,2020-05-08,
+Federal,US,,,514,2701,0,42,2020-05-06,
 Alabama,AL,,78,13,4,0,1,2020-04-28,
 Alaska,AK,,211,,1,,,2020-04-29,
 Arizona,AZ,,210,,50,,2,2020-04-29,"Inmate deaths come from medical examiner, per several news stories. ADC will not confirm."
@@ -32,7 +83,7 @@ New Jersey,NJ,,196,518,153,2,29,2020-04-29,Staff deaths based on media reports.
 New Mexico,NM,32,8,1,0,0,0,2020-04-30,
 New York,NY,,553,1045,370,2,10,2020-04-29,Plus another 45 parolees infected and 4 killed.
 North Carolina,NC,250,1143,29,596,0,2,2020-04-29,Staff numbers are for Neuse prison only
-North Dakota,ND,,32,,0,,0,2020-04-27,
+North Dakota,ND,,32,2,0,,0,2020-04-27,
 Ohio,OH,,5676,419,3890,2,29,2020-04-29,
 Oklahoma,OK,,702,9,2,0,0,2020-04-28,
 Oregon,OR,,117,15,21,0,0,2020-04-29,
@@ -49,7 +100,7 @@ Washington,WA,,323,32,18,0,0,2020-04-29,
 West Virginia,WV,,30,1,0,0,0,2020-04-29,
 Wisconsin,WI,,137,18,18,0,0,2020-04-29,
 Wyoming,WY,10,15,1,0,0,0,2020-04-29,
-Federal,US,,,475,1948,0,31,2020-04-29,
+Federal,US,,,475,1979,0,31,2020-04-29,
 Alabama,AL,,63,8,4,0,1,2020-04-21,
 Alaska,AK,,57,8,0,0,0,2020-04-22,
 Arizona,AZ,,172,,35,,,2020-04-22,
@@ -100,7 +151,7 @@ Washington,WA,,303,24,13,,,2020-04-22,
 West Virginia,WV,,,,0,0,0,2020-04-22,
 Wisconsin,WI,,117,16,13,0,0,2020-04-22,
 Wyoming,WY,10,14,1,0,0,0,2020-04-22,
-Federal,US,,,342,566,0,24,2020-04-22,Total cases do not include recovered patients. 2 staff deaths have been reported in media but not confirmed by BOP
+Federal,US,,,342,590,0,24,2020-04-22,Total cases do not include recovered patients. 2 staff deaths have been reported in media but not confirmed by BOP
 Alabama,AL,,50,6,0,0,0,2020-04-13,
 Alaska,AK,,32,7,0,0,0,2020-04-15,
 Arizona,AZ,,91,,17,,,2020-04-15,
@@ -156,7 +207,7 @@ the Governor.  We have not mandated that anyone be tested, and our
 contract medical staff does not conduct tests on staff.  So the 
 information we have is only based on self-reporting.  There could be 
 additional staff who have tested that we don't know about."
-Federal,US,,,280,449,0,16,2020-04-15,Total cases do not include recovered patients.
+Federal,US,,,280,468,0,16,2020-04-15,Total cases do not include recovered patients.
 Alabama,AL,,30,,0,0,0,2020-04-06,
 Alaska,AK,,15,,0,,0,2020-04-08,
 Arizona,AZ,,68,,2,,,2020-04-09,"8 inmate tests are still pending, per ADC media"
@@ -207,7 +258,7 @@ Washington,WA,,221,14,7,0,0,2020-04-08,"includes headquarters, work release, etc
 West Virginia,WV,,,0,0,0,0,2020-04-08,
 Wisconsin,WI,,91,11,4,0,0,2020-04-08,
 Wyoming,WY,1,0,0,0,0,0,2020-04-08,
-Federal,US,,,92,267,0,8,2020-04-08,
+Federal,US,,,92,275,0,8,2020-04-08,
 Alabama,AL,,17,2,0,0,0,2020-03-31,
 Alaska,AK,,10,0,0,0,0,2020-04-01,
 Arizona,AZ,,34,,0,0,0,2020-04-01,
@@ -258,7 +309,7 @@ Washington,WA,,131,8,1,0,0,2020-04-01,staff cases including work release & commu
 West Virginia,WV,,,0,0,0,0,2020-04-01,
 Wisconsin,WI,,,9,0,0,0,2020-04-01,Staff cases include 3 in community corrections.
 Wyoming,WY,1,0,0,0,0,0,2020-04-01,
-Federal,US,,,37,57,0,3,2020-04-01,
+Federal,US,,,37,60,0,3,2020-04-01,
 Alabama,AL,,,1,0,0,0,2020-03-26,
 Alaska,AK,,4,0,0,0,0,2020-03-26,"*2 negative tests, 2 pending"
 Arizona,AZ,,15,,0,0,0,2020-03-26,Six of those tests have come back negative for the virus. The remaining 9 test results are currently pending.
