@@ -1,4 +1,55 @@
 name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,125,25,9,0,1,2020-05-13,
+Alaska,AK,,256,10,1,0,0,2020-05-12,
+Arizona,AZ,,519,62,121,,5,2020-05-13,
+Arkansas,AR,,2486,,1066,0,7,2020-05-13,
+California,CA,,2494,187,535,0,5,2020-05-13,
+Colorado,CO,,2723,27,479,0,2,2020-05-13,
+Connecticut,CT,,,368,526,0,6,2020-05-13,
+Delaware,DE,,,85,139,0,6,2020-05-13,
+Florida,FL,,6392,208,843,0,9,2020-05-13,
+Georgia,GA,,,140,384,1,12,2020-05-13,
+Hawaii,HI,,24,0,0,0,0,2020-05-13,
+Idaho,ID,74,50,6,0,0,0,2020-05-13,"Staff testing figures  do not include figures for the private facilities that incarcerate IDOC inmates – CAPP and Eagle Pass Correctional Facility. Six staff positives,  5 are DOC employees, 1 is a GEO employee at the Eagle Pass Correctional Facility, in Texas."
+Illinois,IL,,,160,192,0,12,2020-05-14,
+Indiana,IN,1046,1147,276,590,2,16,2020-05-13,
+Iowa,IA,,574,13,21,0,0,2020-05-13,
+Kansas,KS,,,97,790,2,3,2020-05-13,They reported testing all prisoners at Lansing and Wichita work release
+Kentucky,KY,,,52,357,0,2,2020-05-13,
+Louisiana,LA,,,134,374,3,10,2020-05-13,
+Maine,ME,,28,1,0,0,0,2020-05-13,
+Maryland,MD,,,213,77,0,4,2020-05-11,
+Massachusetts,MA,,2825,157,362,0,7,2020-05-13,
+Michigan,MI,,18099,313,2173,2,55,2020-05-13,
+Minnesota,MN,,758,48,111,0,0,2020-05-13,
+Mississippi,MS,46,47,8,10,0,1,2020-05-13,
+Missouri,MO,,513,26,44,0,1,2020-05-13,
+Montana,MT,,7,3,2,0,0,2020-05-13,"7 tests are only for their ""secure facilities"". The 2 confirmed cases are in re-entry centers."
+Nebraska,NE,,,9,1,0,0,2020-05-13,
+Nevada,NV,,,16,0,0,0,2020-05-13,
+New Hampshire,NH,,14,11,0,0,0,2020-05-13,
+New Jersey,NJ,,603,599,538,3,42,2020-05-13,NJ DOC does not confirm staff deaths but the unions and media reports cite 3.
+New Mexico,NM,2468,1678,4,0,0,0,2020-05-13,Tested 100 percent of their staff
+New York,NY,,725,1192,443,4,16,2020-05-13,
+North Carolina,NC,250,1301,29,644,1,5,2020-05-13,"Staff tests only from Neuse CI; staff death from sources, DOC not reporting"
+North Dakota,ND,,60,,0,,0,2020-05-07,
+Ohio,OH,,7541,556,4449,2,51,2020-05-13,
+Oklahoma,OK,,1204,10,2,0,0,2020-05-13,
+Oregon,OR,,395,32,113,0,0,2020-05-13,
+Pennsylvania,PA,541,710,148,214,0,3,2020-05-13,
+Rhode Island,RI,361,170,11,4,0,0,2020-05-12,
+South Carolina,SC,425,152,63,60,1,2,2020-05-13,
+South Dakota,SD,346,,4,2,0,0,2020-05-14,
+Tennessee,TN,,19424,64,2574,0,3,2020-05-13,
+Texas,TX,6487,9476,697,1798,7,30,2020-05-14,
+Utah,UT,,115,4,10,0,0,2020-05-13,
+Vermont,VT,,223,20,45,0,0,2020-05-13,"For the first week, Vermont began releasing the total number of prisoners tested, rather than the total tests administered, so this figure dropped from weeks past. At the private prison in Mississippi that holds some Vermont prisoners, 2 were tested and 0 were positive."
+Virginia,VA,,5605,73,725,0,5,2020-05-13,
+Washington,WA,,379,40,26,,,2020-05-13,
+West Virginia,WV,,39,1,0,0,0,2020-05-13,
+Wisconsin,WI,,174,28,20,0,0,2020-05-13,
+Wyoming,WY,14,22,1,0,0,0,2020-05-14,
+Federal,US,,,548,4365,0,52,2020-05-13,
 Alabama,AL,,102,17,8,0,1,2020-05-06,
 Alaska,AK,,235,8,1,0,0,2020-05-06,
 Arizona,AZ,,277,52,69,0,5,2020-05-06,
@@ -42,8 +93,8 @@ South Carolina,SC,,,56,42,1,2,2020-05-06,
 South Dakota,SD,47,82,4,2,0,0,2020-05-06,
 Tennessee,TN,,5962,55,1959,0,1,2020-05-05,
 Texas,TX,2379,2134,504,1336,5,23,2020-05-06,
-Utah,UT,,101,4,10,,0,2020-05-06,
-Vermont,VT,154,384,19,45,0,0,2020-05-06,
+Utah,UT,,101,4,10,0,0,2020-05-06,
+Vermont,VT,154,384,19,45,0,0,2020-05-06,Prisoner tests total may included multiple tests of the same prisoners.
 Virginia,VA,,,65,580,0,3,2020-05-06,
 Washington,WA,,350,35,24,0,0,2020-05-06,
 West Virginia,WV,,34,1,0,0,0,2020-05-06,
@@ -93,8 +144,8 @@ South Carolina,SC,,,45,15,1,0,2020-04-28,
 South Dakota,SD,36,74,2,2,0,0,2020-04-29,
 Tennessee,TN,,3834,,759,,0,2020-04-29,
 Texas,TX,1795,1697,381,1050,5,12,2020-04-29,
-Utah,UT,,95,2,10,,0,2020-04-29,
-Vermont,VT,,378,18,38,0,0,2020-04-29,
+Utah,UT,,95,2,10,0,0,2020-04-29,
+Vermont,VT,,378,18,38,0,0,2020-04-29,Prisoner tests total may included multiple tests of the same prisoners.
 Virginia,VA,,,65,479,0,3,2020-04-29,
 Washington,WA,,323,32,18,0,0,2020-04-29,
 West Virginia,WV,,30,1,0,0,0,2020-04-29,
@@ -144,14 +195,14 @@ South Carolina,SC,,,36,2,1,0,2020-04-22,
 South Dakota,SD,,,,2,,0,2020-04-23,
 Tennessee,TN,,3239,35,211,0,0,2020-04-22,
 Texas,TX,1299,1053,252,594,2,5,2020-04-22,
-Utah,UT,,79,2,10,,0,2020-04-22,all 10 cases (and 66 tests) are in halfway houses
-Vermont,VT,,221,18,38,0,0,2020-04-22,
+Utah,UT,,79,2,10,0,0,2020-04-22,all 10 cases (and 66 tests) are in halfway houses
+Vermont,VT,,221,18,38,0,0,2020-04-22,Prisoner tests total may included multiple tests of the same prisoners.
 Virginia,VA,,,57,236,0,1,2020-04-22,
 Washington,WA,,303,24,13,,,2020-04-22,
 West Virginia,WV,,,,0,0,0,2020-04-22,
 Wisconsin,WI,,117,16,13,0,0,2020-04-22,
 Wyoming,WY,10,14,1,0,0,0,2020-04-22,
-Federal,US,,,342,590,0,24,2020-04-22,Total cases do not include recovered patients. 2 staff deaths have been reported in media but not confirmed by BOP
+Federal,US,,,394,838,0,24,2020-04-22,Total cases now include recovered patients. 2 staff deaths have been reported in media but not confirmed by BOP
 Alabama,AL,,50,6,0,0,0,2020-04-13,
 Alaska,AK,,32,7,0,0,0,2020-04-15,
 Arizona,AZ,,91,,17,,,2020-04-15,
@@ -195,8 +246,8 @@ South Carolina,SC,,,29,0,1,0,2020-04-15,
 South Dakota,SD,,,,2,,0,2020-04-15,
 Tennessee,TN,,69,0,7,0,0,2020-04-15,
 Texas,TX,940,524,137,284,1,4,2020-04-15,
-Utah,UT,,,,9,,0,2020-04-15,"Cases have all been at a ""community correctional"" facility (a halfway house). Prisoner deaths backfilled based on 4/22 response"
-Vermont,VT,,206,18,33,0,0,2020-04-14,
+Utah,UT,,,,9,0,0,2020-04-15,"Cases have all been at a ""community correctional"" facility (a halfway house). Prisoner deaths backfilled based on 4/22 response"
+Vermont,VT,,206,18,33,0,0,2020-04-14,Prisoner tests total may included multiple tests of the same prisoners.
 Virginia,VA,,,34,53,0,1,2020-04-15,
 Washington,WA,,257,14,11,0,0,2020-04-15,
 West Virginia,WV,,,0,0,0,0,2020-04-15,
@@ -207,7 +258,7 @@ the Governor.  We have not mandated that anyone be tested, and our
 contract medical staff does not conduct tests on staff.  So the 
 information we have is only based on self-reporting.  There could be 
 additional staff who have tested that we don't know about."
-Federal,US,,,280,468,0,16,2020-04-15,Total cases do not include recovered patients.
+Federal,US,,,283,509,0,18,2020-04-15,Total cases have been updated to include recovered patients.
 Alabama,AL,,30,,0,0,0,2020-04-06,
 Alaska,AK,,15,,0,,0,2020-04-08,
 Arizona,AZ,,68,,2,,,2020-04-09,"8 inmate tests are still pending, per ADC media"
@@ -251,8 +302,8 @@ South Carolina,SC,,,21,0,0,0,2020-04-07,
 South Dakota,SD,,,,1,,0,2020-04-08,
 Tennessee,TN,,,0,1,0,0,2020-04-09,
 Texas,TX,405,234,51,47,1,1,2020-04-08,
-Utah,UT,,,,2,,0,2020-04-08,(both cases in halfway-house style facilities)
-Vermont,VT,,200,4,1,0,0,2020-04-09,
+Utah,UT,,,,2,0,0,2020-04-08,(both cases in halfway-house style facilities)
+Vermont,VT,,200,4,1,0,0,2020-04-09,Prisoner tests total may included multiple tests of the same prisoners.
 Virginia,VA,,,21,21,0,0,2020-04-09,
 Washington,WA,,221,14,7,0,0,2020-04-08,"includes headquarters, work release, etc"
 West Virginia,WV,,,0,0,0,0,2020-04-08,
@@ -302,7 +353,7 @@ South Carolina,SC,,,10,0,0,0,2020-04-01,
 South Dakota,SD,,,,1,,0,2020-04-01,
 Tennessee,TN,,,0,0,0,0,2020-04-01,
 Texas,TX,,59,13,3,0,0,2020-04-01,
-Utah,UT,,,,,,0,2020-04-01,
+Utah,UT,,,,,0,0,2020-04-01,
 Vermont,VT,,2,2,0,0,0,2020-04-02,
 Virginia,VA,,,4,3,0,0,2020-04-01,
 Washington,WA,,131,8,1,0,0,2020-04-01,staff cases including work release & community centers)
