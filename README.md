@@ -45,8 +45,10 @@ There are three tables in this data, each in its own comma-separated values (csv
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
 * `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
-* `staff_tests` - The cumulative number of tests administered to prison employess, including correctional officers and other staff.
-* `prisoner_tests` - The cumulative number of tests administered to incarcerated people.
+* `staff_tests` - The cumulative number prison employees, including correctional officers and other staff, tested.
+* `staff_tests_with_multiples` - The cumulative number of tests administered to prison employees, including correctional officers and other staff where unique patients was not available.
+* `prisoner_tests` - The cumulative number of incarcerated people tested.
+* `prisoner_tests_with_multiples` - The cumulative number of tests administered to incarcerated people where unique patients was not available.
 * `total_staff_cases` - The cumulative number of positive coronavirus cases among prison employees.
 * `total_prisoner_cases` - The cumulative number of positive coronavirus cases among the incarcerated population.
 * `total_staff_deaths` - The number of deaths of prison employees to date.
