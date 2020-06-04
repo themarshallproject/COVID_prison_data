@@ -1,516 +1,562 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
-Alabama,AL,,,152,,55,11,10,8,0,1,2020-05-26,
-Alaska,AK,,,500,,11,2,,,0,0,2020-05-27,
-Arizona,AZ,,,1071,,75,183,59,52,0,7,2020-05-27,
-Arkansas,AR,,808,,2713,135,1251,102,918,1,8,2020-05-27,
-California,CA,,,11831,,272,1216,142,272,0,9,2020-05-27,
-Colorado,CO,,,3481,,35,593,34,464,0,2,2020-05-27,
-Connecticut,CT,,,948,,378,853,355,522,0,7,2020-05-28,
-Delaware,DE,771,,282,,88,148,53,132,,7,2020-05-29,
-Florida,FL,,,12411,,256,1434,,,0,11,2020-05-27,
-Georgia,GA,,,,,159,430,95,291,1,17,2020-05-27,
-Hawaii,HI,,,30,,0,0,0,0,0,0,2020-05-27,
-Idaho,ID,80,,57,,5,0,5,0,0,0,2020-05-27,
-Illinois,IL,,,650,,172,215,142,185,0,13,2020-05-28,
-Indiana,IN,1204,,1405,,306,683,224,494,2,18,2020-05-27,
-Iowa,IA,,,1160,,16,23,9,9,0,0,2020-05-27,
-Kansas,KS,450,,,2190,112,865,50,852,2,4,2020-05-27,"The state prison spokesman could only provide an estimate of how many staff members have been tested. The estimate was the same as last week,"
-Kentucky,KY,,,,,53,359,40,43,0,2,2020-05-27,
-Louisiana,LA,,,,,149,511,70,38,3,14,2020-05-27,"The number of reported staff cases has dropped by 15 in the last week, and we're trying to get an answer as to why."
-Maine,ME,,,494,,1,4,1,0,0,0,2020-05-27,
-Maryland,MD,,,,,251,145,157,39,0,6,2020-05-25,
-Massachusetts,MA,,,5724,,165,380,120,281,0,8,2020-05-28,
-Michigan,MI,1826,,38145,,359,3341,,292,2,62,2020-05-27,
-Minnesota,MN,,,2491,,55,124,,,0,0,2020-05-27,
-Mississippi,MS,91,,69,,15,28,,,,1,2020-05-27,
-Missouri,MO,,,1348,1606,27,45,,18,0,1,2020-05-27,
-Montana,MT,24,,54,,3,2,,,0,0,2020-05-27,
-Nebraska,NE,,,,,12,12,,,,,2020-05-27,
-Nevada,NV,,,,,21,5,18,0,0,0,2020-05-28,
-New Hampshire,NH,,,17,,11,1,11,0,0,0,2020-05-27,
-New Jersey,NJ,,,11505,,743,1592,,,3,43,2020-05-27,Three staff deaths according to media reports.
-New Mexico,NM,2248,,,,5,43,,0,0,0,2020-05-28,
-New York,NY,,,1155,,1275,493,1119,414,4,16,2020-05-27,
-North Carolina,NC,250,,1376,,,650,,577,1,5,2020-05-27,"Staff tests from 1 prison, otherwise not testing"
-North Dakota,ND,828,,1161,,4,4,4,0,0,0,2020-05-26,
-Ohio,OH,,,9343,,660,4694,491,4137,4,73,2020-05-27,
-Oklahoma,OK,,,1535,,10,2,,1,,0,2020-05-27,"1 person recovered. The other person was released before results came in, so unclear if they are recovered yet."
-Oregon,OR,,,583,,43,154,9,47,0,1,2020-05-27,
-Pennsylvania,PA,651,,2140,,174,237,108,167,1,6,2020-05-27,
-Rhode Island,RI,935,,720,,15,17,8,6,0,0,2020-05-28,Prisoner cases include 6 pre-trial jail inmates who are no longer there — RI is a unified system so these are the equivalent of jail inmates in other states.
-South Carolina,SC,,,,,71,79,47,42,1,2,2020-05-28,
-South Dakota,SD,54,,90,,3,3,3,2,0,0,2020-05-27,
-Tennessee,TN,5525,,,20816,79,2661,47,2593,0,4,2020-05-27,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,30048,,51536,,878,4440,,1349,7,36,2020-05-27,
-Utah,UT,,,182,,4,10,,10,,0,2020-05-27,
-Vermont,VT,,,482,660,20,45,18,43,0,0,2020-05-27,
-Virginia,VA,,,12000,,115,1149,,613,,6,2020-05-27,
-Washington,WA,,,456,,43,41,,,1,,2020-05-27,
-West Virginia,WV,245,,,1117,9,102,1,0,0,0,2020-05-27,"Prisoner test numbers are total number of tests conducted, not individuals tested."
-Wisconsin,WI,,,1467,,39,65,25,31,0,0,2020-05-27,
+Alabama,AL,68,,176,,68,19,17,8,0,1,06/01/2020,
+Alaska,AK,,,519,,11,2,,2,0,0,06/03/2020,
+Arizona,AZ,,,1393,,88,193,62,77,0,7,06/02/2020,
+Arkansas,AR,808,,2721,,135,1253,101,1229,1,9,06/02/2020,Arkansas' number of recovered staff dropped by 1 this week and we're inquiring as to why.
+California,CA,,,15964,,348,2365,165,351,1,11,06/02/2020,
+Colorado,CO,,,3841,,43,621,34,470,0,2,06/02/2020,"Staff case figures are from 6/1, while the DOC ""reformats"" their data."
+Connecticut,CT,,,965,,380,870,359,686,0,7,06/02/2020,Total tests combines the number of current positives with the weekly number of reported negatives.
+Delaware,DE,,,,,89,148,60,137,,7,06/01/2020,
+Florida,FL,,,14754,,272,1543,,,0,15,06/02/2020,
+Georgia,GA,,,,,169,439,103,311,1,17,06/02/2020,
+Hawaii,HI,,,34,,0,0,0,0,0,0,06/02/2020,
+Idaho,ID,82,,62,,5,0,5,0,0,0,06/02/2020,
+Illinois,IL,,,750,,175,221,152,196,0,13,06/02/2020,
+Indiana,IN,1244,,1447,,311,685,265,548,2,19,06/02/2020,
+Iowa,IA,,,,1437,29,32,11,8,0,0,06/02/2020,
+Kansas,KS,450,,,2686,112,879,50,853,2,4,06/02/2020,
+Kentucky,KY,,,,,55,363,40,43,0,2,06/02/2020,
+Louisiana,LA,,,,,158,556,93,110,3,14,06/02/2020,
+Maine,ME,,,952,,1,4,1,0,0,0,06/02/2020,
+Maryland,MD,,,,,320,187,178,51,0,7,06/01/2020,
+Massachusetts,MA,,,7679,,165,390,158,339,0,8,06/02/2020,
+Michigan,MI,,,37947,,368,3918,238,2068,2,68,06/02/2020,"Michigan revised the number of prisoners tested this week after finding some prisoners were inadvertently counted twice, or the numbers of people in an entire prison were reported rather than the number tested."
+Minnesota,MN,,,2530,,55,125,54,,0,0,06/02/2020,
+Mississippi,MS,123,,73,,18,30,,,,1,06/02/2020,1 prisoner death based on news reporting
+Missouri,MO,830,,2963,,32,48,,28,0,1,06/02/2020,Recently started staff testing--this doesnt include tests staff got on their own
+Montana,MT,24,,54,,3,2,,,0,0,06/02/2020,
+Nebraska,NE,,,,,,,,,,,,
+Nevada,NV,,,3425,,23,5,22,0,0,0,06/02/2020,
+New Hampshire,NH,,,21,,11,1,11,0,0,0,06/02/2020,
+New Jersey,NJ,,,,,767,2062,,,3,46,06/02/2020,Staff deaths based on media reporting.
+New Mexico,NM,2295,,,3325,8,164,,0,0,1,06/02/2020,
+New York,NY,,,1228,,1280,511,1135,444,4,16,06/02/2020,
+North Carolina,NC,250,,1855,,,683,,615,1,5,06/02/2020,Staff tests from Neuse CI only
+North Dakota,ND,1091,,1281,,4,5,4,4,0,0,06/02/2020,
+Ohio,OH,,,10151,,675,4769,523,4143,4,78,06/02/2020,
+Oklahoma,OK,,,1700,,14,2,,1,0,0,06/02/2020,
+Oregon,OR,,,611,,46,165,24,101,0,1,06/02/2020,
+Pennsylvania,PA,785,,2916,,178,252,115,182,1,8,06/02/2020,
+Rhode Island,RI,1031,,1068,,16,21,8,6,0,0,06/01/2020,"The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
+South Carolina,SC,,,331,,77,95,52,51,1,2,06/02/2020,
+South Dakota,SD,54,,94,,3,3,3,3,0,0,06/02/2020,
+Tennessee,TN,4526,,,22123,94,2888,61,2652,0,4,06/03/2020,
+Texas,TX,20180,,62937,,966,6592,470,1550,7,40,06/02/2020,
+Utah,UT,,,211,,4,11,,10,,0,06/02/2020,
+Vermont,VT,,,872,,20,48,19,43,0,0,06/02/2020,
+Virginia,VA,,,,,140,1238,,671,,9,06/02/2020,
+Washington,WA,,,494,,49,56,,,1,,06/02/2020,Staff death based on past week's reporting.
+West Virginia,WV,245,,1480,,9,119,8,21,0,0,06/02/2020,Testing for staff will increase in coming weeks because they are testing all facilities.
+Wisconsin,WI,,,5785,,54,258,30,32,0,0,06/02/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,,,600,5239,413,3361,0,65,2020-05-27,
-Alabama,AL,,,138,,36,9,,,0,1,2020-05-19,
-Alaska,AK,,,442,,11,2,,,0,0,2020-05-21,
-Arizona,AZ,,,868,,69,151,,,0,6,2020-05-20,Email from ADC media 5/20 confirmed no staff deaths.
-Arkansas,AR,,808,,2696,135,1246,,,1,8,2020-05-19,"The number of tests conducted may include multiple tests for a single prisoner or staff member. They do not represent the unique number of prisoners or staff people tested. So we've put those figures in the _with_multiples columns, rather than the Staff_tests and Prisoner_tests columns."
-California,CA,,,7407,,214,915,,,0,6,2020-05-20,
-Colorado,CO,,,3214,,35,486,,,,2,2020-05-20,
-Connecticut,CT,,,,,373,684,,,,6,2020-05-20,
-Delaware,DE,656,,,,88,141,,,0,6,2020-05-20,
-Florida,FL,,,9690,,241,1191,,,0,10,2020-05-20,
-Georgia,GA,,,,,152,415,,,1,15,2020-05-20,
-Hawaii,HI,,,26,,0,0,,,0,0,2020-05-20,
-Idaho,ID,75,,55,,5,0,,,0,0,2020-05-20,"55 (46 in Idaho, 9 housed in Texas)"
-Illinois,IL,,,600,,166,204,,,0,12,2020-05-20,
-Indiana,IN,1144,,1285,,297,657,,,2,17,2020-05-20,
-Iowa,IA,,,907,,15,23,,,0,0,2020-05-20,"said have had no new admits in a month, down from 22% over capacity to 10% over"
-Kansas,KS,450,,2085,,112,865,,,2,4,2020-05-20,"Kansas DOC originally released a slightly higher number of prisoners who tested positive, but later revised this figure. Kansas DOC said they could not provide an exact count for staff testing but gave this estimate."
-Kentucky,KY,,,,,52,358,,,0,2,2020-05-20,
-Louisiana,LA,,,,,164,438,,,3,11,2020-05-20,
-Maine,ME,,,156,,1,1,,,0,0,2020-05-20,
-Maryland,MD,,,,,233,102,,,0,5,2020-05-18,
-Massachusetts,MA,,,4767,,165,375,,,0,8,2020-05-21,
-Michigan,MI,,,35760,,336,3262,,,2,59,2020-05-20,
-Minnesota,MN,,,879,,50,116,,,0,0,2020-05-20,
-Mississippi,MS,53,,56,,9,20,,,0,1,2020-05-20,
-Missouri,MO,,,588,,27,44,,,0,1,2020-05-20,
-Montana,MT,,,24,,3,2,,,0,0,2020-05-20,
-Nebraska,NE,,,,,10,7,,,0,0,2020-05-20,
-Nevada,NV,,,121,,18,1,,,0,0,2020-05-20,
-New Hampshire,NH,,,15,,11,0,,,0,0,2020-05-20,
-New Jersey,NJ,,,4620,,681,830,,,3,43,2020-05-20,Staff deaths based on media reports
-New Mexico,NM,2248,,1841,,5,22,,,0,0,2020-05-20,
-New York,NY,,,1064,,1228,471,,,4,16,2020-05-20,"61 parolees also have COVID, and 4 died."
-North Carolina,NC,250,,1329,,,644,,,1,5,2020-05-20,
-North Dakota,ND,,,,,,4,,,,0,2020-05-20,"Iniitally 10 positive prisoner cases were reported, but due to a lab error, the state said 6 were false positives. We've adjusted this accordingly."
-Ohio,OH,,,8267,,622,4550,,,4,63,2020-05-20,
-Oklahoma,OK,,,1334,,10,2,,,0,0,2020-05-19,
-Oregon,OR,,,504,,38,143,,,0,1,2020-05-21,
-Pennsylvania,PA,608,,1370,,160,227,,,1,5,2020-05-20,
-Rhode Island,RI,651,,350,,11,9,,,0,0,2020-05-20,
-South Carolina,SC,425,,169,,70,65,,,1,2,2020-05-20,
-South Dakota,SD,52,,87,,3,2,,,0,0,2020-05-20,
-Tennessee,TN,,,,20752,74,2649,,,0,4,2020-05-20,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,21894,,41223,,750,2214,,,7,32,2020-05-20,
-Utah,UT,,,123,,4,10,,,0,0,2020-05-20,All the positive cases are in halfway houses
-Vermont,VT,,,318,,20,45,,,0,0,2020-05-20,"The ""positive results"" section of the Covid dashboard reflects 48 positives, but the dashboard notes that 3 of them are re-tests. The 223 inmate tests include 2 inmates housed at a private prison in Mississippi. / Confirmed with Rachel Feldman that deaths are still 0."
-Virginia,VA,,,8124,,74,902,,,0,5,2020-05-20,
-Washington,WA,,,423,,42,34,,,1,0,2020-05-20,
-West Virginia,WV,203,,94,,3,2,,,0,0,2020-05-20,"THe National Guard tested 203 staff members on Wed. results were not back, all 43 inmates were tested at the facility with two new positive inmates, most results not back."
-Wisconsin,WI,,,782,,33,40,,,0,0,2020-05-20,
-Wyoming,WY,16,,22,,1,0,,,0,0,2020-05-20,
-Federal,US,,,,,577,4664,,,0,59,2020-05-20,
-Alabama,AL,,,125,,25,9,,,0,1,2020-05-13,
-Alaska,AK,,,256,,10,1,,,0,0,2020-05-12,
-Arizona,AZ,,,519,,62,121,,,0,5,2020-05-13,
-Arkansas,AR,,,,2486,,1066,,,0,7,2020-05-13,"The number of tests conducted may include multiple tests for a single prisoner. It does not represent the unique number of prisoners tested. So we've put those figures in the prisoner_tests_with_multiples column, rather than the Prisoner_tests column."
-California,CA,,,2494,,187,535,,,0,5,2020-05-13,
-Colorado,CO,,,2723,,27,479,,,0,2,2020-05-13,
-Connecticut,CT,,,,,368,526,,,0,6,2020-05-13,
-Delaware,DE,,,,,85,139,,,0,6,2020-05-13,
-Florida,FL,,,6392,,208,843,,,0,9,2020-05-13,
-Georgia,GA,,,,,140,384,,,1,12,2020-05-13,
-Hawaii,HI,,,24,,0,0,,,0,0,2020-05-13,
-Idaho,ID,74,,50,,6,0,,,0,0,2020-05-13,"Staff testing figures do not include figures for the private facilities that incarcerate IDOC inmates – CAPP and Eagle Pass Correctional Facility. Six staff positives,  5 are DOC employees, 1 is a GEO employee at the Eagle Pass Correctional Facility, in Texas."
-Illinois,IL,,,,,160,192,,,0,12,2020-05-14,
-Indiana,IN,1046,,1147,,276,590,,,2,16,2020-05-13,
-Iowa,IA,,,574,,13,21,,,0,0,2020-05-13,
-Kansas,KS,,,,,97,790,,,2,3,2020-05-13,They reported testing all prisoners at Lansing and Wichita work release
-Kentucky,KY,,,,,52,357,,,0,2,2020-05-13,
-Louisiana,LA,,,,,134,374,,,3,10,2020-05-13,
-Maine,ME,,,28,,1,0,,,0,0,2020-05-13,
-Maryland,MD,,,,,213,77,,,0,4,2020-05-11,
-Massachusetts,MA,,,2825,,157,362,,,0,7,2020-05-13,
-Michigan,MI,,,18099,,313,2173,,,2,55,2020-05-13,
-Minnesota,MN,,,758,,48,111,,,0,0,2020-05-13,
-Mississippi,MS,46,,47,,8,10,,,0,1,2020-05-13,
-Missouri,MO,,,513,,26,44,,,0,1,2020-05-13,
-Montana,MT,,,7,,3,2,,,0,0,2020-05-13,"7 tests are only for their ""secure facilities"". The 2 confirmed cases are in re-entry centers."
-Nebraska,NE,,,,,9,1,,,0,0,2020-05-13,
-Nevada,NV,,,,,16,0,,,0,0,2020-05-13,
-New Hampshire,NH,,,14,,11,0,,,0,0,2020-05-13,
-New Jersey,NJ,,,603,,599,538,,,3,42,2020-05-13,NJ DOC does not confirm staff deaths but the unions and media reports cite 3.
-New Mexico,NM,2248,,1678,,4,0,,,0,0,2020-05-13,Tested 100 percent of their staff
-New York,NY,,,725,,1192,443,,,4,16,2020-05-13,
-North Carolina,NC,250,,1301,,29,644,,,1,5,2020-05-13,"Staff tests only from Neuse CI; staff death from sources, DOC not reporting"
-North Dakota,ND,,,60,,,0,,,,0,2020-05-07,
-Ohio,OH,,,7541,,556,4449,,,2,51,2020-05-13,
-Oklahoma,OK,,,1204,,10,2,,,0,0,2020-05-13,
-Oregon,OR,,,395,,32,113,,,0,0,2020-05-13,
-Pennsylvania,PA,541,,710,,148,214,,,0,3,2020-05-13,
-Rhode Island,RI,361,,170,,11,4,,,0,0,2020-05-12,
-South Carolina,SC,425,,152,,63,60,,,1,2,2020-05-13,
-South Dakota,SD,50,,86,,3,2,,,0,0,2020-05-14,
-Tennessee,TN,,,,19424,64,2574,,,0,3,2020-05-13,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,6487,,9476,,697,1798,,,7,30,2020-05-14,
-Utah,UT,,,115,,4,10,,,0,0,2020-05-13,
-Vermont,VT,,,223,,20,45,,,0,0,2020-05-13,"For the first week, Vermont began releasing the total number of prisoners tested, rather than the total tests administered, so this figure dropped from weeks past. At the private prison in Mississippi that holds some Vermont prisoners, 2 were tested and 0 were positive."
-Virginia,VA,,,5605,,73,725,,,0,5,2020-05-13,
-Washington,WA,,,379,,40,26,,,,0,2020-05-13,Prisoner death backfilled from 5/20 update.
-West Virginia,WV,,,39,,1,0,,,0,0,2020-05-13,
-Wisconsin,WI,,,174,,28,20,,,0,0,2020-05-13,
-Wyoming,WY,14,,22,,1,0,,,0,0,2020-05-14,
-Federal,US,,,,,548,4365,,,0,52,2020-05-13,
-Alabama,AL,,,102,,17,8,,,0,1,2020-05-06,
-Alaska,AK,,,235,,8,1,,,0,0,2020-05-06,
-Arizona,AZ,,,277,,52,69,,,0,5,2020-05-06,
-Arkansas,AR,,,,,127,944,,,0,5,2020-05-07,
-California,CA,,,1551,,169,398,,,0,1,2020-05-06,
-Colorado,CO,,,1067,,25,310,,,0,1,2020-05-07,
-Connecticut,CT,,,,,358,478,,,0,6,2020-05-06,
-Delaware,DE,301,,267,,64,125,,,0,3,2020-05-07,
-Florida,FL,,,805,,180,393,,,0,7,2020-05-06,
-Georgia,GA,,,,,100,316,,,1,10,2020-05-06,
-Hawaii,HI,,,20,,0,0,,,0,0,2020-05-06,
-Idaho,ID,68,,47,,5,0,,,0,0,2020-05-05,"Idaho's numbers have not included staff cases at 2 private prisons, one in the state (CAPP facility, operated by MTC) and Eagle Pass Correctional Facility in Texas."
-Illinois,IL,,,600,,157,176,,,0,12,2020-05-06,
-Indiana,IN,889,,844,,234,500,,,2,13,2020-05-06,
-Iowa,IA,,,433,,11,21,,,0,0,2020-05-06,
-Kansas,KS,,,,,96,615,,,0,3,2020-05-06,
-Kentucky,KY,,,,,51,340,,,0,2,2020-05-06,
-Louisiana,LA,,,,,120,338,,,3,4,2020-05-06,
-Maine,ME,,,23,,1,0,,,0,0,2020-05-06,
-Maryland,MD,,,,,183,61,,,0,2,2020-05-04,
-Massachusetts,MA,,,1906,,151,351,,,0,7,2020-05-06,
-Michigan,MI,,,8113,,293,2073,,,2,47,2020-05-06,
-Minnesota,MN,,,428,,43,83,,,0,0,2020-05-06,
-Mississippi,MS,43,,37,,7,4,,,0,1,2020-05-05,
-Missouri,MO,,,380,,20,32,,,0,1,2020-05-06,
-Montana,MT,,,,,3,2,,,0,0,2020-05-06,
-Nebraska,NE,,,,,5,0,,,0,0,2020-05-06,Staff deaths backfilled from 5/13 update.
-Nevada,NV,,,49,,16,0,,,0,0,2020-05-06,
-New Hampshire,NH,,,13,,11,0,,,0,0,2020-05-06,
-New Jersey,NJ,,,276,,575,215,,,2,38,2020-05-06,Staff deaths are from media reports
-New Mexico,NM,64,,14,,4,0,,,0,0,2020-05-06,
-New York,NY,,,619,,1143,415,,,4,15,2020-05-06,
-North Carolina,NC,250,,1234,,29,627,,,0,4,2020-05-06,Staff numbers only from Neuse CI
-North Dakota,ND,116,,32,,3,0,,,0,0,2020-05-01,
-Ohio,OH,,,6922,,483,4312,,,2,42,2020-05-06,
-Oklahoma,OK,,,1034,,9,2,,,0,0,2020-05-06,
-Oregon,OR,,,243,,21,44,,,0,0,2020-05-06,
-Pennsylvania,PA,411,,327,,127,143,,,0,3,2020-05-06,
-Rhode Island,RI,200,,110,,11,4,,,0,0,2020-05-06,
-South Carolina,SC,,,,,56,42,,,1,2,2020-05-06,
-South Dakota,SD,46,,82,,3,2,,,0,0,2020-05-06,South Dakota initially reported 4 self-reported positives among staff on this day and later changed it to 3.
-Tennessee,TN,,,,5962,55,1959,,,0,1,2020-05-05,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,2379,,2134,,504,1336,,,5,23,2020-05-06,
-Utah,UT,,,101,,4,10,,,0,0,2020-05-06,
-Vermont,VT,154,,,384,19,45,,,0,0,2020-05-06,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
-Virginia,VA,,,,,65,580,,,0,3,2020-05-06,
-Washington,WA,,,350,,35,24,,,0,0,2020-05-06,
-West Virginia,WV,,,34,,1,0,,,0,0,2020-05-06,
-Wisconsin,WI,,,155,,23,20,,,0,0,2020-05-06,
-Wyoming,WY,12,,19,,1,0,,,0,0,2020-05-08,
-Federal,US,,,,,514,2701,,,0,42,2020-05-06,
-Alabama,AL,,,78,,13,4,,,0,1,2020-04-28,
-Alaska,AK,,,211,,,1,,,0,0,2020-04-29,Deaths backfilled from 5/6 update
-Arizona,AZ,,,210,,,50,,,0,2,2020-04-29,"Inmate deaths come from medical examiner, per several news stories. ADC will not confirm. Staff deaths backfilled from 5/6 update."
-Arkansas,AR,,647,,1855,95,923,,,0,0,2020-04-28,27 inmate tests with results pending and 25 for staff. The number of tests conducted may include multiple tests for a single prisoner or staff member. It does not represent the unique number of prisoners or staff people tested. So we've moved these figures into the Prisoner_tests_with_multiples and Staff_tests_with_multiples columns.
-California,CA,,,1220,,137,205,,,0,1,2020-04-29,
-Colorado,CO,,,518,,18,256,,,0,0,2020-04-30,479 tests and 247 cases at Sterling facility due to mass testing. The jump from last week is because of mass testing at Sterling.
-Connecticut,CT,,,,,326,417,,,0,3,2020-04-29,Staff deaths backfilled from 5/6 update.
-Delaware,DE,,,200,,38,67,,,0,3,2020-04-28,
-Florida,FL,,,447,,143,202,,,0,5,2020-04-29,
-Georgia,GA,,,,,86,228,,,1,8,2020-04-29,
-Hawaii,HI,,,16,,0,0,,,0,0,2020-04-29,
-Idaho,ID,62,,34,,4,0,,,0,0,2020-04-29,Another 6 tested in Texas.
-Illinois,IL,,,,,149,155,,,0,10,2020-04-29,
-Indiana,IN,,,,,159,334,,,2,7,2020-04-29,
-Iowa,IA,,,277,,5,15,,,0,0,2020-04-29,
-Kansas,KS,,,,,79,81,,,0,2,2020-04-29,
-Kentucky,KY,,,,,30,47,,,0,2,2020-04-29,
-Louisiana,LA,,,,,104,273,,,3,3,2020-04-29,
-Maine,ME,,,23,,1,0,,,0,0,2020-04-29,23 inmate tests includes 22 adults and 1 juvenile (same as last week) / 1 positive staff member was a contractor from Wellpath and has since recovered and returned to work.
-Maryland,MD,,,,,174,52,,,0,2,2020-04-29,
-Massachusetts,MA,,,747,,120,257,,,0,7,2020-04-29,
-Michigan,MI,,,3117,,268,1412,,,2,41,2020-04-29,
-Minnesota,MN,,,334,,39,79,,,0,0,2020-04-29,
-Mississippi,MS,,,27,,4,4,,,0,1,2020-04-27,Staff deaths backfilled from 5/6 update.
-Missouri,MO,,,185,,13,30,,,0,1,2020-04-29,"6 (prison staff), 7 (non prison staff)"
-Montana,MT,,,27,,3,2,,,0,0,2020-04-29,Both prisoner cases are in halfway houses
-Nebraska,NE,,,,,3,0,,,0,0,2020-04-28,Based on news accounts.
-Nevada,NV,,,39,,9,0,,,0,0,2020-04-29,
-New Hampshire,NH,,,10,,11,0,,,0,0,2020-04-29,
-New Jersey,NJ,,,196,,518,153,,,2,29,2020-04-29,Staff deaths based on media reports.
-New Mexico,NM,32,,8,,1,0,,,0,0,2020-04-30,
-New York,NY,,,553,,1045,370,,,2,10,2020-04-29,Plus another 45 parolees infected and 4 killed.
-North Carolina,NC,250,,1143,,29,596,,,0,2,2020-04-29,Staff numbers are for Neuse prison only
-North Dakota,ND,,,32,,2,0,,,0,0,2020-04-27,Staff deaths backfilled from 5/6 update.
-Ohio,OH,,,5676,,419,3890,,,2,29,2020-04-29,
-Oklahoma,OK,,,702,,9,2,,,0,0,2020-04-28,
-Oregon,OR,,,117,,15,21,,,0,0,2020-04-29,
-Pennsylvania,PA,336,,148,,90,47,,,0,3,2020-04-29,
-Rhode Island,RI,77,,108,,10,3,,,0,0,2020-04-30,"1(former inmate tested during quarantine) 2(new commitments, one is no longer with us. The other is still in our custody)"
-South Carolina,SC,,,,,45,15,,,1,0,2020-04-28,
-South Dakota,SD,36,,74,,2,2,,,0,0,2020-04-29,
-Tennessee,TN,,,,3834,,759,,,0,0,2020-04-29,"Staff deaths backfilled from 5/6 update. Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,1795,,1697,,381,1050,,,5,12,2020-04-29,
-Utah,UT,,,95,,2,10,,,0,0,2020-04-29,
-Vermont,VT,,,,378,18,38,,,0,0,2020-04-29,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
-Virginia,VA,,,,,65,479,,,0,3,2020-04-29,
-Washington,WA,,,323,,32,18,,,0,0,2020-04-29,
-West Virginia,WV,,,30,,1,0,,,0,0,2020-04-29,
-Wisconsin,WI,,,137,,18,18,,,0,0,2020-04-29,
-Wyoming,WY,10,,15,,1,0,,,0,0,2020-04-29,
-Federal,US,,,,,475,1979,,,0,31,2020-04-29,
-Alabama,AL,,,63,,8,4,,,0,1,2020-04-21,
-Alaska,AK,,,57,,8,0,,,0,0,2020-04-22,
-Arizona,AZ,,,172,,,35,,,0,,2020-04-22,Staff deaths backfilled from 5/6 update.
-Arkansas,AR,,,,1124,25,731,,,0,0,2020-04-21,"Includes current positive cases, but not all patients who have recovered. They tested all inmates and staff at three facilities with known outbreaks/exposure. The number of tests conducted may include multiple tests for a single prisoner or staff member. It does not represent the unique number of prisoners or staff people tested. So we've moved these figures into the Prisoner_tests_with_multiples column."
-California,CA,,,676,,97,135,,,0,1,2020-04-22,
-Colorado,CO,,,36,,9,9,,,0,0,2020-04-21,
-Connecticut,CT,,,,,244,321,,,0,1,2020-04-22,
-Delaware,DE,,,136,,26,41,,,0,1,2020-04-22,
-Florida,FL,,,387,,102,136,,,0,4,2020-04-22,
-Georgia,GA,,,,,77,155,,,1,4,2020-04-22,
-Hawaii,HI,,,14,,0,0,,,0,0,2020-04-22,
-Idaho,ID,51,,27,,3,0,,,0,0,2020-04-21,
-Illinois,IL,,,,,139,148,,,0,10,2020-04-22,
-Indiana,IN,,,,,101,238,,,0,3,2020-04-22,
-Iowa,IA,,,182,,3,12,,,0,0,2020-04-22,
-Kansas,KS,,,,,61,52,,,0,0,2020-04-22,
-Kentucky,KY,,,,,15,19,,,0,1,2020-04-22,
-Louisiana,LA,,,,,78,120,,,3,2,2020-04-22,
-Maine,ME,,,17,,1,0,,,0,0,2020-04-22,
-Maryland,MD,,,,,135,45,,,0,1,2020-04-22,COs are 127 only.
-Massachusetts,MA,,,296,,93,127,,,0,7,2020-04-22,
-Michigan,MI,,,1089,,230,717,,,2,25,2020-04-22,
-Minnesota,MN,,,183,,,29,,,0,0,2020-04-22,
-Mississippi,MS,,,20,,3,4,,,0,1,2020-04-17,relying on news reports. this one was published 4/17: https://www.clarionledger.com/story/news/2020/04/17/more-mississippi-inmates-tested-positive-covid-19/5151359002/ There were 3 staff cases as of 4/15. Staff deaths backfilled from 5/6 update.
-Missouri,MO,,,66,,13,4,,,0,1,2020-04-22,"6 prison staff, 7 non prison staff"
-Montana,MT,,,5,,2,2,,,0,0,2020-04-22,
-Nebraska,NE,,,,,1,0,,,0,0,2020-04-20,
-Nevada,NV,,,,,7,0,,,0,0,2020-04-22,
-New Hampshire,NH,,,7,,11,0,,,0,0,2020-04-22,
-New Jersey,NJ,,,128,,427,101,,,2,16,2020-04-22,92 at prisons plus another 9 at halfway houses
-New Mexico,NM,7,,5,,0,0,,,0,0,2020-04-22,
-New York,NY,,,391,,844,239,,,2,6,2020-04-22,Another 35 parolee cases and 4 deaths
-North Carolina,NC,,,723,,,507,,,0,1,2020-04-22,"Prisoner test numbers are low. We were able to get health department figures for Neuse, one hotspot, instead of DOC figures for that facility."
-North Dakota,ND,,,30,,2,0,,,0,0,2020-04-22,"Only conducted resident tests so far, staff tested at the clinic."
-Ohio,OH,,,5196,,331,3792,,,1,14,2020-04-22,These tests are only completed. They aren't reporting total tested or pending results yet.
-Oklahoma,OK,,,458,,9,1,,,0,0,2020-04-21,Staff numbers are self-reported
-Oregon,OR,,,,,10,7,,,0,0,2020-04-22,
-Pennsylvania,PA,210,,97,,54,29,,,0,1,2020-04-22,
-Rhode Island,RI,,,103,,6,1,,,0,0,2020-04-22,the 1 case is someone awaiting trial. This is a joint system
-South Carolina,SC,,,,,36,2,,,1,0,2020-04-22,
-South Dakota,SD,,,,,,2,,,0,0,2020-04-23,Staff deaths backfilled from 4/29 update.
-Tennessee,TN,,,,3239,35,211,,,0,0,2020-04-22,"Prisoner test numbers are total number of tests conducted, not individuals tested."
-Texas,TX,1299,,1053,,252,594,,,2,5,2020-04-22,
-Utah,UT,,,79,,2,10,,,0,0,2020-04-22,All 10 cases (and 66 tests) are in halfway houses
-Vermont,VT,,,,221,18,38,,,0,0,2020-04-22,Prisoner tests total may included multiple tests of the same prisoners. So we've moved these figures into the Prisoner_tests_with_multiples column. 27 inmate tests with results pending and 25 for staff.
-Virginia,VA,,,,,57,236,,,0,1,2020-04-22,
-Washington,WA,,,303,,24,13,,,0,0,2020-04-22,Deaths backfilled from 4/29 update.
-West Virginia,WV,,,,,,0,,,0,0,2020-04-22,
-Wisconsin,WI,,,117,,16,13,,,0,0,2020-04-22,
-Wyoming,WY,10,,14,,1,0,,,0,0,2020-04-22,
-Federal,US,,,,,394,838,,,0,24,2020-04-22,Total cases now include recovered patients. 2 staff deaths have been reported in media but not confirmed by BOP
-Alabama,AL,,,50,,6,0,,,0,0,2020-04-13,
-Alaska,AK,,,32,,7,0,,,0,0,2020-04-15,
-Arizona,AZ,,,91,,,17,,,0,,2020-04-15,Staff deaths backfilled from 5/6 update.
-Arkansas,AR,,,,,35,61,,,0,0,2020-04-14,"Includes current positive cases, but not all patients who have recovered."
-California,CA,,,593,,81,69,,,0,0,2020-04-15,
-Colorado,CO,,,27,,8,3,,,0,0,2020-04-15,
-Connecticut,CT,,,,,139,199,,,0,1,2020-04-15,
-Delaware,DE,,,,,18,13,,,0,0,2020-04-15,
-Florida,FL,,,292,,58,42,,,0,2,2020-04-15,Staff deaths backfilled from 4/22 update.
-Georgia,GA,,,,,59,67,,,1,3,2020-04-15,
-Hawaii,HI,,,5,,0,0,,,0,0,2020-04-15,
-Idaho,ID,41,,24,,2,0,,,0,0,2020-04-15,"Does not include 6 tested in Texas, 0 positive"
-Illinois,IL,,,,,124,146,,,0,8,2020-04-16,
-Indiana,IN,,,,,55,34,,,0,1,2020-04-15,
-Iowa,IA,,,59,,1,0,,,0,0,2020-04-15,
-Kansas,KS,,,,,24,21,,,0,0,2020-04-15,
-Kentucky,KY,81,,44,,13,18,,,0,0,2020-04-15,"Three prisoners have died in the past two weeks, but Kentucky didn't test them."
-Louisiana,LA,,,,,55,65,,,1,0,2020-04-15,
-Maine,ME,,,17,,1,0,,,0,0,2020-04-15,
-Maryland,MD,,,,,75,18,,,0,1,2020-04-13,Staff is for all staff. COs only are 47.
-Massachusetts,MA,,,,,42,90,,,0,4,2020-04-15,
-Michigan,MI,,,748,,181,481,,,2,13,2020-04-15,
-Minnesota,MN,,,56,,,15,,,0,0,2020-04-15,
-Mississippi,MS,,,9,,3,1,,,0,1,2020-04-13,Staff deaths backfilled from 5/6 update.
-Missouri,MO,,,49,,4,1,,,0,1,2020-04-15,
-Montana,MT,,,,,2,2,,,0,0,2020-04-15,Backfilled deaths based on 4/22 answers
-Nebraska,NE,,,,,1,0,,,0,0,2020-04-16,
-Nevada,NV,,,,,6,0,,,0,0,2020-04-16,
-New Hampshire,NH,,,6,,3,0,,,0,0,2020-04-15,
-New Jersey,NJ,,,,,266,50,,,1,5,2020-04-15,
-New Mexico,NM,7,,5,,0,0,,,0,0,2020-04-20,
-New York,NY,,,,,664,160,,,1,5,2020-04-15,The department also provides parolee deaths and today they clarified those deaths include two in custody in local jails and two who were not in custody anywhere.
-North Carolina,NC,,,183,,,46,,,0,0,2020-04-15,
-North Dakota,ND,,,28,,2,0,,,0,0,2020-04-15,
-Ohio,OH,,,1157,,159,273,,,1,3,2020-04-15,
-Oklahoma,OK,,,309,,8,1,,,0,0,2020-04-15,
-Oregon,OR,,,,,10,5,,,0,0,2020-04-15,
-Pennsylvania,PA,129,,70,,24,17,,,0,1,2020-04-15,
-Rhode Island,RI,,,16,,5,0,,,0,0,2020-04-15,
-South Carolina,SC,,,,,29,0,,,1,0,2020-04-15,
-South Dakota,SD,,,,,,2,,,0,0,2020-04-15,Staff deaths backfilled from 4/29 update.
-Tennessee,TN,,,69,,0,7,,,0,0,2020-04-15,
-Texas,TX,940,,524,,137,284,,,1,4,2020-04-15,
-Utah,UT,,,,,,9,,,0,0,2020-04-15,"Cases have all been at a ""community correctional"" facility (a halfway house). Prisoner deaths backfilled based on 4/22 response"
-Vermont,VT,,,,206,18,33,,,0,0,2020-04-14,Prisoner tests total may included multiple tests of the same prisoners. So we've moved this figure into the prisoner_tests_with_multiples column.
-Virginia,VA,,,,,34,53,,,0,1,2020-04-15,
-Washington,WA,,,257,,14,11,,,0,0,2020-04-15,
-West Virginia,WV,,,,,0,0,,,0,0,2020-04-15,
-Wisconsin,WI,,,96,,14,10,,,0,0,2020-04-15,Staff information is self-reported
-Wyoming,WY,8,,14,,1,0,,,0,0,2020-04-15,"8 staff have reported testing.  However, we're only tracking staff tests
- if the staff are out sick and are using special leave time granted by 
-the Governor.  We have not mandated that anyone be tested, and our 
-contract medical staff does not conduct tests on staff.  So the 
-information we have is only based on self-reporting.  There could be 
-additional staff who have tested that we don't know about."
-Federal,US,,,,,283,509,,,0,18,2020-04-15,Total cases have been updated to include recovered patients.
-Alabama,AL,,,30,,,0,,,0,0,2020-04-06,
-Alaska,AK,,,15,,,0,,,,0,2020-04-08,
-Arizona,AZ,,,68,,,2,,,,,2020-04-09,"8 inmate tests are still pending, per ADC media"
-Arkansas,AR,,,,,7,0,,,0,0,2020-04-07,"Includes current positive cases, but not all patients who have recovered."
-California,CA,,,421,,62,25,,,0,0,2020-04-08,
-Colorado,CO,,,22,,6,1,,,0,0,2020-04-09,
-Connecticut,CT,,,124,,52,46,,,0,0,2020-04-07,
-Delaware,DE,,,,,6,2,,,0,0,2020-04-08,
-Florida,FL,,,,,40,5,,,0,0,2020-04-08,
-Georgia,GA,,,,,40,42,,,0,2,2020-04-09,
-Hawaii,HI,,,2,,,0,,,,0,2020-04-08,
-Idaho,ID,24,,21,,2,0,,,0,0,2020-04-08,
-Illinois,IL,,,,,79,112,,,,2,2020-04-08,
-Indiana,IN,,,,,20,10,,,0,0,2020-04-08,
-Iowa,IA,,,23,,0,0,,,0,0,2020-04-08,Staff cases based on self-reporting
-Kansas,KS,,,,,14,12,,,0,0,2020-04-09,
-Kentucky,KY,,,,,5,9,,,0,0,2020-04-09,
-Louisiana,LA,,,,,32,33,,,0,0,2020-04-08,
-Maine,ME,,,15,,1,0,,,0,0,2020-04-08,
-Maryland,MD,,,,,47,10,,,0,0,2020-04-09,All staff are 47. COs only is 22.
-Massachusetts,MA,,,,,26,46,,,0,3,2020-04-08,
-Michigan,MI,,,460,,137,305,,,2,2,2020-04-08,
-Minnesota,MN,,,40,,,9,,,0,0,2020-04-07,
-Mississippi,MS,,,,,,,,,0,,2020-04-08,Staff deaths backfilled from 5/6 update.
-Missouri,MO,,,41,,0,1,,,0,1,2020-04-08,
-Montana,MT,,,,,2,1,,,0,0,2020-04-08,back-filled data based on 4/22 answers
-Nebraska,NE,,,,,1,0,,,0,0,2020-04-09,
-Nevada,NV,,,,,,0,,,0,0,2020-04-08,
-New Hampshire,NH,15,,4,,1,0,,,0,0,2020-04-08,
-New Jersey,NJ,,,25,,110,18,,,,,2020-04-08,
-New Mexico,NM,6,,4,,0,0,,,0,0,2020-04-08,
-New York,NY,,,176,,381,62,,,1,2,2020-04-08,
-North Carolina,NC,,,160,,,12,,,0,0,2020-04-08,
-North Dakota,ND,,,20,,,0,,,0,0,2020-04-07,Staff deaths backfilled based on 4/15 responses
-Ohio,OH,,,84,,53,19,,,1,0,2020-04-08,
-Oklahoma,OK,,,,,5,1,,,0,0,2020-04-09,
-Oregon,OR,,,,,5,3,,,0,0,2020-04-08,
-Pennsylvania,PA,89,,42,,16,7,,,0,0,2020-04-08,
-Rhode Island,RI,,,10,,3,0,,,0,0,2020-04-08,
-South Carolina,SC,,,,,21,0,,,0,0,2020-04-07,
-South Dakota,SD,,,,,,1,,,,0,2020-04-08,
-Tennessee,TN,,,,,0,1,,,0,0,2020-04-09,
-Texas,TX,405,,234,,51,47,,,1,1,2020-04-08,
-Utah,UT,,,,,,2,,,0,0,2020-04-08,Both cases in halfway-house style facilities.
-Vermont,VT,,,,200,4,1,,,0,0,2020-04-09,"Prisoner tests total may include multiple tests of the same prisoners, so we have moved this figure to the prisoner_tests_with_multiples column."
-Virginia,VA,,,,,21,21,,,0,0,2020-04-09,
-Washington,WA,,,221,,14,7,,,0,0,2020-04-08,"Includes headquarters, work release, etc"
-West Virginia,WV,,,,,0,0,,,0,0,2020-04-08,
-Wisconsin,WI,,,91,,11,4,,,0,0,2020-04-08,
-Wyoming,WY,1,,0,,0,0,,,0,0,2020-04-08,
-Federal,US,,,,,92,275,,,0,8,2020-04-08,
-Alabama,AL,,,17,,2,0,,,0,0,2020-03-31,
-Alaska,AK,,,10,,0,0,,,0,0,2020-04-01,
-Arizona,AZ,,,34,,,0,,,0,0,2020-04-01,
-Arkansas,AR,,,1,,1,0,,,0,0,2020-04-01,"Staffer who tested positive works on farm division, no close, direct contact with inmates"
-California,CA,,,266,,27,8,,,0,0,2020-04-01,
-Colorado,CO,,,17,,3,0,,,0,0,2020-04-02,
-Connecticut,CT,,,37,,3,2,,,0,0,2020-04-01,
-Delaware,DE,,,5,,0,0,,,0,0,2020-04-01,
-Florida,FL,,,,,12,0,,,0,0,2020-04-01,
-Georgia,GA,,,,,12,11,,,0,1,2020-04-01,
-Hawaii,HI,,,,,0,0,,,0,0,2020-04-01,
-Idaho,ID,10,,14,,0,0,,,0,0,2020-04-01,3 tests still pending
-Illinois,IL,,,239,,25,52,,,0,1,2020-04-01,
-Indiana,IN,,,,,,5,,,0,0,2020-04-01,
-Iowa,IA,,,15,,0,0,,,0,0,2020-04-01,1 test still pending
-Kansas,KS,,,0,,3,0,,,0,0,2020-04-01,Inmates have not been tested yet b/c none presenting with symptoms
-Kentucky,KY,,,,,,,,,,,2020-04-01,
-Louisiana,LA,,,,,5,14,,,0,0,2020-04-01,
-Maine,ME,,,11,,,0,,,0,0,2020-04-01,
-Maryland,MD,,,,,14,3,,,0,0,2020-04-03,
-Massachusetts,MA,,,,,7,20,,,0,0,2020-04-01,
-Michigan,MI,,,,,25,122,,,1,1,2020-04-01,
-Minnesota,MN,,,28,,1,3,,,0,0,2020-04-01,
-Mississippi,MS,,,,,3,0,,,0,0,2020-04-06,"according to this story from 4/6. At a press conference the commissioner cofirmed some numbers, which are currently 3 positive staff and 0 positive inmates, true as of 4/6: https://www.clarionledger.com/story/news/2020/04/06/two-mississippi-prison-system-employees-test-positive-coronavirus/5117825002/"
-Missouri,MO,,,27,,0,1,,,0,0,2020-04-01,
-Montana,MT,,,,,,,,,0,0,2020-04-01,back-filled data based on 4/22 responses
-Nebraska,NE,,,,,,,,,,,2020-04-01,
-Nevada,NV,,,,,2,0,,,0,0,2020-04-01,
-New Hampshire,NH,,,3,,0,0,,,0,0,2020-04-01,
-New Jersey,NJ,,,8,,26,0,,,0,0,2020-04-01,
-New Mexico,NM,,,,,0,0,,,0,0,2020-04-01,
-New York,NY,,,74,,147,20,,,1,1,2020-04-01,
-North Carolina,NC,,,101,,,1,,,0,0,2020-04-01,
-North Dakota,ND,,,17,,,0,,,0,0,2020-04-01,
-Ohio,OH,,,25,,,0,,,0,0,2020-04-01,
-Oklahoma,OK,,,8,,0,0,,,0,0,2020-04-01,staff have to go to own medical provider for test
-Oregon,OR,,,14,,1,0,,,0,0,2020-04-01,
-Pennsylvania,PA,51,,29,,8,2,,,0,0,2020-04-01,staff numbers are self reported.
-Rhode Island,RI,,,5,,2,0,,,0,0,2020-04-01,
-South Carolina,SC,,,,,10,0,,,0,0,2020-04-01,
-South Dakota,SD,,,,,,1,,,,0,2020-04-01,
-Tennessee,TN,,,,,0,0,,,0,0,2020-04-01,
-Texas,TX,,,59,,13,3,,,0,0,2020-04-01,
-Utah,UT,,,,,,,,,0,0,2020-04-01,
-Vermont,VT,,,,2,2,0,,,0,0,2020-04-02,"Prisoner tests total may include multiple tests of the same prisoners, so we have moved this figure to the prisoner_tests_with_multiples column."
-Virginia,VA,,,,,4,3,,,0,0,2020-04-01,
-Washington,WA,,,131,,8,1,,,0,0,2020-04-01,staff cases including work release & community centers.
-West Virginia,WV,,,,,0,0,,,0,0,2020-04-01,
-Wisconsin,WI,,,,,9,0,,,0,0,2020-04-01,Staff cases include 3 in community corrections.
-Wyoming,WY,1,,0,,0,0,,,0,0,2020-04-01,
-Federal,US,,,,,37,60,,,0,3,2020-04-01,
-Alabama,AL,,,,,1,0,,,0,0,2020-03-26,
-Alaska,AK,,,4,,0,0,,,0,0,2020-03-26,"2 negative tests, 2 pending"
-Arizona,AZ,,,15,,,0,,,0,0,2020-03-26,Six of those tests have come back negative for the virus. The remaining 9 test results are currently pending.
-Arkansas,AR,0,,0,,0,0,,,0,0,2020-03-26,
-California,CA,,,166,,9,1,,,0,0,2020-03-26,
-Colorado,CO,,,,,1,0,,,0,0,2020-03-26,
-Connecticut,CT,,,,,,,,,0,0,2020-03-27,
-Delaware,DE,,,4,,0,0,,,0,0,2020-03-24,
-Florida,FL,,,,,7,0,,,0,0,2020-03-27,
-Georgia,GA,,,,,,4,,,0,1,2020-03-26,
-Hawaii,HI,,,,,0,0,,,0,0,2020-03-26,
-Idaho,ID,2,,10,,0,0,,,0,0,2020-03-26,"2 pending staff tests (""that we know of""), 2 pending prisoner tests, 8 negative prisoner tests"
-Illinois,IL,,,13,,3,3,,,0,0,2020-03-25,
-Indiana,IN,,,,,,0,,,0,0,2020-03-26,
-Iowa,IA,,,,,0,0,,,0,0,2020-03-26,
-Kansas,KS,,,0,,0,0,,,0,0,2020-03-26,
-Kentucky,KY,,,,,,,,,,,2020-03-26,
-Louisiana,LA,,,32,,2,0,,,0,0,2020-03-26,
-Maine,ME,,,,,,0,,,0,0,2020-03-26,
-Maryland,MD,,,,,,0,,,0,0,2020-03-26,
-Massachusetts,MA,,,,,4,9,,,0,0,2020-03-26,
-Michigan,MI,,,,,,24,,,0,0,2020-03-26,
-Minnesota,MN,0,,0,,0,0,,,0,0,2020-03-26,
-Mississippi,MS,,,,,,0,,,0,0,2020-03-26,
-Missouri,MO,,,10,,0,1,,,0,0,2020-03-26,"0 prison staff, 1 probation/parole staff"
-Montana,MT,,,,,,,,,0,0,2020-03-26,back-filled data based on 4/22 responses
-Nebraska,NE,,,,,,,,,0,0,2020-03-26,
-Nevada,NV,,,,,1,0,,,0,0,2020-03-26,
-New Hampshire,NH,,,3,,0,0,,,0,0,2020-03-26,
-New Jersey,NJ,,,,,4,0,,,0,0,2020-03-26,
-New Mexico,NM,0,,1,,0,0,,,0,0,2020-03-26,
-New York,NY,,,28,,40,3,,,0,0,2020-03-26,"13 tests pending, 12 negative, 3 positive."
-North Carolina,NC,,,,,0,0,,,0,0,2020-03-26,
-North Dakota,ND,,,12,,1,0,,,0,0,2020-03-26,
-Ohio,OH,,,17,,,0,,,0,0,2020-03-26,
-Oklahoma,OK,,,,,0,0,,,0,0,2020-03-26,
-Oregon,OR,,,1,,0,0,,,0,0,2020-03-26,
-Pennsylvania,PA,,,,,,0,,,0,0,2020-03-26,
-Rhode Island,RI,,,3,,0,0,,,0,0,2020-03-26,
-South Carolina,SC,,,,,0,0,,,0,0,2020-03-26,
-South Dakota,SD,,,,,,1,,,,0,2020-03-26,
-Tennessee,TN,0,,0,,0,0,,,0,0,2020-03-26,
-Texas,TX,,,25,,2,1,,,0,0,2020-03-26,"25 tested = 15 pending, 1 positive, 9 negative."
-Utah,UT,,,,,,0,,,0,0,2020-03-26,
-Vermont,VT,,,,,,0,,,0,0,2020-03-26,
-Virginia,VA,,,2,,0,0,,,0,0,2020-03-26,
-Washington,WA,,,71,,4,0,,,0,0,2020-03-26,
-West Virginia,WV,,,,,0,0,,,0,0,2020-03-26,back-filled data based on 4/1 responses
-Wisconsin,WI,,,,,5,0,,,0,0,2020-03-26,staff cases include those in adult institution + community corrections
-Wyoming,WY,0,,0,,0,0,,,0,0,2020-03-26,
-Federal,US,,,,,8,10,,,0,0,2020-03-26,
+Federal,US,,,,,623,5815,448,3788,0,73,06/02/2020,
+Alabama,AL,,,152,,55,11,10,8,0,1,05/26/2020,
+Alaska,AK,,,500,,11,2,,,0,0,05/27/2020,
+Arizona,AZ,,,1071,,75,183,59,52,0,7,05/27/2020,
+Arkansas,AR,,808,,2713,135,1251,102,918,1,8,05/27/2020,
+California,CA,,,11831,,272,1216,142,272,0,9,05/27/2020,
+Colorado,CO,,,3481,,35,593,34,464,0,2,05/27/2020,
+Connecticut,CT,,,948,,378,853,355,522,0,7,05/28/2020,
+Delaware,DE,771,,282,,88,148,53,132,,7,05/29/2020,
+Florida,FL,,,12411,,256,1434,,,0,11,05/27/2020,
+Georgia,GA,,,,,159,430,95,291,1,17,05/27/2020,
+Hawaii,HI,,,30,,0,0,0,0,0,0,05/27/2020,
+Idaho,ID,80,,57,,5,0,5,0,0,0,05/27/2020,
+Illinois,IL,,,650,,172,215,142,185,0,13,05/28/2020,
+Indiana,IN,1204,,1405,,306,683,224,494,2,18,05/27/2020,
+Iowa,IA,,,1160,,16,23,9,8,0,0,05/27/2020,We updated the number of prisoners who had recovered after Iowa revised its count when one tested positive again.
+Kansas,KS,450,,,2190,112,865,50,852,2,4,05/27/2020,"The state prison spokesman could only provide an estimate of how many staff members have been tested. The estimate was the same as last week,"
+Kentucky,KY,,,,,53,359,40,43,0,2,05/27/2020,
+Louisiana,LA,,,,,149,511,70,38,3,14,05/27/2020,"In recent weeks, Louisiana adjusted their figures upon finding in some instances, they were counting positive tests rather than individuals. This resulted in a drop in The number of reported staff cases this week."
+Maine,ME,,,494,,1,4,1,0,0,0,05/27/2020,
+Maryland,MD,,,,,251,145,157,39,0,6,05/25/2020,
+Massachusetts,MA,,,5724,,165,380,120,281,0,8,05/28/2020,
+Michigan,MI,1826,,38145,,359,3341,,292,2,62,05/27/2020,
+Minnesota,MN,,,2491,,55,124,,,0,0,05/27/2020,
+Mississippi,MS,91,,69,,15,28,,,,1,05/27/2020,
+Missouri,MO,,,1348,1606,27,45,,18,0,1,05/27/2020,
+Montana,MT,24,,54,,3,2,,,0,0,05/27/2020,
+Nebraska,NE,,,,,12,12,,,,,05/27/2020,
+Nevada,NV,,,,,21,5,18,0,0,0,05/28/2020,
+New Hampshire,NH,,,17,,11,1,11,0,0,0,05/27/2020,
+New Jersey,NJ,,,11505,,743,1592,,,3,43,05/27/2020,Three staff deaths according to media reports.
+New Mexico,NM,2248,,,,5,43,,0,0,0,05/28/2020,
+New York,NY,,,1155,,1275,493,1119,414,4,16,05/27/2020,
+North Carolina,NC,250,,1376,,,650,,577,1,5,05/27/2020,"Staff tests from 1 prison, otherwise not testing"
+North Dakota,ND,828,,1161,,4,4,4,0,0,0,05/26/2020,
+Ohio,OH,,,9343,,660,4694,491,4137,4,73,05/27/2020,
+Oklahoma,OK,,,1535,,10,2,,1,,0,05/27/2020,"1 person recovered. The other person was released before results came in, so unclear if they are recovered yet."
+Oregon,OR,,,583,,43,154,9,47,0,1,05/27/2020,
+Pennsylvania,PA,651,,2140,,174,237,108,167,1,6,05/27/2020,
+Rhode Island,RI,935,,720,,15,17,8,6,0,0,05/28/2020,Prisoner cases include 6 pre-trial jail inmates who are no longer there — RI is a unified system so these are the equivalent of jail inmates in other states.
+South Carolina,SC,,,,,71,79,47,42,1,2,05/28/2020,
+South Dakota,SD,54,,90,,3,3,3,2,0,0,05/27/2020,
+Tennessee,TN,4526,,,20816,79,2661,47,2593,0,4,05/27/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of prisoners tested. One prisoner could have tested positive more than once in this sum. For the staff, Tennessee has revised the number of people tested."
+Texas,TX,17123,,51536,,878,4440,,1349,7,36,05/27/2020,"Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total."
+Utah,UT,,,182,,4,10,,10,,0,05/27/2020,
+Vermont,VT,,,482,660,20,45,18,43,0,0,05/27/2020,
+Virginia,VA,,,12000,,115,1149,,613,,6,05/27/2020,
+Washington,WA,,,456,,43,41,,,1,,05/27/2020,
+West Virginia,WV,245,,,1117,9,102,1,0,0,0,05/27/2020,"Prisoner test numbers are total number of tests conducted, not individuals tested."
+Wisconsin,WI,,,1467,,39,65,25,31,0,0,05/27/2020,
+Wyoming,WY,16,,30,,1,0,,,0,0,05/29/2020,
+Federal,US,,,,,600,5239,413,3361,0,65,05/27/2020,
+Alabama,AL,,,138,,36,9,,,0,1,05/19/2020,
+Alaska,AK,,,442,,11,2,,,0,0,05/21/2020,
+Arizona,AZ,,,868,,69,151,,,0,6,05/20/2020,Email from ADC media 5/20 confirmed no staff deaths.
+Arkansas,AR,,808,,2696,135,1246,,,1,8,05/19/2020,"The number of tests conducted may include multiple tests for a single prisoner or staff member. They do not represent the unique number of prisoners or staff people tested. So we've put those figures in the _with_multiples columns, rather than the Staff_tests and Prisoner_tests columns."
+California,CA,,,7407,,214,915,,,0,6,05/20/2020,
+Colorado,CO,,,3214,,35,486,,,,2,05/20/2020,
+Connecticut,CT,,,,,373,684,,,,6,05/20/2020,
+Delaware,DE,656,,,,88,141,,,0,6,05/20/2020,
+Florida,FL,,,9690,,241,1191,,,0,10,05/20/2020,
+Georgia,GA,,,,,152,415,,,1,15,05/20/2020,
+Hawaii,HI,,,26,,0,0,,,0,0,05/20/2020,
+Idaho,ID,75,,55,,5,0,,,0,0,05/20/2020,"55 (46 in Idaho, 9 housed in Texas)"
+Illinois,IL,,,600,,166,204,,,0,12,05/20/2020,
+Indiana,IN,1144,,1285,,297,657,,,2,17,05/20/2020,
+Iowa,IA,,,907,,15,23,,,0,0,05/20/2020,"said have had no new admits in a month, down from 22% over capacity to 10% over"
+Kansas,KS,450,,2085,,112,865,,,2,4,05/20/2020,"Kansas DOC originally released a slightly higher number of prisoners who tested positive, but later revised this figure. Kansas DOC said they could not provide an exact count for staff testing but gave this estimate."
+Kentucky,KY,,,,,52,358,,,0,2,05/20/2020,
+Louisiana,LA,,,,,164,438,,,3,11,05/20/2020,
+Maine,ME,,,156,,1,1,,,0,0,05/20/2020,
+Maryland,MD,,,,,233,102,,,0,5,05/18/2020,
+Massachusetts,MA,,,4767,,165,375,,,0,8,05/21/2020,
+Michigan,MI,,,35760,,336,3262,,,2,59,05/20/2020,
+Minnesota,MN,,,879,,50,116,,,0,0,05/20/2020,
+Mississippi,MS,53,,56,,9,20,,,0,1,05/20/2020,
+Missouri,MO,,,588,,27,44,,,0,1,05/20/2020,
+Montana,MT,,,24,,3,2,,,0,0,05/20/2020,
+Nebraska,NE,,,,,10,7,,,0,0,05/20/2020,
+Nevada,NV,,,121,,18,1,,,0,0,05/20/2020,
+New Hampshire,NH,,,15,,11,0,,,0,0,05/20/2020,
+New Jersey,NJ,,,4620,,681,830,,,3,43,05/20/2020,Staff deaths based on media reports
+New Mexico,NM,2248,,1841,,5,22,,,0,0,05/20/2020,
+New York,NY,,,1064,,1228,471,,,4,16,05/20/2020,"61 parolees also have COVID, and 4 died."
+North Carolina,NC,250,,1329,,,644,,,1,5,05/20/2020,
+North Dakota,ND,,,,,,4,,,,0,05/20/2020,"Iniitally 10 positive prisoner cases were reported, but due to a lab error, the state said 6 were false positives. We've adjusted this accordingly."
+Ohio,OH,,,8267,,622,4550,,,4,63,05/20/2020,
+Oklahoma,OK,,,1334,,10,2,,,0,0,05/19/2020,
+Oregon,OR,,,504,,38,143,,,0,1,05/21/2020,
+Pennsylvania,PA,608,,1370,,160,227,,,1,5,05/20/2020,
+Rhode Island,RI,651,,350,,11,9,,,0,0,05/20/2020,
+South Carolina,SC,425,,169,,70,65,,,1,2,05/20/2020,
+South Dakota,SD,52,,87,,3,2,,,0,0,05/20/2020,
+Tennessee,TN,,,,20752,74,2649,,,0,4,05/20/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
+Texas,TX,12952,,41223,,750,2214,,,7,32,05/20/2020,"Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total."
+Utah,UT,,,123,,4,10,,,0,0,05/20/2020,All the positive cases are in halfway houses
+Vermont,VT,,,318,,20,45,,,0,0,05/20/2020,"The ""positive results"" section of the Covid dashboard reflects 48 positives, but the dashboard notes that 3 of them are re-tests. The 223 inmate tests include 2 inmates housed at a private prison in Mississippi. / Confirmed with Rachel Feldman that deaths are still 0."
+Virginia,VA,,,8124,,74,902,,,0,5,05/20/2020,
+Washington,WA,,,423,,42,34,,,1,0,05/20/2020,
+West Virginia,WV,203,,94,,3,2,,,0,0,05/20/2020,"THe National Guard tested 203 staff members on Wed. results were not back, all 43 inmates were tested at the facility with two new positive inmates, most results not back."
+Wisconsin,WI,,,782,,33,40,,,0,0,05/20/2020,
+Wyoming,WY,16,,22,,1,0,,,0,0,05/20/2020,
+Federal,US,,,,,577,4664,,,0,59,05/20/2020,
+Alabama,AL,,,125,,25,9,,,0,1,05/13/2020,
+Alaska,AK,,,256,,10,1,,,0,0,05/12/2020,
+Arizona,AZ,,,519,,62,121,,,0,5,05/13/2020,
+Arkansas,AR,,,,2486,,1066,,,0,7,05/13/2020,"The number of tests conducted may include multiple tests for a single prisoner. It does not represent the unique number of prisoners tested. So we've put those figures in the prisoner_tests_with_multiples column, rather than the Prisoner_tests column."
+California,CA,,,2494,,187,535,,,0,5,05/13/2020,
+Colorado,CO,,,2723,,27,479,,,0,2,05/13/2020,
+Connecticut,CT,,,,,368,526,,,0,6,05/13/2020,
+Delaware,DE,,,,,85,139,,,0,6,05/13/2020,
+Florida,FL,,,6392,,208,843,,,0,9,05/13/2020,
+Georgia,GA,,,,,140,384,,,1,12,05/13/2020,
+Hawaii,HI,,,24,,0,0,,,0,0,05/13/2020,
+Idaho,ID,74,,50,,6,0,,,0,0,05/13/2020,"Staff testing figures do not include figures for the private facilities that incarcerate IDOC inmates – CAPP and Eagle Pass Correctional Facility. Six staff positives,  5 are DOC employees, 1 is a GEO employee at the Eagle Pass Correctional Facility, in Texas."
+Illinois,IL,,,,,160,192,,,0,12,05/14/2020,
+Indiana,IN,1046,,1147,,276,590,,,2,16,05/13/2020,
+Iowa,IA,,,574,,13,21,,,0,0,05/13/2020,
+Kansas,KS,,,,,97,790,,,2,3,05/13/2020,They reported testing all prisoners at Lansing and Wichita work release
+Kentucky,KY,,,,,52,357,,,0,2,05/13/2020,
+Louisiana,LA,,,,,134,374,,,3,10,05/13/2020,
+Maine,ME,,,28,,1,0,,,0,0,05/13/2020,
+Maryland,MD,,,,,213,77,,,0,4,05/11/2020,
+Massachusetts,MA,,,2825,,157,362,,,0,7,05/13/2020,
+Michigan,MI,,,18099,,313,2173,,,2,55,05/13/2020,
+Minnesota,MN,,,758,,48,111,,,0,0,05/13/2020,
+Mississippi,MS,46,,47,,8,10,,,0,1,05/13/2020,
+Missouri,MO,,,513,,26,44,,,0,1,05/13/2020,
+Montana,MT,,,7,,3,2,,,0,0,05/13/2020,"7 tests are only for their ""secure facilities"". The 2 confirmed cases are in re-entry centers."
+Nebraska,NE,,,,,9,1,,,0,0,05/13/2020,
+Nevada,NV,,,,,16,0,,,0,0,05/13/2020,
+New Hampshire,NH,,,14,,11,0,,,0,0,05/13/2020,
+New Jersey,NJ,,,603,,599,538,,,3,42,05/13/2020,NJ DOC does not confirm staff deaths but the unions and media reports cite 3.
+New Mexico,NM,2248,,1678,,4,0,,,0,0,05/13/2020,Tested 100 percent of their staff
+New York,NY,,,725,,1192,443,,,4,16,05/13/2020,
+North Carolina,NC,250,,1301,,29,644,,,1,5,05/13/2020,"Staff tests only from Neuse CI; staff death from sources, DOC not reporting"
+North Dakota,ND,,,60,,,0,,,,0,05/07/2020,
+Ohio,OH,,,7541,,556,4449,,,2,51,05/13/2020,
+Oklahoma,OK,,,1204,,10,2,,,0,0,05/13/2020,
+Oregon,OR,,,395,,32,113,,,0,0,05/13/2020,
+Pennsylvania,PA,541,,710,,148,214,,,0,3,05/13/2020,
+Rhode Island,RI,361,,170,,11,4,,,0,0,05/12/2020,
+South Carolina,SC,425,,152,,63,60,,,1,2,05/13/2020,
+South Dakota,SD,50,,86,,3,2,,,0,0,05/14/2020,
+Tennessee,TN,,,,19424,64,2574,,,0,3,05/13/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
+Texas,TX,5142,,9476,,697,1798,,,7,30,05/14/2020,"Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total."
+Utah,UT,,,115,,4,10,,,0,0,05/13/2020,
+Vermont,VT,,,223,,20,45,,,0,0,05/13/2020,"For the first week, Vermont began releasing the total number of prisoners tested, rather than the total tests administered, so this figure dropped from weeks past. At the private prison in Mississippi that holds some Vermont prisoners, 2 were tested and 0 were positive."
+Virginia,VA,,,5605,,73,725,,,0,5,05/13/2020,
+Washington,WA,,,379,,40,26,,,,0,05/13/2020,Prisoner death backfilled from 5/20 update.
+West Virginia,WV,,,39,,1,0,,,0,0,05/13/2020,
+Wisconsin,WI,,,174,,28,20,,,0,0,05/13/2020,
+Wyoming,WY,14,,22,,1,0,,,0,0,05/14/2020,
+Federal,US,,,,,548,4365,,,0,52,05/13/2020,
+Alabama,AL,,,102,,17,8,,,0,1,05/06/2020,
+Alaska,AK,,,235,,8,1,,,0,0,05/06/2020,
+Arizona,AZ,,,277,,52,69,,,0,5,05/06/2020,
+Arkansas,AR,,,,,127,944,,,0,5,05/07/2020,
+California,CA,,,1551,,169,398,,,0,1,05/06/2020,
+Colorado,CO,,,1067,,25,310,,,0,1,05/07/2020,
+Connecticut,CT,,,,,358,478,,,0,6,05/06/2020,
+Delaware,DE,301,,267,,64,125,,,0,3,05/07/2020,
+Florida,FL,,,805,,180,393,,,0,7,05/06/2020,
+Georgia,GA,,,,,100,316,,,1,10,05/06/2020,
+Hawaii,HI,,,20,,0,0,,,0,0,05/06/2020,
+Idaho,ID,68,,47,,5,0,,,0,0,05/05/2020,"Idaho's numbers have not included staff cases at 2 private prisons, one in the state (CAPP facility, operated by MTC) and Eagle Pass Correctional Facility in Texas."
+Illinois,IL,,,600,,157,176,,,0,12,05/06/2020,
+Indiana,IN,889,,844,,234,500,,,2,13,05/06/2020,
+Iowa,IA,,,433,,11,21,,,0,0,05/06/2020,
+Kansas,KS,,,,,96,615,,,0,3,05/06/2020,
+Kentucky,KY,,,,,51,340,,,0,2,05/06/2020,
+Louisiana,LA,,,,,120,338,,,3,4,05/06/2020,
+Maine,ME,,,23,,1,0,,,0,0,05/06/2020,
+Maryland,MD,,,,,183,61,,,0,2,05/04/2020,
+Massachusetts,MA,,,1906,,151,351,,,0,7,05/06/2020,
+Michigan,MI,,,8113,,293,2073,,,2,47,05/06/2020,
+Minnesota,MN,,,428,,43,83,,,0,0,05/06/2020,
+Mississippi,MS,43,,37,,7,4,,,0,1,05/05/2020,
+Missouri,MO,,,380,,20,32,,,0,1,05/06/2020,
+Montana,MT,,,,,3,2,,,0,0,05/06/2020,
+Nebraska,NE,,,,,5,0,,,0,0,05/06/2020,Staff deaths backfilled from 5/13 update.
+Nevada,NV,,,49,,16,0,,,0,0,05/06/2020,
+New Hampshire,NH,,,13,,11,0,,,0,0,05/06/2020,
+New Jersey,NJ,,,276,,575,215,,,2,38,05/06/2020,Staff deaths are from media reports
+New Mexico,NM,64,,14,,4,0,,,0,0,05/06/2020,
+New York,NY,,,619,,1143,415,,,4,15,05/06/2020,
+North Carolina,NC,250,,1234,,29,627,,,0,4,05/06/2020,Staff numbers only from Neuse CI
+North Dakota,ND,116,,32,,3,0,,,0,0,05/01/2020,
+Ohio,OH,,,6922,,483,4312,,,2,42,05/06/2020,
+Oklahoma,OK,,,1034,,9,2,,,0,0,05/06/2020,
+Oregon,OR,,,243,,21,44,,,0,0,05/06/2020,
+Pennsylvania,PA,411,,327,,127,143,,,0,3,05/06/2020,
+Rhode Island,RI,200,,110,,11,4,,,0,0,05/06/2020,
+South Carolina,SC,,,,,56,42,,,1,2,05/06/2020,
+South Dakota,SD,46,,82,,3,2,,,0,0,05/06/2020,South Dakota initially reported 4 self-reported positives among staff on this day and later changed it to 3.
+Tennessee,TN,,,,5962,55,1959,,,0,1,05/05/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
+Texas,TX,2379,,2134,,504,1336,,,5,23,05/06/2020,
+Utah,UT,,,101,,4,10,,,0,0,05/06/2020,
+Vermont,VT,154,,,384,19,45,,,0,0,05/06/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
+Virginia,VA,,,,,65,580,,,0,3,05/06/2020,
+Washington,WA,,,350,,35,24,,,0,0,05/06/2020,
+West Virginia,WV,,,34,,1,0,,,0,0,05/06/2020,
+Wisconsin,WI,,,155,,23,20,,,0,0,05/06/2020,
+Wyoming,WY,12,,19,,1,0,,,0,0,05/08/2020,
+Federal,US,,,,,514,2701,,,0,42,05/06/2020,
+Alabama,AL,,,78,,13,4,,,0,1,04/28/2020,
+Alaska,AK,,,211,,,1,,,0,0,04/29/2020,Deaths backfilled from 5/6 update
+Arizona,AZ,,,210,,,50,,,0,2,04/29/2020,"Inmate deaths come from medical examiner, per several news stories. ADC will not confirm. Staff deaths backfilled from 5/6 update."
+Arkansas,AR,,647,,1855,95,923,,,0,0,04/28/2020,27 inmate tests with results pending and 25 for staff. The number of tests conducted may include multiple tests for a single prisoner or staff member. It does not represent the unique number of prisoners or staff people tested. So we've moved these figures into the Prisoner_tests_with_multiples and Staff_tests_with_multiples columns.
+California,CA,,,1220,,137,205,,,0,1,04/29/2020,
+Colorado,CO,,,518,,18,256,,,0,0,04/30/2020,479 tests and 247 cases at Sterling facility due to mass testing. The jump from last week is because of mass testing at Sterling.
+Connecticut,CT,,,,,326,417,,,0,3,04/29/2020,Staff deaths backfilled from 5/6 update.
+Delaware,DE,,,200,,38,67,,,0,3,04/28/2020,
+Florida,FL,,,447,,143,202,,,0,5,04/29/2020,
+Georgia,GA,,,,,86,228,,,1,8,04/29/2020,
+Hawaii,HI,,,16,,0,0,,,0,0,04/29/2020,
+Idaho,ID,62,,34,,4,0,,,0,0,04/29/2020,Another 6 tested in Texas.
+Illinois,IL,,,,,149,155,,,0,10,04/29/2020,
+Indiana,IN,,,,,159,334,,,2,7,04/29/2020,
+Iowa,IA,,,277,,5,15,,,0,0,04/29/2020,
+Kansas,KS,,,,,79,81,,,0,2,04/29/2020,
+Kentucky,KY,,,,,30,47,,,0,2,04/29/2020,
+Louisiana,LA,,,,,104,273,,,3,3,04/29/2020,
+Maine,ME,,,23,,1,0,,,0,0,04/29/2020,23 inmate tests includes 22 adults and 1 juvenile (same as last week) / 1 positive staff member was a contractor from Wellpath and has since recovered and returned to work.
+Maryland,MD,,,,,174,52,,,0,2,04/29/2020,
+Massachusetts,MA,,,747,,120,257,,,0,7,04/29/2020,
+Michigan,MI,,,3117,,268,1412,,,2,41,04/29/2020,
+Minnesota,MN,,,334,,39,79,,,0,0,04/29/2020,
+Mississippi,MS,,,27,,4,4,,,0,1,04/27/2020,Staff deaths backfilled from 5/6 update.
+Missouri,MO,,,185,,13,30,,,0,1,04/29/2020,"6 (prison staff), 7 (non prison staff)"
+Montana,MT,,,27,,3,2,,,0,0,04/29/2020,Both prisoner cases are in halfway houses
+Nebraska,NE,,,,,3,0,,,0,0,04/28/2020,Based on news accounts.
+Nevada,NV,,,39,,9,0,,,0,0,04/29/2020,
+New Hampshire,NH,,,10,,11,0,,,0,0,04/29/2020,
+New Jersey,NJ,,,196,,518,153,,,2,29,04/29/2020,Staff deaths based on media reports.
+New Mexico,NM,32,,8,,1,0,,,0,0,04/30/2020,
+New York,NY,,,553,,1045,370,,,2,10,04/29/2020,Plus another 45 parolees infected and 4 killed.
+North Carolina,NC,250,,1143,,29,596,,,0,2,04/29/2020,Staff numbers are for Neuse prison only
+North Dakota,ND,,,32,,2,0,,,0,0,04/27/2020,Staff deaths backfilled from 5/6 update.
+Ohio,OH,,,5676,,419,3890,,,2,29,04/29/2020,
+Oklahoma,OK,,,702,,9,2,,,0,0,04/28/2020,
+Oregon,OR,,,117,,15,21,,,0,0,04/29/2020,
+Pennsylvania,PA,336,,148,,90,47,,,0,3,04/29/2020,
+Rhode Island,RI,77,,108,,10,3,,,0,0,04/30/2020,"1(former inmate tested during quarantine) 2(new commitments, one is no longer with us. The other is still in our custody)"
+South Carolina,SC,,,,,45,15,,,1,0,04/28/2020,
+South Dakota,SD,36,,74,,2,2,,,0,0,04/29/2020,
+Tennessee,TN,,,,3834,,759,,,0,0,04/29/2020,"Staff deaths backfilled from 5/6 update. Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
+Texas,TX,1795,,1697,,381,1050,,,5,12,04/29/2020,
+Utah,UT,,,95,,2,10,,,0,0,04/29/2020,
+Vermont,VT,,,,378,18,38,,,0,0,04/29/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
+Virginia,VA,,,,,65,479,,,0,3,04/29/2020,
+Washington,WA,,,323,,32,18,,,0,0,04/29/2020,
+West Virginia,WV,,,30,,1,0,,,0,0,04/29/2020,
+Wisconsin,WI,,,137,,18,18,,,0,0,04/29/2020,
+Wyoming,WY,10,,15,,1,0,,,0,0,04/29/2020,
+Federal,US,,,,,475,1979,,,0,31,04/29/2020,
+Alabama,AL,,,63,,8,4,,,0,1,04/21/2020,
+Alaska,AK,,,57,,8,0,,,0,0,04/22/2020,
+Arizona,AZ,,,172,,,35,,,0,,04/22/2020,Staff deaths backfilled from 5/6 update.
+Arkansas,AR,,,,1124,25,731,,,0,0,04/21/2020,"Includes current positive cases, but not all patients who have recovered. They tested all inmates and staff at three facilities with known outbreaks/exposure. The number of tests conducted may include multiple tests for a single prisoner or staff member. It does not represent the unique number of prisoners or staff people tested. So we've moved these figures into the Prisoner_tests_with_multiples column."
+California,CA,,,676,,97,135,,,0,1,04/22/2020,
+Colorado,CO,,,36,,9,9,,,0,0,04/21/2020,
+Connecticut,CT,,,,,244,321,,,0,1,04/22/2020,
+Delaware,DE,,,136,,26,41,,,0,1,04/22/2020,
+Florida,FL,,,387,,102,136,,,0,4,04/22/2020,
+Georgia,GA,,,,,77,155,,,1,4,04/22/2020,
+Hawaii,HI,,,14,,0,0,,,0,0,04/22/2020,
+Idaho,ID,51,,27,,3,0,,,0,0,04/21/2020,
+Illinois,IL,,,,,139,148,,,0,10,04/22/2020,
+Indiana,IN,,,,,101,238,,,0,3,04/22/2020,
+Iowa,IA,,,182,,3,12,,,0,0,04/22/2020,
+Kansas,KS,,,,,61,52,,,0,0,04/22/2020,
+Kentucky,KY,,,,,15,19,,,0,1,04/22/2020,
+Louisiana,LA,,,,,78,120,,,3,2,04/22/2020,
+Maine,ME,,,17,,1,0,,,0,0,04/22/2020,
+Maryland,MD,,,,,135,45,,,0,1,04/22/2020,COs are 127 only.
+Massachusetts,MA,,,296,,93,127,,,0,7,04/22/2020,
+Michigan,MI,,,1089,,230,717,,,2,25,04/22/2020,
+Minnesota,MN,,,183,,,29,,,0,0,04/22/2020,
+Mississippi,MS,,,20,,3,4,,,0,1,04/17/2020,relying on news reports. this one was published 4/17: https://www.clarionledger.com/story/news/2020/04/17/more-mississippi-inmates-tested-positive-covid-19/5151359002/ There were 3 staff cases as of 4/15. Staff deaths backfilled from 5/6 update.
+Missouri,MO,,,66,,13,4,,,0,1,04/22/2020,"6 prison staff, 7 non prison staff"
+Montana,MT,,,5,,2,2,,,0,0,04/22/2020,
+Nebraska,NE,,,,,1,0,,,0,0,04/20/2020,
+Nevada,NV,,,,,7,0,,,0,0,04/22/2020,
+New Hampshire,NH,,,7,,11,0,,,0,0,04/22/2020,
+New Jersey,NJ,,,128,,427,101,,,2,16,04/22/2020,92 at prisons plus another 9 at halfway houses
+New Mexico,NM,7,,5,,0,0,,,0,0,04/22/2020,
+New York,NY,,,391,,844,239,,,2,6,04/22/2020,Another 35 parolee cases and 4 deaths
+North Carolina,NC,,,723,,,507,,,0,1,04/22/2020,"Prisoner test numbers are low. We were able to get health department figures for Neuse, one hotspot, instead of DOC figures for that facility."
+North Dakota,ND,,,30,,2,0,,,0,0,04/22/2020,"Only conducted resident tests so far, staff tested at the clinic."
+Ohio,OH,,,5196,,331,3792,,,1,14,04/22/2020,These tests are only completed. They aren't reporting total tested or pending results yet.
+Oklahoma,OK,,,458,,9,1,,,0,0,04/21/2020,Staff numbers are self-reported
+Oregon,OR,,,,,10,7,,,0,0,04/22/2020,
+Pennsylvania,PA,210,,97,,54,29,,,0,1,04/22/2020,
+Rhode Island,RI,,,103,,6,1,,,0,0,04/22/2020,the 1 case is someone awaiting trial. This is a joint system
+South Carolina,SC,,,,,36,2,,,1,0,04/22/2020,
+South Dakota,SD,,,,,,2,,,0,0,04/23/2020,Staff deaths backfilled from 4/29 update.
+Tennessee,TN,,,,3239,35,211,,,0,0,04/22/2020,"Prisoner test numbers are total number of tests conducted, not individuals tested."
+Texas,TX,1299,,1053,,252,594,,,2,5,04/22/2020,
+Utah,UT,,,79,,2,10,,,0,0,04/22/2020,All 10 cases (and 66 tests) are in halfway houses
+Vermont,VT,,,,221,18,38,,,0,0,04/22/2020,Prisoner tests total may included multiple tests of the same prisoners. So we've moved these figures into the Prisoner_tests_with_multiples column. 27 inmate tests with results pending and 25 for staff.
+Virginia,VA,,,,,57,236,,,0,1,04/22/2020,
+Washington,WA,,,303,,24,13,,,0,0,04/22/2020,Deaths backfilled from 4/29 update.
+West Virginia,WV,,,,,,0,,,0,0,04/22/2020,
+Wisconsin,WI,,,117,,16,13,,,0,0,04/22/2020,
+Wyoming,WY,10,,14,,1,0,,,0,0,04/22/2020,
+Federal,US,,,,,394,838,,,0,24,04/22/2020,Total cases now include recovered patients. 2 staff deaths have been reported in media but not confirmed by BOP
+Alabama,AL,,,50,,6,0,,,0,0,04/13/2020,
+Alaska,AK,,,32,,7,0,,,0,0,04/15/2020,
+Arizona,AZ,,,91,,,17,,,0,,04/15/2020,Staff deaths backfilled from 5/6 update.
+Arkansas,AR,,,,,35,61,,,0,0,04/14/2020,"Includes current positive cases, but not all patients who have recovered."
+California,CA,,,593,,81,69,,,0,0,04/15/2020,
+Colorado,CO,,,27,,8,3,,,0,0,04/15/2020,
+Connecticut,CT,,,,,139,199,,,0,1,04/15/2020,
+Delaware,DE,,,,,18,13,,,0,0,04/15/2020,
+Florida,FL,,,292,,58,42,,,0,2,04/15/2020,Staff deaths backfilled from 4/22 update.
+Georgia,GA,,,,,59,67,,,1,3,04/15/2020,
+Hawaii,HI,,,5,,0,0,,,0,0,04/15/2020,
+Idaho,ID,41,,24,,2,0,,,0,0,04/15/2020,"Does not include 6 tested in Texas, 0 positive"
+Illinois,IL,,,,,124,146,,,0,8,04/16/2020,
+Indiana,IN,,,,,55,34,,,0,1,04/15/2020,
+Iowa,IA,,,59,,1,0,,,0,0,04/15/2020,
+Kansas,KS,,,,,24,21,,,0,0,04/15/2020,
+Kentucky,KY,81,,44,,13,18,,,0,0,04/15/2020,"Three prisoners have died in the past two weeks, but Kentucky didn't test them."
+Louisiana,LA,,,,,55,65,,,1,0,04/15/2020,
+Maine,ME,,,17,,1,0,,,0,0,04/15/2020,
+Maryland,MD,,,,,75,18,,,0,1,04/13/2020,Staff is for all staff. COs only are 47.
+Massachusetts,MA,,,,,42,90,,,0,4,04/15/2020,
+Michigan,MI,,,748,,181,481,,,2,13,04/15/2020,
+Minnesota,MN,,,56,,,15,,,0,0,04/15/2020,
+Mississippi,MS,,,9,,3,1,,,0,1,04/13/2020,Staff deaths backfilled from 5/6 update.
+Missouri,MO,,,49,,4,1,,,0,1,04/15/2020,
+Montana,MT,,,,,2,2,,,0,0,04/15/2020,Backfilled deaths based on 4/22 answers
+Nebraska,NE,,,,,1,0,,,0,0,04/16/2020,
+Nevada,NV,,,,,6,0,,,0,0,04/16/2020,
+New Hampshire,NH,,,6,,3,0,,,0,0,04/15/2020,
+New Jersey,NJ,,,,,266,50,,,1,5,04/15/2020,
+New Mexico,NM,7,,5,,0,0,,,0,0,04/20/2020,
+New York,NY,,,,,664,160,,,1,5,04/15/2020,The department also provides parolee deaths and today they clarified those deaths include two in custody in local jails and two who were not in custody anywhere.
+North Carolina,NC,,,183,,,46,,,0,0,04/15/2020,
+North Dakota,ND,,,28,,2,0,,,0,0,04/15/2020,
+Ohio,OH,,,1157,,159,273,,,1,3,04/15/2020,
+Oklahoma,OK,,,309,,8,1,,,0,0,04/15/2020,
+Oregon,OR,,,,,10,5,,,0,0,04/15/2020,
+Pennsylvania,PA,129,,70,,24,17,,,0,1,04/15/2020,
+Rhode Island,RI,,,16,,5,0,,,0,0,04/15/2020,
+South Carolina,SC,,,,,29,0,,,1,0,04/15/2020,
+South Dakota,SD,,,,,,2,,,0,0,04/15/2020,Staff deaths backfilled from 4/29 update.
+Tennessee,TN,,,69,,0,7,,,0,0,04/15/2020,
+Texas,TX,940,,524,,137,284,,,1,4,04/15/2020,
+Utah,UT,,,,,,9,,,0,0,04/15/2020,"Cases have all been at a ""community correctional"" facility (a halfway house). Prisoner deaths backfilled based on 4/22 response"
+Vermont,VT,,,,206,18,33,,,0,0,04/14/2020,Prisoner tests total may included multiple tests of the same prisoners. So we've moved this figure into the prisoner_tests_with_multiples column.
+Virginia,VA,,,,,34,53,,,0,1,04/15/2020,
+Washington,WA,,,257,,14,11,,,0,0,04/15/2020,
+West Virginia,WV,,,,,0,0,,,0,0,04/15/2020,
+Wisconsin,WI,,,96,,14,10,,,0,0,04/15/2020,Staff information is self-reported
+Wyoming,WY,8,,14,,1,0,,,0,0,04/15/2020,"8 staff have reported testing. However, we're only tracking staff tests if the staff are out sick and are using special leave time granted by the Governor. We have not mandated that anyone be tested, and our contract medical staff does not conduct tests on staff. So the information we have is only based on self-reporting. There could be additional staff who have tested that we don't know about."
+Federal,US,,,,,283,509,,,0,18,04/15/2020,Total cases have been updated to include recovered patients.
+Alabama,AL,,,30,,,0,,,0,0,04/06/2020,
+Alaska,AK,,,15,,,0,,,,0,04/08/2020,
+Arizona,AZ,,,68,,,2,,,,,04/09/2020,"8 inmate tests are still pending, per ADC media"
+Arkansas,AR,,,,,7,0,,,0,0,04/07/2020,"Includes current positive cases, but not all patients who have recovered."
+California,CA,,,421,,62,25,,,0,0,04/08/2020,
+Colorado,CO,,,22,,6,1,,,0,0,04/09/2020,
+Connecticut,CT,,,124,,52,46,,,0,0,04/07/2020,
+Delaware,DE,,,,,6,2,,,0,0,04/08/2020,
+Florida,FL,,,,,40,5,,,0,0,04/08/2020,
+Georgia,GA,,,,,40,42,,,0,2,04/09/2020,
+Hawaii,HI,,,2,,,0,,,,0,04/08/2020,
+Idaho,ID,24,,21,,2,0,,,0,0,04/08/2020,
+Illinois,IL,,,,,79,112,,,,2,04/08/2020,
+Indiana,IN,,,,,20,10,,,0,0,04/08/2020,
+Iowa,IA,,,23,,0,0,,,0,0,04/08/2020,Staff cases based on self-reporting
+Kansas,KS,,,,,14,12,,,0,0,04/09/2020,
+Kentucky,KY,,,,,5,9,,,0,0,04/09/2020,
+Louisiana,LA,,,,,32,33,,,0,0,04/08/2020,
+Maine,ME,,,15,,1,0,,,0,0,04/08/2020,
+Maryland,MD,,,,,47,10,,,0,0,04/09/2020,All staff are 47. COs only is 22.
+Massachusetts,MA,,,,,26,46,,,0,3,04/08/2020,
+Michigan,MI,,,460,,137,305,,,2,2,04/08/2020,
+Minnesota,MN,,,40,,,9,,,0,0,04/07/2020,
+Mississippi,MS,,,,,,,,,0,,04/08/2020,Staff deaths backfilled from 5/6 update.
+Missouri,MO,,,41,,0,1,,,0,1,04/08/2020,
+Montana,MT,,,,,2,1,,,0,0,04/08/2020,back-filled data based on 4/22 answers
+Nebraska,NE,,,,,1,0,,,0,0,04/09/2020,
+Nevada,NV,,,,,,0,,,0,0,04/08/2020,
+New Hampshire,NH,15,,4,,1,0,,,0,0,04/08/2020,
+New Jersey,NJ,,,25,,110,18,,,,,04/08/2020,
+New Mexico,NM,6,,4,,0,0,,,0,0,04/08/2020,
+New York,NY,,,176,,381,62,,,1,2,04/08/2020,
+North Carolina,NC,,,160,,,12,,,0,0,04/08/2020,
+North Dakota,ND,,,20,,,0,,,0,0,04/07/2020,Staff deaths backfilled based on 4/15 responses
+Ohio,OH,,,84,,53,19,,,1,0,04/08/2020,
+Oklahoma,OK,,,,,5,1,,,0,0,04/09/2020,
+Oregon,OR,,,,,5,3,,,0,0,04/08/2020,
+Pennsylvania,PA,89,,42,,16,7,,,0,0,04/08/2020,
+Rhode Island,RI,,,10,,3,0,,,0,0,04/08/2020,
+South Carolina,SC,,,,,21,0,,,0,0,04/07/2020,
+South Dakota,SD,,,,,,1,,,,0,04/08/2020,
+Tennessee,TN,,,,,0,1,,,0,0,04/09/2020,
+Texas,TX,405,,234,,51,47,,,1,1,04/08/2020,
+Utah,UT,,,,,,2,,,0,0,04/08/2020,Both cases in halfway-house style facilities.
+Vermont,VT,,,,200,4,1,,,0,0,04/09/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we have moved this figure to the prisoner_tests_with_multiples column."
+Virginia,VA,,,,,21,21,,,0,0,04/09/2020,
+Washington,WA,,,221,,14,7,,,0,0,04/08/2020,"Includes headquarters, work release, etc"
+West Virginia,WV,,,,,0,0,,,0,0,04/08/2020,
+Wisconsin,WI,,,91,,11,4,,,0,0,04/08/2020,
+Wyoming,WY,1,,0,,0,0,,,0,0,04/08/2020,
+Federal,US,,,,,92,275,,,0,8,04/08/2020,
+Alabama,AL,,,17,,2,0,,,0,0,03/31/2020,
+Alaska,AK,,,10,,0,0,,,0,0,04/01/2020,
+Arizona,AZ,,,34,,,0,,,0,0,04/01/2020,
+Arkansas,AR,,,1,,1,0,,,0,0,04/01/2020,"Staffer who tested positive works on farm division, no close, direct contact with inmates"
+California,CA,,,266,,27,8,,,0,0,04/01/2020,
+Colorado,CO,,,17,,3,0,,,0,0,04/02/2020,
+Connecticut,CT,,,37,,3,2,,,0,0,04/01/2020,
+Delaware,DE,,,5,,0,0,,,0,0,04/01/2020,
+Florida,FL,,,,,12,0,,,0,0,04/01/2020,
+Georgia,GA,,,,,12,11,,,0,1,04/01/2020,
+Hawaii,HI,,,,,0,0,,,0,0,04/01/2020,
+Idaho,ID,10,,14,,0,0,,,0,0,04/01/2020,3 tests still pending
+Illinois,IL,,,239,,25,52,,,0,1,04/01/2020,
+Indiana,IN,,,,,,5,,,0,0,04/01/2020,
+Iowa,IA,,,15,,0,0,,,0,0,04/01/2020,1 test still pending
+Kansas,KS,,,0,,3,0,,,0,0,04/01/2020,Inmates have not been tested yet b/c none presenting with symptoms
+Kentucky,KY,,,,,,,,,,,04/01/2020,
+Louisiana,LA,,,,,5,14,,,0,0,04/01/2020,
+Maine,ME,,,11,,,0,,,0,0,04/01/2020,
+Maryland,MD,,,,,14,3,,,0,0,04/03/2020,
+Massachusetts,MA,,,,,7,20,,,0,0,04/01/2020,
+Michigan,MI,,,,,25,122,,,1,1,04/01/2020,
+Minnesota,MN,,,28,,1,3,,,0,0,04/01/2020,
+Mississippi,MS,,,,,3,0,,,0,0,04/06/2020,"according to this story from 4/6. At a press conference the commissioner cofirmed some numbers, which are currently 3 positive staff and 0 positive inmates, true as of 4/6: https://www.clarionledger.com/story/news/2020/04/06/two-mississippi-prison-system-employees-test-positive-coronavirus/5117825002/"
+Missouri,MO,,,27,,0,1,,,0,0,04/01/2020,
+Montana,MT,,,,,,,,,0,0,04/01/2020,back-filled data based on 4/22 responses
+Nebraska,NE,,,,,,,,,,,04/01/2020,
+Nevada,NV,,,,,2,0,,,0,0,04/01/2020,
+New Hampshire,NH,,,3,,0,0,,,0,0,04/01/2020,
+New Jersey,NJ,,,8,,26,0,,,0,0,04/01/2020,
+New Mexico,NM,,,,,0,0,,,0,0,04/01/2020,
+New York,NY,,,74,,147,20,,,1,1,04/01/2020,
+North Carolina,NC,,,101,,,1,,,0,0,04/01/2020,
+North Dakota,ND,,,17,,,0,,,0,0,04/01/2020,
+Ohio,OH,,,25,,,0,,,0,0,04/01/2020,
+Oklahoma,OK,,,8,,0,0,,,0,0,04/01/2020,staff have to go to own medical provider for test
+Oregon,OR,,,14,,1,0,,,0,0,04/01/2020,
+Pennsylvania,PA,51,,29,,8,2,,,0,0,04/01/2020,staff numbers are self reported.
+Rhode Island,RI,,,5,,2,0,,,0,0,04/01/2020,
+South Carolina,SC,,,,,10,0,,,0,0,04/01/2020,
+South Dakota,SD,,,,,,1,,,,0,04/01/2020,
+Tennessee,TN,,,,,0,0,,,0,0,04/01/2020,
+Texas,TX,,,59,,13,3,,,0,0,04/01/2020,
+Utah,UT,,,,,,,,,0,0,04/01/2020,
+Vermont,VT,,,,2,2,0,,,0,0,04/02/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we have moved this figure to the prisoner_tests_with_multiples column."
+Virginia,VA,,,,,4,3,,,0,0,04/01/2020,
+Washington,WA,,,131,,8,1,,,0,0,04/01/2020,staff cases including work release & community centers.
+West Virginia,WV,,,,,0,0,,,0,0,04/01/2020,
+Wisconsin,WI,,,,,9,0,,,0,0,04/01/2020,Staff cases include 3 in community corrections.
+Wyoming,WY,1,,0,,0,0,,,0,0,04/01/2020,
+Federal,US,,,,,37,60,,,0,3,04/01/2020,
+Alabama,AL,,,,,1,0,,,0,0,03/26/2020,
+Alaska,AK,,,4,,0,0,,,0,0,03/26/2020,"2 negative tests, 2 pending"
+Arizona,AZ,,,15,,,0,,,0,0,03/26/2020,Six of those tests have come back negative for the virus. The remaining 9 test results are currently pending.
+Arkansas,AR,0,,0,,0,0,,,0,0,03/26/2020,
+California,CA,,,166,,9,1,,,0,0,03/26/2020,
+Colorado,CO,,,,,1,0,,,0,0,03/26/2020,
+Connecticut,CT,,,,,,,,,0,0,03/27/2020,
+Delaware,DE,,,4,,0,0,,,0,0,03/24/2020,
+Florida,FL,,,,,7,0,,,0,0,03/27/2020,
+Georgia,GA,,,,,,4,,,0,1,03/26/2020,
+Hawaii,HI,,,,,0,0,,,0,0,03/26/2020,
+Idaho,ID,2,,10,,0,0,,,0,0,03/26/2020,"2 pending staff tests (""that we know of""), 2 pending prisoner tests, 8 negative prisoner tests"
+Illinois,IL,,,13,,3,3,,,0,0,03/25/2020,
+Indiana,IN,,,,,,0,,,0,0,03/26/2020,
+Iowa,IA,,,,,0,0,,,0,0,03/26/2020,
+Kansas,KS,,,0,,0,0,,,0,0,03/26/2020,
+Kentucky,KY,,,,,,,,,,,03/26/2020,
+Louisiana,LA,,,32,,2,0,,,0,0,03/26/2020,
+Maine,ME,,,,,,0,,,0,0,03/26/2020,
+Maryland,MD,,,,,,0,,,0,0,03/26/2020,
+Massachusetts,MA,,,,,4,9,,,0,0,03/26/2020,
+Michigan,MI,,,,,,24,,,0,0,03/26/2020,
+Minnesota,MN,0,,0,,0,0,,,0,0,03/26/2020,
+Mississippi,MS,,,,,,0,,,0,0,03/26/2020,
+Missouri,MO,,,10,,0,1,,,0,0,03/26/2020,"0 prison staff, 1 probation/parole staff"
+Montana,MT,,,,,,,,,0,0,03/26/2020,back-filled data based on 4/22 responses
+Nebraska,NE,,,,,,,,,0,0,03/26/2020,
+Nevada,NV,,,,,1,0,,,0,0,03/26/2020,
+New Hampshire,NH,,,3,,0,0,,,0,0,03/26/2020,
+New Jersey,NJ,,,,,4,0,,,0,0,03/26/2020,
+New Mexico,NM,0,,1,,0,0,,,0,0,03/26/2020,
+New York,NY,,,28,,40,3,,,0,0,03/26/2020,"13 tests pending, 12 negative, 3 positive."
+North Carolina,NC,,,,,0,0,,,0,0,03/26/2020,
+North Dakota,ND,,,12,,1,0,,,0,0,03/26/2020,
+Ohio,OH,,,17,,,0,,,0,0,03/26/2020,
+Oklahoma,OK,,,,,0,0,,,0,0,03/26/2020,
+Oregon,OR,,,1,,0,0,,,0,0,03/26/2020,
+Pennsylvania,PA,,,,,,0,,,0,0,03/26/2020,
+Rhode Island,RI,,,3,,0,0,,,0,0,03/26/2020,
+South Carolina,SC,,,,,0,0,,,0,0,03/26/2020,
+South Dakota,SD,,,,,,1,,,,0,03/26/2020,
+Tennessee,TN,0,,0,,0,0,,,0,0,03/26/2020,
+Texas,TX,,,25,,2,1,,,0,0,03/26/2020,"25 tested = 15 pending, 1 positive, 9 negative."
+Utah,UT,,,,,,0,,,0,0,03/26/2020,
+Vermont,VT,,,,,,0,,,0,0,03/26/2020,
+Virginia,VA,,,2,,0,0,,,0,0,03/26/2020,
+Washington,WA,,,71,,4,0,,,0,0,03/26/2020,
+West Virginia,WV,,,,,0,0,,,0,0,03/26/2020,back-filled data based on 4/1 responses
+Wisconsin,WI,,,,,5,0,,,0,0,03/26/2020,staff cases include those in adult institution + community corrections
+Wyoming,WY,0,,0,,0,0,,,0,0,03/26/2020,
+Federal,US,,,,,8,10,,,0,0,03/26/2020,
