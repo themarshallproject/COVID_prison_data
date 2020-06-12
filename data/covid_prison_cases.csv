@@ -1,8 +1,59 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
-Alabama,AL,68,,176,,68,19,17,8,0,1,06/01/2020,
+Alabama,AL,,,220,,102,27,27,8,0,2,06/09/2020,
+Alaska,AK,,,572,,11,2,11,2,0,0,06/09/2020,
+Arizona,AZ,,,2013,,111,242,78,108,1,7,06/09/2020,"DOC confirmed staffer's death but wouldn't release the cause, which multiple news outlets report it was covid-19: https://www.abc15.com/news/local-news/investigations/sources-death-of-an-arizona-department-of-corrections-staffer-due-to-covid-19"
+Arkansas,AR,894,,4392,,135,1336,116,1234,1,11,06/09/2020,
+California,CA,,,21441,,459,3028,217,577,2,12,06/09/2020,
+Colorado,CO,,,,,,,,,,,06/02/2020,No data released this week.
+Connecticut,CT,,,,,,,,,,,06/02/2020,
+Delaware,DE,,,299,,,148,,140,,8,06/11/2020,
+Florida,FL,,,15409,,294,1590,,,0,17,06/09/2020,
+Georgia,GA,,,,,178,473,124,324,1,19,06/09/2020,
+Hawaii,HI,,,40,,0,0,0,0,0,0,06/09/2020,
+Idaho,ID,84,,65,65,5,0,5,0,0,0,06/09/2020,
+Illinois,IL,,,900,,178,231,160,213,0,13,06/09/2020,
+Indiana,IN,1275,,1466,,316,692,279,609,2,19,06/09/2020,
+Iowa,IA,,,1601,,18,30,17,23,0,0,06/09/2020,
+Kansas,KS,,,,2697,115,891,68,858,2,4,06/08/2020,
+Kentucky,KY,,,,,57,367,44,284,0,2,06/09/2020,
+Louisiana,LA,,,,,165,606,105,312,3,15,06/09/2020,
+Maine,ME,,,957,,1,4,1,4,0,0,06/09/2020,
+Maryland,MD,3719,,6437,,400,234,230,51,1,8,06/08/2020,
+Massachusetts,MA,,,7761,,165,390,158,359,0,8,06/09/2020,
+Michigan,MI,1946,,37997,,370,3948,308,2236,2,68,06/09/2020,
+Minnesota,MN,,,4063,,57,200,56,,0,0,06/09/2020,
+Mississippi,MS,141,,79,,27,33,,,,1,06/09/2020,Prisoner deaths based on past weeks.
+Missouri,MO,,,3294,,35,50,12,28,0,1,06/09/2020,
+Montana,MT,119,,316,,3,2,,,0,0,06/09/2020,
+Nebraska,NE,,,,,,,,,,,,
+Nevada,NV,571,,5001,,28,7,,,0,0,06/09/2020,
+New Hampshire,NH,,,24,,11,1,11,,0,0,06/09/2020,
+New Jersey,NJ,7146,,,,778,2451,,,3,46,06/09/2020,
+New Mexico,NM,2528,,3144,,11,224,4,17,0,2,06/09/2020,
+New York,NY,,,1280,,1284,512,1217,468,4,16,06/09/2020,
+North Carolina,NC,250,,1955,,152,691,126,624,1,5,06/09/2020,"Staff tests are based on testing information from one facility, Neuse, in May. NC has not updated the figures since."
+North Dakota,ND,1091,,1281,,4,5,4,5,0,0,06/09/2020,
+Ohio,OH,,,11537,,731,4858,589,4133,4,76,06/10/2020,The number of prisoners recovered dropped. A spokeswoman said it's a snapshot in time and some may have been released since last week. We're trying to get a cumulative total figure. The prisoner deaths tally does NOT include an additional prisoner death that is considered 'likely' covid but not confirmed.
+Oklahoma,OK,,,1893,,14,2,,1,0,0,06/08/2020,
+Oregon,OR,,,624,,47,167,29,123,0,1,06/08/2020,
+Pennsylvania,PA,836,,3578,,185,258,127,196,1,9,06/09/2020,
+Rhode Island,RI,1194,,1679,,16,21,10,7,0,0,06/10/2020,"The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
+South Carolina,SC,,,402,,83,102,56,68,1,2,06/09/2020,
+South Dakota,SD,55,,109,,4,4,3,3,0,0,06/09/2020,
+Tennessee,TN,4905,,,22840,97,3079,69,2653,0,4,06/09/2020,
+Texas,TX,28705,,96894,,1053,6998,630,2669,7,46,06/09/2020,
+Utah,UT,,,315,,4,14,4,10,0,0,06/09/2020,"The number of prisoners tested jumped from last week because the department is now testing new arrivals, unless they decline, in which case they're quarantined for 2 weeks. All intake happens one day a week, on Wednesdays.The PIO clarified that ""intakes tested"" in their tracker is in fact a subset of ""inmates tested."""
+Vermont,VT,,798,1214,1432,20,48,19,43,0,0,06/09/2020,Number of staff tests is since 5/1. State DOH is working on a records request to provie the total number of staff tests from the beginning ot the pandemic.
+Virginia,VA,,,,19673,,1295,,843,,9,06/09/2020,"We are not reporting staff cases this week, which dropped to 121, as Virginia is only reporting ""active"" cases. We're trying to get an accurate cumulative number."
+Washington,WA,,,540,,69,82,,,1,0,06/09/2020,
+West Virginia,WV,,2648,,3166,9,122,8,116,0,0,06/09/2020,
+Wisconsin,WI,,,7066,,62,260,41,76,0,0,06/09/2020,
+Wyoming,WY,18,,34,,1,0,,0,0,0,06/09/2020,DOC says it is aware of 18 staff tests
+Federal,US,,,,,644,6394,453,4162,1,81,06/09/2020,
+Alabama,AL,,,176,,68,19,17,8,0,1,06/01/2020,
 Alaska,AK,,,519,,11,2,,2,0,0,06/03/2020,
 Arizona,AZ,,,1393,,88,193,62,77,0,7,06/02/2020,
-Arkansas,AR,808,,2721,,135,1253,101,1229,1,9,06/02/2020,Arkansas' number of recovered staff dropped by 1 this week and we're inquiring as to why.
+Arkansas,AR,808,,2721,,135,1253,101,1229,1,9,06/02/2020,
 California,CA,,,15964,,348,2365,165,351,1,11,06/02/2020,
 Colorado,CO,,,3841,,43,621,34,470,0,2,06/02/2020,"Staff case figures are from 6/1, while the DOC ""reformats"" their data."
 Connecticut,CT,,,965,,380,870,359,686,0,7,06/02/2020,Total tests combines the number of current positives with the weekly number of reported negatives.
@@ -13,12 +64,12 @@ Hawaii,HI,,,34,,0,0,0,0,0,0,06/02/2020,
 Idaho,ID,82,,62,,5,0,5,0,0,0,06/02/2020,
 Illinois,IL,,,750,,175,221,152,196,0,13,06/02/2020,
 Indiana,IN,1244,,1447,,311,685,265,548,2,19,06/02/2020,
-Iowa,IA,,,,1437,29,32,11,8,0,0,06/02/2020,
+Iowa,IA,,,,1437,18,24,11,8,0,0,06/02/2020,The case numbers were updated because the recovered cases were inadvertantly counted twice.
 Kansas,KS,450,,,2686,112,879,50,853,2,4,06/02/2020,
 Kentucky,KY,,,,,55,363,40,43,0,2,06/02/2020,
 Louisiana,LA,,,,,158,556,93,110,3,14,06/02/2020,
 Maine,ME,,,952,,1,4,1,0,0,0,06/02/2020,
-Maryland,MD,,,,,320,187,178,51,0,7,06/01/2020,
+Maryland,MD,1624,,1321,,368,186,211,51,0,8,06/02/2020,
 Massachusetts,MA,,,7679,,165,390,158,339,0,8,06/02/2020,
 Michigan,MI,,,37947,,368,3918,238,2068,2,68,06/02/2020,"Michigan revised the number of prisoners tested this week after finding some prisoners were inadvertently counted twice, or the numbers of people in an entire prison were reported rather than the number tested."
 Minnesota,MN,,,2530,,55,125,54,,0,0,06/02/2020,
@@ -29,11 +80,11 @@ Nebraska,NE,,,,,,,,,,,,
 Nevada,NV,,,3425,,23,5,22,0,0,0,06/02/2020,
 New Hampshire,NH,,,21,,11,1,11,0,0,0,06/02/2020,
 New Jersey,NJ,,,,,767,2062,,,3,46,06/02/2020,Staff deaths based on media reporting.
-New Mexico,NM,2295,,,3325,8,164,,0,0,1,06/02/2020,
+New Mexico,NM,2295,,,3325,8,164,3,0,0,1,06/02/2020,
 New York,NY,,,1228,,1280,511,1135,444,4,16,06/02/2020,
 North Carolina,NC,250,,1855,,,683,,615,1,5,06/02/2020,Staff tests from Neuse CI only
 North Dakota,ND,1091,,1281,,4,5,4,4,0,0,06/02/2020,
-Ohio,OH,,,10151,,675,4769,523,4143,4,78,06/02/2020,
+Ohio,OH,,,10151,,675,4769,523,4143,4,76,06/02/2020,
 Oklahoma,OK,,,1700,,14,2,,1,0,0,06/02/2020,
 Oregon,OR,,,611,,46,165,24,101,0,1,06/02/2020,
 Pennsylvania,PA,785,,2916,,178,252,115,182,1,8,06/02/2020,
@@ -44,16 +95,16 @@ Tennessee,TN,4526,,,22123,94,2888,61,2652,0,4,06/03/2020,
 Texas,TX,20180,,62937,,966,6592,470,1550,7,40,06/02/2020,
 Utah,UT,,,211,,4,11,,10,,0,06/02/2020,
 Vermont,VT,,,872,,20,48,19,43,0,0,06/02/2020,
-Virginia,VA,,,,,140,1238,,671,,9,06/02/2020,
+Virginia,VA,,,,,140,1228,,671,,9,06/01/2020,
 Washington,WA,,,494,,49,56,,,1,,06/02/2020,Staff death based on past week's reporting.
 West Virginia,WV,245,,1480,,9,119,8,21,0,0,06/02/2020,Testing for staff will increase in coming weeks because they are testing all facilities.
 Wisconsin,WI,,,5785,,54,258,30,32,0,0,06/02/2020,
-Wyoming,WY,,,,,,,,,,,,
+Wyoming,WY,18,,32,,1,0,,,0,0,06/05/2020,
 Federal,US,,,,,623,5815,448,3788,0,73,06/02/2020,
 Alabama,AL,,,152,,55,11,10,8,0,1,05/26/2020,
 Alaska,AK,,,500,,11,2,,,0,0,05/27/2020,
 Arizona,AZ,,,1071,,75,183,59,52,0,7,05/27/2020,
-Arkansas,AR,,808,,2713,135,1251,102,918,1,8,05/27/2020,
+Arkansas,AR,,808,,2713,135,1251,101,910,1,8,05/27/2020,The number of recovered prisoners and staff were updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,11831,,272,1216,142,272,0,9,05/27/2020,
 Colorado,CO,,,3481,,35,593,34,464,0,2,05/27/2020,
 Connecticut,CT,,,948,,378,853,355,522,0,7,05/28/2020,
@@ -67,7 +118,7 @@ Indiana,IN,1204,,1405,,306,683,224,494,2,18,05/27/2020,
 Iowa,IA,,,1160,,16,23,9,8,0,0,05/27/2020,We updated the number of prisoners who had recovered after Iowa revised its count when one tested positive again.
 Kansas,KS,450,,,2190,112,865,50,852,2,4,05/27/2020,"The state prison spokesman could only provide an estimate of how many staff members have been tested. The estimate was the same as last week,"
 Kentucky,KY,,,,,53,359,40,43,0,2,05/27/2020,
-Louisiana,LA,,,,,149,511,70,38,3,14,05/27/2020,"In recent weeks, Louisiana adjusted their figures upon finding in some instances, they were counting positive tests rather than individuals. This resulted in a drop in The number of reported staff cases this week."
+Louisiana,LA,,,,,149,511,70,38,3,14,05/27/2020,"In recent weeks, Louisiana adjusted their figures upon finding in some instances, they were counting positive tests rather than individuals. This resulted in a drop in the number of reported staff cases this week."
 Maine,ME,,,494,,1,4,1,0,0,0,05/27/2020,
 Maryland,MD,,,,,251,145,157,39,0,6,05/25/2020,
 Massachusetts,MA,,,5724,,165,380,120,281,0,8,05/28/2020,
