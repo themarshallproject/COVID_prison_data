@@ -79,7 +79,7 @@ It includes these columns:
 In stories attribute this data to: “According to an analysis of state prison cases by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system”
 
 ## Contributors
-Many reporters and editors at The Marshall Project contributed to this data, including: Katie Park, Tom Meagher, Weihua Li, Gabe Isman, Cary Aspinwall, Keri Blakinger, Andrew R. Calderón, Maurice Chammah, Eli Hager, Jamiles Lartey, Nicole Lewis, Joseph Neff, Alysia Santo, Beth Schwartzapfel, Christie Thompson, Abbie VanSickle.
+Many reporters and editors at The Marshall Project and The Associated Press contributed to this data, including: Katie Park, Tom Meagher, Weihua Li, Gabe Isman, Cary Aspinwall, Keri Blakinger, Jake Bleiberg, Andrew R. Calderón, Maurice Chammah, Andrew DeMillo, Eli Hager, Jamiles Lartey, Claudia Lauer, Nicole Lewis, Humera Lodhi, Colleen Long, Joseph Neff, Alysia Santo, Beth Schwartzapfel, Damini Sharma, Colleen Slevin, Christie Thompson, Abbie VanSickle, Andrew Welsh-Huggins.
 
 ## Bugs
 If you have questions about the data, please email us at [info+covidtracker@themarshallproject.org](mailto:info+covidtracker@themarshallproject.org) or file a [Github issue](https://github.com/themarshallproject/COVID_prison_data/issues).
