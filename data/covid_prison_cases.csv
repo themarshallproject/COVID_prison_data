@@ -1,6 +1,57 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,,490,,184,97,100,28,2,10,07/07/2020,
+Alaska,AK,,,,1233,11,2,11,2,0,0,07/07/2020,
+Arizona,AZ,,,4092,,303,481,182,250,,13,07/07/2020,
+Arkansas,AR,2305,,7092,,242,2981,184,2309,1,14,07/07/2020,
+California,CA,,,47477,,1119,5372,456,2904,2,29,07/07/2020,
+Colorado,CO,,,4804,,54,631,54,626,0,3,07/07/2020,
+Connecticut,CT,,,10114,,381,1346,377,1333,0,7,07/07/2020,
+Delaware,DE,910,,747,,114,261,87,141,1,7,07/08/2020,
+Florida,FL,,,,24879,651,2514,,,0,26,07/07/2020,
+Georgia,GA,,,,,252,944,168,496,1,23,07/07/2020,
+Hawaii,HI,,,62,,0,0,0,0,0,0,07/07/2020,
+Idaho,ID,,198,806,807,46,131,11,0,0,0,07/07/2020,"Staff tests don't include private CAPP facility or Eagle Pass, TX facility."
+Illinois,IL,,,1100,,203,337,174,263,0,13,07/07/2020,
+Indiana,IN,1367,,2029,,323,726,289,695,2,20,07/07/2020,
+Iowa,IA,,,2722,,33,96,23,30,0,1,07/07/2020,
+Kansas,KS,,,,2728,122,910,112,906,2,4,07/10/2020,
+Kentucky,KY,,,,,72,528,,,0,2,07/07/2020,
+Louisiana,LA,,,,,216,641,162,568,3,16,07/07/2020,
+Maine,ME,,,1100,,1,4,1,4,0,0,07/07/2020,
+Maryland,MD,,6413,18924,,448,620,352,366,1,8,07/06/2020,
+Massachusetts,MA,,,8293,,170,391,167,379,0,8,07/07/2020,
+Michigan,MI,,,38344,,383,4020,347,3011,3,68,07/07/2020,
+Minnesota,MN,,,15043,,61,341,,,0,2,07/07/2020,
+Mississippi,MS,216,,280,,52,80,,,,1,07/07/2020,
+Missouri,MO,,,14641,,70,193,24,45,0,1,07/07/2020,
+Montana,MT,203,,748,,3,3,3,3,0,0,07/07/2020,
+Nebraska,NE,,,894,,,8,,7,,0,07/03/2020,
+Nevada,NV,,2648,,12368,41,16,26,15,0,0,07/07/2020,
+New Hampshire,NH,,,40,,11,1,11,1,0,0,07/07/2020,
+New Jersey,NJ,,6713,,22484,781,2869,762,,,46,07/09/2020,
+New Mexico,NM,4191,,6346,,22,461,5,244,0,3,07/07/2020,
+New York,NY,,,2813,,1299,541,1254,496,5,16,07/07/2020,
+North Carolina,NC,2831,,5958,,220,887,169,768,1,5,07/07/2020,
+North Dakota,ND,1082,1201,1342,2020,4,7,4,6,0,0,07/07/2020,
+Ohio,OH,,,15553,,838,5055,699,,5,86,07/07/2020,
+Oklahoma,OK,,,3564,,17,9,,5,0,0,07/07/2020,
+Oregon,OR,,,,1246,66,183,42,161,0,1,07/07/2020,
+Pennsylvania,PA,937,,6336,,192,285,154,223,1,10,07/07/2020,
+Rhode Island,RI,,,,,18,18,18,12,0,0,07/09/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
+South Carolina,SC,,,1003,,153,346,82,116,1,5,07/08/2020,
+South Dakota,SD,64,,130,,5,4,5,4,0,0,07/07/2020,
+Tennessee,TN,4905,,,23352,113,3184,98,3173,0,4,07/07/2020,
+Texas,TX,38460,,128796,,1782,9592,999,7376,9,88,07/07/2020,
+Utah,UT,,,546,,4,30,4,13,0,0,07/06/2020,
+Vermont,VT,,,1374,2250,20,47,19,45,0,0,07/07/2020,
+Virginia,VA,,,25328,,369,1516,293,1453,0,11,07/07/2020,
+Washington,WA,,,,2533,99,255,,,1,2,07/07/2020,
+West Virginia,WV,,4248,,5133,16,133,15,126,0,0,07/07/2020,
+Wisconsin,WI,,,,17412,82,283,66,273,0,0,07/07/2020,
+Wyoming,WY,23,,121,,1,0,1,0,0,0,07/06/2020,
+Federal,US,,,25310,,794,7639,603,5369,1,98,07/07/2020,
 Alabama,AL,,,329,,166,68,84,18,1,7,06/30/2020,
-Alaska,AK,,,849,,,2,,,,,07/01/2020,
+Alaska,AK,,,849,,11,2,11,2,0,0,07/01/2020,
 Arizona,AZ,,,3432,,226,421,149,218,,9,06/30/2020,
 Arkansas,AR,2203,,7037,,218,2487,184,1886,1,13,06/30/2020,
 California,CA,,,40753,,847,4939,370,2226,2,22,06/30/2020,
@@ -14,13 +65,13 @@ Idaho,ID,,142,375,,22,9,5,0,0,0,06/30/2020,
 Illinois,IL,,,1000,,195,322,170,235,0,13,06/30/2020,
 Indiana,IN,1351,,1859,,323,724,288,691,2,20,06/30/2020,
 Iowa,IA,,,,2290,23,35,18,30,0,0,06/29/2020,
-Kansas,KS,,,,,116,910,112,897,2,4,07/01/2020,
+Kansas,KS,,,,2728,116,910,112,897,2,4,07/01/2020,
 Kentucky,KY,,,,,65,432,,,0,2,06/29/2020,
 Louisiana,LA,,,,,193,627,152,559,3,16,06/30/2020,
 Maine,ME,,,1061,,1,4,1,4,0,0,07/01/2020,
 Maryland,MD,6168,,15909,,437,581,290,156,1,8,06/30/2020,The number of prisoner tests reported this week dropped dramatically and we're inquiring as to why.
 Massachusetts,MA,,,8263,,169,391,167,379,0,8,06/30/2020,
-Michigan,MI,,,38300,,376,4015,366,2667,2,68,06/30/2020,
+Michigan,MI,,,38300,,376,4015,336,2667,2,68,06/30/2020,"An earlier version of the number of staff recovered had a typo, and has been corrected."
 Minnesota,MN,,,11350,,61,341,,,0,2,06/30/2020,
 Mississippi,MS,192,,213,,42,71,,,,,06/30/2020,
 Missouri,MO,,,12320,,68,159,15,29,0,1,06/30/2020,
@@ -29,7 +80,7 @@ Nebraska,NE,,,,,,,,,,,,
 Nevada,NV,2560,,12368,,38,15,,,0,0,06/30/2020,
 New Hampshire,NH,,,37,,11,1,11,1,0,0,07/01/2020,
 New Jersey,NJ,,6713,,20342,781,2821,725,,3,46,06/30/2020,
-New Mexico,NM,3683,,5965,,24,562,5,112,0,3,07/01/2020,
+New Mexico,NM,3683,,5965,,19,450,5,112,0,3,07/01/2020,New Mexico has updated its staff and prisoner case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1421,,1298,519,1252,495,5,16,06/30/2020,
 North Carolina,NC,2420,,4565,,199,799,161,744,1,5,06/30/2020,
 North Dakota,ND,996,1108,1268,1425,4,7,4,5,0,0,06/30/2020,
@@ -37,18 +88,18 @@ Ohio,OH,,,14595,,799,5002,685,4246,5,86,06/30/2020,
 Oklahoma,OK,,,3002,,16,7,,2,0,0,06/30/2020,
 Oregon,OR,,,826,,55,178,40,155,0,1,06/29/2020,
 Pennsylvania,PA,912,,5513,,191,279,146,221,1,10,06/30/2020,
-Rhode Island,RI,,,,,23,21,23,14,0,0,06/29/2020,
+Rhode Island,RI,,,,,17,18,17,12,0,0,06/29/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
 South Carolina,SC,,,794,,122,255,78,101,1,2,06/30/2020,
 South Dakota,SD,63,,123,,5,4,5,4,0,0,06/30/2020,
 Tennessee,TN,,,,23143,99,3173,93,3166,0,4,06/30/2020,
 Texas,TX,35407,,117639,,1455,8240,928,6790,8,79,06/29/2020,
 Utah,UT,,,544,,4,28,4,12,0,0,06/30/2020,
-Vermont,VT,,,1327,2156,20,,19,45,0,0,06/30/2020,"The number of prisoner cases dropped by 3 this week to 47. Numbers are lower than last week for prisoner tests and total positive tests. They did some checks on their data and found that inmate tests contained 27 duplicates. Also added a line for ""unique positive cases"" which is lower than last week's positive tests, which included some inmates that got multiple positive results"
+Vermont,VT,,,1327,2156,20,47,19,45,0,0,06/30/2020,"The number of prisoner cases dropped by 3 this week to 47. Numbers are lower than last week for prisoner tests and total positive tests. They did some checks on their data and found that inmate tests contained 27 duplicates. Also added a line for ""unique positive cases"" which is lower than last week's positive tests, which included some inmates that got multiple positive results."
 Virginia,VA,,,22929,,343,1512,272,1389,0,11,06/30/2020,
 Washington,WA,,,2554,,93,204,,,1,2,06/30/2020,
-West Virginia,WV,,4235,,10115,16,,14,125,0,0,06/30/2020,"The number of prisoner cases dropped by 1 to 126 this week. The website lists about 8 false positives that were identified, which makes cases lower today than in the past week."
+West Virginia,WV,,4235,,5115,16,,14,125,0,0,06/30/2020,"The number of prisoner cases dropped by 1 to 126 this week. The website lists about 8 false positives that were identified, which makes cases lower today than in the past week. An earlier verison of this spreadsheet included testing figures for jails and juvenile facilities. For consistency with other states, we've limited the numbers to prisons and work release centers."
 Wisconsin,WI,,,14476,,69,278,65,262,0,0,06/30/2020,
-Wyoming,WY,,,,,,,,,,,,
+Wyoming,WY,,,101,,1,0,1,0,0,0,07/02/2020,
 Federal,US,,,22110,,728,6947,575,5335,1,94,06/30/2020,
 Alabama,AL,,,289,,149,54,53,14,0,4,06/23/2020,
 Alaska,AK,,,722,,11,2,11,2,0,0,06/23/2020,
@@ -80,7 +131,7 @@ Nebraska,NE,,,487,,20,8,13,7,,0,06/23/2020,
 Nevada,NV,2162,,9144,,34,9,,,0,0,06/23/2020,
 New Hampshire,NH,,,34,,11,1,11,0,0,0,06/23/2020,
 New Jersey,NJ,,,,,781,2756,,,,46,06/25/2020,
-New Mexico,NM,3131,,5239,,17,525,5,110,0,3,06/23/2020,
+New Mexico,NM,3131,,5239,,17,418,5,110,0,3,06/24/2020,New Mexico has updated its case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1321,,1290,517,,492,5,16,06/23/2020,
 North Carolina,NC,,,3509,,162,775,143,665,1,5,06/23/2020,
 North Dakota,ND,996,1101,1258,1364,4,6,4,5,0,0,06/23/2020,
@@ -88,16 +139,16 @@ Ohio,OH,,,13539,,766,4950,677,,5,84,06/23/2020,
 Oklahoma,OK,,,2560,,15,4,,1,0,0,06/22/2020,
 Oregon,OR,,,773,,51,175,36,139,0,1,06/23/2020,
 Pennsylvania,PA,890,,4872,,188,271,143,217,1,10,06/23/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,06/23/2020,Deaths filled in based on later weeks' reports.
 South Carolina,SC,,,585,,97,133,67,81,1,2,06/23/2020,
 South Dakota,SD,60,,117,,5,4,4,4,0,0,06/23/2020,
 Tennessee,TN,4905,,,23141,99,3171,93,3078,0,4,06/23/2020,
 Texas,TX,32115,,108367,,1237,7575,846,6255,8,69,06/23/2020,
 Utah,UT,,,364,,4,14,4,10,0,0,06/22/2020,
-Vermont,VT,,971,1330,1888,20,50,19,43,0,0,06/24/2020,
+Vermont,VT,,971,1330,1888,20,47,19,43,0,0,06/24/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,,317,1494,229,1073,0,10,06/23/2020,
 Washington,WA,,,699,,83,131,,,1,1,06/23/2020,
-West Virginia,WV,,4219,,10078,16,127,14,124,0,0,06/23/2020,"They had a number of false positives in previous weeks, so the total cases is lower this week."
+West Virginia,WV,,4219,,5095,16,127,14,124,0,0,06/23/2020,"They had a number of false positives in previous weeks, so the total cases is lower this week."
 Wisconsin,WI,,,,13268,66,270,65,261,0,0,06/23/2020,
 Wyoming,WY,20,,61,,1,0,1,0,0,0,06/26/2020,
 Federal,US,,,,19934,692,6621,528,5171,1,91,06/23/2020,
@@ -131,7 +182,7 @@ Nebraska,NE,,,400,,20,7,13,7,,0,06/16/2020,
 Nevada,NV,1563,,8766,,30,8,,,0,0,06/16/2020,
 New Hampshire,NH,,,31,,11,1,11,0,0,0,06/16/2020,
 New Jersey,NJ,6713,,,20995,781,2655,640,,3,46,06/16/2020,"They don't track ""prisoner recoveries"". The number of staff tests dropped this week. We're inquiring as to why."
-New Mexico,NM,2982,,4775,,,318,,17,0,2,06/16/2020,New Mexico initially reported 60 staff cases this week. It later said those numbers were inaccurate and we've removed them here.
+New Mexico,NM,2982,,4775,,17,320,5,17,0,2,06/17/2020,New Mexico initially reported 60 staff cases this week. It later revised those numbers and we have updated them here. New Mexico has also updated its prisoner case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1304,,1285,517,1229,484,5,16,06/16/2020,
 North Carolina,NC,2441,,2750,,158,714,137,635,1,5,06/17/2020,
 North Dakota,ND,996,1094,1253,1253,4,5,4,5,0,0,06/16/2020,North Dakota DOC has revised its testing numbers in recent weeks.
@@ -139,16 +190,16 @@ Ohio,OH,,,12368,,745,4908,610,4154,5,76,06/16/2020,"The recovered figures from O
 Oklahoma,OK,,,2255,,15,2,,1,0,0,06/15/2020,
 Oregon,OR,,,664,,49,175,31,132,0,1,06/16/2020,
 Pennsylvania,PA,872,,3995,,187,265,138,211,1,10,06/16/2020,
-Rhode Island,RI,,,,,16,21,,,0,0,06/18/2020,
+Rhode Island,RI,,,,,,,,,0,0,06/18/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,,,525,,91,109,61,74,1,2,06/18/2020,
 South Dakota,SD,58,,115,,5,4,4,4,0,0,06/16/2020,
 Tennessee,TN,4905,,,22987,97,3137,75,3076,0,4,06/16/2020,
 Texas,TX,31715,,107696,,1129,7467,763,4824,8,54,06/16/2020,
 Utah,UT,,,315,,4,14,4,10,0,0,06/15/2020,
-Vermont,VT,,,1230,,20,48,19,43,0,0,06/16/2020,
+Vermont,VT,,,1230,,20,45,19,43,0,0,06/16/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,21295,,301,1328,187,947,0,9,06/16/2020,
 Washington,WA,,,606,,76,112,,,1,0,06/16/2020,
-West Virginia,WV,,4158,,10049,15,132,9,119,0,0,06/16/2020,
+West Virginia,WV,,4158,,5084,15,132,9,119,0,0,06/16/2020,
 Wisconsin,WI,,,9152,,65,264,59,258,0,0,06/16/2020,Deaths backfilled from 6/23 report
 Wyoming,WY,20,,34,,1,0,1,0,0,0,06/17/2020,
 Federal,US,,,,17262,671,6458,502,5145,1,88,06/16/2020,
@@ -182,7 +233,7 @@ Nebraska,NE,,,,,,,,,,,,
 Nevada,NV,571,,5001,,28,7,,,0,0,06/09/2020,
 New Hampshire,NH,,,24,,11,1,11,,0,0,06/09/2020,
 New Jersey,NJ,,7146,,,778,2451,,,3,46,06/09/2020,"We've moved the staff tests figure from previous releases to ""staff tests with multiples"" after the agency clarified their earlier numbers."
-New Mexico,NM,2528,,3144,,11,224,4,17,0,2,06/09/2020,
+New Mexico,NM,2528,,3144,,11,243,4,17,0,2,06/10/2020,New Mexico has updated its case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1280,,1284,512,1217,468,4,16,06/09/2020,
 North Carolina,NC,250,,1955,,152,691,126,624,1,5,06/09/2020,"Staff tests are based on testing information from one facility, Neuse, in May. NC has not updated the figures since."
 North Dakota,ND,996,1094,1253,1253,4,5,4,5,0,0,06/09/2020,North Dakota DOC has revised its testing numbers in recent weeks.
@@ -190,13 +241,13 @@ Ohio,OH,,,11537,,731,4858,589,4133,4,76,06/10/2020,The number of prisoners recov
 Oklahoma,OK,,,1893,,14,2,,1,0,0,06/08/2020,
 Oregon,OR,,,624,,47,167,29,123,0,1,06/08/2020,
 Pennsylvania,PA,836,,3578,,185,258,127,196,1,9,06/09/2020,
-Rhode Island,RI,1194,,1679,,16,21,10,7,0,0,06/10/2020,"The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
+Rhode Island,RI,1194,,1679,,,,,,0,0,06/10/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now. The earlier data: The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
 South Carolina,SC,,,402,,83,102,56,68,1,2,06/09/2020,
 South Dakota,SD,55,,109,,4,4,3,3,0,0,06/09/2020,
 Tennessee,TN,4905,,,22840,97,3079,69,2653,0,4,06/09/2020,
 Texas,TX,28705,,96894,,1053,6998,630,2669,7,46,06/09/2020,
 Utah,UT,,,315,,4,14,4,10,0,0,06/09/2020,"The number of prisoners tested jumped from last week because the department is now testing new arrivals, unless they decline, in which case they're quarantined for 2 weeks. All intake happens one day a week, on Wednesdays.The PIO clarified that ""intakes tested"" in their tracker is in fact a subset of ""inmates tested."""
-Vermont,VT,,798,1214,1432,20,48,19,43,0,0,06/09/2020,Number of staff tests is since 5/1. State DOH is working on a records request to provie the total number of staff tests from the beginning ot the pandemic.
+Vermont,VT,,798,1214,1432,20,45,19,43,0,0,06/09/2020,"Number of staff tests is since 5/1. State DOH is working on a records request to provie the total number of staff tests from the beginning ot the pandemic. At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,19673,,1295,,843,,9,06/09/2020,"We are not reporting staff cases this week, which dropped to 121, as Virginia is only reporting ""active"" cases. We're trying to get an accurate cumulative number."
 Washington,WA,,,540,,69,82,,,1,0,06/09/2020,
 West Virginia,WV,,2648,,3166,9,122,8,116,0,0,06/09/2020,
@@ -241,13 +292,13 @@ Ohio,OH,,,10151,,675,4769,523,4143,4,76,06/02/2020,
 Oklahoma,OK,,,1700,,14,2,,1,0,0,06/02/2020,
 Oregon,OR,,,611,,46,165,24,101,0,1,06/02/2020,
 Pennsylvania,PA,785,,2916,,178,252,115,182,1,8,06/02/2020,
-Rhode Island,RI,1031,,1068,,16,21,8,6,0,0,06/01/2020,"The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
+Rhode Island,RI,1031,,1068,,,,,,0,0,06/01/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now. The earlier data: The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
 South Carolina,SC,,,331,,77,95,52,51,1,2,06/02/2020,
 South Dakota,SD,54,,94,,3,3,3,3,0,0,06/02/2020,
 Tennessee,TN,4526,,,22123,94,2888,61,2652,0,4,06/03/2020,
 Texas,TX,20180,,62937,,966,6592,470,1550,7,40,06/02/2020,
 Utah,UT,,,211,,4,11,,10,,0,06/02/2020,
-Vermont,VT,,,872,,20,48,19,43,0,0,06/02/2020,
+Vermont,VT,,,872,,20,45,19,43,0,0,06/02/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,,140,1228,,671,,9,06/01/2020,
 Washington,WA,,,494,,49,56,,,1,,06/02/2020,Staff death based on past week's reporting.
 West Virginia,WV,245,,1480,,9,119,8,21,0,0,06/02/2020,Testing for staff will increase in coming weeks because they are testing all facilities.
@@ -292,7 +343,7 @@ Ohio,OH,,,9343,,660,4694,491,4137,4,73,05/27/2020,
 Oklahoma,OK,,,1535,,10,2,,1,,0,05/27/2020,"1 person recovered. The other person was released before results came in, so unclear if they are recovered yet."
 Oregon,OR,,,583,,43,154,9,47,0,1,05/27/2020,
 Pennsylvania,PA,651,,2140,,174,237,108,167,1,6,05/27/2020,
-Rhode Island,RI,935,,720,,15,17,8,6,0,0,05/28/2020,Prisoner cases include 6 pre-trial jail inmates who are no longer there — RI is a unified system so these are the equivalent of jail inmates in other states.
+Rhode Island,RI,935,,720,,,,,,0,0,05/28/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now.. Earlier versions of this data for prisoner cases include 6 pre-trial jail inmates who are no longer there — RI is a unified system so these are the equivalent of jail inmates in other states."
 South Carolina,SC,,,,,71,79,47,42,1,2,05/28/2020,
 South Dakota,SD,54,,90,,3,3,3,2,0,0,05/27/2020,
 Tennessee,TN,4526,,,20816,79,2661,47,2593,0,4,05/27/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of prisoners tested. One prisoner could have tested positive more than once in this sum. For the staff, Tennessee has revised the number of people tested."
@@ -343,7 +394,7 @@ Ohio,OH,,,8267,,622,4550,,,4,63,05/20/2020,
 Oklahoma,OK,,,1334,,10,2,,,0,0,05/19/2020,
 Oregon,OR,,,504,,38,143,,,0,1,05/21/2020,
 Pennsylvania,PA,608,,1370,,160,227,,,1,5,05/20/2020,
-Rhode Island,RI,651,,350,,11,9,,,0,0,05/20/2020,
+Rhode Island,RI,651,,350,,,,,,0,0,05/20/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,425,,169,,70,65,,,1,2,05/20/2020,
 South Dakota,SD,52,,87,,3,2,,,0,0,05/20/2020,
 Tennessee,TN,,,,20752,74,2649,,,0,4,05/20/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
@@ -352,7 +403,7 @@ Utah,UT,,,123,,4,10,,,0,0,05/20/2020,All the positive cases are in halfway house
 Vermont,VT,,,318,,20,45,,,0,0,05/20/2020,"The ""positive results"" section of the Covid dashboard reflects 48 positives, but the dashboard notes that 3 of them are re-tests. The 223 inmate tests include 2 inmates housed at a private prison in Mississippi. / Confirmed with Rachel Feldman that deaths are still 0."
 Virginia,VA,,,8124,,74,902,,,0,5,05/20/2020,
 Washington,WA,,,423,,42,34,,,1,0,05/20/2020,
-West Virginia,WV,203,,94,,3,2,,,0,0,05/20/2020,"THe National Guard tested 203 staff members on Wed. results were not back, all 43 inmates were tested at the facility with two new positive inmates, most results not back."
+West Virginia,WV,203,,48,,3,2,,,0,0,05/20/2020,"THe National Guard tested 203 staff members on Wed. results were not back, all 43 inmates were tested at the facility with two new positive inmates, most results not back."
 Wisconsin,WI,,,782,,33,40,,,0,0,05/20/2020,
 Wyoming,WY,16,,22,,1,0,,,0,0,05/20/2020,
 Federal,US,,,,,577,4664,,,0,59,05/20/2020,
@@ -394,7 +445,7 @@ Ohio,OH,,,7541,,556,4449,,,2,51,05/13/2020,
 Oklahoma,OK,,,1204,,10,2,,,0,0,05/13/2020,
 Oregon,OR,,,395,,32,113,,,0,0,05/13/2020,
 Pennsylvania,PA,541,,710,,148,214,,,0,3,05/13/2020,
-Rhode Island,RI,361,,170,,11,4,,,0,0,05/12/2020,
+Rhode Island,RI,361,,170,,,,,,0,0,05/12/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,425,,152,,63,60,,,1,2,05/13/2020,
 South Dakota,SD,50,,86,,3,2,,,0,0,05/14/2020,
 Tennessee,TN,,,,19424,64,2574,,,0,3,05/13/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
@@ -445,7 +496,7 @@ Ohio,OH,,,6922,,483,4312,,,2,42,05/06/2020,
 Oklahoma,OK,,,1034,,9,2,,,0,0,05/06/2020,
 Oregon,OR,,,243,,21,44,,,0,0,05/06/2020,
 Pennsylvania,PA,411,,327,,127,143,,,0,3,05/06/2020,
-Rhode Island,RI,200,,110,,11,4,,,0,0,05/06/2020,
+Rhode Island,RI,200,,110,,,,,,0,0,05/06/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,,,,,56,42,,,1,2,05/06/2020,
 South Dakota,SD,46,,82,,3,2,,,0,0,05/06/2020,South Dakota initially reported 4 self-reported positives among staff on this day and later changed it to 3.
 Tennessee,TN,,,,5962,55,1959,,,0,1,05/05/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
