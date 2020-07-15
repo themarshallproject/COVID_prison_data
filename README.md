@@ -76,7 +76,7 @@ It includes these columns:
 * `notes` - Any caveats or notes about the data.
 
 ## Attribution
-In stories attribute this data to: “According to an analysis of state prison cases by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system”
+In stories attribute this data to: “According to an analysis of state prison coronavirus cases by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system, and The Associated Press.”
 
 ## Contributors
 Many reporters and editors at The Marshall Project and The Associated Press contributed to this data, including: Katie Park, Tom Meagher, Weihua Li, Gabe Isman, Cary Aspinwall, Keri Blakinger, Jake Bleiberg, Andrew R. Calderón, Maurice Chammah, Andrew DeMillo, Eli Hager, Jamiles Lartey, Claudia Lauer, Nicole Lewis, Humera Lodhi, Colleen Long, Joseph Neff, Alysia Santo, Beth Schwartzapfel, Damini Sharma, Colleen Slevin, Christie Thompson, Abbie VanSickle, Adria Watson, Andrew Welsh-Huggins.
