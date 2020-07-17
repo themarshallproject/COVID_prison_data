@@ -1,4 +1,55 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,568,,,,220,138,131,29,2,12,07/14/2020,
+Alaska,AK,,,,1593,12,2,,2,0,0,07/14/2020,
+Arizona,AZ,,,4496,,371,569,262,255,,13,07/14/2020,
+Arkansas,AR,2378,,7777,,259,3482,214,2311,1,16,07/14/2020,
+California,CA,,,52389,,1291,6458,536,3897,3,35,07/14/2020,
+Colorado,CO,,,6579,11642,67,668,58,627,0,3,07/14/2020,
+Connecticut,CT,974,,10014,,382,,377,1324,0,7,07/14/2020,"Connecticut's prisoner cases dropped by 3 to 1,343, and the number of prisoners tested and recovered also dropped this week. The state said, ""Please note that a recent internal audit/review of the our data found some duplicate information, and as a result the numbers for both 'positive offenders' and also for the number of offenders 'recovered' went down a bit."""
+Delaware,DE,,,,,118,288,87,141,,7,07/10/2020,
+Florida,FL,,,,28471,885,2632,,,,29,07/14/2020,
+Georgia,GA,,,,,301,1064,190,518,1,25,07/14/2020,
+Hawaii,HI,,,70,,0,0,0,0,0,0,07/14/2020,
+Idaho,ID,407,,,1624,68,694,27,9,0,0,07/14/2020,
+Illinois,IL,,,1600,,214,337,180,278,0,13,07/14/2020,
+Indiana,IN,1416,,2107,,332,728,293,713,2,20,07/14/2020,
+Iowa,IA,,,4004,,51,224,25,35,,1,07/14/2020,
+Kansas,KS,,,,2796,123,910,113,906,2,4,07/15/2020,
+Kentucky,KY,,,,,83,624,,,0,4,07/14/2020,
+Louisiana,LA,1289,,1640,,234,663,174,572,3,16,07/14/2020,
+Maine,ME,,,1147,,1,4,1,4,0,0,07/14/2020,
+Maryland,MD,,6713,18740,,452,628,382,401,1,8,07/13/2020,The number of prisoners tested dropped by 184 this week. We are inquiring why the numbers fell so steeply.
+Massachusetts,MA,,,8473,,170,391,165,380,0,8,07/14/2020,"Massachusetts says they incorrectly counted two people as recovered last week who continue to have symptoms and have adjusted their ""recovered"" count accordingly."
+Michigan,MI,,,37627,,385,3801,347,3076,3,68,07/14/2020,"Michigan's prisoner test numbers fell by 717 and cases dropped by 219. ""Our Bureau of Health Care Services has been conducting an audit of cases to make sure only unique positives and negatives were reported. They found some duplicates that needed to be removed, so that cause numbers to drop."""
+Minnesota,MN,,,,18062,67,390,,296,0,2,07/14/2020,
+Mississippi,MS,,,,,,86,,,,,07/14/2020,
+Missouri,MO,,,15527,,83,245,38,101,0,1,07/14/2020,
+Montana,MT,563,,2086,,3,11,,,0,,07/14/2020,
+Nebraska,NE,,,898,,,8,,8,,0,07/10/2020,
+Nevada,NV,2648,,12368,,49,18,27,17,0,0,07/15/2020,
+New Hampshire,NH,,,43,,11,1,11,1,0,0,07/10/2020,
+New Jersey,NJ,,,,,781,2892,,,,49,07/14/2020,
+New Mexico,NM,4363,,7220,,33,467,10,381,0,4,07/14/2020,
+New York,NY,,,4055,,1300,545,1253,495,5,16,07/10/2020,The number of prisoners and staff recovered dropped by 1 each this week. We have not yet learned why they changed.
+North Carolina,NC,2935,,8793,,249,1052,194,802,1,5,07/14/2020,
+North Dakota,ND,1366,1505,1343,2025,7,7,4,7,0,0,07/14/2020,
+Ohio,OH,,,16762,,866,5082,719,4215,5,86,07/14/2020,
+Oklahoma,OK,,,4101,,25,11,,8,0,0,07/14/2020,
+Oregon,OR,,,,1651,85,314,46,162,0,1,07/14/2020,
+Pennsylvania,PA,1002,,6802,,200,292,163,226,1,10,07/14/2020,
+Rhode Island,RI,,,,,,,,,,,,
+South Carolina,SC,,,1171,,189,563,95,128,1,7,07/14/2020,
+South Dakota,SD,64,,130,,5,4,5,4,0,0,07/13/2020,
+Tennessee,TN,4905,,,23353,121,3186,98,3173,0,4,07/13/2020,
+Texas,TX,41814,,137831,,2160,12071,1165,7703,9,94,07/14/2020,
+Utah,UT,,,685,,4,38,4,13,0,0,07/13/2020,
+Vermont,VT,,1309,1413,2646,20,47,19,45,0,0,07/14/2020,
+Virginia,VA,,,25352,,388,1530,307,1452,0,11,07/14/2020,The number of prisoners recovered dropped by one this week. We are inquiring as to why and will update when we can.
+Washington,WA,,,2937,,104,277,,,1,2,07/14/2020,
+West Virginia,WV,,4230,,5143,24,126,20,126,0,0,07/14/2020,"The number of staff tests dropped this week, because some tests in a previous week were thrown out and are no longer counted. Several have since been reconducted, but that's the lower number."
+Wisconsin,WI,,,,19371,92,291,70,280,0,0,07/14/2020,
+Wyoming,WY,,,,,,,,,,,,
+Federal,US,,,29067,,887,8896,629,5407,1,99,07/14/2020,
 Alabama,AL,,,490,,184,97,100,28,2,10,07/07/2020,
 Alaska,AK,,,,1233,11,2,11,2,0,0,07/07/2020,
 Arizona,AZ,,,4092,,303,481,182,250,,13,07/07/2020,
@@ -46,7 +97,7 @@ Utah,UT,,,546,,4,30,4,13,0,0,07/06/2020,
 Vermont,VT,,,1374,2250,20,47,19,45,0,0,07/07/2020,
 Virginia,VA,,,25328,,369,1516,293,1453,0,11,07/07/2020,
 Washington,WA,,,,2533,99,255,,,1,2,07/07/2020,
-West Virginia,WV,,4248,,5133,16,133,15,126,0,0,07/07/2020,
+West Virginia,WV,,4248,,5133,16,126,15,126,0,0,07/07/2020,We had an incorrect number of prisoner cases this week and are revising it to correct it.
 Wisconsin,WI,,,,17412,82,283,66,273,0,0,07/07/2020,
 Wyoming,WY,23,,121,,1,0,1,0,0,0,07/06/2020,
 Federal,US,,,25310,,794,7639,603,5369,1,98,07/07/2020,
@@ -97,7 +148,7 @@ Utah,UT,,,544,,4,28,4,12,0,0,06/30/2020,
 Vermont,VT,,,1327,2156,20,47,19,45,0,0,06/30/2020,"The number of prisoner cases dropped by 3 this week to 47. Numbers are lower than last week for prisoner tests and total positive tests. They did some checks on their data and found that inmate tests contained 27 duplicates. Also added a line for ""unique positive cases"" which is lower than last week's positive tests, which included some inmates that got multiple positive results."
 Virginia,VA,,,22929,,343,1512,272,1389,0,11,06/30/2020,
 Washington,WA,,,2554,,93,204,,,1,2,06/30/2020,
-West Virginia,WV,,4235,,5115,16,,14,125,0,0,06/30/2020,"The number of prisoner cases dropped by 1 to 126 this week. The website lists about 8 false positives that were identified, which makes cases lower today than in the past week. An earlier verison of this spreadsheet included testing figures for jails and juvenile facilities. For consistency with other states, we've limited the numbers to prisons and work release centers."
+West Virginia,WV,,4235,,5115,16,126,14,125,0,0,06/30/2020,"The number of prisoner cases dropped by 1 to 126 this week. The website lists about 8 false positives that were identified, which makes cases lower today than in the past week. An earlier verison of this spreadsheet included testing figures for jails and juvenile facilities. For consistency with other states, we've limited the numbers to prisons and work release centers."
 Wisconsin,WI,,,14476,,69,278,65,262,0,0,06/30/2020,
 Wyoming,WY,,,101,,1,0,1,0,0,0,07/02/2020,
 Federal,US,,,22110,,728,6947,575,5335,1,94,06/30/2020,
@@ -148,7 +199,7 @@ Utah,UT,,,364,,4,14,4,10,0,0,06/22/2020,
 Vermont,VT,,971,1330,1888,20,47,19,43,0,0,06/24/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,,317,1494,229,1073,0,10,06/23/2020,
 Washington,WA,,,699,,83,131,,,1,1,06/23/2020,
-West Virginia,WV,,4219,,5095,16,127,14,124,0,0,06/23/2020,"They had a number of false positives in previous weeks, so the total cases is lower this week."
+West Virginia,WV,,4219,,5095,16,,14,124,0,0,06/23/2020,"West Virginia found a number of false positives and revised their prisoner cases numbers down to 127 this week. In later weeks, it dropped again."
 Wisconsin,WI,,,,13268,66,270,65,261,0,0,06/23/2020,
 Wyoming,WY,20,,61,,1,0,1,0,0,0,06/26/2020,
 Federal,US,,,,19934,692,6621,528,5171,1,91,06/23/2020,
@@ -199,7 +250,7 @@ Utah,UT,,,315,,4,14,4,10,0,0,06/15/2020,
 Vermont,VT,,,1230,,20,45,19,43,0,0,06/16/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,21295,,301,1328,187,947,0,9,06/16/2020,
 Washington,WA,,,606,,76,112,,,1,0,06/16/2020,
-West Virginia,WV,,4158,,5084,15,132,9,119,0,0,06/16/2020,
+West Virginia,WV,,4158,,5084,15,,9,119,0,0,06/16/2020,"This week's number of prisoner cases was originally listed as 132, but was later revised down as West Virginia found false positives."
 Wisconsin,WI,,,9152,,65,264,59,258,0,0,06/16/2020,Deaths backfilled from 6/23 report
 Wyoming,WY,20,,34,,1,0,1,0,0,0,06/17/2020,
 Federal,US,,,,17262,671,6458,502,5145,1,88,06/16/2020,
