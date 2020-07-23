@@ -1,25 +1,76 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,,664,,269,165,151,41,2,14,07/22/2020,
+Alaska,AK,,,,2168,12,16,,2,0,0,07/22/2020,
+Arizona,AZ,,,4905,,439,684,370,376,,13,07/21/2020,
+Arkansas,AR,2378,,8583,,259,3789,214,2970,1,25,07/21/2020,
+California,CA,,,59808,,1486,7066,616,4940,3,40,07/21/2020,
+Colorado,CO,,,7386,13723,73,783,63,628,0,3,07/21/2020,
+Connecticut,CT,976,,10016,,383,1344,377,1324,0,7,07/21/2020,
+Delaware,DE,,,,,153,508,92,391,,7,07/22/2020,
+Florida,FL,,,,38427,1113,3898,,,,34,07/21/2020,
+Georgia,GA,,,,,361,1113,216,881,1,26,07/21/2020,
+Hawaii,HI,,,119,,0,0,0,0,0,0,07/21/2020,
+Idaho,ID,658,,1818,1884,86,763,47,100,0,0,07/21/2020,
+Illinois,IL,,,1800,,237,343,198,307,0,13,07/21/2020,
+Indiana,IN,1464,,2186,,337,729,308,716,2,20,07/21/2020,
+Iowa,IA,,,,5096,61,333,32,208,0,1,07/21/2020,
+Kansas,KS,,,,3031,122,911,114,906,2,4,07/22/2020,
+Kentucky,KY,,,,,108,770,,,0,6,07/20/2020,
+Louisiana,LA,1182,,1845,,262,713,184,576,4,16,07/21/2020,
+Maine,ME,,,1192,,1,4,1,4,4,0,07/21/2020,
+Maryland,MD,,6777,18844,,465,637,425,538,1,8,07/20/2020,
+Massachusetts,MA,,,8562,,170,390,167,381,0,8,07/21/2020,
+Michigan,MI,,,37189,,397,3870,348,3585,3,68,07/21/2020,"Michigan said it has been auditing its testing numbers to ensure they are counting unique prisoners and not total number of tests, and thus adjusted their figures downward this week. They said they have finished their audit and don't anticipate future such adjustments."
+Minnesota,MN,,,19993,,71,391,70,308,0,2,07/20/2020,
+Mississippi,MS,,282,,463,73,105,,,,,07/21/2020,
+Missouri,MO,,,17907,,113,395,47,148,0,1,07/21/2020,
+Montana,MT,563,,2086,,5,13,,,0,0,07/21/2020,
+Nebraska,NE,,,928,,,8,,8,,0,07/17/2020,
+Nevada,NV,,,,,55,,27,17,0,0,07/21/2020,
+New Hampshire,NH,,,49,,11,1,11,1,0,0,07/21/2020,
+New Jersey,NJ,,,,,781,2892,,,,49,07/21/2020,
+New Mexico,NM,5389,,8101,,45,485,12,383,0,4,07/22/2020,
+New York,NY,,,,5371,1307,601,,524,5,16,07/23/2020,
+North Carolina,NC,3009,,,17382,295,1086,229,855,1,5,07/22/2020,
+North Dakota,ND,1367,1538,1356,2081,7,7,4,7,0,0,07/21/2020,
+Ohio,OH,,,17941,,905,5132,780,4263,5,88,07/21/2020,
+Oklahoma,OK,,,4928,,37,14,,9,,,07/21/2020,
+Oregon,OR,,,1964,,97,331,49,166,0,1,07/21/2020,
+Pennsylvania,PA,1073,,7549,,210,297,168,237,1,10,07/21/2020,
+Rhode Island,RI,,,,,,,,,0,0,07/23/2020,
+South Carolina,SC,,,1871,,231,651,112,155,1,8,07/21/2020,
+South Dakota,SD,67,,131,,6,4,5,4,0,0,07/21/2020,
+Tennessee,TN,4865,4905,,23438,133,3195,102,3183,0,4,07/21/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
+Texas,TX,46150,,147971,,2801,13454,1562,9963,11,94,07/21/2020,
+Utah,UT,,,687,,4,38,4,14,0,0,07/20/2020,
+Vermont,VT,,,1451,2778,20,48,19,45,0,0,07/21/2020,
+Virginia,VA,,,25567,,435,1821,322,1472,0,13,07/21/2020,
+Washington,WA,,,,3026,111,303,,,1,2,07/21/2020,
+West Virginia,WV,,4334,,9647,25,127,23,127,0,0,07/21/2020,
+Wisconsin,WI,,,,24717,93,296,82,286,0,0,07/21/2020,
+Wyoming,WY,,,,,9,3,,,,,07/22/2020,
+Federal,US,,,33336,,995,10154,644,5797,1,102,07/21/2020,
 Alabama,AL,568,,,,220,138,131,29,2,12,07/14/2020,
 Alaska,AK,,,,1593,12,2,,2,0,0,07/14/2020,
 Arizona,AZ,,,4496,,371,569,262,255,,13,07/14/2020,
 Arkansas,AR,2378,,7777,,259,3482,214,2311,1,16,07/14/2020,
 California,CA,,,52389,,1291,6458,536,3897,3,35,07/14/2020,
 Colorado,CO,,,6579,11642,67,668,58,627,0,3,07/14/2020,
-Connecticut,CT,974,,10014,,382,,377,1324,0,7,07/14/2020,"Connecticut's prisoner cases dropped by 3 to 1,343, and the number of prisoners tested and recovered also dropped this week. The state said, ""Please note that a recent internal audit/review of the our data found some duplicate information, and as a result the numbers for both 'positive offenders' and also for the number of offenders 'recovered' went down a bit."""
-Delaware,DE,,,,,118,288,87,141,,7,07/10/2020,
+Connecticut,CT,974,,10014,,382,1343,377,1324,0,7,07/14/2020,"Connecticut's prisoner cases dropped by 3 to 1,343, and the number of prisoners tested and recovered also dropped this week. The state said, ""Please note that a recent internal audit/review of the our data found some duplicate information, and as a result the numbers for both 'positive offenders' and also for the number of offenders 'recovered' went down a bit."""
+Delaware,DE,,,,,118,295,87,141,,7,07/10/2020,Delaware's total cases this week originally did not include deaths and has been adjusted accordingly.
 Florida,FL,,,,28471,885,2632,,,,29,07/14/2020,
 Georgia,GA,,,,,301,1064,190,518,1,25,07/14/2020,
 Hawaii,HI,,,70,,0,0,0,0,0,0,07/14/2020,
 Idaho,ID,407,,,1624,68,694,27,9,0,0,07/14/2020,
 Illinois,IL,,,1600,,214,337,180,278,0,13,07/14/2020,
 Indiana,IN,1416,,2107,,332,728,293,713,2,20,07/14/2020,
-Iowa,IA,,,4004,,51,224,25,35,,1,07/14/2020,
-Kansas,KS,,,,2796,123,910,113,906,2,4,07/15/2020,
+Iowa,IA,,,4004,,51,224,25,35,0,1,07/14/2020,Staff deaths backfilled from later weeks' data.
+Kansas,KS,,,,2796,113,910,113,906,2,4,07/15/2020,Kansas' staff cases was incorrect originally. This number has been updated.
 Kentucky,KY,,,,,83,624,,,0,4,07/14/2020,
-Louisiana,LA,1289,,1640,,234,663,174,572,3,16,07/14/2020,
+Louisiana,LA,1033,,1640,,234,663,174,572,3,16,07/14/2020,Louisiana later revised its staff testing numbers for this week after providing the wrong figure.
 Maine,ME,,,1147,,1,4,1,4,0,0,07/14/2020,
 Maryland,MD,,6713,18740,,452,628,382,401,1,8,07/13/2020,The number of prisoners tested dropped by 184 this week. We are inquiring why the numbers fell so steeply.
-Massachusetts,MA,,,8473,,170,391,165,380,0,8,07/14/2020,"Massachusetts says they incorrectly counted two people as recovered last week who continue to have symptoms and have adjusted their ""recovered"" count accordingly."
+Massachusetts,MA,,,8473,,170,390,165,380,0,8,07/14/2020,"Massachusetts says they incorrectly counted two people as recovered last week who continue to have symptoms and have adjusted their ""recovered"" count accordingly. In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,37627,,385,3801,347,3076,3,68,07/14/2020,"Michigan's prisoner test numbers fell by 717 and cases dropped by 219. ""Our Bureau of Health Care Services has been conducting an audit of cases to make sure only unique positives and negatives were reported. They found some duplicates that needed to be removed, so that cause numbers to drop."""
 Minnesota,MN,,,,18062,67,390,,296,0,2,07/14/2020,
 Mississippi,MS,,,,,,86,,,,,07/14/2020,
@@ -28,7 +79,7 @@ Montana,MT,563,,2086,,3,11,,,0,,07/14/2020,
 Nebraska,NE,,,898,,,8,,8,,0,07/10/2020,
 Nevada,NV,2648,,12368,,49,18,27,17,0,0,07/15/2020,
 New Hampshire,NH,,,43,,11,1,11,1,0,0,07/10/2020,
-New Jersey,NJ,,,,,781,2892,,,,49,07/14/2020,
+New Jersey,NJ,,6713,,22813,781,2892,762,,,49,07/14/2020,
 New Mexico,NM,4363,,7220,,33,467,10,381,0,4,07/14/2020,
 New York,NY,,,4055,,1300,545,1253,495,5,16,07/10/2020,The number of prisoners and staff recovered dropped by 1 each this week. We have not yet learned why they changed.
 North Carolina,NC,2935,,8793,,249,1052,194,802,1,5,07/14/2020,
@@ -40,7 +91,7 @@ Pennsylvania,PA,1002,,6802,,200,292,163,226,1,10,07/14/2020,
 Rhode Island,RI,,,,,,,,,,,,
 South Carolina,SC,,,1171,,189,563,95,128,1,7,07/14/2020,
 South Dakota,SD,64,,130,,5,4,5,4,0,0,07/13/2020,
-Tennessee,TN,4905,,,23353,121,3186,98,3173,0,4,07/13/2020,
+Tennessee,TN,4865,4905,,23353,121,3186,98,3173,0,4,07/13/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
 Texas,TX,41814,,137831,,2160,12071,1165,7703,9,94,07/14/2020,
 Utah,UT,,,685,,4,38,4,13,0,0,07/13/2020,
 Vermont,VT,,1309,1413,2646,20,47,19,45,0,0,07/14/2020,
@@ -56,8 +107,8 @@ Arizona,AZ,,,4092,,303,481,182,250,,13,07/07/2020,
 Arkansas,AR,2305,,7092,,242,2981,184,2309,1,14,07/07/2020,
 California,CA,,,47477,,1119,5372,456,2904,2,29,07/07/2020,
 Colorado,CO,,,4804,,54,631,54,626,0,3,07/07/2020,
-Connecticut,CT,,,10114,,381,1346,377,1333,0,7,07/07/2020,
-Delaware,DE,910,,747,,114,261,87,141,1,7,07/08/2020,
+Connecticut,CT,,,10114,,381,1343,377,1333,0,7,07/07/2020,The prisoner cases for this week were revised later after Connecticut identified some duplicates in the numbers.
+Delaware,DE,910,,747,,114,270,87,141,1,7,07/08/2020,Delaware's total cases this week originally did not include deaths and has been adjusted accordingly.
 Florida,FL,,,,24879,651,2514,,,0,26,07/07/2020,
 Georgia,GA,,,,,252,944,168,496,1,23,07/07/2020,
 Hawaii,HI,,,62,,0,0,0,0,0,0,07/07/2020,
@@ -70,7 +121,7 @@ Kentucky,KY,,,,,72,528,,,0,2,07/07/2020,
 Louisiana,LA,,,,,216,641,162,568,3,16,07/07/2020,
 Maine,ME,,,1100,,1,4,1,4,0,0,07/07/2020,
 Maryland,MD,,6413,18924,,448,620,352,366,1,8,07/06/2020,
-Massachusetts,MA,,,8293,,170,391,167,379,0,8,07/07/2020,
+Massachusetts,MA,,,8293,,170,390,167,379,0,8,07/07/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,38344,,383,4020,347,3011,3,68,07/07/2020,
 Minnesota,MN,,,15043,,61,341,,,0,2,07/07/2020,
 Mississippi,MS,216,,280,,52,80,,,,1,07/07/2020,
@@ -91,7 +142,7 @@ Pennsylvania,PA,937,,6336,,192,285,154,223,1,10,07/07/2020,
 Rhode Island,RI,,,,,18,18,18,12,0,0,07/09/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
 South Carolina,SC,,,1003,,153,346,82,116,1,5,07/08/2020,
 South Dakota,SD,64,,130,,5,4,5,4,0,0,07/07/2020,
-Tennessee,TN,4905,,,23352,113,3184,98,3173,0,4,07/07/2020,
+Tennessee,TN,4865,4905,,23352,113,3184,98,3173,0,4,07/07/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
 Texas,TX,38460,,128796,,1782,9592,999,7376,9,88,07/07/2020,
 Utah,UT,,,546,,4,30,4,13,0,0,07/06/2020,
 Vermont,VT,,,1374,2250,20,47,19,45,0,0,07/07/2020,
@@ -121,7 +172,7 @@ Kentucky,KY,,,,,65,432,,,0,2,06/29/2020,
 Louisiana,LA,,,,,193,627,152,559,3,16,06/30/2020,
 Maine,ME,,,1061,,1,4,1,4,0,0,07/01/2020,
 Maryland,MD,6168,,15909,,437,581,290,156,1,8,06/30/2020,The number of prisoner tests reported this week dropped dramatically and we're inquiring as to why.
-Massachusetts,MA,,,8263,,169,391,167,379,0,8,06/30/2020,
+Massachusetts,MA,,,8263,,169,390,167,379,0,8,06/30/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,38300,,376,4015,336,2667,2,68,06/30/2020,"An earlier version of the number of staff recovered had a typo, and has been corrected."
 Minnesota,MN,,,11350,,61,341,,,0,2,06/30/2020,
 Mississippi,MS,192,,213,,42,71,,,,,06/30/2020,
@@ -142,7 +193,7 @@ Pennsylvania,PA,912,,5513,,191,279,146,221,1,10,06/30/2020,
 Rhode Island,RI,,,,,17,18,17,12,0,0,06/29/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
 South Carolina,SC,,,794,,122,255,78,101,1,2,06/30/2020,
 South Dakota,SD,63,,123,,5,4,5,4,0,0,06/30/2020,
-Tennessee,TN,,,,23143,99,3173,93,3166,0,4,06/30/2020,
+Tennessee,TN,4865,4905,,23143,99,3173,93,3166,0,4,06/30/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
 Texas,TX,35407,,117639,,1455,8240,928,6790,8,79,06/29/2020,
 Utah,UT,,,544,,4,28,4,12,0,0,06/30/2020,
 Vermont,VT,,,1327,2156,20,47,19,45,0,0,06/30/2020,"The number of prisoner cases dropped by 3 this week to 47. Numbers are lower than last week for prisoner tests and total positive tests. They did some checks on their data and found that inmate tests contained 27 duplicates. Also added a line for ""unique positive cases"" which is lower than last week's positive tests, which included some inmates that got multiple positive results."
@@ -172,7 +223,7 @@ Kentucky,KY,,,,,61,430,,,0,2,06/23/2020,
 Louisiana,LA,,,,,181,624,140,537,3,15,06/23/2020,
 Maine,ME,,,999,,1,4,1,4,0,0,06/23/2020,
 Maryland,MD,4788,,16429,,422,433,281,119,1,8,06/22/2020,
-Massachusetts,MA,,,8009,,169,391,167,387,0,8,06/23/2020,
+Massachusetts,MA,,,8009,,169,390,167,387,0,8,06/23/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,38191,,375,3991,,2367,2,68,06/23/2020,
 Minnesota,MN,,,9614,,61,334,,,0,1,06/23/2020,"The week of June 23, one prisoner’s death was miscategorized as a staff member’s death. That number has been corrected. According to the Minnesota Department of Corrections, 63 staff have recovered from COVID-19 or returned to work. However, this category includes staff who were presumed to have COVID-19 and weren't tested. We didn't include this number since the DOC can't separate staff who were recovered and staff who returned to work."
 Mississippi,MS,168,,143,,34,60,,,,1,06/23/2020,
@@ -193,7 +244,7 @@ Pennsylvania,PA,890,,4872,,188,271,143,217,1,10,06/23/2020,
 Rhode Island,RI,,,,,,,,,0,0,06/23/2020,Deaths filled in based on later weeks' reports.
 South Carolina,SC,,,585,,97,133,67,81,1,2,06/23/2020,
 South Dakota,SD,60,,117,,5,4,4,4,0,0,06/23/2020,
-Tennessee,TN,4905,,,23141,99,3171,93,3078,0,4,06/23/2020,
+Tennessee,TN,4865,4905,,23141,99,3171,93,3078,0,4,06/23/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
 Texas,TX,32115,,108367,,1237,7575,846,6255,8,69,06/23/2020,
 Utah,UT,,,364,,4,14,4,10,0,0,06/22/2020,
 Vermont,VT,,971,1330,1888,20,47,19,43,0,0,06/24/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
@@ -223,7 +274,7 @@ Kentucky,KY,,,,,57,409,48,346,0,2,06/16/2020,
 Louisiana,LA,,,,,171,616,131,475,3,15,06/16/2020,
 Maine,ME,,,960,,1,4,1,4,0,0,06/16/2020,
 Maryland,MD,4036,,7892,,407,359,266,90,1,8,06/15/2020,
-Massachusetts,MA,,,7795,,169,391,165,385,0,8,06/16/2020,
+Massachusetts,MA,,,7795,,169,390,165,385,0,8,06/16/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,2283,,38122,,372,3982,318,2236,2,68,06/16/2020,
 Minnesota,MN,,,6643,,59,289,58,,0,0,06/16/2020,
 Mississippi,MS,155,,131,,30,35,,,,1,06/16/2020,Prisoner deaths based on past weeks.
@@ -244,7 +295,7 @@ Pennsylvania,PA,872,,3995,,187,265,138,211,1,10,06/16/2020,
 Rhode Island,RI,,,,,,,,,0,0,06/18/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,,,525,,91,109,61,74,1,2,06/18/2020,
 South Dakota,SD,58,,115,,5,4,4,4,0,0,06/16/2020,
-Tennessee,TN,4905,,,22987,97,3137,75,3076,0,4,06/16/2020,
+Tennessee,TN,4865,4905,,22987,97,3137,75,3076,0,4,06/16/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
 Texas,TX,31715,,107696,,1129,7467,763,4824,8,54,06/16/2020,
 Utah,UT,,,315,,4,14,4,10,0,0,06/15/2020,
 Vermont,VT,,,1230,,20,45,19,43,0,0,06/16/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
@@ -274,7 +325,7 @@ Kentucky,KY,,,,,57,367,44,284,0,2,06/09/2020,
 Louisiana,LA,,,,,165,606,105,312,3,15,06/09/2020,
 Maine,ME,,,957,,1,4,1,4,0,0,06/09/2020,
 Maryland,MD,3719,,6437,,400,234,230,51,1,8,06/08/2020,
-Massachusetts,MA,,,7761,,165,390,158,359,0,8,06/09/2020,
+Massachusetts,MA,,,7761,,165,389,158,359,0,8,06/09/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,1946,,37997,,370,3948,308,2236,2,68,06/09/2020,
 Minnesota,MN,,,4063,,57,200,56,,0,0,06/09/2020,
 Mississippi,MS,141,,79,,27,33,,,,1,06/09/2020,Prisoner deaths based on past weeks.
@@ -295,7 +346,7 @@ Pennsylvania,PA,836,,3578,,185,258,127,196,1,9,06/09/2020,
 Rhode Island,RI,1194,,1679,,,,,,0,0,06/10/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now. The earlier data: The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
 South Carolina,SC,,,402,,83,102,56,68,1,2,06/09/2020,
 South Dakota,SD,55,,109,,4,4,3,3,0,0,06/09/2020,
-Tennessee,TN,4905,,,22840,97,3079,69,2653,0,4,06/09/2020,
+Tennessee,TN,4865,4905,,22840,97,3079,69,2653,0,4,06/09/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
 Texas,TX,28705,,96894,,1053,6998,630,2669,7,46,06/09/2020,
 Utah,UT,,,315,,4,14,4,10,0,0,06/09/2020,"The number of prisoners tested jumped from last week because the department is now testing new arrivals, unless they decline, in which case they're quarantined for 2 weeks. All intake happens one day a week, on Wednesdays.The PIO clarified that ""intakes tested"" in their tracker is in fact a subset of ""inmates tested."""
 Vermont,VT,,798,1214,1432,20,45,19,43,0,0,06/09/2020,"Number of staff tests is since 5/1. State DOH is working on a records request to provie the total number of staff tests from the beginning ot the pandemic. At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
@@ -325,7 +376,7 @@ Kentucky,KY,,,,,55,363,40,43,0,2,06/02/2020,
 Louisiana,LA,,,,,158,556,93,110,3,14,06/02/2020,
 Maine,ME,,,952,,1,4,1,0,0,0,06/02/2020,
 Maryland,MD,1624,,1321,,368,186,211,51,0,8,06/02/2020,
-Massachusetts,MA,,,7679,,165,390,158,339,0,8,06/02/2020,
+Massachusetts,MA,,,7679,,165,389,158,339,0,8,06/02/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,37947,,368,3918,238,2068,2,68,06/02/2020,"Michigan revised the number of prisoners tested this week after finding some prisoners were inadvertently counted twice, or the numbers of people in an entire prison were reported rather than the number tested."
 Minnesota,MN,,,2530,,55,125,54,,0,0,06/02/2020,
 Mississippi,MS,123,,73,,18,30,,,,1,06/02/2020,1 prisoner death based on news reporting
@@ -376,7 +427,7 @@ Kentucky,KY,,,,,53,359,40,43,0,2,05/27/2020,
 Louisiana,LA,,,,,149,511,70,38,3,14,05/27/2020,"In recent weeks, Louisiana adjusted their figures upon finding in some instances, they were counting positive tests rather than individuals. This resulted in a drop in the number of reported staff cases this week."
 Maine,ME,,,494,,1,4,1,0,0,0,05/27/2020,
 Maryland,MD,,,,,251,145,157,39,0,6,05/25/2020,
-Massachusetts,MA,,,5724,,165,380,120,281,0,8,05/28/2020,
+Massachusetts,MA,,,5724,,165,379,120,281,0,8,05/28/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,1826,,38145,,359,3341,,292,2,62,05/27/2020,
 Minnesota,MN,,,2491,,55,124,,,0,0,05/27/2020,
 Mississippi,MS,91,,69,,15,28,,,,1,05/27/2020,
@@ -427,7 +478,7 @@ Kentucky,KY,,,,,52,358,,,0,2,05/20/2020,
 Louisiana,LA,,,,,164,438,,,3,11,05/20/2020,
 Maine,ME,,,156,,1,1,,,0,0,05/20/2020,
 Maryland,MD,,,,,233,102,,,0,5,05/18/2020,
-Massachusetts,MA,,,4767,,165,375,,,0,8,05/21/2020,
+Massachusetts,MA,,,4767,,165,374,,,0,8,05/21/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,35760,,336,3262,,,2,59,05/20/2020,
 Minnesota,MN,,,879,,50,116,,,0,0,05/20/2020,
 Mississippi,MS,53,,56,,9,20,,,0,1,05/20/2020,
@@ -478,7 +529,7 @@ Kentucky,KY,,,,,52,357,,,0,2,05/13/2020,
 Louisiana,LA,,,,,134,374,,,3,10,05/13/2020,
 Maine,ME,,,28,,1,0,,,0,0,05/13/2020,
 Maryland,MD,,,,,213,77,,,0,4,05/11/2020,
-Massachusetts,MA,,,2825,,157,362,,,0,7,05/13/2020,
+Massachusetts,MA,,,2825,,157,361,,,0,7,05/13/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,18099,,313,2173,,,2,55,05/13/2020,
 Minnesota,MN,,,758,,48,111,,,0,0,05/13/2020,
 Mississippi,MS,46,,47,,8,10,,,0,1,05/13/2020,
@@ -529,7 +580,7 @@ Kentucky,KY,,,,,51,340,,,0,2,05/06/2020,
 Louisiana,LA,,,,,120,338,,,3,4,05/06/2020,
 Maine,ME,,,23,,1,0,,,0,0,05/06/2020,
 Maryland,MD,,,,,183,61,,,0,2,05/04/2020,
-Massachusetts,MA,,,1906,,151,351,,,0,7,05/06/2020,
+Massachusetts,MA,,,1906,,151,350,,,0,7,05/06/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,8113,,293,2073,,,2,47,05/06/2020,
 Minnesota,MN,,,428,,43,83,,,0,0,05/06/2020,
 Mississippi,MS,43,,37,,7,4,,,0,1,05/05/2020,
@@ -580,7 +631,7 @@ Kentucky,KY,,,,,30,47,,,0,2,04/29/2020,
 Louisiana,LA,,,,,104,273,,,3,3,04/29/2020,
 Maine,ME,,,23,,1,0,,,0,0,04/29/2020,23 inmate tests includes 22 adults and 1 juvenile (same as last week) / 1 positive staff member was a contractor from Wellpath and has since recovered and returned to work.
 Maryland,MD,,,,,174,52,,,0,2,04/29/2020,
-Massachusetts,MA,,,747,,120,257,,,0,7,04/29/2020,
+Massachusetts,MA,,,747,,120,256,,,0,7,04/29/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,3117,,268,1412,,,2,41,04/29/2020,
 Minnesota,MN,,,334,,39,79,,,0,0,04/29/2020,
 Mississippi,MS,,,27,,4,4,,,0,1,04/27/2020,Staff deaths backfilled from 5/6 update.
@@ -631,7 +682,7 @@ Kentucky,KY,,,,,15,19,,,0,1,04/22/2020,
 Louisiana,LA,,,,,78,120,,,3,2,04/22/2020,
 Maine,ME,,,17,,1,0,,,0,0,04/22/2020,
 Maryland,MD,,,,,135,45,,,0,1,04/22/2020,COs are 127 only.
-Massachusetts,MA,,,296,,93,127,,,0,7,04/22/2020,
+Massachusetts,MA,,,296,,93,126,,,0,7,04/22/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,1089,,230,717,,,2,25,04/22/2020,
 Minnesota,MN,,,183,,,29,,,0,0,04/22/2020,
 Mississippi,MS,,,20,,3,4,,,0,1,04/17/2020,relying on news reports. this one was published 4/17: https://www.clarionledger.com/story/news/2020/04/17/more-mississippi-inmates-tested-positive-covid-19/5151359002/ There were 3 staff cases as of 4/15. Staff deaths backfilled from 5/6 update.
@@ -682,7 +733,7 @@ Kentucky,KY,81,,44,,13,18,,,0,0,04/15/2020,"Three prisoners have died in the pas
 Louisiana,LA,,,,,55,65,,,1,0,04/15/2020,
 Maine,ME,,,17,,1,0,,,0,0,04/15/2020,
 Maryland,MD,,,,,75,18,,,0,1,04/13/2020,Staff is for all staff. COs only are 47.
-Massachusetts,MA,,,,,42,90,,,0,4,04/15/2020,
+Massachusetts,MA,,,,,42,89,,,0,4,04/15/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,748,,181,481,,,2,13,04/15/2020,
 Minnesota,MN,,,56,,,15,,,0,0,04/15/2020,
 Mississippi,MS,,,9,,3,1,,,0,1,04/13/2020,Staff deaths backfilled from 5/6 update.
@@ -733,7 +784,7 @@ Kentucky,KY,,,,,5,9,,,0,0,04/09/2020,
 Louisiana,LA,,,,,32,33,,,0,0,04/08/2020,
 Maine,ME,,,15,,1,0,,,0,0,04/08/2020,
 Maryland,MD,,,,,47,10,,,0,0,04/09/2020,All staff are 47. COs only is 22.
-Massachusetts,MA,,,,,26,46,,,0,3,04/08/2020,
+Massachusetts,MA,,,,,26,45,,,0,3,04/08/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,460,,137,305,,,2,2,04/08/2020,
 Minnesota,MN,,,40,,,9,,,0,0,04/07/2020,
 Mississippi,MS,,,,,,,,,0,,04/08/2020,Staff deaths backfilled from 5/6 update.
@@ -784,7 +835,7 @@ Kentucky,KY,,,,,,,,,,,04/01/2020,
 Louisiana,LA,,,,,5,14,,,0,0,04/01/2020,
 Maine,ME,,,11,,,0,,,0,0,04/01/2020,
 Maryland,MD,,,,,14,3,,,0,0,04/03/2020,
-Massachusetts,MA,,,,,7,20,,,0,0,04/01/2020,
+Massachusetts,MA,,,,,7,19,,,0,0,04/01/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
 Michigan,MI,,,,,25,122,,,1,1,04/01/2020,
 Minnesota,MN,,,28,,1,3,,,0,0,04/01/2020,
 Mississippi,MS,,,,,3,0,,,0,0,04/06/2020,"according to this story from 4/6. At a press conference the commissioner cofirmed some numbers, which are currently 3 positive staff and 0 positive inmates, true as of 4/6: https://www.clarionledger.com/story/news/2020/04/06/two-mississippi-prison-system-employees-test-positive-coronavirus/5117825002/"
