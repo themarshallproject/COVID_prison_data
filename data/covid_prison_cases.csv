@@ -1,4 +1,55 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,,736,,291,199,166,114,2,15,07/28/2020,
+Alaska,AK,,,,2345,15,17,,2,0,0,07/28/2020,
+Arizona,AZ,,,5227,,520,824,441,397,,16,07/28/2020,
+Arkansas,AR,2878,,8763,,309,3851,221,3007,1,27,07/28/2020,
+California,CA,,,65843,,1665,7706,689,5790,3,47,07/28/2020,
+Colorado,CO,,,7968,16452,91,841,78,691,0,3,07/28/2020,
+Connecticut,CT,,4900,,10840,386,1401,378,1330,0,7,07/28/2020,
+Delaware,DE,,,,,155,528,106,444,,8,07/29/2020,
+Florida,FL,,,,45885,1486,6946,,,,46,07/28/2020,
+Georgia,GA,,,,,442,1166,251,1009,1,31,07/28/2020,
+Hawaii,HI,,,131,,0,0,0,0,0,0,07/28/2020,
+Idaho,ID,861,,1965,,90,772,65,477,0,0,07/28/2020,
+Illinois,IL,,,2185,,267,360,210,332,0,13,07/28/2020,
+Indiana,IN,1393,,2320,,306,706,279,694,2,20,07/28/2020,
+Iowa,IA,,,,5853,63,372,40,313,0,3,07/28/2020,
+Kansas,KS,,,,3961,129,925,119,910,3,4,07/29/2020,
+Kentucky,KY,,,,,120,807,,,0,8,07/28/2020,
+Louisiana,LA,1329,,2151,,295,833,204,601,5,17,07/28/2020,
+Maine,ME,,,1262,,1,4,1,4,0,0,07/28/2020,
+Maryland,MD,6826,,18883,,479,641,426,616,1,8,07/27/2020,
+Massachusetts,MA,,,8601,,170,390,168,381,0,8,07/28/2020,
+Michigan,MI,,,37244,,411,3877,368,3586,3,68,07/28/2020,
+Minnesota,MN,,,,24619,75,461,75,383,0,2,07/28/2020,
+Mississippi,MS,283,,386,,80,114,,,,,07/27/2020,
+Missouri,MO,,,19483,,125,520,60,179,0,1,07/28/2020,
+Montana,MT,447,,1924,,8,36,,,,,07/29/2020,The number of staff tests dropped this week by 11.
+Nebraska,NE,,,935,,,8,,8,0,0,07/24/2020,
+Nevada,NV,,,,,66,22,29,20,0,0,07/28/2020,
+New Hampshire,NH,,,52,,11,1,11,1,0,0,07/28/2020,
+New Jersey,NJ,,,,,781,2892,,,,49,07/28/2020,
+New Mexico,NM,5862,,9041,,50,500,13,438,0,4,07/28/2020,
+New York,NY,,,,5830,1308,604,1257,537,5,17,07/28/2020,
+North Carolina,NC,,,26330,,356,1407,269,888,1,8,07/28/2020,
+North Dakota,ND,1368,1847,1323,2046,8,8,7,7,0,0,07/28/2020,
+Ohio,OH,,,19101,,940,5195,798,4300,5,88,07/28/2020,
+Oklahoma,OK,,,5994,,58,117,,12,0,0,07/28/2020,
+Oregon,OR,,,2298,,109,412,51,317,0,1,07/28/2020,
+Pennsylvania,PA,1129,,7999,,216,304,183,237,1,10,07/28/2020,
+Rhode Island,RI,,,,,,,,,,,,
+South Carolina,SC,,,2376,,263,786,158,214,1,9,07/29/2020,
+South Dakota,SD,67,,133,,6,5,5,4,0,0,07/28/2020,
+Tennessee,TN,,,,23577,158,3213,112,3185,0,5,07/28/2020,
+Texas,TX,50607,,161371,,3213,15241,1860,10686,14,102,07/28/2020,
+Utah,UT,,,796,,4,41,4,15,0,0,07/29/2020,
+Vermont,VT,,1309,1492,2919,20,48,19,46,0,0,07/28/2020,
+Virginia,VA,,,28590,,478,1876,346,1484,0,13,07/29/2020,
+Washington,WA,,,3209,3375,123,315,,200,1,2,07/28/2020,
+West Virginia,WV,,4391,,5172,26,126,25,126,0,0,07/28/2020,
+Wisconsin,WI,,,,25251,115,299,94,293,0,0,07/28/2020,
+Wyoming,WY,,,,,,,,,,,,
+Federal,US,,,36226,,1142,10779,681,6870,1,105,07/28/2020,
 Alabama,AL,,,664,,269,165,151,41,2,14,07/22/2020,
 Alaska,AK,,,,2168,12,16,,2,0,0,07/22/2020,
 Arizona,AZ,,,4905,,439,684,370,376,,13,07/21/2020,
@@ -6,37 +57,37 @@ Arkansas,AR,2378,,8583,,259,3789,214,2970,1,25,07/21/2020,
 California,CA,,,59808,,1486,7066,616,4940,3,40,07/21/2020,
 Colorado,CO,,,7386,13723,73,783,63,628,0,3,07/21/2020,
 Connecticut,CT,976,,10016,,383,1344,377,1324,0,7,07/21/2020,
-Delaware,DE,,,,,153,508,92,391,,7,07/22/2020,
+Delaware,DE,,,,,153,508,92,391,1,7,07/22/2020,
 Florida,FL,,,,38427,1113,3898,,,,34,07/21/2020,
 Georgia,GA,,,,,361,1113,216,881,1,26,07/21/2020,
 Hawaii,HI,,,119,,0,0,0,0,0,0,07/21/2020,
 Idaho,ID,658,,1818,1884,86,763,47,100,0,0,07/21/2020,
 Illinois,IL,,,1800,,237,343,198,307,0,13,07/21/2020,
-Indiana,IN,1464,,2186,,337,729,308,716,2,20,07/21/2020,
+Indiana,IN,1352,,2112,,304,703,276,690,2,20,07/21/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,,5096,61,333,32,208,0,1,07/21/2020,
 Kansas,KS,,,,3031,122,911,114,906,2,4,07/22/2020,
 Kentucky,KY,,,,,108,770,,,0,6,07/20/2020,
 Louisiana,LA,1182,,1845,,262,713,184,576,4,16,07/21/2020,
-Maine,ME,,,1192,,1,4,1,4,4,0,07/21/2020,
+Maine,ME,,,1192,,1,4,1,4,0,0,07/21/2020,This week's data incorrectly listed 4 staff deaths in Maine. It has been corrected.
 Maryland,MD,,6777,18844,,465,637,425,538,1,8,07/20/2020,
 Massachusetts,MA,,,8562,,170,390,167,381,0,8,07/21/2020,
 Michigan,MI,,,37189,,397,3870,348,3585,3,68,07/21/2020,"Michigan said it has been auditing its testing numbers to ensure they are counting unique prisoners and not total number of tests, and thus adjusted their figures downward this week. They said they have finished their audit and don't anticipate future such adjustments."
 Minnesota,MN,,,19993,,71,391,70,308,0,2,07/20/2020,
 Mississippi,MS,,282,,463,73,105,,,,,07/21/2020,
 Missouri,MO,,,17907,,113,395,47,148,0,1,07/21/2020,
-Montana,MT,563,,2086,,5,13,,,0,0,07/21/2020,
+Montana,MT,458,,1886,,5,13,,,0,0,07/21/2020,The number of prisoner and staff cases and tests were later revised to exclude the Pine Hill juvenile facility.
 Nebraska,NE,,,928,,,8,,8,,0,07/17/2020,
-Nevada,NV,,,,,55,,27,17,0,0,07/21/2020,
+Nevada,NV,,,,,55,19,27,17,0,0,07/21/2020,The prisoner cases were updated with one additional case of someone who tested positive before entering the system.
 New Hampshire,NH,,,49,,11,1,11,1,0,0,07/21/2020,
 New Jersey,NJ,,,,,781,2892,,,,49,07/21/2020,
 New Mexico,NM,5389,,8101,,45,485,12,383,0,4,07/22/2020,
 New York,NY,,,,5371,1307,601,,524,5,16,07/23/2020,
 North Carolina,NC,3009,,,17382,295,1086,229,855,1,5,07/22/2020,
-North Dakota,ND,1367,1538,1356,2081,7,7,4,7,0,0,07/21/2020,
+North Dakota,ND,1263,1434,1323,2046,7,7,4,7,0,0,07/21/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,17941,,905,5132,780,4263,5,88,07/21/2020,
-Oklahoma,OK,,,4928,,37,14,,9,,,07/21/2020,
+Oklahoma,OK,,,4928,,37,14,,9,0,0,07/21/2020,
 Oregon,OR,,,1964,,97,331,49,166,0,1,07/21/2020,
-Pennsylvania,PA,1073,,7549,,210,297,168,237,1,10,07/21/2020,
+Pennsylvania,PA,1073,,7504,,210,267,168,237,1,10,07/21/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,,,,,,,0,0,07/23/2020,
 South Carolina,SC,,,1871,,231,651,112,155,1,8,07/21/2020,
 South Dakota,SD,67,,131,,6,4,5,4,0,0,07/21/2020,
@@ -46,9 +97,9 @@ Utah,UT,,,687,,4,38,4,14,0,0,07/20/2020,
 Vermont,VT,,,1451,2778,20,48,19,45,0,0,07/21/2020,
 Virginia,VA,,,25567,,435,1821,322,1472,0,13,07/21/2020,
 Washington,WA,,,,3026,111,303,,,1,2,07/21/2020,
-West Virginia,WV,,4334,,9647,25,127,23,127,0,0,07/21/2020,
+West Virginia,WV,,4334,,5162,25,126,23,126,0,0,07/21/2020,This week's number inadvertently included one case from a jail and has been updated.
 Wisconsin,WI,,,,24717,93,296,82,286,0,0,07/21/2020,
-Wyoming,WY,,,,,9,3,,,,,07/22/2020,
+Wyoming,WY,380,,866,,8,12,1,0,0,0,07/22/2020,
 Federal,US,,,33336,,995,10154,644,5797,1,102,07/21/2020,
 Alabama,AL,568,,,,220,138,131,29,2,12,07/14/2020,
 Alaska,AK,,,,1593,12,2,,2,0,0,07/14/2020,
@@ -63,7 +114,7 @@ Georgia,GA,,,,,301,1064,190,518,1,25,07/14/2020,
 Hawaii,HI,,,70,,0,0,0,0,0,0,07/14/2020,
 Idaho,ID,407,,,1624,68,694,27,9,0,0,07/14/2020,
 Illinois,IL,,,1600,,214,337,180,278,0,13,07/14/2020,
-Indiana,IN,1416,,2107,,332,728,293,713,2,20,07/14/2020,
+Indiana,IN,1307,,2033,,299,702,263,687,2,20,07/14/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,4004,,51,224,25,35,0,1,07/14/2020,Staff deaths backfilled from later weeks' data.
 Kansas,KS,,,,2796,113,910,113,906,2,4,07/15/2020,Kansas' staff cases was incorrect originally. This number has been updated.
 Kentucky,KY,,,,,83,624,,,0,4,07/14/2020,
@@ -75,7 +126,7 @@ Michigan,MI,,,37627,,385,3801,347,3076,3,68,07/14/2020,"Michigan's prisoner test
 Minnesota,MN,,,,18062,67,390,,296,0,2,07/14/2020,
 Mississippi,MS,,,,,,86,,,,,07/14/2020,
 Missouri,MO,,,15527,,83,245,38,101,0,1,07/14/2020,
-Montana,MT,563,,2086,,3,11,,,0,,07/14/2020,
+Montana,MT,458,,1886,,3,11,,,0,,07/14/2020,The number of prisoner and staff cases and tests were later revised to exclude the Pine Hill juvenile facility.
 Nebraska,NE,,,898,,,8,,8,,0,07/10/2020,
 Nevada,NV,2648,,12368,,49,18,27,17,0,0,07/15/2020,
 New Hampshire,NH,,,43,,11,1,11,1,0,0,07/10/2020,
@@ -83,11 +134,11 @@ New Jersey,NJ,,6713,,22813,781,2892,762,,,49,07/14/2020,
 New Mexico,NM,4363,,7220,,33,467,10,381,0,4,07/14/2020,
 New York,NY,,,4055,,1300,545,1253,495,5,16,07/10/2020,The number of prisoners and staff recovered dropped by 1 each this week. We have not yet learned why they changed.
 North Carolina,NC,2935,,8793,,249,1052,194,802,1,5,07/14/2020,
-North Dakota,ND,1366,1505,1343,2025,7,7,4,7,0,0,07/14/2020,
+North Dakota,ND,1260,1399,1323,2039,7,7,4,7,0,0,07/14/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,16762,,866,5082,719,4215,5,86,07/14/2020,
 Oklahoma,OK,,,4101,,25,11,,8,0,0,07/14/2020,
 Oregon,OR,,,,1651,85,314,46,162,0,1,07/14/2020,
-Pennsylvania,PA,1002,,6802,,200,292,163,226,1,10,07/14/2020,
+Pennsylvania,PA,1002,,6757,,200,262,163,226,1,10,07/14/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,,,,,,,,,,
 South Carolina,SC,,,1171,,189,563,95,128,1,7,07/14/2020,
 South Dakota,SD,64,,130,,5,4,5,4,0,0,07/13/2020,
@@ -114,7 +165,7 @@ Georgia,GA,,,,,252,944,168,496,1,23,07/07/2020,
 Hawaii,HI,,,62,,0,0,0,0,0,0,07/07/2020,
 Idaho,ID,,198,806,807,46,131,11,0,0,0,07/07/2020,"Staff tests don't include private CAPP facility or Eagle Pass, TX facility."
 Illinois,IL,,,1100,,203,337,174,263,0,13,07/07/2020,
-Indiana,IN,1367,,2029,,323,726,289,695,2,20,07/07/2020,
+Indiana,IN,1264,,1955,,293,700,260,669,2,20,07/07/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,2722,,33,96,23,30,0,1,07/07/2020,
 Kansas,KS,,,,2728,122,910,112,906,2,4,07/10/2020,
 Kentucky,KY,,,,,72,528,,,0,2,07/07/2020,
@@ -126,7 +177,7 @@ Michigan,MI,,,38344,,383,4020,347,3011,3,68,07/07/2020,
 Minnesota,MN,,,15043,,61,341,,,0,2,07/07/2020,
 Mississippi,MS,216,,280,,52,80,,,,1,07/07/2020,
 Missouri,MO,,,14641,,70,193,24,45,0,1,07/07/2020,
-Montana,MT,203,,748,,3,3,3,3,0,0,07/07/2020,
+Montana,MT,195,,723,,3,3,3,3,0,0,07/07/2020,The number of prisoner and staff cases and tests were later revised to exclude the Pine Hill juvenile facility.
 Nebraska,NE,,,894,,,8,,7,,0,07/03/2020,
 Nevada,NV,,2648,,12368,41,16,26,15,0,0,07/07/2020,
 New Hampshire,NH,,,40,,11,1,11,1,0,0,07/07/2020,
@@ -134,11 +185,11 @@ New Jersey,NJ,,6713,,22484,781,2869,762,,,46,07/09/2020,
 New Mexico,NM,4191,,6346,,22,461,5,244,0,3,07/07/2020,
 New York,NY,,,2813,,1299,541,1254,496,5,16,07/07/2020,
 North Carolina,NC,2831,,5958,,220,887,169,768,1,5,07/07/2020,
-North Dakota,ND,1082,1201,1342,2020,4,7,4,6,0,0,07/07/2020,
+North Dakota,ND,1238,1376,1323,2003,4,7,4,6,0,0,07/07/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,15553,,838,5055,699,,5,86,07/07/2020,
 Oklahoma,OK,,,3564,,17,9,,5,0,0,07/07/2020,
 Oregon,OR,,,,1246,66,183,42,161,0,1,07/07/2020,
-Pennsylvania,PA,937,,6336,,192,285,154,223,1,10,07/07/2020,
+Pennsylvania,PA,937,,6291,,192,255,154,223,1,10,07/07/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,,,18,18,18,12,0,0,07/09/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
 South Carolina,SC,,,1003,,153,346,82,116,1,5,07/08/2020,
 South Dakota,SD,64,,130,,5,4,5,4,0,0,07/07/2020,
@@ -165,7 +216,7 @@ Georgia,GA,,,,,223,922,156,476,1,22,06/30/2020,
 Hawaii,HI,,,54,,0,0,0,0,0,0,06/30/2020,
 Idaho,ID,,142,375,,22,9,5,0,0,0,06/30/2020,
 Illinois,IL,,,1000,,195,322,170,235,0,13,06/30/2020,
-Indiana,IN,1351,,1859,,323,724,288,691,2,20,06/30/2020,
+Indiana,IN,1248,,1833,,293,698,259,665,2,20,06/30/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,,2290,23,35,18,30,0,0,06/29/2020,
 Kansas,KS,,,,2728,116,910,112,897,2,4,07/01/2020,
 Kentucky,KY,,,,,65,432,,,0,2,06/29/2020,
@@ -177,7 +228,7 @@ Michigan,MI,,,38300,,376,4015,336,2667,2,68,06/30/2020,"An earlier version of th
 Minnesota,MN,,,11350,,61,341,,,0,2,06/30/2020,
 Mississippi,MS,192,,213,,42,71,,,,,06/30/2020,
 Missouri,MO,,,12320,,68,159,15,29,0,1,06/30/2020,
-Montana,MT,203,,748,,3,3,3,3,0,0,06/30/2020,
+Montana,MT,195,,723,,3,3,3,3,0,0,06/30/2020,The number of prisoner and staff cases and tests were later revised to exclude the Pine Hill juvenile facility.
 Nebraska,NE,,,,,,,,,,,,
 Nevada,NV,2560,,12368,,38,15,,,0,0,06/30/2020,
 New Hampshire,NH,,,37,,11,1,11,1,0,0,07/01/2020,
@@ -185,11 +236,11 @@ New Jersey,NJ,,6713,,20342,781,2821,725,,3,46,06/30/2020,
 New Mexico,NM,3683,,5965,,19,450,5,112,0,3,07/01/2020,New Mexico has updated its staff and prisoner case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1421,,1298,519,1252,495,5,16,06/30/2020,
 North Carolina,NC,2420,,4565,,199,799,161,744,1,5,06/30/2020,
-North Dakota,ND,996,1108,1268,1425,4,7,4,5,0,0,06/30/2020,
+North Dakota,ND,894,1004,1246,1417,4,7,4,5,0,0,06/30/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,14595,,799,5002,685,4246,5,86,06/30/2020,
 Oklahoma,OK,,,3002,,16,7,,2,0,0,06/30/2020,
 Oregon,OR,,,826,,55,178,40,155,0,1,06/29/2020,
-Pennsylvania,PA,912,,5513,,191,279,146,221,1,10,06/30/2020,
+Pennsylvania,PA,912,,5468,,191,249,146,221,1,10,06/30/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,,,17,18,17,12,0,0,06/29/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
 South Carolina,SC,,,794,,122,255,78,101,1,2,06/30/2020,
 South Dakota,SD,63,,123,,5,4,5,4,0,0,06/30/2020,
@@ -216,7 +267,7 @@ Georgia,GA,,,,,204,574,148,455,1,22,06/23/2020,
 Hawaii,HI,,,49,,0,0,0,0,0,0,06/23/2020,
 Idaho,ID,99,,73,74,9,0,5,0,0,0,06/23/2020,"Staff tests only includes Idaho DOC. They are not tracking staff testing in Eagle Pass or CAPP, the MTC (Management & Training Corporation) facility south of Boise."
 Illinois,IL,,,900,,187,274,167,225,0,13,06/23/2020,
-Indiana,IN,1330,,1804,,323,707,288,687,2,20,06/23/2020,
+Indiana,IN,1227,,1730,,293,681,259,661,2,20,06/23/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,2091,,22,34,18,30,0,0,06/23/2020,
 Kansas,KS,,,,2723,116,901,68,893,2,4,06/23/2020,
 Kentucky,KY,,,,,61,430,,,0,2,06/23/2020,
@@ -228,7 +279,7 @@ Michigan,MI,,,38191,,375,3991,,2367,2,68,06/23/2020,
 Minnesota,MN,,,9614,,61,334,,,0,1,06/23/2020,"The week of June 23, one prisoner’s death was miscategorized as a staff member’s death. That number has been corrected. According to the Minnesota Department of Corrections, 63 staff have recovered from COVID-19 or returned to work. However, this category includes staff who were presumed to have COVID-19 and weren't tested. We didn't include this number since the DOC can't separate staff who were recovered and staff who returned to work."
 Mississippi,MS,168,,143,,34,60,,,,1,06/23/2020,
 Missouri,MO,,,9223,,55,100,15,29,0,1,06/23/2020,
-Montana,MT,203,,748,,3,3,3,3,0,0,06/23/2020,
+Montana,MT,195,,723,,3,3,3,3,0,0,06/23/2020,The number of prisoner and staff cases and tests were later revised to exclude the Pine Hill juvenile facility.
 Nebraska,NE,,,487,,20,8,13,7,,0,06/23/2020,
 Nevada,NV,2162,,9144,,34,9,,,0,0,06/23/2020,
 New Hampshire,NH,,,34,,11,1,11,0,0,0,06/23/2020,
@@ -236,11 +287,11 @@ New Jersey,NJ,,,,,781,2756,,,,46,06/25/2020,
 New Mexico,NM,3131,,5239,,17,418,5,110,0,3,06/24/2020,New Mexico has updated its case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1321,,1290,517,,492,5,16,06/23/2020,
 North Carolina,NC,,,3509,,162,775,143,665,1,5,06/23/2020,
-North Dakota,ND,996,1101,1258,1364,4,6,4,5,0,0,06/23/2020,
+North Dakota,ND,894,1002,1237,1394,4,6,4,5,0,0,06/23/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,13539,,766,4950,677,,5,84,06/23/2020,
 Oklahoma,OK,,,2560,,15,4,,1,0,0,06/22/2020,
 Oregon,OR,,,773,,51,175,36,139,0,1,06/23/2020,
-Pennsylvania,PA,890,,4872,,188,271,143,217,1,10,06/23/2020,
+Pennsylvania,PA,890,,4827,,188,241,143,217,1,10,06/23/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,,,,,,,0,0,06/23/2020,Deaths filled in based on later weeks' reports.
 South Carolina,SC,,,585,,97,133,67,81,1,2,06/23/2020,
 South Dakota,SD,60,,117,,5,4,4,4,0,0,06/23/2020,
@@ -267,7 +318,7 @@ Georgia,GA,,,,,185,535,134,406,1,20,06/16/2020,
 Hawaii,HI,,,42,,0,0,0,0,0,0,06/16/2020,
 Idaho,ID,86,,67,68,5,0,5,0,0,0,06/16/2020,"Staff tests only includes Idaho DOC. They are not tracking staff testing in Eagle Pass or CAPP, the MTC (Management & Training Corporation) facility south of Boise. Number of prisoner tests includes same prisoner that was tested twice, so 67 inmates tested, 68 tests."
 Illinois,IL,,,263,,179,263,164,218,0,13,06/16/2020,
-Indiana,IN,1299,,1714,,318,699,282,655,2,19,06/16/2020,
+Indiana,IN,1196,,1640,,288,673,254,629,2,19,06/16/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,,1792,18,30,18,23,0,0,06/16/2020,
 Kansas,KS,,,,2710,115,894,68,887,2,4,06/15/2020,
 Kentucky,KY,,,,,57,409,48,346,0,2,06/16/2020,
@@ -279,7 +330,7 @@ Michigan,MI,2283,,38122,,372,3982,318,2236,2,68,06/16/2020,
 Minnesota,MN,,,6643,,59,289,58,,0,0,06/16/2020,
 Mississippi,MS,155,,131,,30,35,,,,1,06/16/2020,Prisoner deaths based on past weeks.
 Missouri,MO,,,6134,,49,58,12,28,0,1,06/16/2020,
-Montana,MT,119,,316,,3,2,,,,,06/17/2020,
+Montana,MT,111,,291,,3,2,,,,,06/17/2020,The number of prisoner and staff cases and tests were later revised to exclude the Pine Hill juvenile facility.
 Nebraska,NE,,,400,,20,7,13,7,,0,06/16/2020,
 Nevada,NV,1563,,8766,,30,8,,,0,0,06/16/2020,
 New Hampshire,NH,,,31,,11,1,11,0,0,0,06/16/2020,
@@ -287,11 +338,11 @@ New Jersey,NJ,6713,,,20995,781,2655,640,,3,46,06/16/2020,"They don't track ""pri
 New Mexico,NM,2982,,4775,,17,320,5,17,0,2,06/17/2020,New Mexico initially reported 60 staff cases this week. It later revised those numbers and we have updated them here. New Mexico has also updated its prisoner case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1304,,1285,517,1229,484,5,16,06/16/2020,
 North Carolina,NC,2441,,2750,,158,714,137,635,1,5,06/17/2020,
-North Dakota,ND,996,1094,1253,1253,4,5,4,5,0,0,06/16/2020,North Dakota DOC has revised its testing numbers in recent weeks.
+North Dakota,ND,892,990,1229,1269,4,5,4,5,0,0,06/16/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,12368,,745,4908,610,4154,5,76,06/16/2020,"The recovered figures from Ohio are only a snapshot, and not cumulative, and the prisoners recovered has dropped slightly in recent weeks."
 Oklahoma,OK,,,2255,,15,2,,1,0,0,06/15/2020,
 Oregon,OR,,,664,,49,175,31,132,0,1,06/16/2020,
-Pennsylvania,PA,872,,3995,,187,265,138,211,1,10,06/16/2020,
+Pennsylvania,PA,872,,3950,,187,235,138,211,1,10,06/16/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,,,,,,,0,0,06/18/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,,,525,,91,109,61,74,1,2,06/18/2020,
 South Dakota,SD,58,,115,,5,4,4,4,0,0,06/16/2020,
@@ -318,7 +369,7 @@ Georgia,GA,,,,,178,473,124,324,1,19,06/09/2020,
 Hawaii,HI,,,40,,0,0,0,0,0,0,06/09/2020,
 Idaho,ID,84,,65,65,5,0,5,0,0,0,06/09/2020,
 Illinois,IL,,,900,,178,231,160,213,0,13,06/09/2020,
-Indiana,IN,1275,,1466,,316,692,279,609,2,19,06/09/2020,
+Indiana,IN,1172,,1393,,286,666,251,583,2,19,06/09/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,1601,,18,30,17,23,0,0,06/09/2020,
 Kansas,KS,,,,2697,115,891,68,858,2,4,06/08/2020,
 Kentucky,KY,,,,,57,367,44,284,0,2,06/09/2020,
@@ -330,7 +381,7 @@ Michigan,MI,1946,,37997,,370,3948,308,2236,2,68,06/09/2020,
 Minnesota,MN,,,4063,,57,200,56,,0,0,06/09/2020,
 Mississippi,MS,141,,79,,27,33,,,,1,06/09/2020,Prisoner deaths based on past weeks.
 Missouri,MO,,,3294,,35,50,12,28,0,1,06/09/2020,
-Montana,MT,119,,316,,3,2,,,0,0,06/09/2020,
+Montana,MT,111,,291,,3,2,,,0,0,06/09/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Nebraska,NE,,,,,,,,,,,,
 Nevada,NV,571,,5001,,28,7,,,0,0,06/09/2020,
 New Hampshire,NH,,,24,,11,1,11,,0,0,06/09/2020,
@@ -338,11 +389,11 @@ New Jersey,NJ,,7146,,,778,2451,,,3,46,06/09/2020,"We've moved the staff tests fi
 New Mexico,NM,2528,,3144,,11,243,4,17,0,2,06/10/2020,New Mexico has updated its case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1280,,1284,512,1217,468,4,16,06/09/2020,
 North Carolina,NC,250,,1955,,152,691,126,624,1,5,06/09/2020,"Staff tests are based on testing information from one facility, Neuse, in May. NC has not updated the figures since."
-North Dakota,ND,996,1094,1253,1253,4,5,4,5,0,0,06/09/2020,North Dakota DOC has revised its testing numbers in recent weeks.
+North Dakota,ND,892,990,1228,1260,4,5,4,5,0,0,06/09/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,11537,,731,4858,589,4133,4,76,06/10/2020,The number of prisoners recovered dropped. A spokeswoman said it's a snapshot in time and some may have been released since last week. We're trying to get a cumulative total figure. The prisoner deaths tally does NOT include an additional prisoner death that is considered 'likely' covid but not confirmed.
 Oklahoma,OK,,,1893,,14,2,,1,0,0,06/08/2020,
 Oregon,OR,,,624,,47,167,29,123,0,1,06/08/2020,
-Pennsylvania,PA,836,,3578,,185,258,127,196,1,9,06/09/2020,
+Pennsylvania,PA,836,,3533,,185,228,127,196,1,9,06/09/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,1194,,1679,,,,,,0,0,06/10/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now. The earlier data: The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
 South Carolina,SC,,,402,,83,102,56,68,1,2,06/09/2020,
 South Dakota,SD,55,,109,,4,4,3,3,0,0,06/09/2020,
@@ -369,7 +420,7 @@ Georgia,GA,,,,,169,439,103,311,1,17,06/02/2020,
 Hawaii,HI,,,34,,0,0,0,0,0,0,06/02/2020,
 Idaho,ID,82,,62,,5,0,5,0,0,0,06/02/2020,
 Illinois,IL,,,750,,175,221,152,196,0,13,06/02/2020,
-Indiana,IN,1244,,1447,,311,685,265,548,2,19,06/02/2020,
+Indiana,IN,1142,,1374,,281,658,236,523,2,19,06/02/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,,1437,18,24,11,8,0,0,06/02/2020,The case numbers were updated because the recovered cases were inadvertantly counted twice.
 Kansas,KS,450,,,2686,112,879,50,853,2,4,06/02/2020,
 Kentucky,KY,,,,,55,363,40,43,0,2,06/02/2020,
@@ -389,11 +440,11 @@ New Jersey,NJ,,,,,767,2062,,,3,46,06/02/2020,Staff deaths based on media reporti
 New Mexico,NM,2295,,,3325,8,164,3,0,0,1,06/02/2020,
 New York,NY,,,1228,,1280,511,1135,444,4,16,06/02/2020,
 North Carolina,NC,250,,1855,,,683,,615,1,5,06/02/2020,Staff tests from Neuse CI only
-North Dakota,ND,872,970,1253,1253,4,5,4,4,0,0,06/02/2020,North Dakota DOC has revised its testing numbers in recent weeks.
+North Dakota,ND,768,866,1228,1259,4,5,4,4,0,0,06/02/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,10151,,675,4769,523,4143,4,76,06/02/2020,
 Oklahoma,OK,,,1700,,14,2,,1,0,0,06/02/2020,
 Oregon,OR,,,611,,46,165,24,101,0,1,06/02/2020,
-Pennsylvania,PA,785,,2916,,178,252,115,182,1,8,06/02/2020,
+Pennsylvania,PA,785,,2871,,178,244,115,182,1,8,06/02/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,1031,,1068,,,,,,0,0,06/01/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now. The earlier data: The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
 South Carolina,SC,,,331,,77,95,52,51,1,2,06/02/2020,
 South Dakota,SD,54,,94,,3,3,3,3,0,0,06/02/2020,
@@ -420,7 +471,7 @@ Georgia,GA,,,,,159,430,95,291,1,17,05/27/2020,
 Hawaii,HI,,,30,,0,0,0,0,0,0,05/27/2020,
 Idaho,ID,80,,57,,5,0,5,0,0,0,05/27/2020,
 Illinois,IL,,,650,,172,215,142,185,0,13,05/28/2020,
-Indiana,IN,1204,,1405,,306,683,224,494,2,18,05/27/2020,
+Indiana,IN,1104,,1339,,277,656,200,472,2,18,05/27/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,1160,,16,23,9,8,0,0,05/27/2020,We updated the number of prisoners who had recovered after Iowa revised its count when one tested positive again.
 Kansas,KS,450,,,2190,112,865,50,852,2,4,05/27/2020,"The state prison spokesman could only provide an estimate of how many staff members have been tested. The estimate was the same as last week,"
 Kentucky,KY,,,,,53,359,40,43,0,2,05/27/2020,
@@ -440,11 +491,11 @@ New Jersey,NJ,,,11505,,743,1592,,,3,43,05/27/2020,Three staff deaths according t
 New Mexico,NM,2248,,,,5,43,,0,0,0,05/28/2020,
 New York,NY,,,1155,,1275,493,1119,414,4,16,05/27/2020,
 North Carolina,NC,250,,1376,,,650,,577,1,5,05/27/2020,"Staff tests from 1 prison, otherwise not testing"
-North Dakota,ND,779,832,1142,1142,4,4,4,0,0,0,05/26/2020,North Dakota DOC has revised its testing numbers in recent weeks.
+North Dakota,ND,675,728,1119,1148,4,4,4,0,0,0,05/26/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,9343,,660,4694,491,4137,4,73,05/27/2020,
 Oklahoma,OK,,,1535,,10,2,,1,,0,05/27/2020,"1 person recovered. The other person was released before results came in, so unclear if they are recovered yet."
 Oregon,OR,,,583,,43,154,9,47,0,1,05/27/2020,
-Pennsylvania,PA,651,,2140,,174,237,108,167,1,6,05/27/2020,
+Pennsylvania,PA,650,,2098,,174,207,108,167,1,6,05/27/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,935,,720,,,,,,0,0,05/28/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now.. Earlier versions of this data for prisoner cases include 6 pre-trial jail inmates who are no longer there — RI is a unified system so these are the equivalent of jail inmates in other states."
 South Carolina,SC,,,,,71,79,47,42,1,2,05/28/2020,
 South Dakota,SD,54,,90,,3,3,3,2,0,0,05/27/2020,
@@ -471,7 +522,7 @@ Georgia,GA,,,,,152,415,,,1,15,05/20/2020,
 Hawaii,HI,,,26,,0,0,,,0,0,05/20/2020,
 Idaho,ID,75,,55,,5,0,,,0,0,05/20/2020,"55 (46 in Idaho, 9 housed in Texas)"
 Illinois,IL,,,600,,166,204,,,0,12,05/20/2020,
-Indiana,IN,1144,,1285,,297,657,,,2,17,05/20/2020,
+Indiana,IN,1047,,1221,,268,631,,,2,17,05/20/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,907,,15,23,,,0,0,05/20/2020,"said have had no new admits in a month, down from 22% over capacity to 10% over"
 Kansas,KS,450,,2085,,112,865,,,2,4,05/20/2020,"Kansas DOC originally released a slightly higher number of prisoners who tested positive, but later revised this figure. Kansas DOC said they could not provide an exact count for staff testing but gave this estimate."
 Kentucky,KY,,,,,52,358,,,0,2,05/20/2020,
@@ -491,11 +542,11 @@ New Jersey,NJ,,,4620,,681,830,,,3,43,05/20/2020,Staff deaths based on media repo
 New Mexico,NM,2248,,1841,,5,22,,,0,0,05/20/2020,
 New York,NY,,,1064,,1228,471,,,4,16,05/20/2020,"61 parolees also have COVID, and 4 died."
 North Carolina,NC,250,,1329,,,644,,,1,5,05/20/2020,
-North Dakota,ND,,,,,,4,,,,0,05/20/2020,"Iniitally 10 positive prisoner cases were reported, but due to a lab error, the state said 6 were false positives. We've adjusted this accordingly."
+North Dakota,ND,555,556,739,761,,4,,,0,0,05/20/2020,"Iniitally 10 positive prisoner cases were reported, but due to a lab error, the state said 6 were false positives. The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility. Staff deaths were backfilled based on 5/27 data."
 Ohio,OH,,,8267,,622,4550,,,4,63,05/20/2020,
 Oklahoma,OK,,,1334,,10,2,,,0,0,05/19/2020,
 Oregon,OR,,,504,,38,143,,,0,1,05/21/2020,
-Pennsylvania,PA,608,,1370,,160,227,,,1,5,05/20/2020,
+Pennsylvania,PA,608,,1328,,160,197,,,1,5,05/20/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,651,,350,,,,,,0,0,05/20/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,425,,169,,70,65,,,1,2,05/20/2020,
 South Dakota,SD,52,,87,,3,2,,,0,0,05/20/2020,
@@ -522,7 +573,7 @@ Georgia,GA,,,,,140,384,,,1,12,05/13/2020,
 Hawaii,HI,,,24,,0,0,,,0,0,05/13/2020,
 Idaho,ID,74,,50,,6,0,,,0,0,05/13/2020,"Staff testing figures do not include figures for the private facilities that incarcerate IDOC inmates – CAPP and Eagle Pass Correctional Facility. Six staff positives,  5 are DOC employees, 1 is a GEO employee at the Eagle Pass Correctional Facility, in Texas."
 Illinois,IL,,,,,160,192,,,0,12,05/14/2020,
-Indiana,IN,1046,,1147,,276,590,,,2,16,05/13/2020,
+Indiana,IN,961,,1136,,250,579,,,2,16,05/13/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,574,,13,21,,,0,0,05/13/2020,
 Kansas,KS,,,,,97,790,,,2,3,05/13/2020,They reported testing all prisoners at Lansing and Wichita work release
 Kentucky,KY,,,,,52,357,,,0,2,05/13/2020,
@@ -542,11 +593,11 @@ New Jersey,NJ,,,603,,599,538,,,3,42,05/13/2020,NJ DOC does not confirm staff dea
 New Mexico,NM,2248,,1678,,4,0,,,0,0,05/13/2020,Tested 100 percent of their staff
 New York,NY,,,725,,1192,443,,,4,16,05/13/2020,
 North Carolina,NC,250,,1301,,29,644,,,1,5,05/13/2020,"Staff tests only from Neuse CI; staff death from sources, DOC not reporting"
-North Dakota,ND,,,60,,,0,,,,0,05/07/2020,
+North Dakota,ND,205,206,117,121,,0,,,0,0,05/13/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility. Staff deaths were backfilled with 5/27 data."
 Ohio,OH,,,7541,,556,4449,,,2,51,05/13/2020,
 Oklahoma,OK,,,1204,,10,2,,,0,0,05/13/2020,
 Oregon,OR,,,395,,32,113,,,0,0,05/13/2020,
-Pennsylvania,PA,541,,710,,148,214,,,0,3,05/13/2020,
+Pennsylvania,PA,541,,668,,148,181,,,0,3,05/13/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,361,,170,,,,,,0,0,05/12/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,425,,152,,63,60,,,1,2,05/13/2020,
 South Dakota,SD,50,,86,,3,2,,,0,0,05/14/2020,
@@ -573,7 +624,7 @@ Georgia,GA,,,,,100,316,,,1,10,05/06/2020,
 Hawaii,HI,,,20,,0,0,,,0,0,05/06/2020,
 Idaho,ID,68,,47,,5,0,,,0,0,05/05/2020,"Idaho's numbers have not included staff cases at 2 private prisons, one in the state (CAPP facility, operated by MTC) and Eagle Pass Correctional Facility in Texas."
 Illinois,IL,,,600,,157,176,,,0,12,05/06/2020,
-Indiana,IN,889,,844,,234,500,,,2,13,05/06/2020,
+Indiana,IN,811,,840,,208,496,,,2,13,05/06/2020,Staff tests and cases and prisoners tests and cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,433,,11,21,,,0,0,05/06/2020,
 Kansas,KS,,,,,96,615,,,0,3,05/06/2020,
 Kentucky,KY,,,,,51,340,,,0,2,05/06/2020,
@@ -593,11 +644,11 @@ New Jersey,NJ,,,276,,575,215,,,2,38,05/06/2020,Staff deaths are from media repor
 New Mexico,NM,64,,14,,4,0,,,0,0,05/06/2020,
 New York,NY,,,619,,1143,415,,,4,15,05/06/2020,
 North Carolina,NC,250,,1234,,29,627,,,0,4,05/06/2020,Staff numbers only from Neuse CI
-North Dakota,ND,116,,32,,3,0,,,0,0,05/01/2020,
+North Dakota,ND,115,,35,,3,0,,,0,0,05/01/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,6922,,483,4312,,,2,42,05/06/2020,
 Oklahoma,OK,,,1034,,9,2,,,0,0,05/06/2020,
 Oregon,OR,,,243,,21,44,,,0,0,05/06/2020,
-Pennsylvania,PA,411,,327,,127,143,,,0,3,05/06/2020,
+Pennsylvania,PA,411,,325,,127,141,,,0,3,05/06/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,200,,110,,,,,,0,0,05/06/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
 South Carolina,SC,,,,,56,42,,,1,2,05/06/2020,
 South Dakota,SD,46,,82,,3,2,,,0,0,05/06/2020,South Dakota initially reported 4 self-reported positives among staff on this day and later changed it to 3.
@@ -624,7 +675,7 @@ Georgia,GA,,,,,86,228,,,1,8,04/29/2020,
 Hawaii,HI,,,16,,0,0,,,0,0,04/29/2020,
 Idaho,ID,62,,34,,4,0,,,0,0,04/29/2020,Another 6 tested in Texas.
 Illinois,IL,,,,,149,155,,,0,10,04/29/2020,
-Indiana,IN,,,,,159,334,,,2,7,04/29/2020,
+Indiana,IN,,,,,143,334,,,2,7,04/29/2020,Staff cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,277,,5,15,,,0,0,04/29/2020,
 Kansas,KS,,,,,79,81,,,0,2,04/29/2020,
 Kentucky,KY,,,,,30,47,,,0,2,04/29/2020,
@@ -644,11 +695,11 @@ New Jersey,NJ,,,196,,518,153,,,2,29,04/29/2020,Staff deaths based on media repor
 New Mexico,NM,32,,8,,1,0,,,0,0,04/30/2020,
 New York,NY,,,553,,1045,370,,,2,10,04/29/2020,Plus another 45 parolees infected and 4 killed.
 North Carolina,NC,250,,1143,,29,596,,,0,2,04/29/2020,Staff numbers are for Neuse prison only
-North Dakota,ND,,,32,,2,0,,,0,0,04/27/2020,Staff deaths backfilled from 5/6 update.
+North Dakota,ND,,,34,,2,0,,,0,0,04/27/2020,"Staff deaths backfilled from 5/6 update. The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,5676,,419,3890,,,2,29,04/29/2020,
 Oklahoma,OK,,,702,,9,2,,,0,0,04/28/2020,
 Oregon,OR,,,117,,15,21,,,0,0,04/29/2020,
-Pennsylvania,PA,336,,148,,90,47,,,0,3,04/29/2020,
+Pennsylvania,PA,336,,143,,90,45,,,0,3,04/29/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,77,,108,,10,3,,,0,0,04/30/2020,"1(former inmate tested during quarantine) 2(new commitments, one is no longer with us. The other is still in our custody)"
 South Carolina,SC,,,,,45,15,,,1,0,04/28/2020,
 South Dakota,SD,36,,74,,2,2,,,0,0,04/29/2020,
@@ -675,7 +726,7 @@ Georgia,GA,,,,,77,155,,,1,4,04/22/2020,
 Hawaii,HI,,,14,,0,0,,,0,0,04/22/2020,
 Idaho,ID,51,,27,,3,0,,,0,0,04/21/2020,
 Illinois,IL,,,,,139,148,,,0,10,04/22/2020,
-Indiana,IN,,,,,101,238,,,0,3,04/22/2020,
+Indiana,IN,,,,,87,238,,,0,3,04/22/2020,Staff cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,182,,3,12,,,0,0,04/22/2020,
 Kansas,KS,,,,,61,52,,,0,0,04/22/2020,
 Kentucky,KY,,,,,15,19,,,0,1,04/22/2020,
@@ -695,11 +746,11 @@ New Jersey,NJ,,,128,,427,101,,,2,16,04/22/2020,92 at prisons plus another 9 at h
 New Mexico,NM,7,,5,,0,0,,,0,0,04/22/2020,
 New York,NY,,,391,,844,239,,,2,6,04/22/2020,Another 35 parolee cases and 4 deaths
 North Carolina,NC,,,723,,,507,,,0,1,04/22/2020,"Prisoner test numbers are low. We were able to get health department figures for Neuse, one hotspot, instead of DOC figures for that facility."
-North Dakota,ND,,,30,,2,0,,,0,0,04/22/2020,"Only conducted resident tests so far, staff tested at the clinic."
+North Dakota,ND,,,32,,2,0,,,0,0,04/22/2020,"Only conducted resident tests so far, staff tested at the clinic. The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,5196,,331,3792,,,1,14,04/22/2020,These tests are only completed. They aren't reporting total tested or pending results yet.
 Oklahoma,OK,,,458,,9,1,,,0,0,04/21/2020,Staff numbers are self-reported
 Oregon,OR,,,,,10,7,,,0,0,04/22/2020,
-Pennsylvania,PA,210,,97,,54,29,,,0,1,04/22/2020,
+Pennsylvania,PA,210,,95,,54,28,,,0,1,04/22/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,103,,6,1,,,0,0,04/22/2020,the 1 case is someone awaiting trial. This is a joint system
 South Carolina,SC,,,,,36,2,,,1,0,04/22/2020,
 South Dakota,SD,,,,,,2,,,0,0,04/23/2020,Staff deaths backfilled from 4/29 update.
@@ -726,7 +777,7 @@ Georgia,GA,,,,,59,67,,,1,3,04/15/2020,
 Hawaii,HI,,,5,,0,0,,,0,0,04/15/2020,
 Idaho,ID,41,,24,,2,0,,,0,0,04/15/2020,"Does not include 6 tested in Texas, 0 positive"
 Illinois,IL,,,,,124,146,,,0,8,04/16/2020,
-Indiana,IN,,,,,55,34,,,0,1,04/15/2020,
+Indiana,IN,,,,,46,34,,,0,1,04/15/2020,Staff cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,59,,1,0,,,0,0,04/15/2020,
 Kansas,KS,,,,,24,21,,,0,0,04/15/2020,
 Kentucky,KY,81,,44,,13,18,,,0,0,04/15/2020,"Three prisoners have died in the past two weeks, but Kentucky didn't test them."
@@ -746,7 +797,7 @@ New Jersey,NJ,,,,,266,50,,,1,5,04/15/2020,
 New Mexico,NM,7,,5,,0,0,,,0,0,04/20/2020,
 New York,NY,,,,,664,160,,,1,5,04/15/2020,The department also provides parolee deaths and today they clarified those deaths include two in custody in local jails and two who were not in custody anywhere.
 North Carolina,NC,,,183,,,46,,,0,0,04/15/2020,
-North Dakota,ND,,,28,,2,0,,,0,0,04/15/2020,
+North Dakota,ND,,,30,,2,0,,,0,0,04/15/2020,"The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,1157,,159,273,,,1,3,04/15/2020,
 Oklahoma,OK,,,309,,8,1,,,0,0,04/15/2020,
 Oregon,OR,,,,,10,5,,,0,0,04/15/2020,
@@ -777,7 +828,7 @@ Georgia,GA,,,,,40,42,,,0,2,04/09/2020,
 Hawaii,HI,,,2,,,0,,,,0,04/08/2020,
 Idaho,ID,24,,21,,2,0,,,0,0,04/08/2020,
 Illinois,IL,,,,,79,112,,,,2,04/08/2020,
-Indiana,IN,,,,,20,10,,,0,0,04/08/2020,
+Indiana,IN,,,,,18,10,,,0,0,04/08/2020,Staff cases were later revised to exclude three juvenile facilities administered by the corrections department.
 Iowa,IA,,,23,,0,0,,,0,0,04/08/2020,Staff cases based on self-reporting
 Kansas,KS,,,,,14,12,,,0,0,04/09/2020,
 Kentucky,KY,,,,,5,9,,,0,0,04/09/2020,
@@ -797,7 +848,7 @@ New Jersey,NJ,,,25,,110,18,,,,,04/08/2020,
 New Mexico,NM,6,,4,,0,0,,,0,0,04/08/2020,
 New York,NY,,,176,,381,62,,,1,2,04/08/2020,
 North Carolina,NC,,,160,,,12,,,0,0,04/08/2020,
-North Dakota,ND,,,20,,,0,,,0,0,04/07/2020,Staff deaths backfilled based on 4/15 responses
+North Dakota,ND,,,26,,,0,,,0,0,04/07/2020,"Staff deaths backfilled based on 4/15 responses. The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,84,,53,19,,,1,0,04/08/2020,
 Oklahoma,OK,,,,,5,1,,,0,0,04/09/2020,
 Oregon,OR,,,,,5,3,,,0,0,04/08/2020,
@@ -848,7 +899,7 @@ New Jersey,NJ,,,8,,26,0,,,0,0,04/01/2020,
 New Mexico,NM,,,,,0,0,,,0,0,04/01/2020,
 New York,NY,,,74,,147,20,,,1,1,04/01/2020,
 North Carolina,NC,,,101,,,1,,,0,0,04/01/2020,
-North Dakota,ND,,,17,,,0,,,0,0,04/01/2020,
+North Dakota,ND,,,18,,,0,,,0,0,04/01/2020,"The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,25,,,0,,,0,0,04/01/2020,
 Oklahoma,OK,,,8,,0,0,,,0,0,04/01/2020,staff have to go to own medical provider for test
 Oregon,OR,,,14,,1,0,,,0,0,04/01/2020,
@@ -899,7 +950,7 @@ New Jersey,NJ,,,,,4,0,,,0,0,03/26/2020,
 New Mexico,NM,0,,1,,0,0,,,0,0,03/26/2020,
 New York,NY,,,28,,40,3,,,0,0,03/26/2020,"13 tests pending, 12 negative, 3 positive."
 North Carolina,NC,,,,,0,0,,,0,0,03/26/2020,
-North Dakota,ND,,,12,,1,0,,,0,0,03/26/2020,
+North Dakota,ND,,,14,,1,0,,,0,0,03/26/2020,"The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,17,,,0,,,0,0,03/26/2020,
 Oklahoma,OK,,,,,0,0,,,0,0,03/26/2020,
 Oregon,OR,,,1,,0,0,,,0,0,03/26/2020,
