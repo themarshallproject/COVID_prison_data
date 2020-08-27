@@ -1,4 +1,55 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,,1490,,355,411,276,235,2,19,08/25/2020,
+Alaska,AK,,,,4082,,39,,,,,08/26/2020,
+Arizona,AZ,,,24156,,673,1880,638,876,,26,08/25/2020,
+Arkansas,AR,5067,,16143,,396,5194,374,4675,1,38,08/25/2020,
+California,CA,,,83324,,2718,10163,1472,8404,9,57,08/25/2020,
+Colorado,CO,,,10368,27290,124,883,119,871,0,3,08/25/2020,
+Connecticut,CT,,,,,,,,,,,,
+Delaware,DE,,1336,,1589,169,541,157,518,1,10,08/27/2020,
+Florida,FL,,7643,,79993,2496,15445,1768,11528,3,88,08/26/2020,
+Georgia,GA,,,,,729,1881,487,1443,1,41,08/25/2020,
+Hawaii,HI,,,1356,,57,243,,0,0,0,08/25/2020,
+Idaho,ID,1371,,4651,,100,1214,96,948,0,1,08/25/2020,
+Illinois,IL,,,,,457,774,334,491,,,08/25/2020,
+Indiana,IN,,1778,,3472,364,962,316,710,2,20,08/25/2020,
+Iowa,IA,,,,9017,95,524,74,397,0,3,08/25/2020,
+Kansas,KS,,,,,185,1408,161,1018,3,4,08/26/2020,
+Kentucky,KY,,,,,149,877,125,674,1,12,08/25/2020,
+Louisiana,LA,2086,,4940,,387,1225,291,921,5,19,08/25/2020,
+Maine,ME,,,1603,,1,4,1,4,0,0,08/25/2020,
+Maryland,MD,,11761,19657,,598,695,469,661,1,8,08/24/2020,
+Massachusetts,MA,,,,,,,,,,,,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
+Michigan,MI,,,37505,,448,5093,405,3786,3,69,08/25/2020,
+Minnesota,MN,,,,34525,109,522,97,,0,2,08/25/2020,
+Mississippi,MS,423,,1011,,129,524,,,,,08/25/2020,
+Missouri,MO,,,26463,,332,918,154,622,0,1,08/25/2020,
+Montana,MT,,,,,9,16,,,0,0,08/21/2020,
+Nebraska,NE,,,953,,,10,,10,,0,08/21/2020,
+Nevada,NV,,,,,94,28,32,25,0,0,08/25/2020,
+New Hampshire,NH,,,72,,11,1,11,1,0,0,08/25/2020,
+New Jersey,NJ,,,,,,,,,,49,08/25/2020,
+New Mexico,NM,,,,11765,80,509,33,480,0,4,08/25/2020,
+New York,NY,,,8556,,1318,755,1282,738,5,17,08/25/2020,
+North Carolina,NC,,,,33022,572,1819,499,1525,1,10,08/25/2020,
+North Dakota,ND,1692,4547,1952,4767,16,11,15,11,0,0,08/25/2020,
+Ohio,OH,,,24411,,1052,5783,934,4502,5,89,08/25/2020,
+Oklahoma,OK,,,8923,,153,679,,210,0,0,08/25/2020,
+Oregon,OR,,,,3598,185,636,139,514,0,3,08/25/2020,
+Pennsylvania,PA,,1442,,11189,289,311,198,239,1,11,08/25/2020,Recovered inmates and staff doesn't include any recovered in community corrections since they don't track people on home assignments or who are released from supervision (does include parole staff now)
+Rhode Island,RI,,,,,,,,,,,,
+South Carolina,SC,,,4376,,402,1462,304,607,1,13,08/25/2020,
+South Dakota,SD,89,,208,,9,5,8,5,0,0,08/25/2020,
+Tennessee,TN,,5231,,24618,274,3367,163,3259,1,9,08/25/2020,
+Texas,TX,,61525,,188613,4265,19599,3159,17649,20,135,08/25/2020,
+Utah,UT,,,1220,,4,46,4,45,0,0,08/24/2020,
+Vermont,VT,,1755,1884,4659,22,240,21,206,0,0,08/25/2020,
+Virginia,VA,,,,,,2621,,,,13,08/25/2020,
+Washington,WA,,,4462,4794,151,431,,368,1,2,08/25/2020,
+West Virginia,WV,,4830,,5416,63,130,52,127,0,0,08/25/2020,
+Wisconsin,WI,,,28763,,190,624,145,342,0,0,08/25/2020,
+Wyoming,WY,,,,,,,,,,,,
+Federal,US,,,46999,,1532,12525,893,10806,1,122,08/25/2020,
 Alabama,AL,,,1393,,348,323,270,188,2,18,08/18/2020,
 Alaska,AK,,,,3729,30,31,,,0,0,08/18/2020,Total staff cases as of 8/20
 Arizona,AZ,,,14871,,654,1612,599,461,,25,08/18/2020,
@@ -7,7 +58,7 @@ California,CA,,,79595,,2385,9650,1100,7868,9,55,08/18/2020,
 Colorado,CO,,,9476,24407,121,877,108,855,0,3,08/18/2020,
 Connecticut,CT,,6135,,13778,394,1500,382,1388,0,7,08/18/2020,
 Delaware,DE,,1329,,1581,169,541,,,1,10,08/18/2020,
-Florida,FL,7416,,,80175,2340,15170,1468,10535,3,77,08/19/2020,
+Florida,FL,,7416,,,2340,15170,1468,10535,3,77,08/19/2020,"This week initially included a value for prisoner tests, that was later revised downwards in the following week. It has been changed to missing pending getting corrected figures from DOC. This week's staff testing numbers were initially noted as staff members tested, but have since been changed to number of tests for staff - which may include the same staff member being tested more than once"
 Georgia,GA,,,,,652,1649,428,1263,1,39,08/18/2020,
 Hawaii,HI,,,963,,41,232,,0,0,0,08/19/2020,
 Idaho,ID,1342,,4506,,99,1136,95,801,0,1,08/18/2020,
@@ -19,7 +70,7 @@ Kentucky,KY,,,,,147,863,114,570,1,12,08/18/2020,
 Louisiana,LA,1724,,3680,,366,1006,281,823,5,19,08/18/2020,
 Maine,ME,,,1508,,1,4,1,4,0,0,08/18/2020,
 Maryland,MD,,10637,19285,,562,683,456,633,1,8,08/17/2020,
-Massachusetts,MA,,,9096,,,391,,382,0,8,08/18/2020,
+Massachusetts,MA,,,9096,,199,419,,382,0,8,08/19/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37493,,439,4611,368,3600,3,68,08/18/2020,
 Minnesota,MN,,,,33530,102,522,92,,0,2,08/18/2020,
 Mississippi,MS,403,,917,,124,445,,,,,08/18/2020,
@@ -30,7 +81,7 @@ Nevada,NV,,,,,87,27,32,23,0,0,08/18/2020,
 New Hampshire,NH,,,69,,11,1,11,1,0,0,08/18/2020,
 New Jersey,NJ,,17529,,43586,981,3119,920,,,49,08/18/2020,
 New Mexico,NM,,,,11196,75,508,26,460,0,4,08/18/2020,
-New York,NY,,,,8519,1317,755,1283,736,5,17,08/18/2020,
+New York,NY,,,,8519,1317,755,,736,5,17,08/18/2020,"This week's staff recovered figures initially included a figure reported by the DOC that was later stated to be incorrect. The DOC did not provide a corrected figure, so it has since then been removed"
 North Carolina,NC,,,,32848,528,1650,437,1351,1,10,08/18/2020,
 North Dakota,ND,1547,3253,1532,3326,14,11,12,10,0,0,08/18/2020,
 Ohio,OH,,,23182,,1035,5669,913,4364,5,87,08/18/2020,
@@ -58,7 +109,7 @@ California,CA,,,75817,,2082,8816,970,7313,9,53,08/11/2020,
 Colorado,CO,,,9011,21883,117,862,100,853,0,3,08/11/2020,
 Connecticut,CT,,5941,,12629,391,1446,379,1388,0,7,08/11/2020,Connecticut revised its initial numbers of tests and recovered cases.
 Delaware,DE,,,,,168,529,147,515,,10,08/12/2020,
-Florida,FL,7042,,,73407,2078,12988,1160,,3,70,08/11/2020,"This week's number of staff deaths initially recorded two deaths, and has since been updated to reflect the death of a third employee on 8/10 which was reported by prison officials on 8/19"
+Florida,FL,,7042,,73407,2078,12988,1160,,3,70,08/11/2020,"This week's number of staff deaths initially recorded two deaths, and has since been updated to reflect the death of a third employee on 8/10 which was reported by prison officials on 8/19. This week's staff testing numbers were initially noted as staff members tested, but have since been changed to number of tests for staff - which may include the same staff member being tested more than once"
 Georgia,GA,,,,,573,1485,342,1175,1,34,08/11/2020,
 Hawaii,HI,,,284,,11,9,,0,0,0,08/11/2020,
 Idaho,ID,1308,,3658,,98,1062,86,713,0,1,08/11/2020,
@@ -70,7 +121,7 @@ Kentucky,KY,,,,,141,851,99,565,0,11,08/11/2020,
 Louisiana,LA,1510,,2733,,341,930,262,760,5,18,08/11/2020,
 Maine,ME,,,1423,,1,4,1,4,0,0,08/11/2020,
 Maryland,MD,,9622,19058,,504,664,439,630,1,8,08/07/2020,
-Massachusetts,MA,,,9006,,171,390,169,382,0,8,08/11/2020,
+Massachusetts,MA,,,9006,,197,418,169,382,0,8,08/12/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37404,,424,4312,368,3598,3,68,08/11/2020,
 Minnesota,MN,,,,31417,95,517,83,485,0,2,08/11/2020,
 Mississippi,MS,390,,857,,117,399,,,,,08/11/2020,
@@ -121,7 +172,7 @@ Kentucky,KY,,,,,129,838,85,555,0,10,08/04/2020,
 Louisiana,LA,1472,,2522,,315,907,237,647,5,17,08/04/2020,
 Maine,ME,,,1357,,1,4,1,4,0,0,08/03/2020,
 Maryland,MD,8393,,19028,,487,659,430,630,1,8,08/03/2020,
-Massachusetts,MA,,,8760,,171,390,168,382,0,8,08/04/2020,
+Massachusetts,MA,,,8760,,197,418,168,382,0,8,08/05/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37325,,415,4037,368,3595,3,68,08/04/2020,Michigan later updated its number of prisoners tested after it miscalculated the number for that day.
 Minnesota,MN,,,27699,,85,505,79,426,0,2,08/04/2020,
 Mississippi,MS,364,,838,,98,390,,,,,08/04/2020,
@@ -172,7 +223,7 @@ Kentucky,KY,,,,,120,807,,,0,8,07/28/2020,
 Louisiana,LA,1329,,2151,,295,833,204,601,5,17,07/28/2020,
 Maine,ME,,,1262,,1,4,1,4,0,0,07/28/2020,
 Maryland,MD,6826,,18883,,479,641,426,616,1,8,07/27/2020,
-Massachusetts,MA,,,8601,,170,390,168,381,0,8,07/28/2020,
+Massachusetts,MA,,,8601,,194,418,168,381,0,8,07/29/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37244,,411,3877,368,3586,3,68,07/28/2020,
 Minnesota,MN,,,,24619,75,461,75,383,0,2,07/28/2020,
 Mississippi,MS,283,,386,,80,114,,,,,07/27/2020,
@@ -223,7 +274,7 @@ Kentucky,KY,,,,,108,770,,,0,6,07/20/2020,
 Louisiana,LA,1182,,1845,,262,713,184,576,4,16,07/21/2020,
 Maine,ME,,,1192,,1,4,1,4,0,0,07/21/2020,This week's data incorrectly listed 4 staff deaths in Maine. It has been corrected.
 Maryland,MD,,6777,18844,,465,637,425,538,1,8,07/20/2020,
-Massachusetts,MA,,,8562,,170,390,167,381,0,8,07/21/2020,
+Massachusetts,MA,,,8562,,194,417,167,381,0,8,07/22/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37189,,397,3870,348,3585,3,68,07/21/2020,"Michigan said it has been auditing its testing numbers to ensure they are counting unique prisoners and not total number of tests, and thus adjusted their figures downward this week. They said they have finished their audit and don't anticipate future such adjustments."
 Minnesota,MN,,,19993,,71,391,70,308,0,2,07/20/2020,
 Mississippi,MS,,282,,463,73,105,,,,,07/21/2020,
@@ -274,7 +325,7 @@ Kentucky,KY,,,,,83,624,,,0,4,07/14/2020,
 Louisiana,LA,1033,,1640,,234,663,174,572,3,16,07/14/2020,Louisiana later revised its staff testing numbers for this week after providing the wrong figure.
 Maine,ME,,,1147,,1,4,1,4,0,0,07/14/2020,
 Maryland,MD,,6713,18740,,452,628,382,401,1,8,07/13/2020,The number of prisoners tested dropped by 184 this week. We are inquiring why the numbers fell so steeply.
-Massachusetts,MA,,,8473,,170,390,165,380,0,8,07/14/2020,"Massachusetts says they incorrectly counted two people as recovered last week who continue to have symptoms and have adjusted their ""recovered"" count accordingly. In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,8473,,194,417,165,380,0,8,07/15/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37627,,385,3801,347,3076,3,68,07/14/2020,"Michigan's prisoner test numbers fell by 717 and cases dropped by 219. ""Our Bureau of Health Care Services has been conducting an audit of cases to make sure only unique positives and negatives were reported. They found some duplicates that needed to be removed, so that cause numbers to drop."""
 Minnesota,MN,,,,18062,67,390,,296,0,2,07/14/2020,
 Mississippi,MS,,,,,,86,,,,,07/14/2020,
@@ -325,7 +376,7 @@ Kentucky,KY,,,,,72,528,,,0,2,07/07/2020,
 Louisiana,LA,,,,,216,641,162,568,3,16,07/07/2020,
 Maine,ME,,,1100,,1,4,1,4,0,0,07/07/2020,
 Maryland,MD,,6413,18924,,448,620,352,366,1,8,07/06/2020,
-Massachusetts,MA,,,8293,,170,390,167,379,0,8,07/07/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,8293,,192,417,167,379,0,8,07/08/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,38344,,383,4020,347,3011,3,68,07/07/2020,
 Minnesota,MN,,,15043,,61,341,,,0,2,07/07/2020,
 Mississippi,MS,216,,280,,52,80,,,,1,07/07/2020,
@@ -376,7 +427,7 @@ Kentucky,KY,,,,,65,432,,,0,2,06/29/2020,
 Louisiana,LA,,,,,193,627,152,559,3,16,06/30/2020,
 Maine,ME,,,1061,,1,4,1,4,0,0,07/01/2020,
 Maryland,MD,6168,,15909,,437,581,290,156,1,8,06/30/2020,The number of prisoner tests reported this week dropped dramatically and we're inquiring as to why.
-Massachusetts,MA,,,8263,,169,390,167,379,0,8,06/30/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,8263,,191,416,167,379,0,8,06/28/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,38300,,376,4015,336,2667,2,68,06/30/2020,"An earlier version of the number of staff recovered had a typo, and has been corrected."
 Minnesota,MN,,,11350,,61,341,,,0,2,06/30/2020,
 Mississippi,MS,192,,213,,42,71,,,,,06/30/2020,
@@ -427,7 +478,7 @@ Kentucky,KY,,,,,61,430,,,0,2,06/23/2020,
 Louisiana,LA,,,,,181,624,140,537,3,15,06/23/2020,
 Maine,ME,,,999,,1,4,1,4,0,0,06/23/2020,
 Maryland,MD,4788,,16429,,422,433,281,119,1,8,06/22/2020,
-Massachusetts,MA,,,8009,,169,390,167,387,0,8,06/23/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,8009,,191,413,167,387,0,8,06/21/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,38191,,375,3991,,2367,2,68,06/23/2020,
 Minnesota,MN,,,9614,,61,334,,,0,1,06/23/2020,"The week of June 23, one prisoner’s death was miscategorized as a staff member’s death. That number has been corrected. According to the Minnesota Department of Corrections, 63 staff have recovered from COVID-19 or returned to work. However, this category includes staff who were presumed to have COVID-19 and weren't tested. We didn't include this number since the DOC can't separate staff who were recovered and staff who returned to work."
 Mississippi,MS,168,,143,,34,60,,,,1,06/23/2020,
@@ -478,7 +529,7 @@ Kentucky,KY,,,,,57,409,48,346,0,2,06/16/2020,
 Louisiana,LA,,,,,171,616,131,475,3,15,06/16/2020,
 Maine,ME,,,960,,1,4,1,4,0,0,06/16/2020,
 Maryland,MD,4036,,7892,,407,359,266,90,1,8,06/15/2020,
-Massachusetts,MA,,,7795,,169,390,165,385,0,8,06/16/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,7795,,191,411,165,385,0,8,06/14/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,2283,,38122,,372,3982,318,2236,2,68,06/16/2020,
 Minnesota,MN,,,6643,,59,289,58,,0,0,06/16/2020,
 Mississippi,MS,155,,131,,30,35,,,,1,06/16/2020,Prisoner deaths based on past weeks.
@@ -529,7 +580,7 @@ Kentucky,KY,,,,,57,367,44,284,0,2,06/09/2020,
 Louisiana,LA,,,,,165,606,105,312,3,15,06/09/2020,
 Maine,ME,,,957,,1,4,1,4,0,0,06/09/2020,
 Maryland,MD,3719,,6437,,400,234,230,51,1,8,06/08/2020,
-Massachusetts,MA,,,7761,,165,389,158,359,0,8,06/09/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,7761,,191,409,158,359,0,8,06/07/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,1946,,37997,,370,3948,308,2236,2,68,06/09/2020,
 Minnesota,MN,,,4063,,57,200,56,,0,0,06/09/2020,
 Mississippi,MS,141,,79,,27,33,,,,1,06/09/2020,Prisoner deaths based on past weeks.
@@ -580,7 +631,7 @@ Kentucky,KY,,,,,55,363,40,43,0,2,06/02/2020,
 Louisiana,LA,,,,,158,556,93,110,3,14,06/02/2020,
 Maine,ME,,,952,,1,4,1,0,0,0,06/02/2020,
 Maryland,MD,1624,,1321,,368,186,211,51,0,8,06/02/2020,
-Massachusetts,MA,,,7679,,165,389,158,339,0,8,06/02/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,7679,,183,407,158,339,0,8,05/31/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37947,,368,3918,238,2068,2,68,06/02/2020,"Michigan revised the number of prisoners tested this week after finding some prisoners were inadvertently counted twice, or the numbers of people in an entire prison were reported rather than the number tested."
 Minnesota,MN,,,2530,,55,125,54,,0,0,06/02/2020,
 Mississippi,MS,123,,73,,18,30,,,,1,06/02/2020,1 prisoner death based on news reporting
@@ -631,7 +682,7 @@ Kentucky,KY,,,,,53,359,40,43,0,2,05/27/2020,
 Louisiana,LA,,,,,149,511,70,38,3,14,05/27/2020,"In recent weeks, Louisiana adjusted their figures upon finding in some instances, they were counting positive tests rather than individuals. This resulted in a drop in the number of reported staff cases this week."
 Maine,ME,,,494,,1,4,1,0,0,0,05/27/2020,
 Maryland,MD,,,,,251,145,157,39,0,6,05/25/2020,
-Massachusetts,MA,,,5724,,165,379,120,281,0,8,05/28/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,5724,,182,396,120,281,0,8,05/25/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,1826,,38145,,359,3341,,292,2,62,05/27/2020,
 Minnesota,MN,,,2491,,55,124,,,0,0,05/27/2020,
 Mississippi,MS,91,,69,,15,28,,,,1,05/27/2020,
@@ -682,7 +733,7 @@ Kentucky,KY,,,,,52,358,,,0,2,05/20/2020,
 Louisiana,LA,,,,,164,438,,,3,11,05/20/2020,
 Maine,ME,,,156,,1,1,,,0,0,05/20/2020,
 Maryland,MD,,,,,233,102,,,0,5,05/18/2020,
-Massachusetts,MA,,,4767,,165,374,,,0,8,05/21/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,4767,,170,380,,,0,8,05/17/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,35760,,336,3262,,,2,59,05/20/2020,
 Minnesota,MN,,,879,,50,116,,,0,0,05/20/2020,
 Mississippi,MS,53,,56,,9,20,,,0,1,05/20/2020,
@@ -733,7 +784,7 @@ Kentucky,KY,,,,,52,357,,,0,2,05/13/2020,
 Louisiana,LA,,,,,134,374,,,3,10,05/13/2020,
 Maine,ME,,,28,,1,0,,,0,0,05/13/2020,
 Maryland,MD,,,,,213,77,,,0,4,05/11/2020,
-Massachusetts,MA,,,2825,,157,361,,,0,7,05/13/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,2825,,163,367,,,0,7,05/10/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,18099,,313,2173,,,2,55,05/13/2020,
 Minnesota,MN,,,758,,48,111,,,0,0,05/13/2020,
 Mississippi,MS,46,,47,,8,10,,,0,1,05/13/2020,
@@ -784,7 +835,7 @@ Kentucky,KY,,,,,51,340,,,0,2,05/06/2020,
 Louisiana,LA,,,,,120,338,,,3,4,05/06/2020,
 Maine,ME,,,23,,1,0,,,0,0,05/06/2020,
 Maryland,MD,,,,,183,61,,,0,2,05/04/2020,
-Massachusetts,MA,,,1906,,151,350,,,0,7,05/06/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,1906,,146,266,,,0,7,05/03/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,8113,,293,2073,,,2,47,05/06/2020,
 Minnesota,MN,,,428,,43,83,,,0,0,05/06/2020,
 Mississippi,MS,43,,37,,7,4,,,0,1,05/05/2020,
@@ -835,7 +886,7 @@ Kentucky,KY,,,,,30,47,,,0,2,04/29/2020,
 Louisiana,LA,,,,,104,273,,,3,3,04/29/2020,
 Maine,ME,,,23,,1,0,,,0,0,04/29/2020,23 inmate tests includes 22 adults and 1 juvenile (same as last week) / 1 positive staff member was a contractor from Wellpath and has since recovered and returned to work.
 Maryland,MD,,,,,174,52,,,0,2,04/29/2020,
-Massachusetts,MA,,,747,,120,256,,,0,7,04/29/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,747,,110,183,,,0,7,04/26/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,3117,,268,1412,,,2,41,04/29/2020,
 Minnesota,MN,,,334,,39,79,,,0,0,04/29/2020,
 Mississippi,MS,,,27,,4,4,,,0,1,04/27/2020,Staff deaths backfilled from 5/6 update.
@@ -886,7 +937,7 @@ Kentucky,KY,,,,,15,19,,,0,1,04/22/2020,
 Louisiana,LA,,,,,78,120,,,3,2,04/22/2020,
 Maine,ME,,,17,,1,0,,,0,0,04/22/2020,
 Maryland,MD,,,,,135,45,,,0,1,04/22/2020,COs are 127 only.
-Massachusetts,MA,,,296,,93,126,,,0,7,04/22/2020,"In late July, Massachusetts identified a case of a prisoner who tested positive and was counted twice. The number of total cases was thus revised."
+Massachusetts,MA,,,296,,67,117,,,0,7,04/19/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,1089,,230,717,,,2,25,04/22/2020,
 Minnesota,MN,,,183,,,29,,,0,0,04/22/2020,
 Mississippi,MS,,,20,,3,4,,,0,1,04/17/2020,relying on news reports. this one was published 4/17: https://www.clarionledger.com/story/news/2020/04/17/more-mississippi-inmates-tested-positive-covid-19/5151359002/ There were 3 staff cases as of 4/15. Staff deaths backfilled from 5/6 update.
