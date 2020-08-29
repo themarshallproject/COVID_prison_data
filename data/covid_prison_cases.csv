@@ -1,11 +1,11 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
 Alabama,AL,,,1490,,355,411,276,235,2,19,08/25/2020,
-Alaska,AK,,,,4082,,39,,,,,08/26/2020,
+Alaska,AK,,,,4082,34,39,,,0,0,08/26/2020,Staff cases as of 8/27
 Arizona,AZ,,,24156,,673,1880,638,876,,26,08/25/2020,
 Arkansas,AR,5067,,16143,,396,5194,374,4675,1,38,08/25/2020,
 California,CA,,,83324,,2718,10163,1472,8404,9,57,08/25/2020,
 Colorado,CO,,,10368,27290,124,883,119,871,0,3,08/25/2020,
-Connecticut,CT,,,,,,,,,,,,
+Connecticut,CT,,6462,,15173,394,1538,385,1449,0,7,08/25/2020,
 Delaware,DE,,1336,,1589,169,541,157,518,1,10,08/27/2020,
 Florida,FL,,7643,,79993,2496,15445,1768,11528,3,88,08/26/2020,
 Georgia,GA,,,,,729,1881,487,1443,1,41,08/25/2020,
@@ -14,12 +14,12 @@ Idaho,ID,1371,,4651,,100,1214,96,948,0,1,08/25/2020,
 Illinois,IL,,,,,457,774,334,491,,,08/25/2020,
 Indiana,IN,,1778,,3472,364,962,316,710,2,20,08/25/2020,
 Iowa,IA,,,,9017,95,524,74,397,0,3,08/25/2020,
-Kansas,KS,,,,,185,1408,161,1018,3,4,08/26/2020,
+Kansas,KS,,1744,,6216,185,1408,161,1018,3,4,08/26/2020,Resident and staff testing numbers as of 8/25
 Kentucky,KY,,,,,149,877,125,674,1,12,08/25/2020,
 Louisiana,LA,2086,,4940,,387,1225,291,921,5,19,08/25/2020,
 Maine,ME,,,1603,,1,4,1,4,0,0,08/25/2020,
 Maryland,MD,,11761,19657,,598,695,469,661,1,8,08/24/2020,
-Massachusetts,MA,,,,,,,,,,,,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
+Massachusetts,MA,,,,9154,202,419,,,,8,08/26/2020,On Aug. 27 we changed our Massachusetts data source to the Massachusetts Supreme Judicial Court. The previous dataset from the Department of Corrections excluded prisoner releases and staff recoveries. All data beginning with April 22 onward has been updated to use SJC figures.
 Michigan,MI,,,37505,,448,5093,405,3786,3,69,08/25/2020,
 Minnesota,MN,,,,34525,109,522,97,,0,2,08/25/2020,
 Mississippi,MS,423,,1011,,129,524,,,,,08/25/2020,
@@ -28,7 +28,7 @@ Montana,MT,,,,,9,17,,,0,0,08/27/2020,
 Nebraska,NE,,,953,,,10,,10,,0,08/21/2020,
 Nevada,NV,,,,,94,28,32,25,0,0,08/25/2020,
 New Hampshire,NH,,,72,,11,1,11,1,0,0,08/25/2020,
-New Jersey,NJ,,,,,,,,,,49,08/25/2020,
+New Jersey,NJ,,24262,,54510,1000,3008,935,,,49,08/25/2020,"The number of cases among inmates decreased because the prison officials took out some cases that were retested and returned negative from the phase 2 positives. Those were tested some time in the last month, but it's unclear how far back those positives had been included in the count"
 New Mexico,NM,,,,11765,80,509,33,480,0,4,08/25/2020,
 New York,NY,,,8556,,1318,755,1282,738,5,17,08/25/2020,
 North Carolina,NC,,,,33022,572,1819,499,1525,1,10,08/25/2020,
