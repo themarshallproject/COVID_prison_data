@@ -60,7 +60,7 @@ It includes these columns:
 
 Any questions that a prison agency could not or would not answer are left blank.
 
-The second table in the dataset, `prison_populations.csv`, contains snapshots of the population of people incarcerated in each of these prison systems.
+The second table in the dataset, `prison_populations.csv`, contains snapshots of the population of people incarcerated in each of these prison system for whom data on COVID testing and cases are available. This varies by state and may not always be the entire number of people incarcerated in each system. In some states, it may include other populations, such as those on parole or held in state-run jails. This data is primarily for use in calculating rates of testing and infection, and we would not recommend using these numbers to compare the change in how many people are being held in each prison system. If you need data to look at that fluctutation, we'd suggest you look at [this other dataset we compiled for this purpose](https://github.com/themarshallproject/COVID_prison_population_data).
 
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
@@ -71,6 +71,8 @@ It includes these columns:
 * `as_of_date_april` - The date the data reflect.
 * `june_pop` - The total population of people held in the agency's prisons and secure facilities.
 * `as_of_date_june` - The date the data reflect.
+* `july_pop` - The total population of people in prison in July.
+* `as_of_date_july` - The data the count reflects.
 
 The third table in the dataset, `staff_populations.csv`, contains a one-time, recent snapshot of the headcount of workers for each prison agency, collected as close to April 15 as possible.
 
