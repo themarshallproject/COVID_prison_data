@@ -1,12 +1,63 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
-Alabama,AL,,,,5290,454,508,388,412,2,27,10/26/2020,
+Alabama,AL,,,,6554,490,711,405,458,2,28,11/02/2020,
+Alaska,AK,,,,8121,64,240,,,0,0,11/03/2020,
+Arizona,AZ,,,41196,,792,2648,731,2603,,28,11/03/2020,
+Arkansas,AR,5114,,18771,,,7820,,7325,2,48,11/03/2020,"Arkansas is no longer reporting cumulative staff positive cases, but said they have 65 active staff cases now."
+California,CA,,,101518,,4499,16057,4032,14753,10,80,11/03/2020,
+Colorado,CO,,,17395,58374,366,1718,,,,4,11/03/2020,
+Connecticut,CT,,15308,,22341,503,1674,451,1659,0,7,11/03/2020,
+Delaware,DE,,1587,,2046,211,579,202,546,1,11,11/03/2020,
+Florida,FL,,,,84331,3508,16631,3177,16255,4,180,11/04/2020,
+Georgia,GA,,,,,1019,2063,912,1862,2,78,11/03/2020,
+Hawaii,HI,,,6431,,122,803,109,399,0,0,11/04/2020,
+Idaho,ID,2650,,8977,,195,2169,172,1833,0,3,11/03/2020,
+Illinois,IL,,,13400,,1315,2598,1058,2081,0,31,11/04/2020,
+Indiana,IN,,2777,,8216,565,1597,462,1447,3,28,11/04/2020,
+Iowa,IA,,,,21878,251,1394,182,1246,0,4,11/03/2020,
+Kansas,KS,,,,,475,3653,,,3,9,11/04/2020,
+Kentucky,KY,,,,,208,1250,,,2,13,11/03/2020,A number of the prisoner cases were transferred from county jails.
+Louisiana,LA,2023,,6847,,521,2413,496,2334,5,30,11/03/2020,
+Maine,ME,,,4791,,,79,,,,,11/04/2020,
+Maryland,MD,,27257,32243,,791,1026,742,973,2,11,11/02/2020,
+Massachusetts,MA,,,,11664,262,557,,,,8,11/04/2020,
+Michigan,MI,,36490,39282,196489,920,7284,509,5208,3,74,11/03/2020,
+Minnesota,MN,,,,55766,447,1902,,,0,2,11/03/2020,
+Mississippi,MS,464,,2096,,146,809,,,,,11/03/2020,
+Missouri,MO,,,,50979,1417,3793,1051,2781,2,10,11/03/2020,
+Montana,MT,,,,,199,763,,,0,0,11/02/2020,Staff cases include CoreCivic-run Crossroads Correctional.
+Nebraska,NE,,,2134,3164,,283,,241,,2,11/01/2020,
+Nevada,NV,,,,,171,42,43,27,0,0,11/03/2020,
+New Hampshire,NH,,,134,,12,1,12,1,0,0,11/03/2020,
+New Jersey,NJ,,,,,1059,3052,,,,52,11/03/2020,
+New Mexico,NM,,,,19524,232,808,93,541,0,4,11/03/2020,
+New York,NY,,,,29726,1522,1590,,1227,5,18,11/03/2020,
+North Carolina,NC,,,35144,54440,1296,4330,1059,3512,2,20,11/03/2020,
+North Dakota,ND,,11758,1885,11895,135,137,82,100,0,0,11/03/2020,
+Ohio,OH,,,39003,,1569,6959,1367,5408,5,109,11/03/2020,
+Oklahoma,OK,2763,,19623,,427,4571,,,,26,11/03/2020,
+Oregon,OR,,,,8872,310,1274,287,1166,0,16,11/03/2020,
+Pennsylvania,PA,,2771,,20318,594,841,346,434,2,16,11/03/2020,
+Rhode Island,RI,,,,,104,60,,,0,0,11/05/2020,"Staff cases include 58 cases among non-facility staff and 59 cases among facility staff. However, 13 of these are ""presumptive positives"" and have been subtracted for a total of 104 cases. Among residents, 36 cases are ""new admissions infected prior to admission"" and 28 cases are among residents. Of these 4 were presumptive positives and have been subtracted. The inmate cases do include pre-trial detainees who were released before their tests came back positive. According to DOH contact, no one was released while they were positive"
+South Carolina,SC,,,8045,,528,2356,494,2074,2,31,11/03/2020,
+South Dakota,SD,,298,,3886,128,1791,76,1337,0,0,11/03/2020,
+Tennessee,TN,,,,33907,708,5705,645,5687,2,27,11/06/2020,
+Texas,TX,,78332,,221090,5599,23429,4854,22244,21,166,11/03/2020,
+Utah,UT,,,3465,,80,642,66,355,,0,11/03/2020,
+Vermont,VT,,,2295,7650,24,240,23,238,0,0,11/03/2020,
+Virginia,VA,,,,47204,885,3971,811,3766,1,33,11/03/2020,
+Washington,WA,,,5496,6137,207,531,,495,1,2,11/03/2020,
+West Virginia,WV,,4464,,6870,126,384,111,330,0,2,11/03/2020,
+Wisconsin,WI,,,,56168,1040,4749,824,2995,,10,11/03/2020,"(note: Prisoners_recovered = inactive positive cases - deaths, according to new update on the site)"
+Wyoming,WY,,,,,,,,,,,,
+Federal,US,,,70937,,2327,19184,1396,17041,2,141,11/03/2020,
+Alabama,AL,,,,5339,455,532,388,416,2,27,10/26/2020,Updated this week's totals after seeing last week's numbers we caught halfway into a daily update.
 Alaska,AK,,,,7523,52,186,,,0,0,10/27/2020,
 Arizona,AZ,,,40937,,758,2636,716,2593,,28,10/27/2020,
 Arkansas,AR,5114,,18480,,399,7529,399,6904,2,48,10/27/2020,
 California,CA,,,100145,,4317,15620,3668,14615,10,76,10/27/2020,
 Colorado,CO,,,16111,50385,294,1407,190,987,0,4,10/27/2020,
 Connecticut,CT,,13554,,20646,482,1673,424,1621,0,7,10/27/2020,
-Delaware,DE,,1584,,2002,208,575,171,546,1,17,10/28/2020,"Of 575 inmate cases: 1 active case, 546 recoveries, 11 deaths, and 17 released while still positive"
+Delaware,DE,,1584,,2002,208,575,171,546,1,11,10/28/2020,"The number of deaths for this week was incorrect in our first release. There were 11 deaths in Delaware, not 17. It has been updated in our data."
 Florida,FL,,,,82852,3441,16624,3124,16240,4,170,10/28/2020,
 Georgia,GA,,,,,996,2044,890,1840,2,78,10/27/2020,
 Hawaii,HI,,,5284,,120,475,108,399,0,0,10/27/2020,
@@ -37,7 +88,7 @@ Ohio,OH,,,37593,,1447,6834,1304,5357,5,107,10/27/2020,
 Oklahoma,OK,2359,,19145,,398,4520,,,,24,10/27/2020,
 Oregon,OR,,,,8472,298,1244,280,1120,0,16,10/27/2020,
 Pennsylvania,PA,,2670,,19978,553,723,330,408,2,14,10/27/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,10/27/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,7985,,517,2334,485,1950,2,31,10/27/2020,
 South Dakota,SD,255,,2784,,94,1588,44,402,0,0,10/27/2020,
 Tennessee,TN,,7453,,33215,540,5686,442,5588,2,27,10/27/2020,
@@ -46,7 +97,7 @@ Utah,UT,,,2698,,76,347,61,111,,0,10/27/2020,
 Vermont,VT,,,2267,7418,23,240,23,238,0,0,10/27/2020,
 Virginia,VA,,,,45214,867,3919,796,3662,1,33,10/28/2020,
 Washington,WA,,,5482,6110,196,516,,493,1,2,10/27/2020,
-West Virginia,WV,,7090,,6824,163,337,159,320,0,2,10/27/2020,
+West Virginia,WV,,7090,,6824,163,337,159,320,0,2,10/27/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,52156,886,3845,688,2438,0,3,10/27/2020,
 Wyoming,WY,,,,,69,125,47,108,0,0,10/29/2020,
 Federal,US,,,,68668,2198,18166,1323,15968,2,137,10/27/2020,
@@ -88,7 +139,7 @@ Ohio,OH,,,36219,,1376,6714,1244,5286,5,104,10/20/2020,
 Oklahoma,OK,1770,,18332,,366,4223,,,,21,10/20/2020,
 Oregon,OR,,,,8177,291,1214,264,1048,0,16,10/20/2020,
 Pennsylvania,PA,,2400,,19814,459,649,306,391,2,13,10/20/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,10/20/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,7889,,507,2315,457,1891,2,31,10/20/2020,
 South Dakota,SD,,198,,1017,54,442,40,247,0,0,10/20/2020,
 Tennessee,TN,,,,31129,540,5613,442,5328,2,27,10/20/2020,
@@ -97,7 +148,7 @@ Utah,UT,,,,,,,,,,,,
 Vermont,VT,,,2231,7171,22,240,22,238,0,0,10/20/2020,
 Virginia,VA,,,,42748,825,3856,777,3657,1,33,10/21/2020,
 Washington,WA,,,5208,5813,187,499,,482,1,2,10/20/2020,
-West Virginia,WV,,6810,,6813,158,336,148,318,0,1,10/20/2020,
+West Virginia,WV,,6810,,6813,158,336,148,318,0,1,10/20/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,48361,714,2973,579,2031,0,3,10/20/2020,
 Wyoming,WY,,,,,,,,,,,,
 Federal,US,,,,66060,2066,17449,1266,15573,2,136,10/20/2020,
@@ -139,7 +190,7 @@ Ohio,OH,,,34624,,1315,6584,1169,5088,5,102,10/13/2020,
 Oklahoma,OK,,,17202,,360,3964,298,3654,3,20,10/13/2020,
 Oregon,OR,,,,7922,282,1184,251,993,,14,10/14/2020,
 Pennsylvania,PA,,2098,,18390,414,495,279,372,2,11,10/13/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,10/13/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,7795,,500,2280,445,1791,2,31,10/13/2020,
 South Dakota,SD,,177,,768,44,256,36,225,0,0,10/13/2020,
 Tennessee,TN,,,,31129,540,5586,442,5328,2,25,10/15/2020,
@@ -148,7 +199,7 @@ Utah,UT,,,,2592,63,343,28,66,,0,10/14/2020,
 Vermont,VT,,,2195,6866,22,240,22,238,0,0,10/13/2020,
 Virginia,VA,,,,42318,804,3719,759,3564,1,33,10/13/2020,
 Washington,WA,,,5204,5805,181,492,,459,1,2,10/13/2020,
-West Virginia,WV,,6359,,6688,151,327,139,318,0,1,10/13/2020,
+West Virginia,WV,,6359,,6688,151,327,139,318,0,1,10/13/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,46114,619,2542,474,1450,0,3,10/13/2020,
 Wyoming,WY,,,,,,,,,,,,
 Federal,US,,,,63111,1954,16446,1216,14566,2,135,10/13/2020,
@@ -190,7 +241,7 @@ Ohio,OH,,,33239,,1251,6499,1144,5003,5,100,10/06/2020,
 Oklahoma,OK,,,16365,,321,3821,278,3450,3,15,10/06/2020,
 Oregon,OR,,,,,271,1099,245,902,,12,10/06/2020,
 Pennsylvania,PA,,1995,,16954,387,469,257,285,2,11,10/06/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,10/06/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,,,491,2203,430,1600,2,31,10/06/2020,
 South Dakota,SD,,159,,752,35,245,29,180,0,0,10/06/2020,
 Tennessee,TN,,,,30414,540,5555,442,5306,2,22,10/07/2020,
@@ -199,7 +250,7 @@ Utah,UT,,,,2260,56,271,28,66,,0,10/07/2020,
 Vermont,VT,,,2162,6676,22,240,22,238,0,0,10/06/2020,
 Virginia,VA,,,,42287,792,3698,748,3477,1,33,10/06/2020,
 Washington,WA,,,4971,5551,181,486,,455,1,2,10/06/2020,
-West Virginia,WV,,5954,,6660,139,326,132,318,0,1,10/06/2020,
+West Virginia,WV,,5954,,6660,139,326,132,318,0,1,10/06/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,44379,511,2000,391,1066,0,2,10/06/2020,
 Wyoming,WY,,,,,,,,,,,,
 Federal,US,,,,60916,1914,16012,1190,14249,2,134,10/06/2020,
@@ -241,7 +292,7 @@ Ohio,OH,,,31294,,1194,6318,1112,4988,5,100,09/29/2020,
 Oklahoma,OK,,,15620,,298,3629,245,2839,3,10,09/29/2020,
 Oregon,OR,,,,6327,259,974,234,871,0,9,09/29/2020,
 Pennsylvania,PA,,1846,,15316,354,427,249,285,2,11,09/29/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,09/29/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,6692,,479,2148,416,1483,2,31,06/29/2020,
 South Dakota,SD,146,,604,,30,192,22,116,0,0,09/29/2020,
 Tennessee,TN,,5903,,29716,507,5329,410,5254,2,20,09/30/2020,
@@ -250,7 +301,7 @@ Utah,UT,,,1931,,42,120,28,49,,0,09/29/2020,
 Vermont,VT,,,2112,6205,22,240,22,238,0,0,09/29/2020,
 Virginia,VA,,,,39260,774,3639,706,3276,1,31,09/29/2020,
 Washington,WA,,,4934,5344,176,472,,453,1,2,09/29/2020,
-West Virginia,WV,,5849,,6640,134,325,118,314,0,1,09/29/2020,
+West Virginia,WV,,5849,,6640,134,325,118,314,0,1,09/29/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,41233,393,1573,289,1004,0,0,09/29/2020,
 Wyoming,WY,,,,,40,107,38,107,,0,10/02/2020,
 Federal,US,,,,58849,1850,15595,1133,13602,2,133,09/29/2020,
@@ -292,7 +343,7 @@ Ohio,OH,,,29928,,1145,6194,1082,4893,5,97,09/22/2020,
 Oklahoma,OK,,,14010,,281,3168,215,1762,3,9,09/22/2020,
 Oregon,OR,,,,4923,247,941,221,821,0,7,09/22/2020,
 Pennsylvania,PA,,1681,,14491,333,398,229,257,2,11,09/22/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,09/22/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,6615,,470,2050,412,1383,2,27,09/22/2020,
 South Dakota,SD,129,,442,,23,124,16,10,0,0,09/22/2020,
 Tennessee,TN,,5888,,29578,483,5328,315,5163,2,17,09/22/2020,
@@ -301,7 +352,7 @@ Utah,UT,,,1636,,,66,,48,,0,09/21/2020,
 Vermont,VT,,,2051,5945,22,240,22,238,0,0,09/22/2020,
 Virginia,VA,,,,38722,761,3542,662,2761,1,24,09/22/2020,
 Washington,WA,,,4909,5311,172,454,,449,1,2,09/22/2020,
-West Virginia,WV,,5421,,6454,122,322,111,310,0,1,09/22/2020,
+West Virginia,WV,,5421,,6454,122,322,111,310,0,1,09/22/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,37497,304,1077,253,876,0,0,09/22/2020,
 Wyoming,WY,1030,,,,39,107,34,107,0,0,09/25/2020,Wyoming reported fewer prisoner tests this week than in previous weeks. We're inquiring as to why
 Federal,US,,,,56220,1773,15016,1099,12875,2,131,09/22/2020,
@@ -343,7 +394,7 @@ Ohio,OH,,,28613,,1119,6112,1052,4873,5,94,09/15/2020,
 Oklahoma,OK,,,11925,,245,2106,174,1324,,4,09/15/2020,
 Oregon,OR,,,,4707,230,907,196,766,0,6,09/15/2020,
 Pennsylvania,PA,,1642,,14232,326,391,225,242,2,11,09/16/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,09/15/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,5936,,464,1994,380,1226,1,24,09/15/2020,
 South Dakota,SD,112,,284,,16,25,12,10,0,0,09/15/2020,
 Tennessee,TN,,5297,,29151,403,5183,280,4577,2,16,09/15/2020,
@@ -352,7 +403,7 @@ Utah,UT,,,1528,,29,63,27,46,0,0,09/14/2020,
 Vermont,VT,,,2014,5462,22,240,21,236,0,0,09/15/2020,
 Virginia,VA,,,,37816,720,3127,636,2697,1,19,09/15/2020,
 Washington,WA,,,4733,5115,167,454,,439,1,2,09/17/2020,
-West Virginia,WV,,5353,,6420,110,316,96,289,0,1,09/15/2020,
+West Virginia,WV,,5353,,6420,110,316,96,289,0,1,09/15/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,36411,259,953,228,763,0,0,09/15/2020,
 Wyoming,WY,1030,,1980,,33,105,33,98,0,0,09/15/2020,
 Federal,US,,,,53683,1695,14215,1057,12167,2,129,09/15/2020,
@@ -394,7 +445,7 @@ Ohio,OH,,,26489,,1091,5977,1030,4793,5,91,09/08/2020,The number of recovered pri
 Oklahoma,OK,,,10855,,215,1617,,623,0,0,09/08/2020,
 Oregon,OR,,,,4424,223,829,183,601,0,6,09/08/2020,
 Pennsylvania,PA,,1521,,13280,303,353,212,239,2,11,09/08/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,09/08/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,5557,,454,1888,346,866,1,19,09/08/2020,
 South Dakota,SD,105,,253,,12,10,11,6,0,0,09/08/2020,
 Tennessee,TN,,5266,,29098,312,4986,250,3409,1,15,09/09/2020,
@@ -403,7 +454,7 @@ Utah,UT,,,1417,,4,60,,46,,0,09/08/2020,
 Vermont,VT,,2022,1978,5024,22,240,21,233,0,0,09/08/2020,
 Virginia,VA,,,,,,2972,,,,15,09/08/2020,
 Washington,WA,,,4604,4975,158,451,,425,1,2,09/08/2020,
-West Virginia,WV,,5266,,6361,102,292,71,187,0,0,09/08/2020,
+West Virginia,WV,,5266,,6361,102,292,71,187,0,0,09/08/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,35189,234,898,207,609,0,0,09/08/2020,
 Wyoming,WY,,,,,,,,,,,,
 Federal,US,,,,51393,1631,13539,986,11430,2,126,09/08/2020,
@@ -445,7 +496,7 @@ Ohio,OH,,,25554,,1075,5895,1000,4722,5,90,09/01/2020,
 Oklahoma,OK,,,10494,,174,1403,,471,0,0,09/01/2020,
 Oregon,OR,,,,4046,201,737,162,555,0,5,09/01/2020,
 Pennsylvania,PA,,1479,,11836,298,326,207,239,1,11,09/01/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,09/01/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,4595,,428,1666,326,709,1,16,09/01/2020,
 South Dakota,SD,100,,243,,11,6,9,5,0,0,09/02/2020,
 Tennessee,TN,,5254,,26102,308,4560,196,3354,1,12,09/01/2020,
@@ -454,7 +505,7 @@ Utah,UT,,,1357,,4,46,4,46,0,0,09/01/2020,
 Vermont,VT,,1879,1932,4900,22,240,21,231,0,0,09/01/2020,
 Virginia,VA,9245,,35361,,646,2710,583,2490,0,14,09/01/2020,
 Washington,WA,,,4499,4859,156,447,,414,1,2,09/01/2020,
-West Virginia,WV,,5164,,6285,87,269,61,127,0,0,09/01/2020,"There has been one death in a jail in West Virginia, but not in the prisons."
+West Virginia,WV,,5164,,6285,87,269,61,127,0,0,09/01/2020,"There has been one death in a jail in West Virginia, but not in the prisons. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,30751,220,773,177,424,0,0,09/01/2020,
 Wyoming,WY,1030,,1968,,33,105,30,98,0,0,09/02/2020,
 Federal,US,,,49591,,1596,13139,929,11130,2,125,09/01/2020,
@@ -496,7 +547,7 @@ Ohio,OH,,,24411,,1052,5783,934,4502,5,89,08/25/2020,
 Oklahoma,OK,,,8923,,153,679,,210,0,0,08/25/2020,
 Oregon,OR,,,,3598,185,636,139,514,0,3,08/25/2020,
 Pennsylvania,PA,,1442,,11189,289,311,198,239,1,11,08/25/2020,Recovered inmates and staff doesn't include any recovered in community corrections since they don't track people on home assignments or who are released from supervision (does include parole staff now)
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,08/25/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,4376,,402,1462,304,607,1,13,08/25/2020,
 South Dakota,SD,89,,208,,9,5,8,5,0,0,08/25/2020,
 Tennessee,TN,,5231,,24618,274,3367,163,3259,1,9,08/25/2020,
@@ -505,7 +556,7 @@ Utah,UT,,,1220,,4,46,4,45,0,0,08/24/2020,
 Vermont,VT,,1755,1884,4659,22,240,21,206,0,0,08/25/2020,
 Virginia,VA,,,,,,2621,,,,13,08/25/2020,
 Washington,WA,,,4462,4794,151,431,,368,1,2,08/25/2020,
-West Virginia,WV,,4830,,5416,63,130,52,127,0,0,08/25/2020,
+West Virginia,WV,,4830,,5416,63,130,52,127,0,0,08/25/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,28763,,190,624,145,342,0,0,08/25/2020,
 Wyoming,WY,1030,,1968,,29,101,27,90,0,0,08/27/2020,Testing numbers are approximate.
 Federal,US,,,46999,,1532,12525,893,10806,1,122,08/25/2020,
@@ -547,7 +598,7 @@ Ohio,OH,,,23182,,1035,5669,913,4364,5,87,08/18/2020,
 Oklahoma,OK,,,8080,,117,516,,146,,,08/18/2020,
 Oregon,OR,,,,3212,157,567,128,502,0,2,08/19/2020,
 Pennsylvania,PA,,1414,,10494,284,310,198,239,1,11,08/18/2020,This includes community corrections in staff and inmates and parole in staff. The info does not include recoveries for anyone in Community corrections.
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,08/18/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,3885,,364,1262,254,466,1,12,08/18/2020,
 South Dakota,SD,88,,181,,9,5,8,5,0,0,08/18/2020,
 Tennessee,TN,,5186,,23964,237,3318,153,3245,1,9,08/18/2020,
@@ -556,7 +607,7 @@ Utah,UT,,,1160,,4,46,4,43,0,0,08/18/2020,
 Vermont,VT,,1606,1834,4171,22,239,20,171,0,0,08/18/2020,
 Virginia,VA,8020,,31815,,603,2555,486,2036,0,13,08/18/2020,
 Washington,WA,,,4362,4666,145,424,,344,1,2,08/18/2020,
-West Virginia,WV,,4776,,5220,62,127,44,126,0,0,08/18/2020,
+West Virginia,WV,,4776,,5220,62,127,44,126,0,0,08/18/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,26980,,154,383,134,301,0,0,08/18/2020,
 Wyoming,WY,,,,,,,,,,,,
 Federal,US,,,44492,,1436,11953,843,10360,1,120,08/18/2020,
@@ -569,7 +620,7 @@ Colorado,CO,,,9011,21883,117,862,100,853,0,3,08/11/2020,
 Connecticut,CT,,5941,,12629,391,1446,379,1388,0,7,08/11/2020,Connecticut revised its initial numbers of tests and recovered cases.
 Delaware,DE,,,,,168,529,147,515,,10,08/12/2020,
 Florida,FL,,7042,,73407,2078,12988,1160,,3,70,08/11/2020,"This week's number of staff deaths initially recorded two deaths, and has since been updated to reflect the death of a third employee on 8/10 which was reported by prison officials on 8/19. This week's staff testing numbers were initially noted as staff members tested, but have since been changed to number of tests for staff - which may include the same staff member being tested more than once"
-Georgia,GA,,,,,573,1139,342,882,1,34,08/11/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,573,1139,342,882,1,34,08/11/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,284,,11,9,,0,0,0,08/11/2020,
 Idaho,ID,1308,,3658,,98,1062,86,713,0,1,08/11/2020,
 Illinois,IL,,,2500,,335,532,252,353,0,13,08/11/2020,
@@ -598,7 +649,7 @@ Ohio,OH,,,21942,,997,5401,873,4339,5,86,08/11/2020,
 Oklahoma,OK,,,7116,,100,213,,38,0,0,08/11/2020,
 Oregon,OR,,,,3034,143,524,87,442,0,1,08/11/2020,
 Pennsylvania,PA,1215,,9189,,232,277,195,239,1,10,08/11/2020,
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,08/11/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,3752,,324,1127,218,378,1,12,08/12/2020,
 South Dakota,SD,87,,166,,8,5,6,5,0,0,08/11/2020,
 Tennessee,TN,,5151,,23673,200,3267,140,3214,0,8,08/11/2020,
@@ -607,7 +658,7 @@ Utah,UT,,,949,,4,46,4,41,0,0,08/10/2020,
 Vermont,VT,,1525,1783,3884,21,201,20,49,0,0,08/11/2020,
 Virginia,VA,7525,,,,569,2406,456,,0,13,08/13/2020,
 Washington,WA,,,4074,4327,139,377,,306,1,2,08/11/2020,
-West Virginia,WV,,4592,,5193,49,126,28,126,0,0,08/11/2020,
+West Virginia,WV,,4592,,5193,49,126,28,126,0,0,08/11/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,26236,,136,319,123,296,0,0,08/11/2020,
 Wyoming,WY,714,,1898,,22,31,17,13,0,0,08/13/2020,"Testing numbers are ""approximate"" according to state prison official"
 Federal,US,,,41058,,1355,11524,768,10034,1,116,08/11/2020,The prisoner deaths include 4 people who were on home confinement under the supervision of a halfway house. Testing totals do not include private prisons. This week originally had an incorrect number for the total staff positive cases. It has been updated.
@@ -620,7 +671,7 @@ Colorado,CO,,,8892,19506,95,860,85,797,0,3,08/04/2020,
 Connecticut,CT,,5361,,11274,388,1433,378,1388,0,7,08/05/2020,
 Delaware,DE,,,,,165,529,129,491,,8,08/03/2020,
 Florida,FL,,,,,1810,9180,860,,2,54,08/04/2020,2 staff deaths based on recent media reports.
-Georgia,GA,,,,,511,1017,288,805,1,33,08/04/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,511,1017,288,805,1,33,08/04/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,143,,0,0,0,0,0,0,08/04/2020,
 Idaho,ID,1179,,2255,,92,925,71,681,0,1,08/04/2020,
 Illinois,IL,,,2400,,289,373,232,335,0,13,08/04/2020,
@@ -658,7 +709,7 @@ Utah,UT,,,892,,4,43,4,40,0,0,08/03/2020,
 Vermont,VT,,1449,1753,3617,20,149,20,46,0,0,08/04/2020,
 Virginia,VA,7525,,29642,,520,2151,392,1507,0,13,08/04/2020,
 Washington,WA,,,3686,3904,133,360,,296,1,2,08/04/2020,
-West Virginia,WV,,4468,,5180,35,126,27,126,0,0,08/04/2020,
+West Virginia,WV,,4468,,5180,35,126,27,126,0,0,08/04/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,25798,126,307,100,295,0,0,08/04/2020,
 Wyoming,WY,,,,,9,15,,,0,0,08/03/2020,
 Federal,US,,,38364,,1263,11213,720,8994,1,109,08/04/2020,The prisoner deaths include 4 people who were on home confinement under the supervision of a halfway house. Testing totals do not include private prisons.
@@ -671,7 +722,7 @@ Colorado,CO,,,7968,16452,91,841,78,691,0,3,07/28/2020,
 Connecticut,CT,,4900,,10840,386,1401,378,1330,0,7,07/28/2020,
 Delaware,DE,,,,,155,528,106,444,,8,07/29/2020,
 Florida,FL,,,,45885,1486,6946,,,,46,07/28/2020,
-Georgia,GA,,,,,442,886,251,754,1,31,07/28/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,442,886,251,754,1,31,07/28/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,131,,0,0,0,0,0,0,07/28/2020,
 Idaho,ID,861,,1965,,90,772,65,477,0,0,07/28/2020,
 Illinois,IL,,,2185,,267,360,210,332,0,13,07/28/2020,
@@ -700,7 +751,7 @@ Ohio,OH,,,19101,,940,5195,798,4300,5,84,07/28/2020,"After reviewing death certif
 Oklahoma,OK,,,5994,,58,117,,12,0,0,07/28/2020,
 Oregon,OR,,,,2298,109,412,51,317,0,1,07/28/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,1129,,7999,,216,274,183,237,1,10,07/28/2020,"The number of prisoner cases this week inadvertently included those on parole, and has been updated to remove those cases."
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,07/28/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,2376,,263,786,158,214,1,9,07/29/2020,
 South Dakota,SD,67,,133,,6,5,5,4,0,0,07/28/2020,
 Tennessee,TN,,,,23477,158,3213,112,3185,0,5,07/28/2020,"Tennessee later revised the number of prisoner tests conducted, and the number has been adjusted here accordingly."
@@ -709,7 +760,7 @@ Utah,UT,,,796,,4,41,4,15,0,0,07/29/2020,
 Vermont,VT,,1309,1492,2919,20,48,19,46,0,0,07/28/2020,
 Virginia,VA,,,28590,,478,1876,346,1484,0,13,07/29/2020,
 Washington,WA,,,3209,3375,123,315,,200,1,2,07/28/2020,
-West Virginia,WV,,4391,,5172,26,126,25,126,0,0,07/28/2020,
+West Virginia,WV,,4391,,5172,26,126,25,126,0,0,07/28/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,25251,115,299,94,293,0,0,07/28/2020,
 Wyoming,WY,,,,,,,,,,,,
 Federal,US,,,36226,,1142,10779,681,6870,1,105,07/28/2020,
@@ -722,7 +773,7 @@ Colorado,CO,,,7386,13723,73,783,63,628,0,3,07/21/2020,
 Connecticut,CT,976,,10016,,383,1344,377,1324,0,7,07/21/2020,
 Delaware,DE,,,,,153,508,92,391,1,7,07/22/2020,
 Florida,FL,,,,38427,1113,3898,,,,34,07/21/2020,
-Georgia,GA,,,,,361,847,216,685,1,26,07/21/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,361,847,216,685,1,26,07/21/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,119,,0,0,0,0,0,0,07/21/2020,
 Idaho,ID,658,,1818,1884,86,763,47,100,0,0,07/21/2020,
 Illinois,IL,,,1800,,237,343,198,307,0,13,07/21/2020,
@@ -760,7 +811,7 @@ Utah,UT,,,687,,4,38,4,14,0,0,07/20/2020,
 Vermont,VT,,,1451,2778,20,48,19,45,0,0,07/21/2020,
 Virginia,VA,,,25567,,435,1821,322,1472,0,13,07/21/2020,
 Washington,WA,,,,3026,111,303,,,1,2,07/21/2020,
-West Virginia,WV,,4334,,5162,25,126,23,126,0,0,07/21/2020,This week's number inadvertently included one case from a jail and has been updated.
+West Virginia,WV,,4334,,5162,25,126,23,126,0,0,07/21/2020,"This week's number inadvertently included one case from a jail and has been updated. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,24717,93,296,82,286,0,0,07/21/2020,
 Wyoming,WY,380,,866,,8,12,1,0,0,0,07/22/2020,
 Federal,US,,,33336,,995,10154,644,5797,1,102,07/21/2020,
@@ -773,7 +824,7 @@ Colorado,CO,,,6579,11642,67,668,58,627,0,3,07/14/2020,
 Connecticut,CT,974,,10014,,382,1343,377,1324,0,7,07/14/2020,"Connecticut's prisoner cases dropped by 3 to 1,343, and the number of prisoners tested and recovered also dropped this week. The state said, ""Please note that a recent internal audit/review of the our data found some duplicate information, and as a result the numbers for both 'positive offenders' and also for the number of offenders 'recovered' went down a bit."""
 Delaware,DE,,,,,118,295,87,141,,7,07/10/2020,Delaware's total cases this week originally did not include deaths and has been adjusted accordingly.
 Florida,FL,,,,28471,885,2632,,,,29,07/14/2020,
-Georgia,GA,,,,,301,806,190,489,1,25,07/14/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,301,806,190,489,1,25,07/14/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,70,,0,0,0,0,0,0,07/14/2020,
 Idaho,ID,407,,,1624,68,694,27,9,0,0,07/14/2020,
 Illinois,IL,,,1600,,214,337,180,278,0,13,07/14/2020,
@@ -802,7 +853,7 @@ Ohio,OH,,,16762,,866,5082,719,4215,5,82,07/14/2020,"After reviewing death certif
 Oklahoma,OK,,,4101,,25,11,,8,0,0,07/14/2020,
 Oregon,OR,,,,1651,85,314,46,162,0,1,07/14/2020,
 Pennsylvania,PA,1002,,6757,,200,262,163,226,1,10,07/14/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
-Rhode Island,RI,,,,,,,,,,,,
+Rhode Island,RI,,,,,,,,,0,0,07/14/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
 South Carolina,SC,,,1171,,189,563,95,128,1,7,07/14/2020,
 South Dakota,SD,64,,130,,5,4,5,4,0,0,07/13/2020,
 Tennessee,TN,4865,4905,,23353,121,3186,98,3173,0,4,07/13/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
@@ -811,7 +862,7 @@ Utah,UT,,,685,,4,38,4,13,0,0,07/13/2020,
 Vermont,VT,,1309,1413,2646,20,47,19,45,0,0,07/14/2020,
 Virginia,VA,,,25352,,388,1530,307,1452,0,11,07/14/2020,The number of prisoners recovered dropped by one this week. We are inquiring as to why and will update when we can.
 Washington,WA,,,2937,,104,277,,,1,2,07/14/2020,
-West Virginia,WV,,4230,,5143,24,126,20,126,0,0,07/14/2020,"The number of staff tests dropped this week, because some tests in a previous week were thrown out and are no longer counted. Several have since been reconducted, but that's the lower number."
+West Virginia,WV,,4230,,5143,24,126,20,126,0,0,07/14/2020,"The number of staff tests dropped this week, because some tests in a previous week were thrown out and are no longer counted. Several have since been reconducted, but that's the lower number. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,19371,92,291,70,280,0,0,07/14/2020,
 Wyoming,WY,,,,,,,,,,,,
 Federal,US,,,29067,,887,8896,629,5407,1,99,07/14/2020,
@@ -824,7 +875,7 @@ Colorado,CO,,,4804,,54,631,54,626,0,3,07/07/2020,
 Connecticut,CT,,,10114,,381,1343,377,1333,0,7,07/07/2020,The prisoner cases for this week were revised later after Connecticut identified some duplicates in the numbers.
 Delaware,DE,910,,747,,114,270,87,141,1,7,07/08/2020,Delaware's total cases this week originally did not include deaths and has been adjusted accordingly.
 Florida,FL,,,,24879,651,2514,,,0,26,07/07/2020,
-Georgia,GA,,,,,252,730,168,467,1,23,07/07/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,252,730,168,467,1,23,07/07/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,62,,0,0,0,0,0,0,07/07/2020,
 Idaho,ID,,198,806,807,46,131,11,0,0,0,07/07/2020,"Staff tests don't include private CAPP facility or Eagle Pass, TX facility."
 Illinois,IL,,,1100,,203,337,174,263,0,13,07/07/2020,
@@ -862,7 +913,7 @@ Utah,UT,,,546,,4,30,4,13,0,0,07/06/2020,
 Vermont,VT,,,1374,2250,20,47,19,45,0,0,07/07/2020,
 Virginia,VA,,,25328,,369,1516,293,1453,0,11,07/07/2020,
 Washington,WA,,,,2533,99,255,,,1,2,07/07/2020,
-West Virginia,WV,,4248,,5133,16,126,15,126,0,0,07/07/2020,We had an incorrect number of prisoner cases this week and are revising it to correct it.
+West Virginia,WV,,4248,,5133,16,126,15,126,0,0,07/07/2020,"We had an incorrect number of prisoner cases this week and are revising it to correct it. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,17412,82,283,66,273,0,0,07/07/2020,
 Wyoming,WY,23,,121,,1,0,1,0,0,0,07/06/2020,
 Federal,US,,,25310,,794,7639,603,5369,1,98,07/07/2020,
@@ -875,7 +926,7 @@ Colorado,CO,,,4395,,53,630,51,625,0,3,06/30/2020,
 Connecticut,CT,,,9504,,380,1342,377,1333,0,7,06/30/2020,
 Delaware,DE,805,,306,,95,150,85,140,1,7,06/29/2020,
 Florida,FL,,,,22771,453,2027,,,,24,06/30/2020,
-Georgia,GA,,,,,223,711,156,452,1,22,06/30/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,223,711,156,452,1,22,06/30/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,54,,0,0,0,0,0,0,06/30/2020,
 Idaho,ID,,142,375,,22,9,5,0,0,0,06/30/2020,
 Illinois,IL,,,1000,,195,322,170,235,0,13,06/30/2020,
@@ -913,7 +964,7 @@ Utah,UT,,,544,,4,28,4,12,0,0,06/30/2020,
 Vermont,VT,,,1327,2156,20,47,19,45,0,0,06/30/2020,"The number of prisoner cases dropped by 3 this week to 47. Numbers are lower than last week for prisoner tests and total positive tests. They did some checks on their data and found that inmate tests contained 27 duplicates. Also added a line for ""unique positive cases"" which is lower than last week's positive tests, which included some inmates that got multiple positive results."
 Virginia,VA,,,22929,,343,1512,272,1389,0,11,06/30/2020,
 Washington,WA,,,2554,,93,204,,,1,2,06/30/2020,
-West Virginia,WV,,4235,,5115,16,126,14,125,0,0,06/30/2020,"The number of prisoner cases dropped by 1 to 126 this week. The website lists about 8 false positives that were identified, which makes cases lower today than in the past week. An earlier verison of this spreadsheet included testing figures for jails and juvenile facilities. For consistency with other states, we've limited the numbers to prisons and work release centers."
+West Virginia,WV,,4235,,5115,16,126,14,125,0,0,06/30/2020,"The number of prisoner cases dropped by 1 to 126 this week. The website lists about 8 false positives that were identified, which makes cases lower today than in the past week. An earlier verison of this spreadsheet included testing figures for jails and juvenile facilities. For consistency with other states, we've limited the numbers to prisons and work release centers. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,14476,,69,278,65,262,0,0,06/30/2020,
 Wyoming,WY,,,101,,1,0,1,0,0,0,07/02/2020,
 Federal,US,,,22110,,728,6947,575,5335,1,94,06/30/2020,
@@ -926,7 +977,7 @@ Colorado,CO,,,4113,8407,50,629,48,623,0,3,06/23/2020,
 Connecticut,CT,,,,,380,1256,377,1238,0,7,06/26/2020,
 Delaware,DE,805,,300,,93,148,80,140,,7,06/25/2020,
 Florida,FL,,,18697,,374,1798,,,,21,06/23/2020,
-Georgia,GA,,,,,204,530,148,431,1,22,06/23/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,204,530,148,431,1,22,06/23/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,49,,0,0,0,0,0,0,06/23/2020,
 Idaho,ID,99,,73,74,9,0,5,0,0,0,06/23/2020,"Staff tests only includes Idaho DOC. They are not tracking staff testing in Eagle Pass or CAPP, the MTC (Management & Training Corporation) facility south of Boise."
 Illinois,IL,,,900,,187,274,167,225,0,13,06/23/2020,
@@ -964,7 +1015,7 @@ Utah,UT,,,364,,4,14,4,10,0,0,06/22/2020,
 Vermont,VT,,971,1330,1888,20,47,19,43,0,0,06/24/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,,317,1494,229,1073,0,10,06/23/2020,
 Washington,WA,,,699,,83,131,,,1,1,06/23/2020,
-West Virginia,WV,,4219,,5095,16,,14,124,0,0,06/23/2020,"West Virginia found a number of false positives and revised their prisoner cases numbers down to 127 this week. In later weeks, it dropped again."
+West Virginia,WV,,4219,,5095,16,,14,124,0,0,06/23/2020,"West Virginia found a number of false positives and revised their prisoner cases numbers down to 127 this week. In later weeks, it dropped again. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,13268,66,270,65,261,0,0,06/23/2020,
 Wyoming,WY,20,,61,,1,0,1,0,0,0,06/26/2020,
 Federal,US,,,,19934,692,6621,528,5171,1,91,06/23/2020,
@@ -977,7 +1028,7 @@ Colorado,CO,,,3980,7867,50,628,46,617,0,3,06/16/2020,"The number of prisoners re
 Connecticut,CT,571,,6249,,380,1210,371,1076,0,7,06/16/2020,
 Delaware,DE,,,299,,92,148,71,140,,7,06/12/2020,
 Florida,FL,,,17070,,332,1692,,,0,19,06/16/2020,
-Georgia,GA,,,,,185,505,135,392,1,20,06/17/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,185,505,135,392,1,20,06/17/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,42,,0,0,0,0,0,0,06/16/2020,
 Idaho,ID,86,,67,68,5,0,5,0,0,0,06/16/2020,"Staff tests only includes Idaho DOC. They are not tracking staff testing in Eagle Pass or CAPP, the MTC (Management & Training Corporation) facility south of Boise. Number of prisoner tests includes same prisoner that was tested twice, so 67 inmates tested, 68 tests."
 Illinois,IL,,,263,,179,263,164,218,0,13,06/16/2020,
@@ -1015,7 +1066,7 @@ Utah,UT,,,315,,4,14,4,10,0,0,06/15/2020,
 Vermont,VT,,,1230,,20,45,19,43,0,0,06/16/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,21295,,301,1328,187,947,0,9,06/16/2020,
 Washington,WA,,,606,,76,112,,,1,0,06/16/2020,
-West Virginia,WV,,4158,,5084,15,,9,119,0,0,06/16/2020,"This week's number of prisoner cases was originally listed as 132, but was later revised down as West Virginia found false positives."
+West Virginia,WV,,4158,,5084,15,,9,119,0,0,06/16/2020,"This week's number of prisoner cases was originally listed as 132, but was later revised down as West Virginia found false positives. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,9152,,65,264,59,258,0,0,06/16/2020,Deaths backfilled from 6/23 report
 Wyoming,WY,20,,34,,1,0,1,0,0,0,06/17/2020,
 Federal,US,,,,17262,671,6458,502,5145,1,88,06/16/2020,
@@ -1028,7 +1079,7 @@ Colorado,CO,,,3902,,50,626,40,618,0,3,06/12/2020,
 Connecticut,CT,,,,,380,1210,371,1075,0,7,06/12/2020,
 Delaware,DE,,,299,,,148,,140,,7,06/11/2020,We corrected the prisoner deaths which we had incorrect in an early release.
 Florida,FL,,,15409,,294,1590,,,0,17,06/09/2020,
-Georgia,GA,,,,,178,447,124,309,1,19,06/09/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,178,447,124,309,1,19,06/09/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,40,,0,0,0,0,0,0,06/09/2020,
 Idaho,ID,84,,65,65,5,0,5,0,0,0,06/09/2020,
 Illinois,IL,,,900,,178,231,160,213,0,13,06/09/2020,
@@ -1066,7 +1117,7 @@ Utah,UT,,,315,,4,14,4,10,0,0,06/09/2020,"The number of prisoners tested jumped f
 Vermont,VT,,798,1214,1432,20,45,19,43,0,0,06/09/2020,"Number of staff tests is since 5/1. State DOH is working on a records request to provie the total number of staff tests from the beginning ot the pandemic. At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,19673,,1295,,843,,9,06/09/2020,"We are not reporting staff cases this week, which dropped to 121, as Virginia is only reporting ""active"" cases. We're trying to get an accurate cumulative number."
 Washington,WA,,,540,,69,82,,,1,0,06/09/2020,
-West Virginia,WV,,2648,,3166,9,122,8,116,0,0,06/09/2020,
+West Virginia,WV,,2648,,3166,9,122,8,116,0,0,06/09/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,7066,,62,260,41,76,0,0,06/09/2020,
 Wyoming,WY,18,,34,,1,0,1,0,0,0,06/09/2020,DOC says it is aware of 18 staff tests
 Federal,US,,,,,644,6394,453,4162,1,81,06/09/2020,
@@ -1079,7 +1130,7 @@ Colorado,CO,,,3841,,43,621,34,470,0,2,06/02/2020,"Staff case figures are from 6/
 Connecticut,CT,,,965,,380,870,359,686,0,7,06/02/2020,Total tests combines the number of current positives with the weekly number of reported negatives.
 Delaware,DE,,,,,89,148,60,137,,7,06/01/2020,
 Florida,FL,,,14754,,272,1543,,,0,15,06/02/2020,
-Georgia,GA,,,,,169,423,103,297,1,17,06/02/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,169,423,103,297,1,17,06/02/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,34,,0,0,0,0,0,0,06/02/2020,
 Idaho,ID,82,,62,,5,0,5,0,0,0,06/02/2020,
 Illinois,IL,,,750,,175,221,152,196,0,13,06/02/2020,
@@ -1117,7 +1168,7 @@ Utah,UT,,,211,,4,11,,10,,0,06/02/2020,
 Vermont,VT,,,872,,20,45,19,43,0,0,06/02/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,,140,1228,,671,,9,06/01/2020,
 Washington,WA,,,494,,49,56,,,1,,06/02/2020,Staff death based on past week's reporting.
-West Virginia,WV,245,,1480,,9,119,8,21,0,0,06/02/2020,Testing for staff will increase in coming weeks because they are testing all facilities.
+West Virginia,WV,245,,1480,,9,119,8,21,0,0,06/02/2020,"Testing for staff will increase in coming weeks because they are testing all facilities. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,5785,,54,258,30,32,0,0,06/02/2020,
 Wyoming,WY,18,,32,,1,0,,,0,0,06/05/2020,
 Federal,US,,,,,623,5815,448,3788,0,73,06/02/2020,
@@ -1130,7 +1181,7 @@ Colorado,CO,,,3481,,35,593,34,464,0,2,05/27/2020,
 Connecticut,CT,,,948,,378,853,355,522,0,7,05/28/2020,
 Delaware,DE,771,,282,,88,148,53,132,,7,05/29/2020,
 Florida,FL,,,12411,,256,1434,,,0,11,05/27/2020,
-Georgia,GA,,,,,159,415,95,277,1,17,05/27/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,159,415,95,277,1,17,05/27/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,30,,0,0,0,0,0,0,05/27/2020,
 Idaho,ID,80,,57,,5,0,5,0,0,0,05/27/2020,
 Illinois,IL,,,650,,172,215,142,185,0,13,05/28/2020,
@@ -1168,7 +1219,7 @@ Utah,UT,,,182,,4,10,,10,,0,05/27/2020,
 Vermont,VT,,,482,660,20,45,18,43,0,0,05/27/2020,
 Virginia,VA,,,12000,,115,1149,,613,,6,05/27/2020,
 Washington,WA,,,456,,43,41,,,1,,05/27/2020,
-West Virginia,WV,245,,,1117,9,102,1,0,0,0,05/27/2020,"Prisoner test numbers are total number of tests conducted, not individuals tested."
+West Virginia,WV,245,,,1117,9,102,1,0,0,0,05/27/2020,"Prisoner test numbers are total number of tests conducted, not individuals tested. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,1467,,39,65,25,31,0,0,05/27/2020,
 Wyoming,WY,16,,30,,1,0,,,0,0,05/29/2020,
 Federal,US,,,,,600,5239,413,3361,0,65,05/27/2020,
@@ -1181,7 +1232,7 @@ Colorado,CO,,,3214,,35,486,,,,2,05/20/2020,
 Connecticut,CT,,,,,373,684,,,,6,05/20/2020,
 Delaware,DE,656,,,,88,141,,,0,6,05/20/2020,
 Florida,FL,,,9690,,241,1191,,,0,10,05/20/2020,
-Georgia,GA,,,,,152,401,,,1,15,05/20/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,152,401,,,1,15,05/20/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,26,,0,0,,,0,0,05/20/2020,
 Idaho,ID,75,,55,,5,0,,,0,0,05/20/2020,"55 (46 in Idaho, 9 housed in Texas)"
 Illinois,IL,,,600,,166,204,,,0,12,05/20/2020,
@@ -1219,7 +1270,7 @@ Utah,UT,,,123,,4,10,,,0,0,05/20/2020,All the positive cases are in halfway house
 Vermont,VT,,,318,,20,45,,,0,0,05/20/2020,"The ""positive results"" section of the Covid dashboard reflects 48 positives, but the dashboard notes that 3 of them are re-tests. The 223 inmate tests include 2 inmates housed at a private prison in Mississippi. / Confirmed with Rachel Feldman that deaths are still 0."
 Virginia,VA,,,8124,,74,902,,,0,5,05/20/2020,
 Washington,WA,,,423,,42,34,,,1,0,05/20/2020,
-West Virginia,WV,203,,48,,3,2,,,0,0,05/20/2020,"THe National Guard tested 203 staff members on Wed. results were not back, all 43 inmates were tested at the facility with two new positive inmates, most results not back."
+West Virginia,WV,203,,48,,3,2,,,0,0,05/20/2020,"THe National Guard tested 203 staff members on Wed. results were not back, all 43 inmates were tested at the facility with two new positive inmates, most results not back. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,782,,33,40,,,0,0,05/20/2020,
 Wyoming,WY,16,,22,,1,0,,,0,0,05/20/2020,
 Federal,US,,,,,577,4664,,,0,59,05/20/2020,
@@ -1232,7 +1283,7 @@ Colorado,CO,,,2723,,27,479,,,0,2,05/13/2020,
 Connecticut,CT,,,,,368,526,,,0,6,05/13/2020,
 Delaware,DE,,,,,85,139,,,0,6,05/13/2020,
 Florida,FL,,,6392,,208,843,,,0,9,05/13/2020,
-Georgia,GA,,,,,140,370,,,1,12,05/13/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,140,370,,,1,12,05/13/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,24,,0,0,,,0,0,05/13/2020,
 Idaho,ID,74,,50,,6,0,,,0,0,05/13/2020,"Staff testing figures do not include figures for the private facilities that incarcerate IDOC inmates – CAPP and Eagle Pass Correctional Facility. Six staff positives,  5 are DOC employees, 1 is a GEO employee at the Eagle Pass Correctional Facility, in Texas."
 Illinois,IL,,,,,160,192,,,0,12,05/14/2020,
@@ -1270,7 +1321,7 @@ Utah,UT,,,115,,4,10,,,0,0,05/13/2020,
 Vermont,VT,,,223,,20,45,,,0,0,05/13/2020,"For the first week, Vermont began releasing the total number of prisoners tested, rather than the total tests administered, so this figure dropped from weeks past. At the private prison in Mississippi that holds some Vermont prisoners, 2 were tested and 0 were positive."
 Virginia,VA,,,5605,,73,725,,,0,5,05/13/2020,
 Washington,WA,,,379,,40,26,,,,0,05/13/2020,Prisoner death backfilled from 5/20 update.
-West Virginia,WV,,,39,,1,0,,,0,0,05/13/2020,
+West Virginia,WV,,,39,,1,0,,,0,0,05/13/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,174,,28,20,,,0,0,05/13/2020,
 Wyoming,WY,14,,22,,1,0,,,0,0,05/14/2020,
 Federal,US,,,,,548,4365,,,0,52,05/13/2020,
@@ -1283,7 +1334,7 @@ Colorado,CO,,,1067,,25,310,,,0,1,05/07/2020,
 Connecticut,CT,,,,,358,478,,,0,6,05/06/2020,
 Delaware,DE,301,,267,,64,125,,,0,3,05/07/2020,
 Florida,FL,,,805,,180,393,,,0,7,05/06/2020,
-Georgia,GA,,,,,100,302,,,1,10,05/06/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,100,302,,,1,10,05/06/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,20,,0,0,,,0,0,05/06/2020,
 Idaho,ID,68,,47,,5,0,,,0,0,05/05/2020,"Idaho's numbers have not included staff cases at 2 private prisons, one in the state (CAPP facility, operated by MTC) and Eagle Pass Correctional Facility in Texas."
 Illinois,IL,,,600,,157,176,,,0,12,05/06/2020,
@@ -1321,7 +1372,7 @@ Utah,UT,,,101,,4,10,,,0,0,05/06/2020,
 Vermont,VT,154,,,384,19,45,,,0,0,05/06/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
 Virginia,VA,,,,,65,580,,,0,3,05/06/2020,
 Washington,WA,,,350,,35,24,,,0,0,05/06/2020,
-West Virginia,WV,,,34,,1,0,,,0,0,05/06/2020,
+West Virginia,WV,,,34,,1,0,,,0,0,05/06/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,155,,23,20,,,0,0,05/06/2020,
 Wyoming,WY,12,,19,,1,0,,,0,0,05/08/2020,
 Federal,US,,,,,514,2701,,,0,42,05/06/2020,
@@ -1372,7 +1423,7 @@ Utah,UT,,,95,,2,10,,,0,0,04/29/2020,
 Vermont,VT,,,,378,18,38,,,0,0,04/29/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
 Virginia,VA,,,,,65,479,,,0,3,04/29/2020,
 Washington,WA,,,323,,32,18,,,0,0,04/29/2020,
-West Virginia,WV,,,30,,1,0,,,0,0,04/29/2020,
+West Virginia,WV,,,30,,1,0,,,0,0,04/29/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,137,,18,18,,,0,0,04/29/2020,
 Wyoming,WY,10,,15,,1,0,,,0,0,04/29/2020,
 Federal,US,,,,,475,1979,,,0,31,04/29/2020,
@@ -1423,7 +1474,7 @@ Utah,UT,,,79,,2,10,,,0,0,04/22/2020,All 10 cases (and 66 tests) are in halfway h
 Vermont,VT,,,,221,18,38,,,0,0,04/22/2020,Prisoner tests total may included multiple tests of the same prisoners. So we've moved these figures into the Prisoner_tests_with_multiples column. 27 inmate tests with results pending and 25 for staff.
 Virginia,VA,,,,,57,236,,,0,1,04/22/2020,
 Washington,WA,,,303,,24,13,,,0,0,04/22/2020,Deaths backfilled from 4/29 update.
-West Virginia,WV,,,,,,0,,,0,0,04/22/2020,
+West Virginia,WV,,,,,,0,,,0,0,04/22/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,117,,16,13,,,0,0,04/22/2020,
 Wyoming,WY,10,,14,,1,0,,,0,0,04/22/2020,
 Federal,US,,,,,394,838,,,0,24,04/22/2020,Total cases now include recovered patients. 2 staff deaths have been reported in media but not confirmed by BOP
@@ -1436,7 +1487,7 @@ Colorado,CO,,,27,,8,3,,,0,0,04/15/2020,
 Connecticut,CT,,,,,139,199,,,0,1,04/15/2020,
 Delaware,DE,,,,,18,13,,,0,0,04/15/2020,
 Florida,FL,,,292,,58,42,,,0,2,04/15/2020,Staff deaths backfilled from 4/22 update.
-Georgia,GA,,,,,66,67,,,1,3,04/15/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,66,67,,,1,3,04/15/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,5,,0,0,,,0,0,04/15/2020,
 Idaho,ID,41,,24,,2,0,,,0,0,04/15/2020,"Does not include 6 tested in Texas, 0 positive"
 Illinois,IL,,,,,124,146,,,0,8,04/16/2020,
@@ -1474,7 +1525,7 @@ Utah,UT,,,,,,9,,,0,0,04/15/2020,"Cases have all been at a ""community correction
 Vermont,VT,,,,206,18,33,,,0,0,04/14/2020,Prisoner tests total may included multiple tests of the same prisoners. So we've moved this figure into the prisoner_tests_with_multiples column.
 Virginia,VA,,,,,34,53,,,0,1,04/15/2020,
 Washington,WA,,,257,,14,11,,,0,0,04/15/2020,
-West Virginia,WV,,,,,0,0,,,0,0,04/15/2020,
+West Virginia,WV,,,,,0,0,,,0,0,04/15/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,96,,14,10,,,0,0,04/15/2020,Staff information is self-reported
 Wyoming,WY,8,,14,,1,0,,,0,0,04/15/2020,"8 staff have reported testing. However, we're only tracking staff tests if the staff are out sick and are using special leave time granted by the Governor. We have not mandated that anyone be tested, and our contract medical staff does not conduct tests on staff. So the information we have is only based on self-reporting. There could be additional staff who have tested that we don't know about."
 Federal,US,,,,,283,509,,,0,18,04/15/2020,Total cases have been updated to include recovered patients.
@@ -1487,7 +1538,7 @@ Colorado,CO,,,22,,6,1,,,0,0,04/09/2020,
 Connecticut,CT,,,124,,52,46,,,0,0,04/07/2020,
 Delaware,DE,,,,,6,2,,,0,0,04/08/2020,
 Florida,FL,,,,,40,5,,,0,0,04/08/2020,
-Georgia,GA,,,,,40,36,,,0,2,04/09/2020,"For many weeks, prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertantly counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
+Georgia,GA,,,,,40,36,,,0,2,04/09/2020,"For most weeks prior to Sept. 15, the prisoner cases and recoveries for Georgia inadvertently counted some cases in private prisons and county facilities twice. These figures have been corrected throughout."
 Hawaii,HI,,,2,,,0,,,,0,04/08/2020,
 Idaho,ID,24,,21,,2,0,,,0,0,04/08/2020,
 Illinois,IL,,,,,79,112,,,,2,04/08/2020,
@@ -1525,7 +1576,7 @@ Utah,UT,,,,,,2,,,0,0,04/08/2020,Both cases in halfway-house style facilities.
 Vermont,VT,,,,200,4,1,,,0,0,04/09/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we have moved this figure to the prisoner_tests_with_multiples column."
 Virginia,VA,,,,,21,21,,,0,0,04/09/2020,
 Washington,WA,,,221,,14,7,,,0,0,04/08/2020,"Includes headquarters, work release, etc"
-West Virginia,WV,,,,,0,0,,,0,0,04/08/2020,
+West Virginia,WV,,,,,0,0,,,0,0,04/08/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,91,,11,4,,,0,0,04/08/2020,
 Wyoming,WY,1,,0,,0,0,,,0,0,04/08/2020,
 Federal,US,,,,,92,275,,,0,8,04/08/2020,
@@ -1576,7 +1627,7 @@ Utah,UT,,,,,,,,,0,0,04/01/2020,
 Vermont,VT,,,,2,2,0,,,0,0,04/02/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we have moved this figure to the prisoner_tests_with_multiples column."
 Virginia,VA,,,,,4,3,,,0,0,04/01/2020,
 Washington,WA,,,131,,8,1,,,0,0,04/01/2020,staff cases including work release & community centers.
-West Virginia,WV,,,,,0,0,,,0,0,04/01/2020,
+West Virginia,WV,,,,,0,0,,,0,0,04/01/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,,9,0,,,0,0,04/01/2020,Staff cases include 3 in community corrections.
 Wyoming,WY,1,,0,,0,0,,,0,0,04/01/2020,
 Federal,US,,,,,37,60,,,0,3,04/01/2020,
@@ -1627,7 +1678,7 @@ Utah,UT,,,,,,0,,,0,0,03/26/2020,
 Vermont,VT,,,,,,0,,,0,0,03/26/2020,
 Virginia,VA,,,2,,0,0,,,0,0,03/26/2020,
 Washington,WA,,,71,,4,0,,,0,0,03/26/2020,
-West Virginia,WV,,,,,0,0,,,0,0,03/26/2020,back-filled data based on 4/1 responses
+West Virginia,WV,,,,,0,0,,,0,0,03/26/2020,"back-filled data based on 4/1 responses. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,,,5,0,,,0,0,03/26/2020,staff cases include those in adult institution + community corrections
 Wyoming,WY,0,,0,,0,0,,,0,0,03/26/2020,
 Federal,US,,,,,8,10,,,0,0,03/26/2020,
