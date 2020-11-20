@@ -1,11 +1,62 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,prisoner_tests,prisoner_tests_with_multiples,total_staff_cases,total_prisoner_cases,staff_recovered,prisoners_recovered,total_staff_deaths,total_prisoner_deaths,as_of_date,notes
-Alabama,AL,,,,,,,,,,,,
+Alabama,AL,,,,6852,582,775,413,519,2,32,11/16/2020,
+Alaska,AK,,,,9664,95,521,,,0,0,11/18/2020,
+Arizona,AZ,,,,41572,903,2815,807,2609,,28,11/17/2020,
+Arkansas,AR,5114,,19512,,,8566,,8003,2,48,11/17/2020,
+California,CA,,,,107054,,17573,,15502,,83,11/17/2020,
+Colorado,CO,,,16137,77785,570,2933,,,,6,11/18/2020,
+Connecticut,CT,,19212,,23065,612,1749,505,1692,0,8,11/17/2020,
+Delaware,DE,,2271,,6001,237,618,203,551,1,11,11/18/2020,"Delaware's Department of Correction has stopped reporting the death of a contract worker who died over the summer and will only report deaths of department employees. We continue to include the previously reported death in our totals here. The department also changed which tests administered on prisoners they are reporting. Previous numbers reflected only tests administered to inmates displaying symptoms. The DOC has additionally been conducting tests proactively and on recovered prisoners. These will be included in the total testing figure starting this week. Any positive results were already included, so this change only impacts testing numbers."
+Florida,FL,,,,84454,3647,16999,3318,16385,4,187,11/18/2020,
+Georgia,GA,,,,,1056,2182,961,1974,2,80,11/17/2020,
+Hawaii,HI,,,,7772,124,953,114,805,0,0,11/17/2020,
+Idaho,ID,3040,,9300,,239,2284,201,1863,0,5,11/17/2020,
+Illinois,IL,,,,,1974,3347,1414,2549,1,36,11/17/2020,
+Indiana,IN,,3331,,9305,744,1859,553,1691,3,33,11/17/2020,
+Iowa,IA,,,,26233,421,2985,290,2390,1,7,11/17/2020,First staff death this week.
+Kansas,KS,,,,,617,4539,,,3,11,11/18/2020,
+Kentucky,KY,,,,,311,2056,183,1171,2,13,11/18/2020,
+Louisiana,LA,,2045,,6909,539,2428,515,2339,5,30,11/17/2020,
+Maine,ME,,,,5640,25,150,15,119,0,0,11/17/2020,
+Maryland,MD,,31313,,34992,857,1199,782,1004,2,13,11/16/2020,
+Massachusetts,MA,,,,14747,330,846,,,,8,11/18/2020,
+Michigan,MI,,59035,39500,255441,1468,9763,705,5253,3,75,11/17/2020,
+Minnesota,MN,,,,65273,672,2744,309,1631,0,3,11/17/2020,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column"
+Mississippi,MS,,,,,,,,,,,,
+Missouri,MO,,,,,,,,,,,,
+Montana,MT,,,,,232,880,,,0,2,11/16/2020,Including 55 staff members at the privately operated Crossroads Correctional Center
+Nebraska,NE,,,,,,,,,,,,
+Nevada,NV,,,,,275,577,49,27,0,0,11/17/2020,
+New Hampshire,NH,,,,148,16,1,13,1,0,0,11/17/2020,
+New Jersey,NJ,,,,,1182,3144,,,,52,11/17/2020,
+New Mexico,NM,,,,20673,384,1266,102,560,0,8,11/17/2020,
+New York,NY,,,,35556,1617,1709,1482,1564,5,18,11/17/2020,
+North Carolina,NC,,,35619,57615,1472,4909,1168,3928,4,22,11/17/2020,
+North Dakota,ND,,13256,1964,14442,181,318,137,174,0,0,11/17/2020,
+Ohio,OH,,,,42077,1983,7299,1575,5663,5,111,11/17/2020,
+Oklahoma,OK,,3868,,21565,524,5404,,,,,11/17/2020,
+Oregon,OR,,,,9886,347,1365,303,1230,0,16,11/17/2020,
+Pennsylvania,PA,,3363,,31520,897,1544,447,741,3,21,11/17/2020,
+Rhode Island,RI,,,,,145,279,,,0,0,11/17/2020,"11/17 data shows 240 cases among residents and 43 cases among ""new admissions"", subtracting 4 presumed positives. 97 cases among facility staff and 61 cases among non-facility staff, subtracting 13 presumed positives. RIDOH contact confirmed that there were no new presumed positives after we received the 4 and 13 figures on 11/5"
+South Carolina,SC,,,,,549,2396,513,2162,2,31,11/17/2020,
+South Dakota,SD,,345,,4366,154,2078,133,1849,0,3,11/17/2020,
+Tennessee,TN,,,,34690,795,5941,681,5715,2,27,11/17/2020,
+Texas,TX,,85017,,233993,6222,25781,5226,22412,23,168,11/17/2020,
+Utah,UT,,,,7063,129,1161,92,358,,,11/18/2020,
+Vermont,VT,,,2361,8117,25,240,24,238,0,0,11/17/2020,
+Virginia,VA,,,,,,4260,,,1,34,11/17/2020,
+Washington,WA,,,5562,6216,274,610,,512,1,2,11/17/2020,
+West Virginia,WV,,5090,,7518,195,606,154,333,0,2,11/17/2020,
+Wisconsin,WI,,,,66437,1534,7047,1206,4881,,10,11/17/2020,
+Wyoming,WY,,,,10195,126,391,96,304,0,0,11/17/2020,
+Federal,US,,,,75896,2792,22203,1677,18956,2,152,11/17/2020,
+Alabama,AL,,,6783,,542,751,408,496,2,32,11/11/2020,
 Alaska,AK,,,,8674,74,357,,,0,0,11/10/2020,
 Arizona,AZ,,,41380,,855,2667,769,2609,,28,11/10/2020,
 Arkansas,AR,5114,,19294,,,8343,,7720,2,48,11/10/2020,Arkansas is no longer releasing cases or testing figures for staff.
 California,CA,,,104053,,,16749,,15183,,82,11/10/2020,
 Colorado,CO,,,,65192,,1996,,,0,4,11/10/2020,
-Connecticut,CT,,18550,,,556,1686,451,1673,0,7,11/10/2020,
+Connecticut,CT,,18550,,22341,556,1686,451,1673,0,7,11/10/2020,
 Delaware,DE,,2253,,2118,219,579,203,548,1,11,11/11/2020,"Note from PIO about jump in staff tests: ""You'll note a big jump in the number of staff COVID-19 tests in this week's report. This jump includes 660 self-administered off-site COVID-19 tests that are provided to staff by DOC in partnership with state public health officials and are processed by a different 3rd party lab than the lab that processes our in-house staff tests. These off-site self-administered test kits began to be provided to staff in October as an additional proactive testing resource for our staff."""
 Florida,FL,,,,84360,3586,16969,3249,16341,,184,11/10/2020,
 Georgia,GA,,,,,1027,2095,930,1936,2,79,11/10/2020,
@@ -24,8 +75,8 @@ Michigan,MI,,51283,39371,229095,1183,8295,514,5231,3,74,11/10/2020,
 Minnesota,MN,,,,58037,561,2138,247,1435,0,3,11/09/2020,"Inmate recovery numbers exclude 38 presumed positives from some time in April. Since they switched to a new testing method, they don't have new presumed positive cases."
 Mississippi,MS,,464,,2120,146,816,,,,,11/10/2020,
 Missouri,MO,,11593,,51732,1616,4226,,,2,22,11/12/2020,
-Montana,MT,,,,,222,865,,,0,2,11/10/2020,
-Nebraska,NE,,,,,,,,,,,,
+Montana,MT,,,,,209,865,,,0,2,11/10/2020,"The number of staff cases, which includes 54 at the privately run Crossroads Correctional, inadvertantly included cases from a juvenile facility. We have removed those cases and updated our figures."
+Nebraska,NE,,,2310,3479,,429,,269,,3,11/13/2020,
 Nevada,NV,,,,,203,170,46,27,0,0,11/10/2020,
 New Hampshire,NH,,,139,,13,1,12,1,0,0,11/10/2020,
 New Jersey,NJ,,,,,1112,3114,,,,52,11/10/2020,
@@ -41,7 +92,7 @@ Rhode Island,RI,,,,,,,,,,,,
 South Carolina,SC,,,,,537,2378,511,2105,2,31,11/10/2020,
 South Dakota,SD,,321,,4179,144,2009,96,1768,0,1,11/10/2020,
 Tennessee,TN,,7579,,33907,708,5705,645,5687,2,27,11/10/2020,
-Texas,TX,,81982,,230577,5892,25548,5020,22357,21,166,11/10/2020,
+Texas,TX,,81982,,230577,5892,25548,5020,22357,21,163,11/10/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,4115,,103,886,70,358,0,0,11/09/2020,
 Vermont,VT,,,2315,7844,24,240,24,238,0,0,11/10/2020,
 Virginia,VA,,,,,,4190,,,1,33,11/10/2020,
@@ -92,7 +143,7 @@ Rhode Island,RI,,,,,104,60,,,0,0,11/05/2020,"Staff cases include 58 cases among 
 South Carolina,SC,,,8045,,528,2356,494,2074,2,31,11/03/2020,
 South Dakota,SD,,298,,3886,128,1791,76,1337,0,0,11/03/2020,
 Tennessee,TN,,,,33907,708,5705,645,5687,2,27,11/06/2020,
-Texas,TX,,78332,,221090,5599,23429,4854,22244,21,166,11/03/2020,
+Texas,TX,,78332,,221090,5599,23429,4854,22244,21,163,11/03/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,3465,,80,642,66,355,0,0,11/03/2020,Staff deaths backfilled based on 11/10 data.
 Vermont,VT,,,2295,7650,24,240,23,238,0,0,11/03/2020,
 Virginia,VA,,,,47204,885,3971,811,3766,1,33,11/03/2020,
@@ -143,7 +194,7 @@ Rhode Island,RI,,,,,104,52,,,0,0,10/27/2020,Backfilled deaths based on info from
 South Carolina,SC,,,7985,,517,2334,485,1950,2,31,10/27/2020,
 South Dakota,SD,255,,2784,,94,1588,44,402,0,0,10/27/2020,
 Tennessee,TN,,7453,,33215,540,5686,442,5588,2,27,10/27/2020,
-Texas,TX,,76599,,217018,5438,23362,4753,21133,21,166,10/27/2020,
+Texas,TX,,76599,,217018,5438,23362,4753,21133,21,163,10/27/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,2698,,76,347,61,111,0,0,10/27/2020,Staff deaths backfilled based on 11/10 data.
 Vermont,VT,,,2267,7418,23,240,23,238,0,0,10/27/2020,
 Virginia,VA,,,,45214,867,3919,796,3662,1,33,10/28/2020,
@@ -194,7 +245,7 @@ Rhode Island,RI,,,,,93,43,,,0,0,10/20/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,7889,,507,2315,457,1891,2,31,10/20/2020,
 South Dakota,SD,,198,,1017,54,442,40,247,0,0,10/20/2020,
 Tennessee,TN,,,,31129,540,5613,442,5328,2,27,10/20/2020,
-Texas,TX,,70939,,214466,5198,23283,4627,21021,21,160,10/20/2020,
+Texas,TX,,70939,,214466,5198,23283,4627,21021,21,157,10/20/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,,,,,,,0,,,Staff deaths backfilled based on 11/10 data.
 Vermont,VT,,,2231,7171,22,240,22,238,0,0,10/20/2020,
 Virginia,VA,,,,42748,825,3856,777,3657,1,33,10/21/2020,
@@ -245,8 +296,8 @@ Rhode Island,RI,,,,,86,37,,,0,0,10/13/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,7795,,500,2280,445,1791,2,31,10/13/2020,
 South Dakota,SD,,177,,768,44,256,36,225,0,0,10/13/2020,
 Tennessee,TN,,,,31129,540,5586,442,5328,2,25,10/15/2020,
-Texas,TX,,70663,,212234,4988,23137,4068,20738,21,160,10/13/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
-Utah,UT,,,,2592,63,343,28,66,,0,10/14/2020,
+Texas,TX,,70663,,212234,4988,23137,4068,20738,21,157,10/13/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Utah,UT,,,,2592,63,343,28,66,0,0,10/14/2020,
 Vermont,VT,,,2195,6866,22,240,22,238,0,0,10/13/2020,
 Virginia,VA,,,,42318,804,3719,759,3564,1,33,10/13/2020,
 Washington,WA,,,5204,5805,181,492,,459,1,2,10/13/2020,
@@ -296,7 +347,7 @@ Rhode Island,RI,,,,,82,36,,,0,0,10/06/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,,,491,2203,430,1600,2,31,10/06/2020,
 South Dakota,SD,,159,,752,35,245,29,180,0,0,10/06/2020,
 Tennessee,TN,,,,30414,540,5555,442,5306,2,22,10/07/2020,
-Texas,TX,,70425,,210411,4892,23065,3973,20673,21,160,10/06/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,70425,,210411,4892,23065,3973,20673,21,157,10/06/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,,2260,56,271,28,66,0,0,10/07/2020,Staff deaths backfilled based on 10/14 data.
 Vermont,VT,,,2162,6676,22,240,22,238,0,0,10/06/2020,
 Virginia,VA,,,,42287,792,3698,748,3477,1,33,10/06/2020,
@@ -347,7 +398,7 @@ Rhode Island,RI,,,,,79,36,,,0,0,09/29/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,6692,,479,2148,416,1483,2,31,06/29/2020,
 South Dakota,SD,146,,604,,30,192,22,116,0,0,09/29/2020,
 Tennessee,TN,,5903,,29716,507,5329,410,5254,2,20,09/30/2020,
-Texas,TX,,69992,,206751,4804,22746,3850,20598,20,160,09/29/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,69992,,206751,4804,22746,3850,20598,20,157,09/29/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,1931,,42,120,28,49,0,0,09/29/2020,Staff deaths backfilled based on 10/14 data.
 Vermont,VT,,,2112,6205,22,240,22,238,0,0,09/29/2020,
 Virginia,VA,,,,39260,774,3639,706,3276,1,31,09/29/2020,
@@ -398,7 +449,7 @@ Rhode Island,RI,,,,,78,36,,,0,0,09/22/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,6615,,470,2050,412,1383,2,27,09/22/2020,
 South Dakota,SD,129,,442,,23,124,16,10,0,0,09/22/2020,
 Tennessee,TN,,5888,,29578,483,5328,315,5163,2,17,09/22/2020,
-Texas,TX,,68619,,203441,4717,21653,3727,20249,20,154,09/22/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,68619,,203441,4717,21653,3727,20249,20,151,09/22/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,1636,,,66,,48,0,0,09/21/2020,Staff deaths backfilled based on 10/14 data.
 Vermont,VT,,,2051,5945,22,240,22,238,0,0,09/22/2020,
 Virginia,VA,,,,38722,761,3542,662,2761,1,24,09/22/2020,
@@ -449,7 +500,7 @@ Rhode Island,RI,,,,,78,35,,,0,0,09/15/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,5936,,464,1994,380,1226,1,24,09/15/2020,
 South Dakota,SD,112,,284,,16,25,12,10,0,0,09/15/2020,
 Tennessee,TN,,5297,,29151,403,5183,280,4577,2,16,09/15/2020,
-Texas,TX,,66359,,201004,4626,21562,3625,19680,20,154,09/15/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,66359,,201004,4626,21562,3625,19680,20,151,09/15/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
 Utah,UT,,,1528,,29,63,27,46,0,0,09/14/2020,
 Vermont,VT,,,2014,5462,22,240,21,236,0,0,09/15/2020,
 Virginia,VA,,,,37816,720,3127,636,2697,1,19,09/15/2020,
@@ -500,7 +551,7 @@ Rhode Island,RI,,,,,78,34,,,0,0,09/08/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,5557,,454,1888,346,866,1,19,09/08/2020,
 South Dakota,SD,105,,253,,12,10,11,6,0,0,09/08/2020,
 Tennessee,TN,,5266,,29098,312,4986,250,3409,1,15,09/09/2020,
-Texas,TX,,65383,,199135,4518,21399,3447,18643,20,144,09/08/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,65383,,199135,4518,21399,3447,18643,20,142,09/08/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,1417,,4,60,,46,0,0,09/08/2020,Staff deaths backfilled based on 9/15 data.
 Vermont,VT,,2022,1978,5024,22,240,21,233,0,0,09/08/2020,
 Virginia,VA,,,,,,2972,,,,15,09/08/2020,
@@ -551,7 +602,7 @@ Rhode Island,RI,,,,,78,33,,,0,0,09/01/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,4595,,428,1666,326,709,1,16,09/01/2020,
 South Dakota,SD,100,,243,,11,6,9,5,0,0,09/02/2020,
 Tennessee,TN,,5254,,26102,308,4560,196,3354,1,12,09/01/2020,
-Texas,TX,,63488,,194412,4368,20617,3337,17879,20,138,09/01/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,63488,,194412,4368,20617,3337,17879,20,136,09/01/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,1357,,4,46,4,46,0,0,09/01/2020,
 Vermont,VT,,1879,1932,4900,22,240,21,231,0,0,09/01/2020,
 Virginia,VA,9245,,35361,,646,2710,583,2490,0,14,09/01/2020,
@@ -602,7 +653,7 @@ Rhode Island,RI,,,,,78,33,,,0,0,08/25/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,4376,,402,1462,304,607,1,13,08/25/2020,
 South Dakota,SD,89,,208,,9,5,8,5,0,0,08/25/2020,
 Tennessee,TN,,5231,,24618,274,3367,163,3259,1,9,08/25/2020,
-Texas,TX,,61525,,188613,4265,19599,3159,17649,20,134,08/25/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,61525,,188613,4265,19599,3159,17649,20,132,08/25/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,1220,,4,46,4,45,0,0,08/24/2020,
 Vermont,VT,,1755,1884,4659,22,240,21,206,0,0,08/25/2020,
 Virginia,VA,,,,,,2621,,,,13,08/25/2020,
@@ -653,7 +704,7 @@ Rhode Island,RI,,,,,76,29,,,0,0,08/18/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,3885,,364,1262,254,466,1,12,08/18/2020,
 South Dakota,SD,88,,181,,9,5,8,5,0,0,08/18/2020,
 Tennessee,TN,,5186,,23964,237,3318,153,3245,1,9,08/18/2020,
-Texas,TX,,58767,,181858,4059,18756,2848,15656,20,121,08/18/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,58767,,181858,4059,18756,2848,15656,20,119,08/18/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,1160,,4,46,4,43,0,0,08/18/2020,
 Vermont,VT,,1606,1834,4171,22,239,20,171,0,0,08/18/2020,
 Virginia,VA,8020,,31815,,603,2555,486,2036,0,13,08/18/2020,
@@ -704,7 +755,7 @@ Rhode Island,RI,,,,,76,26,,,0,0,08/11/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,3752,,324,1127,218,378,1,12,08/12/2020,
 South Dakota,SD,87,,166,,8,5,6,5,0,0,08/11/2020,
 Tennessee,TN,,5151,,23673,200,3267,140,3214,0,8,08/11/2020,
-Texas,TX,,57681,,179134,3847,18495,2468,14573,16,112,08/11/2020,
+Texas,TX,,57681,,179134,3847,18495,2468,14573,16,111,08/11/2020,"In November, Texas re-classified several deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,949,,4,46,4,41,0,0,08/10/2020,
 Vermont,VT,,1525,1783,3884,21,201,20,49,0,0,08/11/2020,
 Virginia,VA,7525,,,,569,2406,456,,0,13,08/13/2020,
@@ -755,7 +806,7 @@ Rhode Island,RI,,,,,75,25,,20,0,0,08/04/2020,
 South Carolina,SC,,,3244,,296,975,187,236,1,10,08/04/2020,
 South Dakota,SD,77,,133,,8,5,6,5,0,0,08/03/2020,
 Tennessee,TN,,5014,,23526,183,3221,125,3204,0,5,08/04/2020,
-Texas,TX,,55467,,174407,3546,17068,2185,12493,14,112,08/04/2020,
+Texas,TX,,55467,,174407,3546,17068,2185,12493,14,111,08/04/2020,"In November, Texas re-classified several deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,892,,4,43,4,40,0,0,08/03/2020,
 Vermont,VT,,1449,1753,3617,20,149,20,46,0,0,08/04/2020,
 Virginia,VA,7525,,29642,,520,2151,392,1507,0,13,08/04/2020,
@@ -806,7 +857,7 @@ Rhode Island,RI,,,,,48,22,,,0,0,07/28/2020,Backfilled deaths based on info from 
 South Carolina,SC,,,2376,,263,786,158,214,1,9,07/29/2020,
 South Dakota,SD,67,,133,,6,5,5,4,0,0,07/28/2020,
 Tennessee,TN,,,,23477,158,3213,112,3185,0,5,07/28/2020,"Tennessee later revised the number of prisoner tests conducted, and the number has been adjusted here accordingly."
-Texas,TX,,50607,,161371,3213,15241,1860,10686,14,102,07/28/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,50607,,161371,3213,15241,1860,10686,14,101,07/28/2020,"Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column. In November, Texas re-classified several deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,796,,4,41,4,15,0,0,07/29/2020,
 Vermont,VT,,1309,1492,2919,20,48,19,46,0,0,07/28/2020,
 Virginia,VA,,,28590,,478,1876,346,1484,0,13,07/29/2020,
