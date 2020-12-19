@@ -85,7 +85,7 @@ It includes these columns:
 * `as_of_date` - The date the data reflect. In some instances, an April figure was not available, and we used the most recent number we could acquire.
 * `notes` - Any caveats or notes about the data.
 
-The fourth table in the dataset, `covid_prison_rates.csv`, contains the rates of cases and deaths for prisoners and staff. There is one for every state and federal prison system and an additional row with the `National` totals. 
+The fourth table in the dataset, `covid_prison_rates.csv`, contains the rates of cases and deaths for prisoners. There is one for every state and federal prison system and an additional row with the `National` totals. 
 
 It includes these columns:
 
@@ -97,12 +97,6 @@ It includes these columns:
 * `cumulative_prisoner_deaths`
 * `prisoner_deaths_pct` - Deaths as a percentage of the largest known prison population since March that have tested positive, to date.
 * `prisoner_death_rate`- The rate of prisoners who've died.
-* `cumulative_staff_cases` - The total number of positive cases reported among employees to date.
-* `staff_cases_pct`- The percentage of the largest known staff population since March that have tested positive, to date.
-* `staff_case_rate` - The rate of staff who've tested positive.
-* `cumulative_staff_deaths` - The cumulative number of staff members who have been reported to die from COVID-19 related causes.
-* `staff_deaths_pct` - Deaths as a percentage of the largest known staff population since March that have tested positive, to date.
-* `staff_death_rate` - The rate of staff who've died.
 
 ## Attribution
 In stories attribute this data to: “According to an analysis of state prison coronavirus cases by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system, and The Associated Press.”
