@@ -1,31 +1,82 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,,907,774,3,,14552,1294,1138,57,01/18/2021,
+Alaska,AK,,,256,,0,,19213,2269,,5,01/19/2021,They are vaccinating but not tracking numbers.
+Arizona,AZ,,,2254,1775,,43396,,8778,7138,45,01/19/2021,
+Arkansas,AR,,,,,,,,10877,10720,52,01/19/2021,
+California,CA,,,14560,12421,19,116167,,45486,40696,175,01/19/2021,
+Colorado,CO,,,1435,,0,17966,145871,8006,,25,01/20/2021,
+Connecticut,CT,,34512,1313,1026,0,,44161,3547,3225,17,01/19/2021,
+Delaware,DE,,,,,,,,,,,,
+Florida,FL,,,4955,4373,6,,,17734,17375,205,01/19/2021,
+Georgia,GA,,,1473,1288,2,,,3056,2690,88,01/19/2021,
+Hawaii,HI,,,211,194,0,,13797,1871,1798,2,01/19/2021,
+Idaho,ID,4454,,424,404,0,9959,,3909,2495,6,01/19/2021,
+Illinois,IL,,47134,3807,3576,1,,135368,9973,8959,80,01/19/2021,
+Indiana,IN,,5296,1437,1313,4,,14418,3123,3260,49,01/19/2021,
+Iowa,IA,,,670,638,2,,36539,4332,4150,14,01/19/2021,
+Kansas,KS,,,1085,,5,,,5420,,13,01/21/2021,
+Kentucky,KY,,,835,676,5,,,6596,4329,39,01/19/2021,
+Louisiana,LA,2325,,808,735,5,7529,,2792,2621,33,01/19/2021,
+Maine,ME,,,52,46,0,,6890,157,150,1,01/19/2021,
+Maryland,MD,,42862,1885,1666,2,49665,,3625,3332,19,01/19/2021,
+Massachusetts,MA,,,834,,,,23983,2664,,19,01/20/2021,
+Michigan,MI,,109911,3294,1877,4,40225,449732,23748,17286,127,01/19/2021,
+Minnesota,MN,,,973,792,,,90583,3831,3449,11,01/19/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
+Mississippi,MS,,,,,,,,,,,01/19/2021,
+Missouri,MO,,12700,2456,2359,5,,69017,5288,5217,42,01/20/2021,
+Montana,MT,,,,,,,,,,,,
+Nebraska,NE,,,,,,3646,6464,932,871,6,01/22/2021,
+Nevada,NV,,,946,,4,,,3720,,45,01/19/2021,
+New Hampshire,NH,,,160,149,,,1267,417,391,2,01/19/2021,
+New Jersey,NJ,,,1933,,,,,3956,,52,01/19/2021,
+New Mexico,NM,,,868,685,0,,30476,2441,2206,26,01/19/2021,
+New York,NY,,,3952,,7,,56091,4502,3379,29,01/20/2021,
+North Carolina,NC,,49453,3040,2487,7,37743,89090,8360,6966,40,01/20/2021,
+North Dakota,ND,,,257,242,1,,,614,612,1,01/19/2021,
+Ohio,OH,,,4350,4027,9,,54462,9154,7006,131,01/22/2021,
+Oklahoma,OK,,9286,915,,,,27052,6939,,44,01/19/2021,
+Oregon,OR,,,757,603,0,,18269,3131,2615,33,01/19/2021,
+Pennsylvania,PA,,7587,3539,3366,5,,63321,9205,7362,90,01/19/2021,
+Rhode Island,RI,,,371,357,1,,,1083,1039,2,01/21/2021,
+South Carolina,SC,,,859,695,2,9059,,2919,2398,37,01/19/2021,
+South Dakota,SD,,400,183,180,0,,6772,2336,2328,6,01/19/2021,
+Tennessee,TN,,9072,1417,1230,4,,,6439,6328,38,01/19/2021,
+Texas,TX,,135515,10001,8399,36,,349212,32284,27333,177,01/19/2021,
+Utah,UT,,,,,,,,3101,2374,15,01/20/2021,
+Vermont,VT,,,41,36,0,2632,12056,244,241,0,01/19/2021,
+Virginia,VA,,,2188,1874,3,,81392,8107,7482,52,01/20/2021,
+Washington,WA,,,995,,2,9689,11276,5670,4303,9,01/19/2021,
+West Virginia,WV,,8043,412,397,1,,9188,1397,1272,4,01/19/2021,
+Wisconsin,WI,,,2377,2295,,,84692,10642,10372,25,01/19/2021,
+Wyoming,WY,,,235,229,,,18521,583,566,1,01/19/2021,
+Federal,US,,,5772,3792,3,99247,,44957,40535,216,01/19/2021,
 Alabama,AL,,,863,550,2,,14447,1262,1026,54,01/12/2021,
-Alaska,AK,,,257,,0,,18507,2222,,5,01/12/2021,They are vaccinating but not tracking numbers.
-Arizona,AZ,,,2137,1693,,,43136,8042,6591,44,01/12/2021,
+Alaska,AK,,,256,,0,,18507,2222,,5,01/12/2021,They are vaccinating but not tracking numbers. The number of staff cases was off by one and has been updated.
+Arizona,AZ,,,2137,1693,,43136,,8042,6591,44,01/12/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,,,,,4,,,10832,10696,51,01/12/2021,
-California,CA,,,13957,11311,13,,115858,44079,38028,162,01/12/2021,
+California,CA,,,13957,11311,13,115858,,44079,38028,162,01/12/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1368,,0,17865,139888,7842,,25,01/12/2021,
 Connecticut,CT,,32328,1234,947,0,,,3508,3140,16,01/14/2021,
 Delaware,DE,,,,,,,10270,1899,1704,12,01/11/2021,
 Florida,FL,,,4953,4237,5,,,17614,17332,204,01/13/2021,
 Georgia,GA,,,1411,1224,2,,,2893,2639,87,01/12/2021,
 Hawaii,HI,,,208,189,0,,13672,1870,1751,2,01/12/2021,
-Idaho,ID,,4315,410,394,0,,9930,3836,2495,6,01/12/2021,
+Idaho,ID,4315,,410,394,0,9930,,3836,2495,6,01/12/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Illinois,IL,,39154,3703,3451,,,112223,9561,7757,,01/12/2021,
 Indiana,IN,,5219,1406,1264,4,,13638,3092,3179,48,01/12/2021,
 Iowa,IA,,,651,615,2,,35231,4240,4070,14,01/12/2021,
 Kansas,KS,,,1031,,5,,,5361,,13,01/11/2021,
 Kentucky,KY,,,712,531,5,,,5296,4071,39,01/12/2021,
-Louisiana,LA,,2295,789,721,5,,7481,2765,2595,31,01/12/2021,
+Louisiana,LA,2295,,789,721,5,7481,,2765,2595,31,01/12/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,50,46,0,,6740,157,150,1,01/12/2021,
 Maryland,MD,,42199,1823,1575,2,48360,,3422,3151,19,01/11/2021,
-Massachusetts,MA,,,,,,,,,,,01/13/2021,
+Massachusetts,MA,,,807,,,,23890,2599,,17,01/13/2021,"Massachusetts later revised its number of tests for this week that seemed to have been overstated by 1,000. The figures has been updated here."
 Michigan,MI,,109911,3192,,4,40151,433511,23335,14816,123,01/12/2021,
-Minnesota,MN,,,968,784,,,89306,3766,3438,11,01/12/2021,
+Minnesota,MN,,,968,784,,,89306,3766,3438,11,01/12/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
 Mississippi,MS,,573,221,161,,,3351,1448,,,01/13/2021,
 Missouri,MO,,12644,2453,2267,5,,66527,5235,5120,42,01/12/2021,
 Montana,MT,,,263,,0,,,1124,,6,01/11/2021,
-Nebraska,NE,,,,,,,,,,,,
+Nebraska,NE,,,,,,3596,6282,890,863,6,01/15/2021,
 Nevada,NV,,,819,,3,,,2612,,39,01/12/2021,
 New Hampshire,NH,,,154,142,,,,407,363,2,01/12/2021,
 New Jersey,NJ,,,1674,,,,,3620,,52,01/12/2021,
@@ -49,28 +100,28 @@ Washington,WA,,,946,,2,9445,10978,5372,3866,8,01/12/2021,They have begun vaccina
 West Virginia,WV,,7686,400,375,1,,9001,1302,1205,4,01/12/2021,
 Wisconsin,WI,,,2339,2238,,,82279,10544,10218,25,01/12/2021,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,5605,3553,3,,98614,44757,39695,205,01/15/2021,The vaccine numbers indicate the number of people who have received at least one dose.
+Federal,US,,,5605,3553,3,98614,,44757,39695,204,01/15/2021,The vaccine numbers indicate the number of people who have received at least one dose. The number of prisoner deaths this week was originally logged as one more than it should have been. It's been updated. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,,,,,,,,,01/05/2021,
 Alaska,AK,,,232,,0,,17155,2153,,5,01/05/2021,
-Arizona,AZ,,,1930,1539,,,43016,7608,5781,39,01/05/2021,
+Arizona,AZ,,,1930,1539,,43016,,7608,5781,39,01/05/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,,,,,4,,,10741,10455,51,01/05/2021,
-California,CA,,,12993,8962,11,,115726,41562,33784,139,01/05/2021,
+California,CA,,,12993,8962,11,115726,,41562,33784,139,01/05/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1316,,0,17800,133447,7512,,25,01/05/2021,
 Connecticut,CT,,30106,1127,871,0,,38489,3289,2756,14,01/05/2021,
 Delaware,DE,,,,,,,,,,,,
 Florida,FL,,,4603,4011,,,,17560,17307,196,01/06/2021,
 Georgia,GA,,,1335,1167,2,,,2785,2530,85,01/05/2021,
 Hawaii,HI,,,204,175,,,13229,1816,1557,1,01/05/2021,
-Idaho,ID,,4296,401,381,0,,9872,3775,2359,6,01/05/2021,
+Idaho,ID,4296,,401,381,0,9872,,3775,2359,6,01/05/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Illinois,IL,,30782,3532,3283,1,,74923,8828,6930,70,01/05/2021,
 Indiana,IN,,5079,1356,1180,4,,13589,3038,3115,46,01/05/2021,
 Iowa,IA,,,628,599,2,,33660,4091,3947,13,01/05/2021,
 Kansas,KS,,,1014,,4,,,5301,,13,01/07/2021,
 Kentucky,KY,,,624,536,5,,,4396,3756,37,01/05/2021,
-Louisiana,LA,,2254,752,683,5,,7399,2695,2573,31,01/05/2021,
+Louisiana,LA,2254,,752,683,5,7399,,2695,2573,31,01/05/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,46,41,0,,6686,156,145,1,01/05/2021,
 Maryland,MD,,41833,1732,1428,2,48197,,3259,2899,18,01/04/2021,
-Massachusetts,MA,,,764,,,,24289,2325,,15,01/06/2021,
+Massachusetts,MA,,,764,,,,23289,2325,,15,01/06/2021,"Massachusetts later revised its number of tests for this week that seemed to have been overstated by 1,000. The figures has been updated here."
 Michigan,MI,,98158,3067,,4,40089,418846,22629,10815,121,01/05/2021,"Recovered prisoners dropped this week. Michigan spokesman wrote ""Any prisoner who tests positive after 90 days from a previous positive is considered a new infection, and so when that happens, they are moved from the recovered column."""
 Minnesota,MN,,,945,768,,,87156,3749,3327,9,01/05/2021,"They had begun vaccinating this week but didn't have numbers available. Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
 Mississippi,MS,,573,220,,,,3318,1425,,,01/06/2021,
@@ -100,28 +151,28 @@ Washington,WA,,,873,,2,9058,10540,4934,3367,7,01/05/2021,
 West Virginia,WV,,7379,373,340,1,,8954,1224,1145,4,01/05/2021,
 Wisconsin,WI,,,2260,2186,,,79958,10476,10026,23,01/05/2021,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,4835,2997,3,,96647,42066,35596,196,01/05/2021,
+Federal,US,,,4835,2997,3,96647,,42066,35596,196,01/05/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,804,529,2,,12671,1161,1003,54,12/28/2020,
 Alaska,AK,,,216,,0,,15996,1966,,5,12/28/2020,
-Arizona,AZ,,,1769,1441,,,42749,6415,4723,34,12/29/2020,
-Arkansas,AR,,,,,3,,,10579,9969,50,12/29/2020,
-California,CA,,,11706,7732,11,,115673,38398,29809,120,12/29/2020,Vaccines have begun to be distributed but California's Correctional Health Care Services has not released specific numbers of people vaccinated thus far.
+Arizona,AZ,,,1769,1441,,42749,,6415,4723,34,12/29/2020,
+Arkansas,AR,,,,,3,,,10579,9969,50,12/29/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
+California,CA,,,11706,7732,11,115673,,38398,29809,120,12/29/2020,Vaccines have begun to be distributed but California's Correctional Health Care Services has not released specific numbers of people vaccinated thus far. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1239,,,17766,127291,7125,,24,12/29/2020,
 Connecticut,CT,,29271,998,789,0,,,2955,2406,13,12/29/2020,
 Delaware,DE,,,573,468,,,,1750,1441,12,12/29/2020,
 Florida,FL,,,4389,3767,,,,17537,17030,191,12/30/2020,
 Georgia,GA,,,1270,1114,2,,,2649,2393,85,12/29/2020,
 Hawaii,HI,,,197,158,0,,12866,1710,1489,1,12/29/2020,"Health care providers in Hawaii, including those working in prisons, now have access to vaccines, but they do not have a number of how many have received them yet."
-Idaho,ID,,4267,394,376,0,,9760,3605,2309,6,12/29/2020,
+Idaho,ID,4267,,394,376,0,9760,,3605,2309,6,12/29/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Illinois,IL,,24209,3404,3076,1,,50338,7552,5880,65,12/29/2020,
 Indiana,IN,,4921,1299,1111,4,,13158,2968,2974,45,12/29/2020,"vaccine numbers sent via email from PIO. The positive tests are individuals. The recoveries count each time a person has recovered. If someone is re-infected, they count it again. This is IDOC's explanation for how the recovered numbers are higher than the total prisoner positives."
 Iowa,IA,,,612,579,2,,32470,3957,3772,13,12/29/2020,
 Kansas,KS,,,965,,4,,,5183,,12,12/28/2020,
 Kentucky,KY,,,573,472,4,,,4138,3069,34,12/28/2020,
-Louisiana,LA,,2208,720,642,5,,7350,2685,2529,31,12/29/2020,
+Louisiana,LA,2208,,720,642,5,7350,,2685,2529,31,12/29/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,45,40,0,,6521,156,,1,12/29/2020,
 Maryland,MD,,41518,1638,1351,2,45676,,3090,2456,18,12/28/2020,
-Massachusetts,MA,,,706,,,,23882,2085,,12,12/30/2020,
+Massachusetts,MA,,,706,,,,22882,2085,,12,12/30/2020,"Massachusetts later revised its number of tests for this week that seemed to have been overstated by 1,000. The figures has been updated here."
 Michigan,MI,,93239,2930,1837,4,40041,402143,21622,10832,116,12/29/2020,"Recovered prisoners dropped this week. Michigan spokesman wrote ""Any prisoner who tests positive after 90 days from a previous positive is considered a new infection, and so when that happens, they are moved from the recovered column."""
 Minnesota,MN,,,933,750,0,,82979,3621,3071,9,12/29/2020,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
 Mississippi,MS,,573,220,161,2,,3136,1321,,10,12/28/2020,
@@ -142,7 +193,7 @@ Pennsylvania,PA,,5938,2627,2536,3,,,6787,4578,63,12/29/2020,
 Rhode Island,RI,,,311,284,1,,,984,864,2,12/31/2020,Subtracting 4 presumed positives among prisoners and 13 presumed positives.
 South Carolina,SC,,,700,589,2,8577,,2489,2332,34,12/29/2020,
 South Dakota,SD,,389,176,174,0,,6413,2329,2321,5,12/29/2020,
-Tennessee,TN,,13831,1148,916,3,,35371,6211,6069,32,12/29/2020,
+Tennessee,TN,,8754,1148,916,3,,35371,6211,6069,32,12/29/2020,
 Texas,TX,,116345,8463,7003,30,,291661,28421,25560,177,12/29/2020,
 Utah,UT,,,286,223,,,17222,2867,1634,12,12/29/2020,
 Vermont,VT,,,32,30,0,2539,10991,242,240,0,12/29/2020,
@@ -150,29 +201,29 @@ Virginia,VA,,,1741,1370,2,,73256,7080,5860,45,12/29/2020,
 Washington,WA,,,790,,1,8510,9936,4330,1945,5,12/29/2020,Vaccinations began on 12/29 but they don't have numbers yet.
 West Virginia,WV,,7057,351,327,0,,8824,1205,947,4,12/29/2020,
 Wisconsin,WI,,,2189,2097,,,79306,10246,9533,23,12/29/2020,
-Wyoming,WY,,,225,213,,,16357,560,455,0,12/29/2020,
-Federal,US,,,4489,2821,2,,94610,39556,32199,193,12/29/2020,Vaccines have been distributed to 19 prisons for staff and some prisoners but they are not yet releasing numbers.
+Wyoming,WY,,,225,213,,,16357,560,455,1,12/29/2020,Wyoming prisoner death backfilled from 1/22 announcement.
+Federal,US,,,4489,2821,2,94610,,39556,32199,193,12/29/2020,Vaccines have been distributed to 19 prisons for staff and some prisoners but they are not yet releasing numbers. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,795,518,2,,11111,1094,979,54,12/21/2020,
 Alaska,AK,,,198,,0,,15668,1905,,3,12/22/2020,"Staff and prisoners in the infirmary were offered vaccines the week before, but they do not have counts yet."
-Arizona,AZ,,,1655,1351,,,42654,6249,4086,34,12/22/2020,
+Arizona,AZ,,,1655,1351,,42654,,6249,4086,34,12/22/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,,,,,2,,,10203,9575,50,12/22/2020,
-California,CA,,,10531,7120,11,,115514,34866,24114,112,12/22/2020,
+California,CA,,,10531,7120,11,115514,,34866,24114,112,12/22/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1185,,0,17731,120370,6810,,19,12/22/2020,Have started vaccinating some staffers but no numbers yet
 Connecticut,CT,,25690,982,702,0,,30909,2801,2258,13,12/22/2020,
 Delaware,DE,,,537,417,,,,1564,1302,12,12/22/2020,"deaths pulled from a press release, PIO not responding to specific inquiries"
 Florida,FL,,,4232,3764,,,,17497,16998,189,12/23/2020,
 Georgia,GA,,,1246,1093,2,,,2549,2279,83,12/22/2020,
 Hawaii,HI,,,186,137,0,,12520,1632,1317,1,12/22/2020,vaccine numbers sent via email from PIO
-Idaho,ID,,4253,385,348,0,,9712,3582,2236,6,12/22/2020,vaccine numbers sent via email from PIO
+Idaho,ID,4253,,385,348,0,9712,,3582,2236,6,12/22/2020,vaccine numbers sent via email from PIO. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Illinois,IL,,18683,3230,2825,1,,37676,6921,5178,50,12/22/2020,
 Indiana,IN,,4774,1251,1026,4,,12758,2915,2808,44,12/22/2020,vaccine numbers sent via email from PIO
 Iowa,IA,,,600,565,2,,32061,3794,3689,13,12/22/2020,vaccine numbers sent via email from PIO
 Kansas,KS,,,,,,,,,,,,
 Kentucky,KY,,,532,448,4,,,3873,2862,34,12/22/2020,
-Louisiana,LA,,,680,616,5,,7337,2631,2519,31,12/22/2020,
+Louisiana,LA,2179,,680,616,5,7337,,2631,2519,31,12/22/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,43,39,0,,6430,156,,0,12/22/2020,vaccine numbers sent via email from PIO
 Maryland,MD,,40080,1485,1261,2,43667,,2666,2302,16,12/21/2020,
-Massachusetts,MA,,,654,,0,,23371,1832,,11,12/23/2020,
+Massachusetts,MA,,,654,,0,,22371,1832,,11,12/23/2020,"Massachusetts later revised its number of tests for this week that seemed to have been overstated by 1,000. The figures has been updated here."
 Michigan,MI,,89203,2764,1834,4,39947,384125,20651,10845,108,12/22/2020,vaccine numbers sent via email from PIO
 Minnesota,MN,,,923,726,,,82618,3538,3038,9,12/22/2020,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
 Mississippi,MS,,573,220,,,,3126,1314,,,12/22/2020,
@@ -201,13 +252,13 @@ Virginia,VA,,,1566,1241,1,,71205,6740,5178,39,12/22/2020,
 Washington,WA,,,706,,1,7954,9276,3630,1371,5,12/22/2020,
 West Virginia,WV,,6781,334,304,0,,8766,965,868,4,12/22/2020,"West Virginia began administering vaccines to staff on 12/22, but did not have numbers available for that date yet."
 Wisconsin,WI,,,2162,2037,,,78297,9639,9258,19,12/22/2020,vaccine numbers sent via email from PIO
-Wyoming,WY,,,,,0,,,,,0,12/18/2020,
-Federal,US,,,4340,2718,2,,92765,36533,30296,183,12/22/2020,Have started vaccinating staff and prisoners but won't release numbers yet.
+Wyoming,WY,,,,,0,,,,,1,12/22/2021,Wyoming prisoner death backfilled from 1/22 announcement
+Federal,US,,,4340,2718,2,92765,,36533,30296,183,12/22/2020,Have started vaccinating staff and prisoners but won't release numbers yet. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,769,502,2,,10805,1068,944,48,12/14/2020,
 Alaska,AK,,,179,,0,,14870,1539,,3,12/16/2020,
-Arizona,AZ,,,1485,1197,,,42401,5463,3177,33,12/15/2020,
+Arizona,AZ,,,1485,1197,,42401,,5463,3177,33,12/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,,,,,2,,,9745,9291,50,12/15/2020,
-California,CA,,,8958,6146,10,,114684,30745,20865,101,12/15/2020,
+California,CA,,,8958,6146,10,114684,,30745,20865,101,12/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1097,,0,17712,112599,6276,,17,12/15/2020,
 Connecticut,CT,,,,,,,,,,,,
 Delaware,DE,,,,,,,,,,,,
@@ -220,7 +271,7 @@ Indiana,IN,,4567,1181,943,3,,12262,2790,2520,40,12/15/2020,
 Iowa,IA,,,578,530,2,,30588,3732,3609,12,12/15/2020,
 Kansas,KS,,,898,,3,,,5156,,11,12/14/2020,
 Kentucky,KY,,,477,412,3,,,3123,2676,28,12/15/2020,
-Louisiana,LA,,,654,582,5,,7282,2608,2496,31,12/15/2020,
+Louisiana,LA,2152,,654,582,5,7282,,2608,2496,31,12/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,35,26,0,,6195,151,150,0,12/15/2020,
 Maryland,MD,,38570,1374,1162,2,41657,,2342,2085,16,12/14/2020,
 Massachusetts,MA,,,609,,,,20181,1642,,11,12/16/2020,
@@ -253,12 +304,12 @@ Washington,WA,,,552,,1,7174,8236,2630,899,4,12/15/2020,
 West Virginia,WV,,6439,306,288,0,,8262,900,833,4,12/15/2020,
 Wisconsin,WI,,,2054,1890,,,76566,9566,8822,19,12/15/2020,
 Wyoming,WY,,,213,194,0,,14712,528,443,0,12/18/2020,
-Federal,US,,,4159,2398,2,,88506,33410,27075,175,12/15/2020,
+Federal,US,,,4159,2398,2,88506,,33410,27075,175,12/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,729,479,2,,10584,1033,782,43,12/09/2020,
 Alaska,AK,,,147,,0,,13603,1217,,3,12/08/2020,
-Arizona,AZ,,,1296,1008,,,42173,4293,2866,32,12/08/2020,
+Arizona,AZ,,,1296,1008,,42173,,4293,2866,32,12/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,,,,,2,,,9386,,49,12/08/2020,
-California,CA,,,7498,5306,10,,112802,24782,18844,93,12/08/2020,
+California,CA,,,7498,5306,10,112802,,24782,18844,93,12/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1011,,0,17690,105821,5754,,14,12/08/2020,
 Connecticut,CT,,20827,827,604,0,,25291,2382,1942,10,12/08/2020,
 Delaware,DE,,,,,,,,,,,,
@@ -271,7 +322,7 @@ Indiana,IN,,4282,1073,839,3,,11537,2604,2109,40,12/08/2020,
 Iowa,IA,,,548,496,2,,29792,3666,3295,11,12/08/2020,
 Kansas,KS,,,872,,3,,,5111,,11,12/10/2020,
 Kentucky,KY,,,456,387,3,,,2895,2572,24,12/08/2020,
-Louisiana,LA,,2138,618,562,5,,7167,2592,2483,31,12/08/2020,
+Louisiana,LA,2138,,618,562,5,7167,,2592,2483,31,12/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,32,23,0,,5850,150,150,0,12/08/2020,
 Maryland,MD,,36509,1255,1004,2,40453,,2173,1717,14,12/07/2020,
 Massachusetts,MA,,,519,,,,18679,1514,,9,12/09/2020,
@@ -304,12 +355,12 @@ Washington,WA,,,441,,1,6738,7675,2069,686,3,12/08/2020,
 West Virginia,WV,,6205,298,247,0,,8172,848,719,4,12/08/2020,
 Wisconsin,WI,,,1974,1802,,,74524,9395,8131,16,12/08/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,3791,2142,2,,84267,30312,23577,165,12/08/2020,
+Federal,US,,,3791,2142,2,84267,,30312,23577,165,12/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,667,439,2,,7032,855,735,34,11/30/2020,
 Alaska,AK,,,129,,0,,11931,851,,2,12/01/2020,
-Arizona,AZ,,,1111,899,,,42115,3176,2780,28,12/01/2020,
+Arizona,AZ,,,1111,899,,42115,,3176,2780,28,12/01/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,5114,,813,,2,19960,,9014,8606,49,12/01/2020,
-California,CA,,,6939,5117,10,,112305,22508,18028,90,12/04/2020,
+California,CA,,,6939,5117,10,112305,,22508,18028,90,12/04/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,817,,0,17469,95756,4548,,11,12/01/2020,
 Connecticut,CT,,19677,732,574,0,,23246,1930,1785,8,12/01/2020,
 Delaware,DE,,2568,339,228,1,,7198,1093,715,11,12/01/2020,"Testing data as of 12/3, rest of the data as of 12/1. Staff tests only reflect tests given to DOC staff as tests given to contract employees is maintained by a healthcare contractor."
@@ -322,7 +373,7 @@ Indiana,IN,,3951,956,726,3,,10673,2291,2009,37,12/01/2020,
 Iowa,IA,,,521,463,2,,28304,3374,3171,10,12/01/2020,
 Kansas,KS,,,802,,3,,,4960,,11,12/03/2020,
 Kentucky,KY,,,425,330,2,,,2706,2371,17,12/01/2020,
-Louisiana,LA,,2100,593,533,5,,7147,2575,2421,31,12/01/2020,
+Louisiana,LA,2100,,593,533,5,7147,,2575,2421,31,12/01/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,32,23,0,,5800,150,150,0,12/01/2020,"Maine later revised the number of staff who have recovered, and the figure has been updated here."
 Maryland,MD,,35180,1129,879,2,38256,,1673,1268,13,11/30/2020,
 Massachusetts,MA,,,437,,,,17569,1255,,8,12/02/2020,
@@ -357,12 +408,12 @@ Washington,WA,,,363,,1,5847,6542,936,550,3,12/01/2020,
 West Virginia,WV,,5759,254,213,0,,7935,734,637,3,12/01/2020,
 Wisconsin,WI,,,1848,1658,,,71952,8458,7222,11,12/01/2020,
 Wyoming,WY,,,185,154,,,12332,436,403,,11/30/2020,
-Federal,US,,,3408,1984,2,,81044,26388,21492,157,12/01/2020,
+Federal,US,,,3408,1984,2,81044,,26388,21492,157,12/01/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,645,435,2,,6984,834,724,34,11/27/2020,
 Alaska,AK,,,111,,0,,10724,644,,1,11/24/2020,
-Arizona,AZ,,,996,824,,,41870,2954,2627,28,11/24/2020,
+Arizona,AZ,,,996,824,,41870,,2954,2627,28,11/24/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,,,780,,2,,19732,8786,8331,48,11/24/2020,"389 staff cases since Sept. 1, plus 399 from Wellpath, which stopped reporting cases on Sept. 1."
-California,CA,,,5903,4473,10,,110344,19479,16181,85,11/25/2020,
+California,CA,,,5903,4473,10,110344,,19479,16181,85,11/25/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,725,,,16327,84678,3535,,7,11/24/2020,
 Connecticut,CT,,19613,668,531,0,,23125,1809,1692,8,11/24/2020,
 Delaware,DE,,,,,,,,,,,,
@@ -375,7 +426,7 @@ Indiana,IN,,3646,850,640,3,,10031,2039,1815,35,11/24/2020,
 Iowa,IA,,,484,400,1,,27598,3199,2983,10,11/24/2020,
 Kansas,KS,,,674,,3,,,4665,,11,11/23/2020,
 Kentucky,KY,,,364,272,2,,,2486,1499,15,11/24/2020,
-Louisiana,LA,,2074,567,521,5,,7133,2504,2347,31,11/24/2020,
+Louisiana,LA,2074,,567,521,5,7133,,2504,2347,31,11/24/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,,,,,5766,150,,,11/24/2020,
 Maryland,MD,,34103,949,807,2,36182,,1468,1022,13,11/23/2020,
 Massachusetts,MA,,,380,,,,15977,1019,,8,11/24/2020,
@@ -408,12 +459,12 @@ Washington,WA,,,324,,1,5664,6337,731,513,3,11/24/2020,
 West Virginia,WV,,,237,208,0,,7825,650,594,2,11/24/2020,
 Wisconsin,WI,,,1741,1466,,,71246,8226,6234,11,11/24/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,3122,1795,2,,79017,24317,19926,157,11/24/2020,
+Federal,US,,,3122,1795,2,79017,,24317,19926,157,11/24/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,582,413,2,,6852,775,519,32,11/16/2020,
 Alaska,AK,,,95,,0,,9664,521,,0,11/18/2020,
-Arizona,AZ,,,903,807,,,41572,2815,2609,28,11/17/2020,
+Arizona,AZ,,,903,807,,41572,,2815,2609,28,11/17/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Arkansas,AR,,,,,2,19512,,8566,8003,48,11/17/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
-California,CA,,,4915,4208,10,,107762,18083,15556,83,11/20/2020,
+California,CA,,,4915,4208,10,107762,,18083,15556,83,11/20/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,570,,,16137,77785,2933,,6,11/18/2020,
 Connecticut,CT,,19212,612,505,0,,23065,1749,1692,8,11/17/2020,
 Delaware,DE,,2271,237,203,1,,6001,618,551,11,11/18/2020,"Delaware's Department of Correction has stopped reporting the death of a contract worker who died over the summer and will only report deaths of department employees. We continue to include the previously reported death in our totals here. The department also changed which tests administered on prisoners they are reporting. Previous numbers reflected only tests administered to inmates displaying symptoms. The DOC has additionally been conducting tests proactively and on recovered prisoners. These will be included in the total testing figure starting this week. Any positive results were already included, so this change only impacts testing numbers."
@@ -426,7 +477,7 @@ Indiana,IN,,3331,744,553,3,,9305,1859,1691,33,11/17/2020,
 Iowa,IA,,,421,290,1,,26233,2985,2390,7,11/17/2020,First staff death this week.
 Kansas,KS,,,617,,3,,,4539,,11,11/18/2020,
 Kentucky,KY,,,311,183,2,,,2056,1171,13,11/18/2020,
-Louisiana,LA,,2045,539,515,5,,6909,2428,2339,30,11/17/2020,
+Louisiana,LA,2045,,539,515,5,6909,,2428,2339,30,11/17/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,25,15,0,,5640,150,119,0,11/17/2020,
 Maryland,MD,,31313,857,782,2,,34992,1199,1004,13,11/16/2020,
 Massachusetts,MA,,,330,,,,14747,846,,8,11/18/2020,
@@ -459,7 +510,7 @@ Washington,WA,,,274,,1,5562,6216,610,512,2,11/17/2020,
 West Virginia,WV,,5090,195,154,0,,7518,606,333,2,11/17/2020,
 Wisconsin,WI,,,1534,1206,,,66437,7047,4881,10,11/17/2020,
 Wyoming,WY,,,126,96,0,,10195,391,304,0,11/17/2020,
-Federal,US,,,2792,1677,2,,75896,22203,18956,152,11/17/2020,
+Federal,US,,,2792,1677,2,75896,,22203,18956,152,11/17/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,542,408,2,6783,,751,496,32,11/11/2020,
 Alaska,AK,,,74,,0,,8674,357,,0,11/10/2020,
 Arizona,AZ,,,855,769,,41380,,2667,2609,28,11/10/2020,
@@ -510,7 +561,7 @@ Washington,WA,,,241,,1,5502,6143,537,507,2,11/10/2020,
 West Virginia,WV,,4778,152,124,0,,7093,440,332,2,11/10/2020,
 Wisconsin,WI,,,1281,973,,,60927,5745,3952,10,11/10/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,2526,1543,2,,73247,20495,17842,146,11/10/2020,
+Federal,US,,,2526,1543,2,73247,,20495,17842,146,11/10/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,490,405,2,,6554,711,458,28,11/02/2020,
 Alaska,AK,,,64,,0,,8121,240,,0,11/03/2020,
 Arizona,AZ,,,792,731,,41196,,2648,2603,28,11/03/2020,
@@ -546,7 +597,7 @@ New York,NY,,,1522,,5,,29726,1590,1227,18,11/03/2020,
 North Carolina,NC,,,1296,1059,2,35144,54440,4330,3512,20,11/03/2020,
 North Dakota,ND,1612,11758,135,82,0,1885,11895,137,100,0,11/03/2020,
 Ohio,OH,,,1569,1367,5,39003,,6959,5408,109,11/03/2020,
-Oklahoma,OK,2763,,427,,,19623,,4571,,26,11/03/2020,
+Oklahoma,OK,,2763,427,,,,19623,4571,,26,11/03/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,310,287,0,,8872,1274,1166,16,11/03/2020,
 Pennsylvania,PA,,2771,594,346,2,,20318,841,434,16,11/03/2020,
 Rhode Island,RI,,,104,,0,,,60,,0,11/05/2020,"Staff cases include 58 cases among non-facility staff and 59 cases among facility staff. However, 13 of these are ""presumptive positives"" and have been subtracted for a total of 104 cases. Among residents, 36 cases are ""new admissions infected prior to admission"" and 28 cases are among residents. Of these 4 were presumptive positives and have been subtracted. The inmate cases do include pre-trial detainees who were released before their tests came back positive. According to DOH contact, no one was released while they were positive"
@@ -561,7 +612,7 @@ Washington,WA,,,207,,1,5496,6137,531,495,2,11/03/2020,
 West Virginia,WV,,4464,126,111,0,,6870,384,330,2,11/03/2020,
 Wisconsin,WI,,,1040,824,,,56168,4749,2995,10,11/03/2020,"(note: Prisoners_recovered = inactive positive cases - deaths, according to new update on the site)"
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,2327,1396,2,,70937,19184,17041,141,11/03/2020,
+Federal,US,,,2327,1396,2,70937,,19184,17041,141,11/03/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,455,388,2,,5339,532,416,27,10/26/2020,Updated this week's totals after seeing last week's numbers we caught halfway into a daily update.
 Alaska,AK,,,52,,0,,7523,186,,0,10/27/2020,
 Arizona,AZ,,,758,716,,40937,,2636,2593,28,10/27/2020,
@@ -597,7 +648,7 @@ New York,NY,,,1479,1358,5,,25785,1566,817,18,10/27/2020,
 North Carolina,NC,,,1233,1012,2,35036,53073,4110,3208,18,10/27/2020,
 North Dakota,ND,1555,11289,114,82,0,1879,11275,102,24,0,10/27/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1447,1304,5,37593,,6834,5357,107,10/27/2020,
-Oklahoma,OK,2359,,398,,,19145,,4520,,24,10/27/2020,
+Oklahoma,OK,,2359,398,,,,19145,4520,,24,10/27/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,298,280,0,,8472,1244,1120,16,10/27/2020,
 Pennsylvania,PA,,2670,553,330,2,,19978,723,408,14,10/27/2020,
 Rhode Island,RI,,,104,,0,,,52,,0,10/27/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -612,7 +663,7 @@ Washington,WA,,,196,,1,5482,6110,516,493,2,10/27/2020,
 West Virginia,WV,,7090,163,159,0,,6824,337,320,2,10/27/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,886,688,0,,52156,3845,2438,3,10/27/2020,
 Wyoming,WY,,,69,47,0,,,125,108,0,10/29/2020,
-Federal,US,,,2198,1323,2,,68668,18166,15968,137,10/27/2020,
+Federal,US,,,2198,1323,2,68668,,18166,15968,137,10/27/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,439,384,2,,3270,459,387,27,10/19/2020,
 Alaska,AK,,,39,,0,,7006,159,,0,10/20/2020,
 Arizona,AZ,,,729,712,,40756,,2621,2578,28,10/20/2020,
@@ -630,7 +681,7 @@ Indiana,IN,,2427,490,411,2,,7097,1385,1321,27,10/20/2020,
 Iowa,IA,,,176,159,0,,19241,1238,1205,4,10/20/2020,
 Kansas,KS,,,333,,3,,,2828,,5,10/20/2020,
 Kentucky,KY,,,169,,1,,,938,,13,10/20/2020,
-Louisiana,LA,,2002,512,481,5,6784,,2405,2324,29,10/20/2020,
+Louisiana,LA,2002,,512,481,5,6784,,2405,2324,29,10/20/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Maine,ME,,,3,2,0,2259,,4,4,0,10/20/2020,
 Maryland,MD,,24453,755,690,2,28599,,993,882,11,10/20/2020,
 Massachusetts,MA,,,228,,,,10358,472,,8,10/22/2020,
@@ -648,7 +699,7 @@ New York,NY,,,1415,1340,5,,23545,977,780,18,10/20/2020,
 North Carolina,NC,,,1157,958,1,34830,50696,3798,2967,18,10/20/2020,
 North Dakota,ND,1553,10526,94,61,0,1876,10135,79,24,0,10/20/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1376,1244,5,36219,,6714,5286,104,10/20/2020,
-Oklahoma,OK,1770,,366,,,18332,,4223,,21,10/20/2020,
+Oklahoma,OK,,1770,366,,,,18332,4223,,21,10/20/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,291,264,0,,8177,1214,1048,16,10/20/2020,
 Pennsylvania,PA,,2400,459,306,2,,19814,649,391,13,10/20/2020,
 Rhode Island,RI,,,93,,0,,,43,,0,10/20/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -663,7 +714,7 @@ Washington,WA,,,187,,1,5208,5813,499,482,2,10/20/2020,
 West Virginia,WV,,6810,158,148,0,,6813,336,318,1,10/20/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,714,579,0,,48361,2973,2031,3,10/20/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,2066,1266,2,,66060,17449,15573,136,10/20/2020,
+Federal,US,,,2066,1266,2,66060,,17449,15573,136,10/20/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,415,369,2,3155,,441,382,26,10/14/2020,
 Alaska,AK,,,,,0,,6369,83,,0,10/12/2020,
 Arizona,AZ,,,714,704,,40460,,2613,2559,28,10/13/2020,
@@ -699,7 +750,7 @@ New York,NY,,,1367,1314,5,,20541,867,761,17,10/13/2020,
 North Carolina,NC,,,1096,862,1,34571,48347,3394,2616,17,10/13/2020,
 North Dakota,ND,1552,9849,75,54,0,1820,8847,29,24,0,10/14/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1315,1169,5,34624,,6584,5088,102,10/13/2020,
-Oklahoma,OK,,,360,298,3,17202,,3964,3654,20,10/13/2020,
+Oklahoma,OK,,,360,298,3,,17202,3964,3654,20,10/13/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,282,251,,,7922,1184,993,14,10/14/2020,
 Pennsylvania,PA,,2098,414,279,2,,18390,495,372,11,10/13/2020,
 Rhode Island,RI,,,86,,0,,,37,,0,10/13/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -714,7 +765,7 @@ Washington,WA,,,181,,1,5204,5805,492,459,2,10/13/2020,
 West Virginia,WV,,6359,151,139,0,,6688,327,318,1,10/13/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,619,474,0,,46114,2542,1450,3,10/13/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,1954,1216,2,,63111,16446,14566,135,10/13/2020,
+Federal,US,,,1954,1216,2,63111,,16446,14566,135,10/13/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,411,364,2,2797,,439,381,25,10/05/2020,
 Alaska,AK,,,34,,0,,6133,82,,0,10/07/2020,
 Arizona,AZ,,,710,697,,40290,,2599,2557,28,10/06/2020,
@@ -750,7 +801,7 @@ New York,NY,,,1351,,5,,17665,791,756,17,10/06/2020,
 North Carolina,NC,,,1014,733,1,34297,46947,3271,2414,16,10/06/2020,
 North Dakota,ND,1542,9119,53,37,0,1784,8276,24,24,0,10/07/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1251,1144,5,33239,,6499,5003,100,10/06/2020,
-Oklahoma,OK,,,321,278,3,16365,,3821,3450,15,10/06/2020,
+Oklahoma,OK,,,321,278,3,,16365,3821,3450,15,10/06/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,271,245,,,,1099,902,12,10/06/2020,
 Pennsylvania,PA,,1995,387,257,2,,16954,469,285,11,10/06/2020,
 Rhode Island,RI,,,82,,0,,,36,,0,10/06/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -765,7 +816,7 @@ Washington,WA,,,181,,1,4971,5551,486,455,2,10/06/2020,
 West Virginia,WV,,5954,139,132,0,,6660,326,318,1,10/06/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,511,391,0,,44379,2000,1066,2,10/06/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,1914,1190,2,,60916,16012,14249,134,10/06/2020,
+Federal,US,,,1914,1190,2,60916,,16012,14249,134,10/06/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,398,363,2,2079,,415,377,23,09/28/2020,
 Alaska,AK,,,32,,0,,5741,65,,0,09/29/2020,
 Arizona,AZ,,,701,691,,40036,,2586,2525,28,09/29/2020,
@@ -801,7 +852,7 @@ New York,NY,,,1332,1309,5,,15282,775,756,17,09/29/2020,
 North Carolina,NC,,,949,727,1,,34204,2875,2352,14,09/29/2020,
 North Dakota,ND,1497,8299,47,36,0,1769,8024,24,24,0,09/30/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1194,1112,5,31294,,6318,4988,100,09/29/2020,
-Oklahoma,OK,,,298,245,3,15620,,3629,2839,10,09/29/2020,
+Oklahoma,OK,,,298,245,3,,15620,3629,2839,10,09/29/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,259,234,0,,6327,974,871,9,09/29/2020,
 Pennsylvania,PA,,1846,354,249,2,,15316,427,285,11,09/29/2020,
 Rhode Island,RI,,,79,,0,,,36,,0,09/29/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -816,7 +867,7 @@ Washington,WA,,,176,,1,4934,5344,472,453,2,09/29/2020,
 West Virginia,WV,,5849,134,118,0,,6640,325,314,1,09/29/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,393,289,0,,41233,1573,1004,0,09/29/2020,
 Wyoming,WY,,,40,38,,,,107,107,0,10/02/2020,
-Federal,US,,,1850,1133,2,,58849,15595,13602,133,09/29/2020,
+Federal,US,,,1850,1133,2,58849,,15595,13602,133,09/29/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,385,341,2,2011,,408,370,22,09/21/2020,
 Alaska,AK,,,32,,0,,5499,63,,0,09/23/2020,
 Arizona,AZ,,,697,686,,39823,,2565,2478,28,09/22/2020,
@@ -852,7 +903,7 @@ New York,NY,,,1329,1305,5,,13012,773,756,17,09/22/2020,
 North Carolina,NC,,,880,681,1,,33975,2579,2134,12,09/22/2020,
 North Dakota,ND,1497,7709,39,27,0,1706,7331,24,24,0,09/23/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1145,1082,5,29928,,6194,4893,97,09/22/2020,
-Oklahoma,OK,,,281,215,3,14010,,3168,1762,9,09/22/2020,
+Oklahoma,OK,,,281,215,3,,14010,3168,1762,9,09/22/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,247,221,0,,4923,941,821,7,09/22/2020,
 Pennsylvania,PA,,1681,333,229,2,,14491,398,257,11,09/22/2020,
 Rhode Island,RI,,,78,,0,,,36,,0,09/22/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -867,7 +918,7 @@ Washington,WA,,,172,,1,4909,5311,454,449,2,09/22/2020,
 West Virginia,WV,,5421,122,111,0,,6454,322,310,1,09/22/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,304,253,0,,37497,1077,876,0,09/22/2020,
 Wyoming,WY,1030,,39,34,0,,,107,107,0,09/25/2020,Wyoming reported fewer prisoner tests this week than in previous weeks. We're inquiring as to why
-Federal,US,,,1773,1099,2,,56220,15016,12875,131,09/22/2020,
+Federal,US,,,1773,1099,2,56220,,15016,12875,131,09/22/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,377,341,2,1954,,403,334,21,09/14/2020,
 Alaska,AK,,,31,,0,,5136,57,,0,09/14/2020,
 Arizona,AZ,,,694,682,,38916,,2511,1805,27,09/15/2020,
@@ -903,7 +954,7 @@ New York,NY,,,1325,,5,,8603,755,738,17,09/15/2020,
 North Carolina,NC,,,757,635,1,,33803,2389,1825,11,09/15/2020,
 North Dakota,ND,1490,6990,28,25,0,1695,6873,24,13,0,09/16/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1119,1052,5,28613,,6112,4873,94,09/15/2020,
-Oklahoma,OK,,,245,174,,11925,,2106,1324,4,09/15/2020,
+Oklahoma,OK,,,245,174,,,11925,2106,1324,4,09/15/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,230,196,0,,4707,907,766,6,09/15/2020,
 Pennsylvania,PA,,1642,326,225,2,,14232,391,242,11,09/16/2020,
 Rhode Island,RI,,,78,,0,,,35,,0,09/15/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -918,7 +969,7 @@ Washington,WA,,,167,,1,4733,5115,454,439,2,09/17/2020,
 West Virginia,WV,,5353,110,96,0,,6420,316,289,1,09/15/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,259,228,0,,36411,953,763,0,09/15/2020,
 Wyoming,WY,1030,,33,33,0,1980,,105,98,0,09/15/2020,
-Federal,US,,,1695,1057,2,,53683,14215,12167,129,09/15/2020,
+Federal,US,,,1695,1057,2,53683,,14215,12167,129,09/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,373,340,2,1886,,386,317,20,09/07/2020,
 Alaska,AK,,,,,,,4704,51,,,09/08/2020,
 Arizona,AZ,,,689,676,,,,2425,1560,27,09/08/2020,Arizona later said the number of prisoner tests initially reported on this date included duplicates and errors. It has not yet provided an updated figure.
@@ -954,7 +1005,7 @@ New York,NY,,,1320,,5,,8592,755,738,17,09/08/2020,
 North Carolina,NC,,,738,616,1,,33661,2205,1663,11,09/08/2020,
 North Dakota,ND,1485,5843,27,21,0,1685,6227,12,11,0,09/08/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1091,1030,5,26489,,5977,4793,91,09/08/2020,The number of recovered prisoners was incorrect this week and has been updated.
-Oklahoma,OK,,,215,,0,10855,,1617,623,0,09/08/2020,
+Oklahoma,OK,,,215,,0,,10855,1617,623,0,09/08/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,223,183,0,,4424,829,601,6,09/08/2020,
 Pennsylvania,PA,,1521,303,212,2,,13280,353,239,11,09/08/2020,
 Rhode Island,RI,,,78,,0,,,34,,0,09/08/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -969,7 +1020,7 @@ Washington,WA,,,158,,1,4604,4975,451,425,2,09/08/2020,
 West Virginia,WV,,5266,102,71,0,,6361,292,187,0,09/08/2020,"Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,234,207,0,,35189,898,609,0,09/08/2020,
 Wyoming,WY,,,,,,,,,,,,
-Federal,US,,,1631,986,2,,51393,13539,11430,126,09/08/2020,
+Federal,US,,,1631,986,2,51393,,13539,11430,126,09/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,365,330,2,1726,,353,304,20,09/02/2020,
 Alaska,AK,,,,,,,4578,49,,,09/01/2020,
 Arizona,AZ,,,681,664,,38367,,2131,930,27,09/01/2020,
@@ -1005,7 +1056,7 @@ New York,NY,,,1320,1289,5,,8571,755,738,17,09/01/2020,
 North Carolina,NC,,,694,553,1,,33426,1978,1635,10,09/01/2020,
 North Dakota,ND,1476,5127,24,16,0,1599,5117,11,11,0,09/01/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1075,1000,5,25554,,5895,4722,90,09/01/2020,
-Oklahoma,OK,,,174,,0,10494,,1403,471,0,09/01/2020,
+Oklahoma,OK,,,174,,0,,10494,1403,471,0,09/01/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,201,162,0,,4046,737,555,5,09/01/2020,
 Pennsylvania,PA,,1479,298,207,1,,11836,326,239,11,09/01/2020,
 Rhode Island,RI,,,78,,0,,,33,,0,09/01/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -1056,7 +1107,7 @@ New York,NY,,,1318,1282,5,8556,,755,738,17,08/25/2020,
 North Carolina,NC,,,572,499,1,,33022,1819,1525,10,08/25/2020,
 North Dakota,ND,1470,4637,16,15,0,1594,5002,11,11,0,08/25/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1052,934,5,24411,,5783,4502,89,08/25/2020,
-Oklahoma,OK,,,153,,0,8923,,679,210,0,08/25/2020,
+Oklahoma,OK,,,153,,0,,8923,679,210,0,08/25/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,185,139,0,,3598,636,514,3,08/25/2020,
 Pennsylvania,PA,,1442,289,198,1,,11189,311,239,11,08/25/2020,Recovered inmates and staff doesn't include any recovered in community corrections since they don't track people on home assignments or who are released from supervision (does include parole staff now)
 Rhode Island,RI,,,78,,0,,,33,,0,08/25/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -1107,7 +1158,7 @@ New York,NY,,,1317,,5,,8519,755,736,17,08/18/2020,"This week's staff recovered f
 North Carolina,NC,,,528,437,1,,32848,1650,1351,10,08/18/2020,
 North Dakota,ND,1468,4160,14,12,0,1468,4160,11,10,0,08/18/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,1035,913,5,23182,,5669,4364,87,08/18/2020,
-Oklahoma,OK,,,117,,,8080,,516,146,,08/18/2020,
+Oklahoma,OK,,,117,,,,8080,516,146,,08/18/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,157,128,0,,3212,567,502,2,08/19/2020,
 Pennsylvania,PA,,1414,284,198,1,,10494,310,239,11,08/18/2020,This includes community corrections in staff and inmates and parole in staff. The info does not include recoveries for anyone in Community corrections.
 Rhode Island,RI,,,76,,0,,,29,,0,08/18/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -1158,7 +1209,7 @@ New York,NY,,,1313,,5,,8475,755,643,17,08/11/2020,
 North Carolina,NC,,,493,374,1,,32509,1504,1272,10,08/11/2020,
 North Dakota,ND,1453,3373,13,8,0,1564,3516,11,10,0,08/11/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,997,873,5,21942,,5401,4339,86,08/11/2020,
-Oklahoma,OK,,,100,,0,7116,,213,38,0,08/11/2020,
+Oklahoma,OK,,,100,,0,,7116,213,38,0,08/11/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,143,87,0,,3034,524,442,1,08/11/2020,
 Pennsylvania,PA,1215,,232,195,1,9189,,277,239,10,08/11/2020,
 Rhode Island,RI,,,76,,0,,,26,,0,08/11/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -1209,7 +1260,7 @@ New York,NY,,,1311,1272,5,5879,,604,542,17,08/04/2020,
 North Carolina,NC,,,409,319,1,,32274,1456,1036,8,08/04/2020,
 North Dakota,ND,1402,2599,9,7,0,1459,2737,10,8,0,08/04/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,970,824,5,20486,,5283,4300,84,08/04/2020,"After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont, Marion and Pickaway."
-Oklahoma,OK,,,75,,0,6535,,150,22,0,08/04/2020,
+Oklahoma,OK,,,75,,0,,6535,150,22,0,08/04/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,127,59,0,,2870,494,369,1,08/04/2020,
 Pennsylvania,PA,1177,,224,188,1,8501,,275,238,10,08/04/2020,
 Rhode Island,RI,,,75,,0,,,25,20,0,08/04/2020,
@@ -1260,7 +1311,7 @@ New York,NY,,,1308,1257,5,,5830,604,537,17,07/28/2020,
 North Carolina,NC,,,356,269,1,26330,,1407,888,8,07/28/2020,
 North Dakota,ND,1180,2216,8,7,0,1358,2198,8,7,0,07/28/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,940,798,5,19101,,5195,4300,84,07/28/2020,"After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont and Pickaway."
-Oklahoma,OK,,,58,,0,5994,,117,12,0,07/28/2020,
+Oklahoma,OK,,,58,,0,,5994,117,12,0,07/28/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,109,51,0,,2298,412,317,1,07/28/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,1129,,216,183,1,7999,,274,237,10,07/28/2020,"The number of prisoner cases this week inadvertently included those on parole, and has been updated to remove those cases."
 Rhode Island,RI,,,48,,0,,,22,,0,07/28/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -1311,7 +1362,7 @@ New York,NY,,,1307,,5,,5371,601,524,16,07/23/2020,
 North Carolina,NC,3009,,295,229,1,,17382,1086,855,5,07/22/2020,
 North Dakota,ND,1166,1781,7,4,0,1351,2102,7,7,0,07/21/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,905,780,5,17941,,5132,4263,84,07/21/2020,"After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont and Pickaway."
-Oklahoma,OK,,,37,,0,4928,,14,9,0,07/21/2020,
+Oklahoma,OK,,,37,,0,,4928,14,9,0,07/21/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,97,49,0,,1964,331,166,1,07/21/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,1073,,210,168,1,7504,,267,237,10,07/21/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,29,,0,,,21,,0,07/23/2020,
@@ -1362,7 +1413,7 @@ New York,NY,,,1300,1253,5,4055,,545,495,16,07/10/2020,The number of prisoners an
 North Carolina,NC,2935,,249,194,1,8793,,1052,802,5,07/14/2020,
 North Dakota,ND,1105,1370,7,4,0,1342,2079,7,7,0,07/14/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,866,719,5,16762,,5082,4215,82,07/14/2020,"After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont and Pickaway."
-Oklahoma,OK,,,25,,0,4101,,11,8,0,07/14/2020,
+Oklahoma,OK,,,25,,0,,4101,11,8,0,07/14/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,85,46,0,,1651,314,162,1,07/14/2020,
 Pennsylvania,PA,1002,,200,163,1,6757,,262,226,10,07/14/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,22,,0,,,21,,0,07/14/2020,Backfilled deaths based on info from Rhode Island on 11/4/20
@@ -1413,7 +1464,7 @@ New York,NY,,,1299,1254,5,2813,,541,496,16,07/07/2020,
 North Carolina,NC,2831,,220,169,1,5958,,887,768,5,07/07/2020,
 North Dakota,ND,1091,1347,4,4,0,1341,2071,7,6,0,07/07/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility."
 Ohio,OH,,,838,699,5,15553,,5055,,82,07/07/2020,"After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont and Pickaway."
-Oklahoma,OK,,,17,,0,3564,,9,5,0,07/07/2020,
+Oklahoma,OK,,,17,,0,,3564,9,5,0,07/07/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,66,42,0,,1246,183,161,1,07/07/2020,
 Pennsylvania,PA,937,,192,154,1,6291,,255,223,10,07/07/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,21,18,0,,,20,12,0,07/09/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
@@ -1464,7 +1515,7 @@ New York,NY,,,1298,1252,5,1421,,519,495,16,06/30/2020,
 North Carolina,NC,2420,,199,161,1,4565,,799,744,5,06/30/2020,
 North Dakota,ND,861,978,4,4,0,1261,1439,7,5,0,06/30/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,799,685,5,14595,,5002,4246,82,06/30/2020,"After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont and Pickaway."
-Oklahoma,OK,,,16,,0,3002,,7,2,0,06/30/2020,
+Oklahoma,OK,,,16,,0,,3002,7,2,0,06/30/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,55,40,0,,826,178,155,1,06/29/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,912,,191,146,1,5468,,249,221,10,06/30/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,21,17,0,,,18,12,0,06/29/2020,The number of prisoners who tested positive includes 6 jail detainees who were later released.
@@ -1515,7 +1566,7 @@ New York,NY,,,1290,,5,1321,,517,492,16,06/23/2020,
 North Carolina,NC,,,162,143,1,3509,,775,665,5,06/23/2020,
 North Dakota,ND,861,976,4,4,0,1249,1417,6,5,0,06/23/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,766,677,5,13539,,4950,,80,06/23/2020,"After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont and Pickaway."
-Oklahoma,OK,,,15,,0,2560,,4,1,0,06/22/2020,
+Oklahoma,OK,,,15,,0,,2560,4,1,0,06/22/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,51,36,0,,773,175,139,1,06/23/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,890,,188,143,1,4827,,241,217,10,06/23/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,19,,0,,,18,,0,06/23/2020,Deaths filled in based on later weeks' reports.
@@ -1530,7 +1581,7 @@ Washington,WA,,,83,,1,699,,131,,1,06/23/2020,
 West Virginia,WV,,4219,16,14,0,,5095,,124,0,06/23/2020,"West Virginia found a number of false positives and revised their prisoner cases numbers down to 127 this week. In later weeks, it dropped again. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,66,65,0,,13268,270,261,0,06/23/2020,
 Wyoming,WY,20,,1,1,0,61,,0,0,0,06/26/2020,
-Federal,US,,,692,528,1,,19934,6621,5171,91,06/23/2020,
+Federal,US,,,692,528,1,19934,,6621,5171,91,06/23/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,131,33,,265,,43,14,4,06/15/2020,
 Alaska,AK,,,11,11,0,643,,2,2,0,06/16/2020,
 Arizona,AZ,,,120,87,1,2764,,265,130,8,06/16/2020,
@@ -1566,7 +1617,7 @@ New York,NY,,,1285,1229,5,1304,,517,484,16,06/16/2020,
 North Carolina,NC,2441,,158,137,1,2750,,714,635,5,06/17/2020,
 North Dakota,ND,861,964,4,4,0,1236,1291,5,5,0,06/16/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,745,610,5,12368,,4908,4154,79,06/16/2020,"The recovered figures from Ohio are only a snapshot, and not cumulative, and the prisoners recovered has dropped slightly in recent weeks. This week's data initially omitted seven covid-related deaths that were later added back. After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Belmont and Pickaway."
-Oklahoma,OK,,,15,,0,2255,,2,1,0,06/15/2020,
+Oklahoma,OK,,,15,,0,,2255,2,1,0,06/15/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,49,31,0,,664,175,132,1,06/16/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,872,,187,138,1,3950,,235,211,10,06/16/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,17,,0,,,17,,0,06/18/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
@@ -1581,7 +1632,7 @@ Washington,WA,,,76,,1,606,,112,,0,06/16/2020,
 West Virginia,WV,,4158,15,9,0,,5084,,119,0,06/16/2020,"This week's number of prisoner cases was originally listed as 132, but was later revised down as West Virginia found false positives. Until early November, West Virginia’s Department of Corrections and Rehabilitation reported staff cases for juvenile facilities and jails combined with prisons and work release. After they began providing itemized numbers on staff cases on Nov. 3, we only included staff numbers from prisons and work release sites in our data releases. In our online tracker, we have gone back to the past weeks of data and estimated the staff breakdown based on the overall size of the staff for each sector."
 Wisconsin,WI,,,65,59,0,9152,,264,258,0,06/16/2020,Deaths backfilled from 6/23 report
 Wyoming,WY,20,,1,1,0,34,,0,0,0,06/17/2020,
-Federal,US,,,671,502,1,,17262,6458,5145,88,06/16/2020,
+Federal,US,,,671,502,1,17262,,6458,5145,88,06/16/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Alabama,AL,,,102,27,0,220,,27,8,2,06/09/2020,
 Alaska,AK,,,11,11,0,572,,2,2,0,06/09/2020,
 Arizona,AZ,,,111,78,1,2013,,242,108,7,06/09/2020,"DOC confirmed staffer's death but wouldn't release the cause, which multiple news outlets report it was covid-19: https://www.abc15.com/news/local-news/investigations/sources-death-of-an-arizona-department-of-corrections-staffer-due-to-covid-19"
@@ -1617,7 +1668,7 @@ New York,NY,,,1284,1217,4,1280,,512,468,16,06/09/2020,
 North Carolina,NC,250,,152,126,1,1955,,691,624,5,06/09/2020,"Staff tests are based on testing information from one facility, Neuse, in May. NC has not updated the figures since."
 North Dakota,ND,861,964,4,4,0,1232,1278,5,5,0,06/09/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,731,589,4,11537,,4858,4133,75,06/10/2020,"The number of prisoners recovered dropped. A spokeswoman said it's a snapshot in time and some may have been released since last week. We're trying to get a cumulative total figure. The prisoner deaths tally does NOT include an additional prisoner death that is considered 'likely' covid but not confirmed. After reviewing death certificates, Ohio later revised its number of confirmed deaths in several facilities including Chillicothe Correctional Institution, Marion, Pickaway and Franklin Medical Center."
-Oklahoma,OK,,,14,,0,1893,,2,1,0,06/08/2020,
+Oklahoma,OK,,,14,,0,,1893,2,1,0,06/08/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,47,29,0,,624,167,123,1,06/08/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,836,,185,127,1,3533,,228,196,9,06/09/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,1194,,16,,0,1679,,16,,0,06/10/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now. The earlier data: The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
@@ -1668,7 +1719,7 @@ New York,NY,,,1280,1135,4,1228,,511,444,16,06/02/2020,
 North Carolina,NC,250,,,,1,1855,,683,615,5,06/02/2020,Staff tests from Neuse CI only
 North Dakota,ND,769,869,4,4,0,1231,1276,5,4,0,06/02/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,675,523,4,10151,,4769,4143,75,06/02/2020,"After reviewing death certificates, Ohio later revised its number of deaths."
-Oklahoma,OK,,,14,,0,1700,,2,1,0,06/02/2020,
+Oklahoma,OK,,,14,,0,,1700,2,1,0,06/02/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,46,24,0,,611,165,101,1,06/02/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,785,,178,115,1,2871,,244,182,8,06/02/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,1031,,16,,0,1068,,15,,0,06/01/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now. The earlier data: The 16 staff cases include a mix of staff tested by DOC and tested in the community. / The 21 prisoner cases include 6 that were held pre-trial (in the equivalent of jail, tho RI is a unified system), all of whom have since been released."
@@ -1719,7 +1770,7 @@ New York,NY,,,1275,1119,4,1155,,493,414,16,05/27/2020,
 North Carolina,NC,250,,,,1,1376,,650,577,5,05/27/2020,"Staff tests from 1 prison, otherwise not testing"
 North Dakota,ND,617,619,4,4,0,828,863,4,0,0,05/26/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,660,491,4,9343,,4694,4137,70,05/27/2020,"After reviewing death certificates, Ohio later revised its number of deaths."
-Oklahoma,OK,,,10,,,1535,,2,1,0,05/27/2020,"1 person recovered. The other person was released before results came in, so unclear if they are recovered yet."
+Oklahoma,OK,,,10,,,,1535,2,1,0,05/27/2020,"1 person recovered. The other person was released before results came in, so unclear if they are recovered yet. The number of tests conducted was mistakenly placed in the column for people tested. This has been updated."
 Oregon,OR,,,43,9,0,,583,154,47,1,05/27/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,650,,174,108,1,2098,,207,167,6,05/27/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,935,,16,,0,720,,11,,0,05/28/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now.. Earlier versions of this data for prisoner cases include 6 pre-trial jail inmates who are no longer there — RI is a unified system so these are the equivalent of jail inmates in other states."
@@ -1770,7 +1821,7 @@ New York,NY,,,1228,,4,1064,,471,,16,05/20/2020,"61 parolees also have COVID, and
 North Carolina,NC,250,,,,1,1329,,644,,5,05/20/2020,
 North Dakota,ND,557,559,,,0,750,772,4,,0,05/20/2020,"Iniitally 10 positive prisoner cases were reported, but due to a lab error, the state said 6 were false positives. In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly. Staff deaths were backfilled based on 5/27 data."
 Ohio,OH,,,622,,4,8267,,4550,,61,05/20/2020,Ohio later revised its numbers of COVID-related deaths downward after reviewing final death certificates.
-Oklahoma,OK,,,10,,0,1334,,2,,0,05/19/2020,
+Oklahoma,OK,,,10,,0,,1334,2,,0,05/19/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,38,,0,,504,143,,1,05/21/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,608,,160,,1,1328,,197,,5,05/20/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,651,,12,,0,350,,7,,0,05/20/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
@@ -1821,7 +1872,7 @@ New York,NY,,,1192,,4,725,,443,,16,05/13/2020,
 North Carolina,NC,250,,29,,1,1301,,644,,5,05/13/2020,"Staff tests only from Neuse CI; staff death from sources, DOC not reporting"
 North Dakota,ND,205,206,,,0,117,121,0,,0,05/13/2020,"The number of staff and prisoner tests were later revised with updated figures from North Dakota, to exclude the Youth Correctional Center juvenile facility. Staff deaths were backfilled with 5/27 data."" with ""The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility. Staff deaths were backfilled with 5/27 data."""
 Ohio,OH,,,556,,2,7541,,4449,,51,05/13/2020,The number of deaths for this omitted two probable COVID-related deaths and has been updated. Ohio later revised its number of COVID-related deaths downward after reviewing death certificates.
-Oklahoma,OK,,,10,,0,1204,,2,,0,05/13/2020,
+Oklahoma,OK,,,10,,0,,1204,2,,0,05/13/2020,
 Oregon,OR,,,32,,0,,395,113,,0,05/13/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,541,,148,,0,668,,181,,3,05/13/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,361,,11,,0,170,,5,,0,05/12/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
@@ -1872,7 +1923,7 @@ New York,NY,,,1143,,4,619,,415,,15,05/06/2020,
 North Carolina,NC,250,,29,,0,1234,,627,,4,05/06/2020,Staff numbers only from Neuse CI
 North Dakota,ND,115,115,3,,0,35,35,0,,0,05/01/2020,"In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,483,,2,6922,,4312,,40,05/06/2020,Ohio later revised its numbers of COVID-related deaths.
-Oklahoma,OK,,,9,,0,1034,,2,,0,05/06/2020,
+Oklahoma,OK,,,9,,0,,1034,2,,0,05/06/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,21,,0,,243,44,,0,05/06/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,411,,127,,0,325,,141,,3,05/06/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,200,,11,,0,110,,,,0,05/06/2020,"In early July, Rhode Island began releasing information on ""presumed positive"" cases which we are not including in these numbers and prompted us to revise our counts. For earlier weeks, we are reexamining the figures to try to remove the ""presumed"" cases from the counts and are withholding those figures for now."
@@ -1923,7 +1974,7 @@ New York,NY,,,1045,,2,553,,370,,10,04/29/2020,Plus another 45 parolees infected 
 North Carolina,NC,250,,29,,0,1143,,596,,2,04/29/2020,Staff numbers are for Neuse prison only
 North Dakota,ND,,,2,,0,34,34,0,,0,04/27/2020,"Staff deaths backfilled from 5/6 update. The number of staff and prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility. In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,419,,2,5676,,3890,,28,04/29/2020,Ohio later revised its numbers of COVID-related deaths.
-Oklahoma,OK,,,9,,0,702,,2,,0,04/28/2020,
+Oklahoma,OK,,,9,,0,,702,2,,0,04/28/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,15,,0,,117,21,,0,04/29/2020,"The number of tests conducted had been in the wrong column, for the number of prisoners tested, and has been corrected."
 Pennsylvania,PA,336,,90,,0,143,,45,,3,04/29/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,77,,10,,0,108,,3,,0,04/30/2020,"1(former inmate tested during quarantine) 2(new commitments, one is no longer with us. The other is still in our custody)"
@@ -1974,7 +2025,7 @@ New York,NY,,,844,,2,391,,239,,6,04/22/2020,Another 35 parolee cases and 4 death
 North Carolina,NC,,,,,0,723,,507,,1,04/22/2020,"Prisoner test numbers are low. We were able to get health department figures for Neuse, one hotspot, instead of DOC figures for that facility."
 North Dakota,ND,,,2,,0,32,32,0,,0,04/22/2020,"Only conducted resident tests so far, staff tested at the clinic. The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility. In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,331,,1,5196,,3792,,13,04/22/2020,These tests are only completed. They aren't reporting total tested or pending results yet. Ohio later revised its numbers of covid related deaths.
-Oklahoma,OK,,,9,,0,458,,1,,0,04/21/2020,Staff numbers are self-reported
+Oklahoma,OK,,,9,,0,,458,1,,0,04/21/2020,Staff numbers are self-reported. The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,10,,0,,,7,,0,04/22/2020,
 Pennsylvania,PA,210,,54,,0,95,,28,,1,04/22/2020,The number of prisoner cases and tests were later revised to exclude those who tested positive while released on parole.
 Rhode Island,RI,,,6,,0,103,,1,,0,04/22/2020,the 1 case is someone awaiting trial. This is a joint system
@@ -2025,7 +2076,7 @@ New York,NY,,,664,,1,,,160,,5,04/15/2020,The department also provides parolee de
 North Carolina,NC,,,,,0,183,,46,,0,04/15/2020,
 North Dakota,ND,,,2,,0,30,30,0,,0,04/15/2020,"The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility. In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,159,,1,1157,,273,,3,04/15/2020,
-Oklahoma,OK,,,8,,0,309,,1,,0,04/15/2020,
+Oklahoma,OK,,,8,,0,,309,1,,0,04/15/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,10,,0,,,5,,0,04/15/2020,
 Pennsylvania,PA,129,,24,,0,70,,17,,1,04/15/2020,
 Rhode Island,RI,,,5,,0,16,,0,,0,04/15/2020,
@@ -2127,7 +2178,7 @@ New York,NY,,,147,,1,74,,20,,1,04/01/2020,
 North Carolina,NC,,,,,0,101,,1,,0,04/01/2020,
 North Dakota,ND,,,,,0,18,18,0,,0,04/01/2020,"The number of prisoner tests were later revised with updated figures from North Dakota, and exclude the Youth Correctional Center juvenile facility. In early November, North Dakota's Department of Corrections and Rehabilitation revised its testing figures slightly, back to the beginning of the pandemic. We have updated our figures here accordingly."
 Ohio,OH,,,,,0,25,,0,,0,04/01/2020,
-Oklahoma,OK,,,0,,0,8,,0,,0,04/01/2020,staff have to go to own medical provider for test
+Oklahoma,OK,,,0,,0,,8,0,,0,04/01/2020,staff have to go to own medical provider for test. The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,1,,0,14,,0,,0,04/01/2020,
 Pennsylvania,PA,51,,8,,0,29,,2,,0,04/01/2020,staff numbers are self reported.
 Rhode Island,RI,,,2,,0,5,,0,,0,04/01/2020,
