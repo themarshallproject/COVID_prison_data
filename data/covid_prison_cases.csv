@@ -1,9 +1,60 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,as_of_date,notes
+Alabama,AL,,,1025,969,3,,15152,1530,1441,61,03/01/2021,
+Alaska,AK,,,290,,0,,24785,2327,,5,03/02/2021,vaccines as of 3/1
+Arizona,AZ,,,2688,2536,,43612,,12009,11802,53,03/02/2021,
+Arkansas,AR,,,,,4,,,11106,11030,52,03/02/2021,
+California,CA,,,15810,15347,26,1187184,,49115,48029,212,03/02/2021,
+Colorado,CO,,,1567,,0,18555,173938,8662,,29,03/02/2021,
+Connecticut,CT,,47391,1548,1490,0,,68823,4117,3923,19,03/02/2021,
+Delaware,DE,,4180,640,620,1,,11954,2012,1938,13,03/02/2021,
+Florida,FL,,,5557,5224,6,,,17892,17683,210,03/03/2021,
+Georgia,GA,,,1653,1580,4,,,3609,3397,92,03/02/2021,
+Hawaii,HI,,,221,215,0,,15176,1929,1888,9,03/02/2021,
+Idaho,ID,5183,,455,452,0,10670,,4093,3955,6,03/02/2021,
+Illinois,IL,,106432,4136,4044,,,326538,10724,10528,,03/02/2021,
+Indiana,IN,,5497,1490,1456,4,,17219,3436,3373,51,03/02/2021,Vaccine data is as of 2/25. Right now they are only vaccinating incarcerated folks who are 65+
+Iowa,IA,,,699,694,2,,41082,4786,4581,19,03/02/2021,
+Kansas,KS,,,1201,,5,,,6094,,15,03/01/2021,Vaccine numbers are as of 3/3
+Kentucky,KY,,,990,950,5,,,7159,6833,44,03/02/2021,The number of recovered cases among prisoners dropped this week. We're inquiring as to why. They are vaccinating but haven't released numbers this week.
+Louisiana,LA,2436,,911,883,6,8248,,3169,3008,36,03/02/2021,
+Maine,ME,,,57,55,0,,7299,157,157,1,03/02/2021,
+Maryland,MD,,50358,2119,2026,4,,57927,4196,4050,24,03/01/2021,They are vaccinating but haven't released numbers this week.
+Massachusetts,MA,,,907,,,,29175,3012,,20,03/03/2021,
+Michigan,MI,,152496,3637,,4,40804,543350,25277,23451,138,03/02/2021,The number of recovered cases among prisoners dropped this week. We're inquiring as to why.
+Minnesota,MN,,,1012,834,0,,98086,3898,3838,11,03/02/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
+Mississippi,MS,,,,,,,3334,1393,1369,23,03/02/2021,
+Missouri,MO,,,2564,2548,6,,,5529,5454,45,03/02/2021,
+Montana,MT,,,,,,,,,,,,
+Nebraska,NE,,,,,,3671,6742,971,963,6,03/05/2021,
+Nevada,NV,,,,,,,,,,53,03/02/2021,
+New Hampshire,NH,,,173,172,0,,1497,450,447,2,03/02/2021,
+New Jersey,NJ,,,2227,,,,,4556,,53,03/02/2021,
+New Mexico,NM,,,934,903,0,,,2869,2580,28,03/02/2021,
+New York,NY,,,4731,,8,,68237,5942,5618,33,03/02/2021,
+North Carolina,NC,,76950,3677,3407,12,39285,110227,9743,8043,47,03/02/2021,The number of recovered cases among prisoners dropped this week. A prisons spokesman said it's due to some recovered prisoners being released recently.
+North Dakota,ND,1139,19682,278,273,1,3139,27643,627,626,1,03/02/2021,
+Ohio,OH,,,4684,4597,10,,62052,9533,7172,134,03/04/2021,Recoveries dropped from last week. This may be because recovered prisoners were later released.
+Oklahoma,OK,,12506,1008,,,,28947,7179,,48,03/02/2021,
+Oregon,OR,,,830,813,,,24814,3542,3354,42,03/02/2021,Vaccination numbers are as of 3/4
+Pennsylvania,PA,,,,,,,,,,,,
+Rhode Island,RI,,,399,391,1,,,1155,1140,2,03/04/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff.
+South Carolina,SC,,,1050,1003,2,9678,,3161,2991,37,03/02/2021,
+South Dakota,SD,,409,186,186,0,,7377,2341,2332,7,03/02/2021,
+Tennessee,TN,,,1479,1450,4,,38820,6597,6538,42,03/04/2021,
+Texas,TX,,169334,11170,10503,41,,416798,34078,32089,187,03/02/2021,
+Utah,UT,,,396,343,,,24260,3399,3174,15,03/01/2021,
+Vermont,VT,,,77,,,2781,16415,402,,,03/03/2021,
+Virginia,VA,,,2496,2450,5,,93502,8988,8828,55,03/02/2021,
+Washington,WA,,,1124,,2,,,6176,6104,14,03/02/2021,
+West Virginia,WV,,10662,456,450,1,,9668,1553,1535,8,03/02/2021,
+Wisconsin,WI,,,2486,2474,,,92225,10859,10637,25,03/02/2021,They are vaccinating but haven't released numbers this week.
+Wyoming,WY,,,,,,,,,,,,
+Federal,US,,,6511,4891,4,105951,,49324,48037,239,03/02/2021,
 Alabama,AL,,,1013,937,3,,15115,1506,1432,61,02/22/2021,
 Alaska,AK,,,,,,,23836,2316,,5,02/22/2021,
 Arizona,AZ,,,2664,2491,,,,11932,9333,53,02/23/2021,They are vaccinating but not giving breakdowns.
 Arkansas,AR,,,,,4,,,11033,11007,52,02/23/2021,
-California,CA,,,15713,15529,26,118352,,49036,47360,210,02/23/2021,
+California,CA,,,15713,15259,26,118352,,49036,47360,210,02/23/2021,
 Colorado,CO,,,1550,,0,18436,168378,8626,,29,02/23/2021,
 Connecticut,CT,,41326,1537,1465,0,,63305,3932,3812,19,02/23/2021,
 Delaware,DE,,,,,,,,,,13,02/23/2021,
@@ -19,17 +70,17 @@ Kentucky,KY,,,961,934,5,,,6943,6859,44,02/23/2021,not reporting vaccines till af
 Louisiana,LA,2430,,901,862,6,8110,,3106,2793,36,02/23/2021,
 Maine,ME,,,57,55,0,,7202,157,157,1,02/23/2021,
 Maryland,MD,,48377,2094,2011,4,,55870,4128,4015,22,02/22/2021,
-Massachusetts,MA,,,,,,,,,,,,
+Massachusetts,MA,,,905,,,,29128,3005,,20,02/25/2021,
 Michigan,MI,,141445,3609,,4,40716,525217,25190,23508,138,02/23/2021,"""Vaccines are not mandatory and staff largely get them on their own in the community and do not need to inform us if they have gotten the vaccine."" Spokesman said more than 4000 doses have been given in Michigan but he's checking for details."
 Minnesota,MN,,,1003,828,0,,96205,3885,3834,11,02/23/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
 Mississippi,MS,,,,,,,3331,,1368,23,02/24/2021,
-Missouri,MO,,12874,2862,2840,6,,74382,5517,5422,45,02/23/2021,Staff are being vaccinated but they didn't release exact figures.
+Missouri,MO,,12874,2562,2540,6,,74382,5517,5422,45,02/23/2021,"Staff are being vaccinated but they didn't release exact figures. The numbers from one prison were initially reported with 300 additional cases that were later removed, likely due to a typo. This has been updated with the revised figure."
 Montana,MT,,,277,,0,,,1129,,6,02/22/2021,
 Nebraska,NE,,,538,516,,3668,6701,967,939,6,02/22/2021,
 Nevada,NV,,,,,,,,,,53,02/23/2021,Nevada's number of staff and prisoner cases dropped this week without explanation and we're trying to get answers as to why.
 New Hampshire,NH,,,173,172,0,,1475,448,447,2,02/24/2021,
 New Jersey,NJ,,,2076,,,,,4345,,53,02/23/2021,
-New Mexico,NM,,,972,876,0,,36502,2661,2519,28,02/23/2021,They're digging into vaccine #s for us
+New Mexico,NM,,,922,876,0,,36502,2661,2519,28,02/23/2021,The number of staff cases was input incorrectly and has been updated.
 New York,NY,,,4656,4436,8,,66726,5815,5485,33,02/23/2021,They are vaccinating but not breaking down numbers for prisoners or staff yet.
 North Carolina,NC,,70763,3652,3372,10,38917,106206,9512,8047,47,02/23/2021,
 North Dakota,ND,1128,18980,275,267,1,3115,26184,623,621,1,02/23/2021,
@@ -43,8 +94,8 @@ South Dakota,SD,,409,186,186,0,,7265,2337,2330,7,02/23/2021,
 Tennessee,TN,,9202,1475,1447,4,,38212,6580,6519,42,02/24/2021,
 Texas,TX,,163843,11070,10159,41,,407607,33980,31221,187,02/23/2021,
 Utah,UT,,,396,343,,,23592,3306,3098,15,02/22/2021,
-Vermont,VT,,,66,,,2751,15445,275,,,02/23/2021,
-Virginia,VA,,,,,5,,,8987,,55,02/23/2021,
+Vermont,VT,,,66,,,2751,15445,275,,0,02/23/2021,
+Virginia,VA,,,2422,2347,5,,91689,8987,,55,02/23/2021,
 Washington,WA,,,1106,,2,,,6157,6077,14,02/23/2021,
 West Virginia,WV,,10213,453,448,1,,9640,1553,1535,8,02/23/2021,
 Wisconsin,WI,,,2478,2462,,,90565,10839,10597,25,02/23/2021,
