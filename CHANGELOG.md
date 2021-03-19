@@ -3,6 +3,14 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+
+## 2021-03-19
+Hello folks. We're back with our regular Friday data release. In addition to the data for this week, there are a few historic changes you should take note of:
+- Arizona reclassified four deaths that had been preliminarily idenitifed as COVID as unrelated. They didn't provide updated past figures, so we have removed some previous weeks' data where the numbers were higher than the current total.
+- Nevada officials revised their prisoner and staff case numbers, starting with the week of Feb. 23, 2021, saying that there had been errors in previous weeks, including some negative cases counted as positives. Because they have not provided revised figures for past weeks, we have withdrawn data for several weeks in January and February prior to the revision.
+- We recently received a trove of historic data on testing and cases in Wyoming's prisons, which allowed us to update many weeks in the past year for that state. It enabled us to fill in many of our blanks, particularly in the fall and winter. 
+That's all for now. Have a great weekend, everybody.
+
 ## 2021-03-13
 Hey everybody! Sorry for the late update this week. We had a lot of late arriving data and a few other projects that held us up this week. New cases continued to drop. This week they're at their lowest level since April. This is a good sign things may be turning around, we hope.
 
