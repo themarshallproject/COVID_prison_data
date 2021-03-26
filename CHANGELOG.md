@@ -4,12 +4,20 @@ All notable changes to this project will be documented in this file. This captur
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
+## 2021-03-26
+Hi everyone. We have new data for you this week, along with one major update regarding our total figures.
+Starting the week of March 9, we noticed the total number of cases in the federal prisons began dropping. The Bureau of Prisons's response was that they are removing prisoners who are released from their counts of active and recovered cases. As a results, we are unable to accurately determine the total number of infections in federal prisons. You can get more background in [this Twitter thread we posted today](https://twitter.com/MarshallProj/status/1375500147384270852). We asked the Bureau to help fill in the missing numbers and they declined to do so. We will continue to try to get those figures so we can resume counting those cases in the biggest prison system. Fingers crossed.
+
+We also corrected the dates of the last data for Maryland, which was put into the wrong week. We added a new set of data for Maryland for last week, as well as for Alabama and Massachusetts.
+
+That's all for now. Enjoy your spring weekend.
+
 ## 2021-03-19
 Hello folks. We're back with our regular Friday data release. In addition to the data for this week, there are a few historic changes you should take note of:
 - Arizona reclassified four deaths that had been preliminarily idenitifed as COVID as unrelated. They didn't provide updated past figures, so we have removed some previous weeks' data where the numbers were higher than the current total.
 - Nevada officials revised their prisoner and staff case numbers, starting with the week of Feb. 23, 2021, saying that there had been errors in previous weeks, including some negative cases counted as positives. Because they have not provided revised figures for past weeks, we have withdrawn data for several weeks in January and February prior to the revision.
 - We recently received a trove of historic data on testing and cases in Wyoming's prisons, which allowed us to update many weeks in the past year for that state. It enabled us to fill in many of our blanks, particularly in the fall and winter. 
-That's all for now. Have a great weekend, everybody.
+Have a great weekend, everybody.
 
 ## 2021-03-13
 Hey everybody! Sorry for the late update this week. We had a lot of late arriving data and a few other projects that held us up this week. New cases continued to drop. This week they're at their lowest level since April. This is a good sign things may be turning around, we hope.
