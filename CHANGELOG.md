@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file. This captur
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
+## 2021-04-09
+Howdy folks. We have new data, including two weeks of snapshots for March 30 and April 6. In addition to the new data, there are two major changes for you to be aware. First, we've added the vaccine numbers we've been collecting since December. The prison agencies have been very erratic in their release of these figures. We plan to flesh them out as we can over time, and hope this is all useful for you in the meantime. There are four new columns. `staff_partial_dose` and `prisoners_partial_dose` indicate the cumulative number of each group that have gotten one shot of a two-dose vaccine. `staff_full_dose` and `prisoners_full_dose` track how many of each have gotten two shots of a two-dose vaccine or one-shot of the Johnson & Johnson vaccine. Be aware that some agencies will only release the number who've gotten at least one shot.
+
+We've also noticed another disturbing update in the data published by the Federal Bureau of Prisons. They have removed five deaths from their figures. They attributed the change to three private prisons that they no longer are housing any people in. Because their death totals would have dropped, we have left that field blank this week. So we have even less of an understanding of the total or current toll of the pandemic in federal prisons. We continue to ask the BOP to provide updated data and are filing records requests, but for now, treat that agency with all due caution.
+
+That's all for this week. If you have questions as you review this, please get in touch: info+covid@themarshallproject.org.
+
+## 2021-04-06
+Hey everyone. Wanted to pop in to let you all know that we do have data for last week and it is forthcoming. A few of our states were extremely tardy, and we've had our hands full wrapping up [this story that published today](https://www.themarshallproject.org/2021/04/06/as-states-expand-vaccine-eligibility-many-people-in-prison-still-wait-for-shots) with our friends at the AP about the slow progress in vaccinating prisoners.
+
+So rest assured, we will release numbers by the end of this week, and they will include data for last week as well as this week, and we'll also begin releasing the vaccination numbers we've been collecting since December for all of the prison systems. Until then, thanks for your patience. Stay tuned.
+
 ## 2021-03-26
 Hi everyone. We have new data for you this week, along with one major update regarding our total figures.
 Starting the week of March 9, we noticed the total number of cases in the federal prisons began dropping. The Bureau of Prisons's response was that they are removing prisoners who are released from their counts of active and recovered cases. As a results, we are unable to accurately determine the total number of infections in federal prisons. You can get more background in [this Twitter thread we posted today](https://twitter.com/MarshallProj/status/1375500147384270852). We asked the Bureau to help fill in the missing numbers and they declined to do so. We will continue to try to get those figures so we can resume counting those cases in the biggest prison system. Fingers crossed.

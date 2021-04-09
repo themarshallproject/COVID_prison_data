@@ -51,12 +51,16 @@ It includes these columns:
 * `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
 * `staff_tests` - The cumulative number prison employees, including correctional officers and other staff, tested.
 * `staff_tests_with_multiples` - The cumulative number of tests administered to prison employees, including correctional officers and other staff where unique patients was not available.
+* `total_staff_cases` - The cumulative number of positive coronavirus cases among prison employees.
+* `total_staff_deaths` - The number of deaths of prison employees to date.
+* `staff_partial_dose` - The cumualtive number of prison staff who've received one shot of a two-dose vaccine (Pfizer or Moderna), from the corrections agency. This number does not include those who were vaccinated on their own in the community.
+* `staff_full_dose` - Cumualtive number of prison employees who received either two shots of a two-dose vaccine or the single-shot Johnson and Johnson vaccine, from their corrections agency.
 * `prisoner_tests` - The cumulative number of incarcerated people tested.
 * `prisoner_tests_with_multiples` - The cumulative number of tests administered to incarcerated people where unique patients was not available.
-* `total_staff_cases` - The cumulative number of positive coronavirus cases among prison employees.
 * `total_prisoner_cases` - The cumulative number of positive coronavirus cases among the incarcerated population.
-* `total_staff_deaths` - The number of deaths of prison employees to date.
 * `total_prisoner_deaths` - The number of deaths of prisoners to date.
+* `prisoners_partial_dose` - The cumualtive number of prisoners who've received one shot of a two-dose vaccine (Pfizer or Moderna), from the corrections agency.
+* `prisoners_full_dose` - Cumulative number of prisoners who received either two shots of a two-dose vaccine or the single-shot Johnson and Johnson vaccine.
 * `as_of_date` - The date these data reflect.
 * `notes` - Caveats or explanation about any aspect of this row of data.
 
