@@ -1,9 +1,60 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,staff_partial_dose,staff_full_dose,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,prisoners_partial_dose,prisoners_full_dose,as_of_date,notes
-Alabama,AL,,,,,,,,,,,,,,,,
+Alabama,AL,,,1044,1019,3,824,,,15692,1635,1547,65,1740,,04/14/2020,
+Alaska,AK,,,,,0,,,,30387,2399,,5,2677,1839,04/12/2021,Vaccination numbers as of 4/11
+Arizona,AZ,,,2745,2732,,,,46140,,12263,12147,53,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Arkansas,AR,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+California,CA,,,16284,16084,26,27539,25282,122071,,49215,48369,220,65728,45865,04/13/2021,
+Colorado,CO,,,1650,,0,2972,,19368,200051,8827,,29,9164,,04/13/2021,
+Connecticut,CT,,63062,1647,1613,0,2697,,,98599,4399,4328,19,4362,,04/13/2021,
+Delaware,DE,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Florida,FL,,,5829,5590,8,,,,,18048,17778,215,,,04/14/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Georgia,GA,,,1710,1675,4,,,,,3797,3607,93,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Hawaii,HI,,,226,225,0,,,,16416,1968,1956,9,512,1870,04/13/2021,"Of those fully vaccinated, 1570 received the one-shot Johnson & Johnson vaccine."
+Idaho,ID,5982,,472,470,0,224,143,11395,,4127,4062,,1361,1250,04/13/2021,
+Illinois,IL,,181863,4397,4296,1,,4272,,497675,10864,10840,88,,18895,04/13/2021,
+Indiana,IN,,5606,1515,1485,4,,,,20698,3522,3418,51,,,04/14/2021,
+Iowa,IA,,,701,698,2,,,,44678,4849,4820,19,932,233,04/15/2021,13 staff and 23 prisoners have received the 1-shot Johnson & Johnson vaccine.
+Kansas,KS,,,1212,,6,1455,,,,6101,,16,5929,,04/15/2021,vaccine numbers as of 4/14
+Kentucky,KY,,,1094,,5,,,,,7901,,48,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Louisiana,LA,2455,,928,915,6,,,8782,,3204,3105,36,,,04/13/2021,
+Maine,ME,,,,,0,,802,,9566,170,,1,,284,04/16/2021,All prisoners have been vaccinated with the one-shot Johnson & Johnson vaccine.
+Maryland,MD,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Massachusetts,MA,,,935,,,3116,2819,,34361,3021,,21,4624,4377,04/14/2021,
+Michigan,MI,,191194,4116,,5,,,41311,727543,26202,24852,142,12490,17935,04/14/2021,7632 received the one-shot Johnson & Johnson vaccine.
+Minnesota,MN,,,1080,884,0,743,1786,,107645,4142,3861,12,,4033,04/13/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new. testing method, they don't have new presumed positives that will be added to this column."
+Mississippi,MS,,,,,,,,,,1398,1374,23,9567,82,04/15/2021,
+Missouri,MO,,12964,2581,2569,6,,,,80665,5649,5563,48,5900,3653,04/14/2021,251 people were fully vaccinated with the 1-shot Johnson & Johnson vaccine.
+Montana,MT,,,285,,0,,,,,1135,,6,,506,04/14/2021,
+Nebraska,NE,,,,,,,,3676,6782,982,,6,,,04/16/2021,
+Nevada,NV,,,981,,3,1230,822,,,4537,,53,1520,214,04/13/2021,
+New Hampshire,NH,,,176,176,0,,,,1757,458,457,3,490,385,04/13/2021,
+New Jersey,NJ,,,2255,,,,,,,4684,,53,,,04/13/2021,
+New Mexico,NM,,,953,948,0,1640,1580,,47556,2976,2944,28,1514,824,04/13/2021,
+New York,NY,,,5080,4936,8,7538,7498,,80566,6462,6299,35,3618,3450,04/14/2021,23 staff and 894 incarcerated people have got the one-shot Johnson & Johnson vaccine and are fully vaccinated.
+North Carolina,NC,,114045,3854,3698,12,6524,4810,40747,126903,10021,8148,53,15872,10085,04/13/2021,
+North Dakota,ND,1187,22825,287,281,1,,,3489,33673,633,632,1,935,942,04/13/2021,
+Ohio,OH,,,4839,4771,10,7057,,,70352,9713,7077,135,22528,,04/15/2021,
+Oklahoma,OK,,15471,1044,,,,,,31243,7402,,56,,,04/13/2021,
+Oregon,OR,,,846,837,,,,,24852,3580,3420,42,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Pennsylvania,PA,,,4804,4680,,,2984,,107386,11215,10837,135,,19430,04/14/2021,"This week, Pennsylvania resumed reporting data after it took down its dashboard for several months for revisions. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
+Rhode Island,RI,,,448,440,1,927,913,,,1208,1196,2,1626,1345,04/16/2021,"Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+South Carolina,SC,,,1100,1080,2,,,,,3246,3190,40,729,729,04/13/2021,
+South Dakota,SD,,422,191,191,0,,,,8155,,,7,,,04/13/2021,
+Tennessee,TN,,,1512,1476,5,,,,41768,6647,6596,42,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Texas,TX,,205586,11514,11022,45,11893,9729,,482039,34504,32936,187,,,04/13/2021,
+Utah,UT,,,399,396,,,,,27460,3453,3378,16,261,162,04/13/2021,
+Vermont,VT,,,103,,,,,2930,20579,459,,,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Virginia,VA,,20038,2524,2480,5,6416,4924,,105953,9039,8860,56,16860,14458,04/13/2021,
+Washington,WA,,,1171,,2,3551,,,,6203,6177,14,3815,,04/13/2021,
+West Virginia,WV,,13022,479,470,1,,,,10102,1597,1559,12,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Wisconsin,WI,,,2522,2511,,,,,98657,10932,10726,26,3293,,04/13/2021,
+Wyoming,WY,,,,,,,,,,,,3,,,04/13/2021,
+Federal,US,,,6831,5614,4,,17529,109772,,,47764,,,35867,04/13/2021,
+Alabama,AL,,,1040,982,3,808,,,15599,1632,1503,65,871,,04/07/2020,
 Alaska,AK,,,,,,,,,29981,2396,,5,2518,1598,04/05/2021,
 Arizona,AZ,,,2742,2731,,,,43652,,12215,12137,53,,,04/06/2020,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arkansas,AR,,,,,4,1421,1091,,,11245,11199,52,82,0,04/06/2021,Vaccine numbers as of 4/6
-California,CA,,,,,,27030,24811,121456,,,48362,218,62730,43760,04/06/2021,
+California,CA,,,,,26,27030,24811,121456,,49210,48362,218,62730,43760,04/06/2021,
 Colorado,CO,,,1633,,,2906,,19235,196517,8800,,29,7556,,04/06/2021,
 Connecticut,CT,,61768,1634,1591,0,2697,,,92322,4380,4262,19,4362,,04/06/2021,
 Delaware,DE,,5960,,,1,1268,911,,13004,2030,1955,13,1819,151,04/07/2021,
@@ -11,14 +62,14 @@ Florida,FL,,,5782,5543,,,,,,17994,17769,214,,,04/07/2021,Prisoner vaccintions ha
 Georgia,GA,,,1703,1656,4,,,,,3739,3602,93,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Hawaii,HI,,,225,225,0,,,,16148,1968,1954,9,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Idaho,ID,5973,,472,467,0,224,143,11309,,4122,4060,6,529,204,04/06/2021,"Of the 472 staff positives, 10 are prior positives / In addition to the 224 staff vaccinated at the department, an additional 343 self-disclosed they received both doses from outside providers."
-Illinois,IL,,166664,4342,4261,,,,,476115,10853,10810,,,,04/06/2021,
+Illinois,IL,,166664,4342,4261,1,,,,476115,10853,10810,88,,,04/06/2021,
 Indiana,IN,,5547,1500,1474,4,,,,19897,3480,3415,51,,,04/06/2021,
 Iowa,IA,,,701,698,2,1267,1249,,44100,4839,4812,19,206,206,04/07/2021,Vaccination numbers come from 4/5
 Kansas,KS,,,1212,,6,1453,,,,6098,,16,5822,,04/08/2021,Vaccination numbers as of 4/7
 Kentucky,KY,,,1091,,5,,,,,7899,,48,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2453,,926,911,6,,,8706,,3202,3101,36,,,04/06/2021,
-Maine,ME,,,59,58,0,1493,802,,,168,166,1,,284,04/08/2021,
-Maryland,MD,,,,,,,,,,,,,,,,
+Maine,ME,,,59,58,0,,802,,,168,166,1,,284,04/08/2021,All prisoners have been vaccinated with the on-shot Johnson & Johnson vaccine.
+Maryland,MD,,62244,2222,2151,4,4011,3968,,66828,4381,4319,26,3827,787,04/09/2021,
 Massachusetts,MA,,,930,,,2953,2804,,33817,3021,,21,4620,4279,04/07/2021,
 Michigan,MI,,191194,4039,,5,,,41234,701601,26156,24526,140,12489,15576,04/08/2021,Vaccine numbers as of 4/9. 7402 people received the J&J one-shot vaccine.
 Minnesota,MN,,,1066,867,0,740,1670,,106508,4064,3859,12,442,3739,04/06/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new. testing method, they don't have new presumed positives that will be added to this column. Among the staff vaccines, 1078 received the one-shot Johnson and Johnson vaccine,  and 3484 prisoners got the single shot Johnson and Johnson shot. These totals are included in the ""fully vaccinated"" field."
@@ -26,35 +77,35 @@ Mississippi,MS,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this
 Missouri,MO,,12961,2576,2568,6,,,,79729,5628,5545,48,5609,3303,04/06/2020,
 Montana,MT,,,282,,0,,,,,1135,,6,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Nebraska,NE,,,557,549,,,,3676,6776,982,976,6,,,04/09/2021,Staff case totals from 4/8
-Nevada,NV,,,978,,3,,,,,4523,,53,,,04/06/2021,
+Nevada,NV,,,978,,3,1228,820,,,4523,,53,1520,156,04/06/2021,
 New Hampshire,NH,,,176,,0,491,254,,1716,458,,3,385,339,04/06/2021,
 New Jersey,NJ,,,2255,,,,,,,4684,,53,,,04/06/2021,
 New Mexico,NM,,,951,946,0,1632,1569,,44368,2972,2939,28,1117,569,04/06/2021,
-New York,NY,,,5021,4861,8,7538,7323,,78318,6397,6205,35,3789,1750,04/06/2021,
-North Carolina,NC,,105131,3812,3686,12,1751,4623,40502,124361,10006,8170,53,12158,2884,04/06/2021,
+New York,NY,,,5021,4861,8,7538,7323,,78318,6397,6205,35,3374,2165,04/06/2021,415 incarcerated individuals have received the Johnson and Johnson one-shot vaccine. We have revised the vaccine numbers for prisoners initially reported for this week.
+North Carolina,NC,,105131,3812,3686,12,6374,4623,40502,124361,10006,8170,53,15042,2884,04/06/2021,
 North Dakota,ND,1157,22381,284,281,1,,,3413,33359,633,632,1,935,942,04/06/2021,"Of those fully vaccinated, 34 received the on-shot Johnson & Johnson vaccine"
-Ohio,OH,,,4810,4746,10,,,,68970,9701,7101,135,,,04/08/2021,vaccine numbers as of 4/7
+Ohio,OH,,,4810,4746,10,6911,,,68970,9701,7101,135,21400,,04/08/2021,vaccine numbers as of 4/7
 Oklahoma,OK,,15016,1044,,,,,,31059,7396,,55,,,04/06/2021,
 Oregon,OR,,,842,835,0,,,,24852,3580,3417,42,9156,7200,04/06/2021,
-Pennsylvania,PA,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Pennsylvania,PA,,,,,,,,,,11181,,134,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,412,410,1,,,,,1200,1192,2,,,04/09/2021,"Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Carolina,SC,,,1094,1067,2,,,,,3240,3181,40,729,729,04/06/2021,
 South Dakota,SD,,421,191,190,0,,,,7983,2348,2341,7,,,04/06/2021,
 Tennessee,TN,,,1501,1471,5,,,,40954,6639,6595,42,,,04/06/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week."
 Texas,TX,,200267,11458,10922,45,,,,469741,34464,32910,187,,,04/06/2021,
 Utah,UT,,,399,396,,,,,27228,3450,3372,16,261,162,04/05/2021,Vaccine numbers as of 4/6
-Vermont,VT,,,100,,,,,2904,20211,457,,,,,04/06/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week."
-Virginia,VA,,20541,2511,2460,5,,4807,,101955,9012,8859,56,16684,14111,04/06/2021,
+Vermont,VT,,,100,96,0,,476,2904,20211,457,,0,578,,04/06/2021,"Staff vaccination numbers do NOT include healthcare workers, who are contractors. Staff are given J&J 1-dose vaccine."
+Virginia,VA,,19384,2511,2460,5,6336,4807,,101955,9012,8859,56,16684,14111,04/06/2021,Virginia later revised its number of staff tests and we have updated our figure here accordingly.
 Washington,WA,,,1158,,2,,,,,6192,6172,14,,,04/06/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week."
 West Virginia,WV,,12957,476,467,1,834,780,,10063,1593,1540,9,,1011,04/09/2021,Prisoners are receiving the single-shot J&J vaccine.
 Wisconsin,WI,,,2519,2502,,,,,97589,10929,10707,26,1382,,04/06/2021,Vaccine number as of 4/5
-Wyoming,WY,,,,,,,,,,,,,,,,
+Wyoming,WY,,,296,293,,,,,28380,879,872,3,,,04/06/2021,
 Federal,US,,,6773,5519,4,,17286,109031,,,,,,29658,04/06/2021,"The number of deaths in federal prisons dropped by 5 this week. The BOP said it has removed data on several private prisons it is no longer contracting with to hold people. As a result, we're not publishing their number of prisoner deaths."
 Alabama,AL,,,1039,982,3,662,,,15550,1611,1499,64,871,,03/31/2021,
 Alaska,AK,,,,,,,,,29585,2394,,5,,,04/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arizona,AZ,,,2738,2724,,,,43647,,12206,12108,50,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arkansas,AR,,,,,4,,,,,11229,11173,52,0,0,03/30/2021,
-California,CA,,,,,,26878,24483,120994,,49221,48349,217,57999,41936,03/30/2021,
+California,CA,,,,,26,26878,24483,120994,,49202,48349,217,57999,41936,03/30/2021,"In the succeeding weeks, California revised its number of covid cases among prisoners and we have revised this accordingly."
 Colorado,CO,,,1611,,0,2769,,19063,192384,8767,,29,5495,,03/30/2021,"Not all offered vaccine since not all eligible until 4/2. Update on 4/1: 5,820 inmates (approximately 43 %) that have received at least the first dose of the vaccine."
 Connecticut,CT,,58551,1625,1572,0,2658,,,88491,4362,4216,19,4216,,03/30/2021,
 Delaware,DE,,,743,726,,1265,911,,12665,,1948,13,649,116,03/30/2021,
@@ -68,7 +119,7 @@ Iowa,IA,,,700,698,2,,,,,4829,4808,19,,,03/30/2021,"We have been told vaccination
 Kansas,KS,,,1209,,6,,,,,6098,,16,5794,,04/01/2021,Vax numbers as of 3/31
 Kentucky,KY,,,1084,,5,,,,,7891,,48,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2450,,925,907,6,,,8620,,3199,3099,36,,,03/30/2021,
-Maine,ME,,,59,56,0,,708,,8125,168,165,1,125,125,03/30/2021,
+Maine,ME,,,59,56,0,708,708,,8125,168,165,1,,125,03/30/2021,All prisoners have been vaccinated with the on-shot Johnson & Johnson vaccine.
 Maryland,MD,,58224,2198,2134,4,4011,3968,,66282,4357,4289,26,1474,772,04/02/2021,
 Massachusetts,MA,,,918,,,2948,2795,,33109,3021,,21,4620,4279,03/31/2021,
 Michigan,MI,,181280,3863,,4,,,41148,664433,26028,24273,139,12459,11814,03/30/2021,"Vaccine numbers as of 4/2. of the fully vaccinated prisoners, 6842 received the single-shot Johnson and Johnson vaccine"
@@ -87,7 +138,7 @@ North Dakota,ND,1147,22127,282,281,1,,,3320,32911,633,631,1,935,908,03/30/2021,
 Ohio,OH,,,4783,4713,10,6545,,,67668,9675,7146,135,17873,,04/01/2021,"Vaccine numbers as of 4/1 From JoEllen Smith: Based on the guidelines established by the Ohio Department of Health, we are now in the process offering the vaccine to all incarcerated individuals who are age 16 and older as supply permits."
 Oklahoma,OK,,14583,1037,,,,,,30735,7385,,55,,,03/30/2021,
 Oregon,OR,,,841,833,,,,,24848,3576,3411,42,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Pennsylvania,PA,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Pennsylvania,PA,,,,,,,,,,11148,,134,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,412,406,1,,,,,1198,1185,2,,,04/02/2021,"Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Carolina,SC,,,1084,1059,2,,,,,3236,3159,40,729,200,03/30/2021,
 South Dakota,SD,,417,189,189,0,,,,7901,2340,2333,7,,,03/30/2021,
@@ -95,11 +146,11 @@ Tennessee,TN,,9270,1493,1468,5,,,,40445,6635,6581,42,,,03/30/2021,"We have been 
 Texas,TX,,193095,11415,10835,44,11490,7979,,458844,34396,32885,187,,,03/30/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week. Staff vaccines as of 4/2"
 Utah,UT,,,399,396,,,,,27053,3443,3372,16,243,144,03/31/2021,Vax numbers as of 4/1
 Vermont,VT,,,99,90,0,,467,2885,19690,457,,0,188,,03/30/2021,"Staff vaccination numbers do NOT include healthcare workers, who are contractors. Staff are given J&J 1-dose vaccine."
-Virginia,VA,,,,,5,6550,,,,9011,,56,16362,,03/30/2021,
+Virginia,VA,,,,,5,,,,,9011,,56,16362,,03/30/2021,Virginia later revised their number of partially vaccinated staff and we have updated our figures here.
 Washington,WA,,,1149,,2,,,,,6190,6170,14,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 West Virginia,WV,,12270,469,462,1,834,780,,9911,1557,1535,9,989,0,03/30/2021,"Vax numbers as of 4/3, J&J vaccine"
 Wisconsin,WI,,,2509,2500,,,,,97092,10923,10692,25,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Wyoming,WY,,,296,291,,,,,28374,865,851,,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Wyoming,WY,,,296,291,,,,,28374,865,851,3,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Federal,US,,,6721,5453,4,,16897,108612,,,,243,,24066,03/30/2021,
 Alabama,AL,,,1036,971,3,30,,,15493,1595,1492,63,0,0,03/24/2021,
 Alaska,AK,,,313,,0,,,,27299,2384,,5,2048,,03/23/2021,
@@ -119,7 +170,7 @@ Iowa,IA,,,700,698,2,1208,1205,,42971,4828,4805,19,,,03/23/2021,
 Kansas,KS,,,1207,,6,1379,,,,6097,,16,5317,,03/22/2021,Prisoner vaccine numbers as of 3/24
 Kentucky,KY,,,1082,1052,5,,,,,7883,7642,48,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2449,,920,906,6,,,8559,,3193,3095,36,,,03/23/2021,
-Maine,ME,,,58,55,0,,671,,7584,167,157,1,106,0,03/23/2021,
+Maine,ME,,,58,55,0,691,671,,7584,167,157,1,,106,03/23/2021,All prisoners have been vaccinated with the on-shot Johnson & Johnson vaccine.
 Maryland,MD,,56620,2179,2108,4,4011,3968,,65158,4322,4238,25,830,719,03/26/2021,
 Massachusetts,MA,,,917,,,,,,31717,3020,,21,,,03/24/2021,
 Michigan,MI,,176756,3840,,4,,,41073,643121,25929,24326,139,11748,4279,03/25/2021,Vaccine numbers as of 3/26
@@ -138,19 +189,19 @@ North Dakota,ND,1147,21545,282,279,1,,,3283,31574,632,627,1,,,03/23/2021,
 Ohio,OH,,,4764,4697,10,6074,,,66219,9628,7173,134,10524,,03/25/2021,
 Oklahoma,OK,,14158,1037,,,,,,30441,7365,,54,,,03/23/2021,
 Oregon,OR,,,839,828,,,,,24842,3570,3400,42,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Pennsylvania,PA,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Rhode Island,RI,,,408,404,1,917,903,,,1190,1169,2,1582,1395,03/26/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff.
+Pennsylvania,PA,,,,,,,,,,11094,,133,,,03/26/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
+Rhode Island,RI,,,408,404,1,917,903,,,1190,1169,2,1582,,03/26/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff.
 South Carolina,SC,,,1077,1050,2,,,9920,31063,3234,3107,40,729,0,03/23/2021,
 South Dakota,SD,,417,189,187,0,,,,7761,2340,2333,7,,,03/23/2021,
 Tennessee,TN,,,1490,1467,5,3101,,,40299,6634,6579,42,6274,,03/24/2021,Vaccine numbers as of 3/26
 Texas,TX,,187308,11363,10770,43,10894,7050,,450608,34344,32808,187,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Utah,UT,,,396,343,0,,,,26728,3442,3353,16,184,85,03/25/2021,"Vaccines for staff have been offered through clinics that the corrections department coordinated with state health officials, and staff can also receive the vaccine through their local health department. They are not reporting a total for staff."
 Vermont,VT,,,93,86,0,,467,2860,19048,455,,0,163,,03/23/2021,The 467 fully vaccinated staff received the one-shot Johnson and Johnson vaccine.
-Virginia,VA,,,2472,2439,5,6469,4524,,99859,9008,8854,56,16045,13391,03/23/2021,
+Virginia,VA,,,2472,2439,5,,4524,,99859,9008,8854,56,16045,13391,03/23/2021,Virginia later revised their number of partially vaccinated staff and we have updated our figures here.
 Washington,WA,,,1145,,2,,,,,6187,6169,14,,,03/23/2020,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 West Virginia,WV,,11908,463,458,1,,,,9776,1556,1535,9,0,0,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wisconsin,WI,,,2504,2494,,,,,95115,10903,10681,25,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Wyoming,WY,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Wyoming,WY,,,293,287,,,,,27409,851,808,3,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Federal,US,,,6665,5313,4,,16448,107867,,,,242,,18288,03/23/2021,"The week of March 9, 2021, the number of total prisoner cases dropped in the federal system by about 25 and have dropped since then. A spokesman attributed the change to their practice of removing prisoners who have been released from their counts of both active cases and recovered cases. This likely leads to an undercount of cases.  More info: https://twitter.com/MarshallProj/status/1375500147384270852"
 Alabama,AL,,,1034,971,3,,,,15338,1567,1488,63,0,0,03/17/2021,"We are told vaccinations have begun for staff this week, but no numbers have been released yet."
 Alaska,AK,,,303,,0,,,,27029,2382,,5,1966,428,03/18/2021,Vaccine numbers as of 3/16.
@@ -170,7 +221,7 @@ Iowa,IA,,,700,698,2,1208,1199,,42482,4824,4775,19,197,197,03/16/2021,
 Kansas,KS,,,1205,,5,,,,,6097,,16,4978,,03/15/2021,Vaccine numbers as of 3/17
 Kentucky,KY,,,1070,1017,5,,,,,7806,7132,46,,,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2448,,919,899,6,,,8489,,3191,3083,36,,,03/16/2021,Louisiana's deaths dropped by 1 this week. We're inquiring as to what happened when.
-Maine,ME,,,58,55,0,,671,,7481,164,157,1,0,0,03/16/2021,
+Maine,ME,,,58,55,0,691,671,,7481,164,157,1,0,0,03/16/2021,
 Maryland,MD,,55104,2159,2096,4,4011,3968,,64183,4289,4210,24,830,697,03/19/2021,"The numbers we originally had for this week had the wrong date. They were from 3/12, not 3/16."
 Massachusetts,MA,,,912,,,2939,2628,,30659,3017,,20,4585,4154,03/17/2021,
 Michigan,MI,,161937,3713,,4,,,40948,614211,25707,23866,139,11160,3978,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Vaccine numbers as of 3/19/21"
@@ -182,14 +233,14 @@ Nebraska,NE,,,,,,,,3675,,982,970,6,,,03/19/2021,
 Nevada,NV,,,971,,3,,,,,4513,,53,,,03/16/2021,
 New Hampshire,NH,,,174,173,0,,,,1610,452,451,3,358,304,03/16/2021,
 New Jersey,NJ,,,2255,,,,,,,4684,,53,,,03/16/2021,
-New Mexico,NM,,,943,914,0,1517,1517,,,2957,2770,28,574,574,03/16/2021,
+New Mexico,NM,,,943,914,0,1517,1517,,,2957,2770,28,574,,03/16/2021,
 New York,NY,,,4860,4703,8,7526,3457,,72068,6170,5950,34,3321,313,03/18/2021,
 North Carolina,NC,,87452,3766,3530,12,5519,3790,39776,116050,9898,8164,52,2981,1786,03/16/2021,
 North Dakota,ND,1147,20905,,,1,,,3240,30256,,,1,,,03/16/2021,
 Ohio,OH,,,4738,4671,10,5493,,,64714,9597,7215,134,7276,,03/16/2021,
 Oklahoma,OK,,13599,1034,,,,,,29975,7342,,52,0,0,03/16/2021,
 Oregon,OR,,,836,828,0,,,,24831,3559,3389,42,9156,1256,03/15/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Pennsylvania,PA,,,,,,,,,,,,,,,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Pennsylvania,PA,,,,,,,,,,11036,,131,,,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,405,400,1,,,,,1171,1153,2,,,03/15/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff."
 South Carolina,SC,,,1070,1039,2,,,,,3221,3071,40,729,0,03/16/2021,
 South Dakota,SD,,415,188,187,0,,,,7639,2340,2333,7,,,03/16/2021,
@@ -240,7 +291,7 @@ North Dakota,ND,1141,20250,279,277,1,,,3177,28941,628,626,1,918,0,03/09/2021,
 Ohio,OH,,,4715,4639,10,4975,,,63291,9560,7230,134,2623,,03/11/2021,
 Oklahoma,OK,,12981,1022,,,,,,29520,7239,,49,0,0,03/09/2021,
 Oregon,OR,,,832,817,,,,,24824,3552,3378,42,,,03/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Pennsylvania,PA,,,,,,,,,,,,,,,,Pennsylvania is still redesigning its data dashboard and has not released numbers for this week.
+Pennsylvania,PA,,,,,,,,,,10991,,127,,,03/09/2021,"Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,405,399,1,915,884,,,1167,1153,2,1394,1020,03/12/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff.
 South Carolina,SC,,,1062,1022,2,,,,,3176,3018,39,,0,03/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Dakota,SD,,412,187,186,0,,,,7515,2340,2332,7,,,03/09/2021,South Dakota's prisoner case numbers dropped by 1 this week. We're inquiring as to why.
@@ -272,7 +323,7 @@ Iowa,IA,,,699,694,2,1208,1199,,41082,4786,4581,19,197,197,03/02/2021,
 Kansas,KS,,,1201,,5,,,,,6094,,15,2698,,03/01/2021,Vaccine numbers are as of 3/3.
 Kentucky,KY,,,990,950,5,,,,,7159,6833,44,,,03/02/2021,The number of recovered cases among prisoners dropped this week. We're inquiring as to why. They are vaccinating but haven't released numbers this week.
 Louisiana,LA,2436,,911,883,6,,,8248,,3169,3008,36,,,03/02/2021,
-Maine,ME,,,57,55,0,,526,,7299,157,157,1,0,0,03/02/2021,
+Maine,ME,,,57,55,0,678,526,,7299,157,157,1,0,0,03/02/2021,
 Maryland,MD,,50358,2119,2026,4,,,,57927,4196,4050,24,,,03/01/2021,They are vaccinating but haven't released numbers this week.
 Massachusetts,MA,,,907,,,2921,2592,,29175,3012,,20,4513,4113,03/03/2021,
 Michigan,MI,,152496,3637,,4,,,40804,543350,25277,23451,138,,,03/02/2021,"The number of recovered cases among prisoners dropped this week. We're inquiring as to why. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
@@ -291,7 +342,7 @@ North Dakota,ND,1139,19682,278,273,1,,,3139,27643,627,626,1,,,03/02/2021,"We hav
 Ohio,OH,,,4684,4597,10,1196,,,62052,9533,7172,134,1856,,03/04/2021,Recoveries dropped from last week. This may be because recovered prisoners were later released.
 Oklahoma,OK,,12506,1008,,,,,,28947,7179,,48,0,0,03/02/2021,
 Oregon,OR,,,830,813,,,,,24814,3542,3354,42,9156,1256,03/02/2021,Vaccination numbers are as of 3/4
-Pennsylvania,PA,,,,,,,,,,,,,,,,
+Pennsylvania,PA,,,,,,,,,,10598,,125,,,03/02/2021,
 Rhode Island,RI,,,399,391,1,,,,,1155,1140,2,,,03/04/2021,"Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Carolina,SC,,,1050,1003,2,,,9678,,3161,2991,37,163,0,03/02/2021,
 South Dakota,SD,,409,186,186,0,,,,7377,,2332,7,,,03/02/2021,South Dakota's number of prisoner cases was later revised down by 1.
@@ -323,7 +374,7 @@ Iowa,IA,,,698,692,2,1208,1199,,40410,4605,4531,19,197,197,02/23/2021,
 Kansas,KS,,,1195,,5,,,,,6085,,14,658,,02/22/2021,vaccines are as of 2/24
 Kentucky,KY,,,961,934,5,,,,,6943,6859,44,,,02/23/2021,not reporting vaccines till after the 3rd
 Louisiana,LA,2430,,901,862,6,,,8110,,3106,2793,36,,,02/23/2021,
-Maine,ME,,,57,55,0,,348,,7202,157,157,1,0,0,02/23/2021,
+Maine,ME,,,57,55,0,678,348,,7202,157,157,1,0,0,02/23/2021,
 Maryland,MD,,48377,2094,2011,4,,,,55870,4128,4015,22,,,02/22/2021,
 Massachusetts,MA,,,905,,,2914,2121,,29128,3005,,20,4476,3645,02/25/2021,
 Michigan,MI,,141445,3609,,4,,,40716,525217,25190,23508,138,,,02/23/2021,"""Vaccines are not mandatory and staff largely get them on their own in the community and do not need to inform us if they have gotten the vaccine."" Spokesman said more than 4000 doses have been given in Michigan but he's checking for details."
@@ -342,7 +393,7 @@ North Dakota,ND,1128,18980,275,267,1,,,3115,26184,623,621,1,,,02/23/2021,"We hav
 Ohio,OH,,,4638,4538,10,1155,,,60634,9485,7200,134,1358,,02/25/2021,
 Oklahoma,OK,,12061,1001,,,,,,28518,7114,,48,0,0,02/23/2021,
 Oregon,OR,,,827,807,0,,,,24177,3527,3316,42,,,02/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Pennsylvania,PA,,,,,,,,,,,,,,,,
+Pennsylvania,PA,,,,,,,,,,10118,,122,,,02/23/2021,"Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,395,389,1,,,,,1150,1129,2,1352,412,02/25/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives.
 South Carolina,SC,,,1036,961,2,,,,,3082,2947,37,0,0,02/24/2021,
 South Dakota,SD,,409,186,186,0,,,,7265,2337,2330,7,,,02/23/2021,
@@ -393,7 +444,7 @@ North Dakota,ND,1122,18091,273,264,1,22,22,3010,24519,622,619,1,0,0,02/16/2021,
 Ohio,OH,,,4604,4480,10,1117,,,59303,9433,7111,134,1261,,02/18/2021,Recoveries dropped from last week. Ohio spokeswoman said it may be because recovered prisoners were later released.
 Oklahoma,OK,,11381,989,,,,,,28238,7092,,47,0,0,02/16/2021,
 Oregon,OR,,,824,790,0,,,,24094,3516,3285,42,,,02/17/2021,"They are vacinating but not releasing information for staff and for prisoners they're only putting out doses, not people."
-Pennsylvania,PA,,,,,,,,,,,,,,,,
+Pennsylvania,PA,,,,,,,,,,10027,,115,,,02/16/2021,"Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,390,383,1,,,,,1132,1120,2,,,02/15/2021,"Subtracting 4 presumed positives among prisoners and 13 presumed positives. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Carolina,SC,,,993,916,2,,,9369,,3049,2839,37,0,0,02/16/2021,
 South Dakota,SD,,408,186,186,0,,,,7145,2337,2330,7,,,02/16/2021,
@@ -444,7 +495,7 @@ North Dakota,ND,1053,17593,268,264,1,22,,2975,23807,620,619,1,0,0,02/09/2021,
 Ohio,OH,,,4576,4384,10,1092,,,58081,9384,7131,133,1162,,02/09/2021,
 Oklahoma,OK,,11016,980,,,0,0,,28055,7037,,47,0,0,02/09/2021,
 Oregon,OR,,,817,788,,,,,24064,3486,3204,42,,,02/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Pennsylvania,PA,,,,,,,,,,,,,,,,
+Pennsylvania,PA,,,,,,,,,,9771,,110,,,02/09/2021,"Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Carolina,SC,,,975,862,2,,,,,2999,2823,37,0,0,02/09/2021,staff vaccinated in community
 South Dakota,SD,,407,186,185,0,,,,7075,2337,2330,7,,,02/09/2021,
@@ -495,7 +546,7 @@ North Dakota,ND,1052,17020,267,260,1,22,,2959,22867,620,615,1,0,0,02/03/2021,
 Ohio,OH,,,4528,4299,10,1035,,,56978,9331,7157,133,760,,02/05/2021,
 Oklahoma,OK,,10537,962,,,0,0,,27761,6988,,46,0,0,02/03/2021,
 Oregon,OR,,,806,749,0,,,,20549,3397,3093,42,1434,,02/02/2021,Oregon has outsourced its staff vaccination to Safeway and is no longer tracking numbers.
-Pennsylvania,PA,,,,,,0,0,,,,,,0,0,02/02/2021,Pennsylvania is taking down its case dashboard for a month and is only making a small subset of case information available until it returns.
+Pennsylvania,PA,,,,,,0,0,,,9590,,104,0,0,02/02/2021,"Pennsylvania took down its dashboard for several months to revise its data. In April of 2021, Pennsylvania revised its historic daily counts of COVID cases and deaths of prisoners. We've adjusted our number here to reflect the change. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,382,373,1,,,,,1113,1092,2,895,248,02/01/2021,Vaccine numbers as of 2/2
 South Carolina,SC,,,948,822,2,,,9279,,2974,2741,37,0,0,02/02/2021,
 South Dakota,SD,,406,185,184,0,,,,6957,2337,2330,7,,,02/02/2021,
@@ -546,7 +597,7 @@ North Dakota,ND,1036,16353,262,255,1,22,,2880,21959,617,613,1,0,0,01/26/2021,
 Ohio,OH,,,4455,4171,9,1029,,,55810,9240,7073,132,719,,01/29/2021,
 Oklahoma,OK,,9929,932,,,0,0,,27407,6963,,45,0,0,01/26/2021,
 Oregon,OR,,,791,695,,,,,18443,3305,2885,40,1434,,01/27/2021,Oregon has outsourced its staff vaccination to Safeway and is no longer tracking numbers.
-Pennsylvania,PA,,9574,4368,3702,6,0,0,,63379,9520,8091,97,0,0,01/26/2021,
+Pennsylvania,PA,,9574,4368,3702,6,0,0,,63379,9520,8091,99,0,0,01/26/2021,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,375,367,1,800,119,,,1104,1065,2,,,01/27/2021,"Subtracting 4 presumed positives among prisoners and 13 presumed positives.  The 298 total staff infections are facility staff. There are 90 additional infections (all recovered) among non-facility staff. As of 1/29, 800 staff had received first dose of the vaccine. 119 had a second dose as well."
 South Carolina,SC,,,916,771,2,,,,,2941,2648,37,0,0,01/26/2021,
 South Dakota,SD,,403,184,183,0,,,,6880,2337,2329,7,,,01/26/2021,
@@ -597,7 +648,7 @@ North Dakota,ND,1031,15587,257,242,1,22,,2830,21101,614,612,1,0,0,01/19/2021,
 Ohio,OH,,,4350,4027,9,946,,,54462,9154,7006,131,461,,01/22/2021,
 Oklahoma,OK,,9286,915,,,0,0,,27052,6939,,44,0,0,01/19/2021,
 Oregon,OR,,,757,603,0,,,,18269,3131,2615,33,,,01/19/2021,Oregon has outsourced its staff vaccination to Safeway and is no longer tracking numbers.
-Pennsylvania,PA,,7587,3539,3366,5,0,0,,63321,9205,7362,90,0,0,01/19/2021,
+Pennsylvania,PA,,7587,3539,3366,5,0,0,,63321,9205,7362,92,0,0,01/19/2021,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,371,357,1,,,,,1083,1039,2,,,01/21/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Carolina,SC,,,859,695,2,,,9059,,2919,2398,37,0,0,01/19/2021,
 South Dakota,SD,,400,183,180,0,,,,6772,2336,2328,6,,,01/19/2021,
@@ -648,7 +699,7 @@ North Dakota,ND,1017,15160,250,239,0,22,,2810,20456,614,612,1,0,0,01/12/2021,
 Ohio,OH,,,4220,3812,8,737,,,53333,9046,6954,129,397,,01/15/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Oklahoma,OK,,8721,886,,,0,0,,26868,6885,,43,0,0,01/12/2021,
 Oregon,OR,,,733,553,0,753,,,17620,2908,2178,27,40,0,01/12/2021,
-Pennsylvania,PA,,6989,3298,3153,5,0,0,,61682,8129,6289,82,0,0,01/12/2021,
+Pennsylvania,PA,,6989,3298,3153,5,0,0,,61682,8129,6289,83,0,0,01/12/2021,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,364,350,1,410,109,,,1060,987,2,392,85,01/14/2021,Vaccines as of 1/15. Subtracting 4 presumed positives among prisoners and 13 presumed positives.
 South Carolina,SC,,,823,681,2,,,8889,,2803,2347,35,0,0,01/13/2021,
 South Dakota,SD,,397,181,179,0,,,,6692,2336,2323,6,,,01/12/2021,
@@ -699,7 +750,7 @@ North Dakota,ND,1001,14613,243,237,0,22,,2727,19104,613,612,1,0,0,01/05/2021,
 Ohio,OH,,,3912,3389,8,,,,51404,8868,6802,127,,,01/05/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Oklahoma,OK,,8021,844,,,0,0,,26403,6855,,43,0,0,01/05/2021,
 Oregon,OR,,,671,491,,430,,,16669,2588,1899,24,0,0,01/05/2021,
-Pennsylvania,PA,,6515,3078,2785,3,0,0,,60349,7432,5351,70,0,0,01/05/2021,
+Pennsylvania,PA,,6515,3078,2785,3,0,0,,60349,7432,5351,71,0,0,01/05/2021,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,316,295,1,113,,,,987,934,2,265,,01/04/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives.
 South Carolina,SC,,,756,603,2,0,0,8788,23406,2728,,34,0,0,01/05/2021,Staff testing began 1/7
 South Dakota,SD,,395,180,177,0,,,,6561,2333,2323,6,,,01/05/2021,
@@ -750,7 +801,7 @@ North Dakota,ND,1000,14131,240,228,0,22,0,2727,19104,613,607,1,0,0,12/29/2020,
 Ohio,OH,,,3734,3094,8,,,,50257,8750,6693,127,,,12/29/2020,"Ohio has begun distributing vaccines to prisons, but they do not have numbers yet of people vaccinated."
 Oklahoma,OK,,7978,806,,,0,0,,26229,6794,,43,0,0,12/29/2020,
 Oregon,OR,,,581,443,0,350,0,,16277,2196,1616,21,0,0,12/29/2020,The number of staff vaccinations is an estimate.
-Pennsylvania,PA,,5938,2627,2536,3,0,0,,,6787,4578,63,0,0,12/29/2020,
+Pennsylvania,PA,,5938,2627,2536,3,0,0,,,6787,4578,65,0,0,12/29/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,311,284,1,113,,,,984,864,2,130,,12/31/2020,Subtracting 4 presumed positives among prisoners and 13 presumed positives.
 South Carolina,SC,,,700,589,2,0,0,8577,,2489,2332,34,0,0,12/29/2020,
 South Dakota,SD,,389,176,174,0,,,,6413,2329,2321,5,,,12/29/2020,
@@ -801,7 +852,7 @@ North Dakota,ND,998,13634,236,223,0,0,0,2578,18172,609,566,1,0,0,12/22/2020,"vac
 Ohio,OH,,,3509,2860,8,0,0,,49100,8388,6520,120,0,0,12/22/2020,
 Oklahoma,OK,,7733,782,,,0,0,,25973,6731,,40,0,0,12/22/2020,
 Oregon,OR,,,514,417,0,0,0,,14608,1940,1515,20,0,0,12/22/2020,
-Pennsylvania,PA,,5657,2428,2344,3,0,0,,56616,6358,3821,58,0,0,12/24/2020,
+Pennsylvania,PA,,5657,2428,2344,3,0,0,,56616,6358,3821,61,0,0,12/24/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,292,273,1,107,0,,,934,860,2,104,0,12/27/2020,Rhode Island began vaccinating staff. Prisoners started after 12/22. Subtracting 4 presumed positives among prisoners and 13 presumed positives.
 South Carolina,SC,,,643,576,2,0,0,8569,,2453,2299,34,0,0,12/22/2020,
 South Dakota,SD,,387,175,171,0,0,0,,6301,,2299,5,0,0,12/22/2020,vaccine numbers sent via email from PIO
@@ -852,7 +903,7 @@ North Dakota,ND,996,13151,231,217,0,,,2571,17540,580,510,1,,,12/15/2020,"In earl
 Ohio,OH,,,3108,2587,7,,,,47571,8289,6299,118,,,12/15/2020,
 Oklahoma,OK,,7064,736,,,,,,25299,6652,,37,,,12/15/2020,
 Oregon,OR,,,460,399,0,,,,12978,1673,1369,19,,,12/15/2020,
-Pennsylvania,PA,,5122,2009,1693,,,,,53397,6046,2550,48,,,12/15/2020,"Pennsylvania has stopped reporting negative results for community corrections staff and prisoners, as it did in previous weeks, so going forward the number of tests will be an undercount."
+Pennsylvania,PA,,5122,2009,1693,,,,,53397,6046,2550,49,,,12/15/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change. Pennsylvania has stopped reporting negative results for community corrections staff and prisoners, as it did in previous weeks, so going forward the number of tests will be an undercount."
 Rhode Island,RI,,,272,,1,,,,,790,,0,,,12/17/2020,
 South Carolina,SC,,,623,564,2,,,8506,,2448,2299,33,,,12/15/2020,
 South Dakota,SD,,382,172,169,0,,,,5924,2305,2282,5,,,12/15/2020,
@@ -903,7 +954,7 @@ North Dakota,ND,996,12686,223,202,0,,,2545,16890,512,479,1,,,12/08/2020,"In earl
 Ohio,OH,,,2851,2286,7,,,,45726,8031,6083,116,,,12/08/2020,
 Oklahoma,OK,,5586,683,,,,,,24151,6360,,35,,,12/08/2020,
 Oregon,OR,,,435,373,0,,,,11276,1507,1319,18,,,12/08/2020,
-Pennsylvania,PA,,4472,1827,772,3,,,,37409,3228,820,40,,,12/08/2020,
+Pennsylvania,PA,,4472,1827,772,3,,,,37409,3228,820,39,,,12/08/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,253,,0,,,,,,,0,,,12/10/2020,
 South Carolina,SC,,,584,544,2,,,8427,,2418,2218,33,,,12/09/2020,
 South Dakota,SD,,379,171,160,0,,,,5452,2287,2150,4,,,12/08/2020,
@@ -1007,7 +1058,7 @@ North Dakota,ND,991,11656,212,161,0,,,2487,15276,475,291,0,,,11/25/2020,"In earl
 Ohio,OH,,,2243,1762,5,,,,43222,7563,5708,113,,,11/24/2020,
 Oklahoma,OK,,4555,590,,,,,,22461,5800,,,,,11/24/2020,"Oklahoma later revised its prisoner numbers down, but has not provided an updated figure for this week."
 Oregon,OR,,,368,317,0,,,,10327,1383,1260,17,,,11/24/2020,
-Pennsylvania,PA,,3838,1172,552,3,,,,35661,2119,803,27,,,11/24/2020,
+Pennsylvania,PA,,3838,1172,552,3,,,,35661,2119,803,29,,,11/24/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,,,,,,,,,,,,,,
 South Carolina,SC,,,564,524,2,,,8350,,2410,2215,31,,,11/24/2020,
 South Dakota,SD,,353,159,146,0,,,,4576,2104,2038,3,,,11/24/2020,
@@ -1058,7 +1109,7 @@ North Dakota,ND,991,11121,181,137,0,,,2449,14447,318,174,0,,,11/17/2020,"In earl
 Ohio,OH,,,1983,1575,5,,,,42077,7299,5663,111,,,11/17/2020,
 Oklahoma,OK,,3868,524,,,,,,21565,5404,,31,,,11/17/2020,
 Oregon,OR,,,347,303,0,,,,9886,1365,1230,16,,,11/17/2020,
-Pennsylvania,PA,,3363,897,447,3,,,,31520,1544,741,21,,,11/17/2020,
+Pennsylvania,PA,,3363,897,447,3,,,,31520,1544,741,22,,,11/17/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,145,,0,,,,,279,,0,,,11/17/2020,"11/17 data shows 240 cases among residents and 43 cases among ""new admissions"", subtracting 4 presumed positives. 97 cases among facility staff and 61 cases among non-facility staff, subtracting 13 presumed positives. RIDOH contact confirmed that there were no new presumed positives after we received the 4 and 13 figures on 11/5"
 South Carolina,SC,,,549,513,2,,,,,2396,2162,31,,,11/17/2020,
 South Dakota,SD,,345,154,133,0,,,,4366,2078,1849,3,,,11/17/2020,
@@ -1076,7 +1127,7 @@ Alabama,AL,,,542,408,2,,,6783,,751,496,32,,,11/11/2020,
 Alaska,AK,,,74,,0,,,,8674,357,,0,,,11/10/2020,
 Arizona,AZ,,,855,769,,,,41380,,2667,2609,28,,,11/10/2020,
 Arkansas,AR,,,,,2,,,19294,,8343,7720,48,,,11/10/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
-California,CA,,,,,,,,104053,,16749,15183,82,,,11/10/2020,
+California,CA,,,,,10,,,104053,,16749,15183,82,,,11/10/2020,
 Colorado,CO,,,,,0,,,,65192,1996,,4,,,11/10/2020,
 Connecticut,CT,,18550,556,451,0,,,,22341,1686,1673,7,,,11/10/2020,
 Delaware,DE,,2253,219,203,1,,,,2118,579,548,11,,,11/11/2020,"Note from PIO about jump in staff tests: ""You'll note a big jump in the number of staff COVID-19 tests in this week's report. This jump includes 660 self-administered off-site COVID-19 tests that are provided to staff by DOC in partnership with state public health officials and are processed by a different 3rd party lab than the lab that processes our in-house staff tests. These off-site self-administered test kits began to be provided to staff in October as an additional proactive testing resource for our staff."""
@@ -1109,7 +1160,7 @@ North Dakota,ND,990,10551,157,126,0,,,2422,13493,271,130,0,,,11/12/2020,"The tes
 Ohio,OH,,,1732,1478,5,,,40375,,7121,5563,111,,,11/10/2020,
 Oklahoma,OK,,3199,468,,,,,,20390,4702,,,,,11/10/2020,"Oklahoma later revised its prisoner numbers down, but has not provided an updated figure for this week."
 Oregon,OR,,,327,295,0,,,,9383,1315,1218,16,,,11/12/2020,
-Pennsylvania,PA,,3082,718,392,3,,,,28187,1093,605,17,,,11/10/2020,
+Pennsylvania,PA,,3082,718,392,3,,,,28187,1093,605,18,,,11/10/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,,,,,,,,,,,,,,
 South Carolina,SC,,,537,511,2,,,,,2378,2105,31,,,11/10/2020,
 South Dakota,SD,,321,144,96,0,,,,4179,2009,1768,1,,,11/10/2020,
@@ -1160,7 +1211,7 @@ North Dakota,ND,987,9998,135,82,0,,,2342,12385,137,100,0,,,11/03/2020,"In early 
 Ohio,OH,,,1569,1367,5,,,39003,,6959,5408,109,,,11/03/2020,
 Oklahoma,OK,,2763,427,,,,,,19623,4571,,26,,,11/03/2020,The number of tests conducted was mistakenly placed in the column for people tested. This has been updated.
 Oregon,OR,,,310,287,0,,,,8872,1274,1166,16,,,11/03/2020,
-Pennsylvania,PA,,2771,594,346,2,,,,20318,841,434,16,,,11/03/2020,
+Pennsylvania,PA,,2771,594,346,2,,,,20318,841,434,18,,,11/03/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,104,,0,,,,,60,,0,,,11/05/2020,"Staff cases include 58 cases among non-facility staff and 59 cases among facility staff. However, 13 of these are ""presumptive positives"" and have been subtracted for a total of 104 cases. Among residents, 36 cases are ""new admissions infected prior to admission"" and 28 cases are among residents. Of these 4 were presumptive positives and have been subtracted. The inmate cases do include pre-trial detainees who were released before their tests came back positive. According to DOH contact, no one was released while they were positive"
 South Carolina,SC,,,528,494,2,,,8045,,2356,2074,31,,,11/03/2020,
 South Dakota,SD,,298,128,76,0,,,,3886,1791,1337,0,,,11/03/2020,
@@ -2690,7 +2741,7 @@ North Dakota,ND,,,,,0,,,,,0,,0,,,04/07/2020,"Staff deaths backfilled based on 4/
 Ohio,OH,,,53,,1,,,84,,19,,0,,,04/08/2020,
 Oklahoma,OK,,,5,,0,,,,,1,,0,,,04/09/2020,
 Oregon,OR,,,5,,0,,,,,3,,0,,,04/08/2020,
-Pennsylvania,PA,89,,16,,0,,,42,,7,,0,,,04/08/2020,
+Pennsylvania,PA,89,,16,,0,,,42,,7,,1,,,04/08/2020,"In April of 2021, Pennsylvania revised its historic daily counts on deaths of prisoners due to COVID-19. We've adjusted our number here to reflect the change."
 Rhode Island,RI,,,3,,0,,,10,,0,,0,,,04/08/2020,
 South Carolina,SC,,,21,,0,,,,,0,,0,,,04/07/2020,
 South Dakota,SD,,,,,,,,,,1,,0,,,04/08/2020,
