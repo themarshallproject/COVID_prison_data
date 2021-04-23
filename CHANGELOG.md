@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-04-23
+Hi, everybody. We're back with another week's worth of data for you. This should all be pretty straightforward compared to recent weeks. If you have any questions about it, please let us know. We'll keep this short as the effects of a second vaccination shot are kicking in. Have a good weekend, all, and get vaccinated when you can.
+
 
 ## 2021-04-16
 Good news, friends. We have new data for all of our states (and a few from the previous week that didn't get posted until after our last update). The biggest change is that Pennsylvania has begun posting data again, after a hiatus of more than two months. For many of our variables, there will just be a gap. Pennsylvania is not providing historic figures for most numbers, with two exceptions: prisoner cases and deaths. We have filled in the previous empty weeks for prisoner cases and added revised numbers for deaths back several months, based on Pennsylvania's new release. This new data dashboard comes with some caveats, of course. They are no longer providing data on staff deaths, and they are also not reporting information about cases among people in reentry centers. The last data posted in January included 309 positive cases at reentry centers, so we are adding that to our prisoner case total going forward. It's complicated, I know. 
