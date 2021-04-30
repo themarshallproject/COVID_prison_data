@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-04-30
+Hi, friends. We have a new round of data to share. There are a few changes to past weeks' numbers to flag for you. Washington revised its number of prisoner cases for the week of 4/20 after incorrectly reporting about 300 more cases than was accurate. Nevada provided us with revised prisoner and staff case numbers and deaths from mid-February back to the second week of December after it made a major change to its counts back in February. We've adjusted some weeks of New Hampshire's prisoner recovery numbers back to about November, where the number was incorrectly calculated. And Rhode Island revised its staff vaccination numbers for recent weeks. Whew. That should about cover it all. Enjoy your weekend, everybody!
+
 ## 2021-04-23
 Hi, everybody. We're back with another week's worth of data for you. This should all be pretty straightforward compared to recent weeks. If you have any questions about it, please let us know. We'll keep this short as the effects of a second vaccination shot are kicking in. Have a good weekend, all, and get vaccinated when you can.
 
