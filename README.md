@@ -71,23 +71,18 @@ The second table in the dataset, `prison_populations.csv`, contains snapshots of
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
 * `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
-* `march_pop` - The total population of people held in the agency's prisons and secure facilities.
-* `as_of_date_march` - The date the data reflect.
-* `april_pop` - The total population of people held in the agency's prisons and secure facilities.
-* `as_of_date_april` - The date the data reflect.
-* `june_pop` - The total population of people held in the agency's prisons and secure facilities.
-* `as_of_date_june` - The date the data reflect.
-* `july_pop` - The total population of people in prison in July.
-* `as_of_date_july` - The data the count reflects.
+* `month` - The label for the month of the snapshot. Months without a year specified are from 2020.
+* `as_of_date` - The date the data reflect. In some instances, an updated figure was not available, and we used the most recent number the agency could provide.
+* `pop` - The number of prisoners counted in the system's released coronavirus data.
 
 The third table in the dataset, `staff_populations.csv`, contains a one-time, recent snapshot of the headcount of workers for each prison agency, collected as close to April 15 as possible.
 
 It includes these columns:
 * `name` - The name of the state or "Federal" for the Federal Bureau of Prisons
 * `abbreviation` - The two-letter postal code abbreviation for the state or "US" for the Bureau of Prisons
-* `april_pop` - The total population of people working for the agency.
-* `as_of_date` - The date the data reflect. In some instances, an April figure was not available, and we used the most recent number we could acquire.
-* `notes` - Any caveats or notes about the data.
+* `month` - The label for the month of the snapshot. Months without a year specified are from 2020.
+* `as_of_date` - The date the data reflect. In some instances, an updated figure was not available, and we used the most recent number the agency could provide.
+* `pop` - The number of staff counted in the system's released coronavirus data.
 
 The fourth table in the dataset, `covid_prison_rates.csv`, contains the rates of cases and deaths for prisoners. There is one for every state and federal prison system and an additional row with the `National` totals. 
 

@@ -3,6 +3,16 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-05-07
+
+Hey folks. With our latest data this week, we have a few minor updates to past weeks' data as well as a change in format for our population snapshots. 
+
+First, we should note that a couple of prison systems, in North Carolina and Pennsylvania, had been removing prisoners from their vaccination counts after their release. This week they've provided the full cumulative count of prisoners vaccinated, including those who've since been released, so those figures jump a smidge. We've also gotten revised figures from Nevada showing four additional deaths among prisoners, dating back several months, and in Michigan the number of deaths dropped by two after a review of the final causes of death.
+
+As this data collection has gone on, we've collected more and more snapshots of the populations being tested, for both prisoners and staff. To make this easier to manage, we've changed the format of our `prisoner_populations.csv` and our `staff_populations.csv` to be tall instead of wide. So instead of adding a new column for each month's snapshot, we have instead added a column for the month variable and created a row for each snapshot. We think this will be easier to manage for all going forward, but it may require you to update any scripts you're using if you are analzying the rates over time. With this change, we've added January 2021 prisoner population snapshots, July 2020 staff headcounts and revised some of our earlier staff counts based on updates from states. If you have any trouble with this or have questions, please let us know. 
+
+Have a great weekend, everybody. Stay safe.
+
 ## 2021-04-30
 Hi, friends. We have a new round of data to share. There are a few changes to past weeks' numbers to flag for you. Washington revised its number of prisoner cases for the week of 4/20 after incorrectly reporting about 300 more cases than was accurate. Nevada provided us with revised prisoner and staff case numbers and deaths from mid-February back to the second week of December after it made a major change to its counts back in February. We've adjusted some weeks of New Hampshire's prisoner recovery numbers back to about November, where the number was incorrectly calculated. And Rhode Island revised its staff vaccination numbers for recent weeks. Whew. That should about cover it all. Enjoy your weekend, everybody!
 
