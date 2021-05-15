@@ -3,6 +3,19 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+
+## 2021-05-14
+
+Good evening, friends. With this week's data release, we have two major updates you need to be aware of. 
+
+First, New Jersey redesigned its dashboard and a few odd things fell out of it. First, New Jersey is no longer reporting cases or deaths in its residential community release programs or reentry centers. New Jersey also revised almost all of its prisoner and staff cases going back to last August. Those cases from community release programs are still included in the weeks prior to Aug. 4, but they are not counted anymore after that. We have continued to include the one known death in a reentry center in our total prisoner deaths. At the same time, New Jersey is now only reporting prisoner case figures every other week, with a delay of a week or two. We completely agree this is not ideal. Still, when we reviewed the revised numbers, there are now more than 100 additional cases among prisoners and several hundred among staff that were never reported before. The new data also provides total testing numbers, which had only sporadically been released early in pandemic. There are certainly tradeoffs here, so you should take heed if you're interested in NJ. We made note in the notes field of every change we made in past weeks.
+
+Secondly, if you follow Texas, you may have noticed that there haven't been any new suspected COVID-19-related deaths counted among prisoners there in many, many months. We found this strange too. The Texas Department of Criminal Justice vows it is working on autopsies for people who have died but it's still odd. So we looked into whether there might be alternative data sources for this important metric. We found that the nonpartisan, nonprofit Texas Justice Initiative has been compiling data on COVID deaths in custody, based on investigative reports filed with the state's Attorney General for every person who dies in prison or jail, regardless of the cause. TJI's data tells a very different story than TDCJ had been releasing. TJI's numbers, [which you can review and download yourself](https://texasjusticeinitiative.org/publications/covid-deaths-in-texas) count 78 more COVID deaths in Texas state prisons than had previously been acknowledged, some of them dating back to September. This now puts Texas as the state with the most known COVID deaths in prisons. Starting this week, we are adopting the TJI data for prisoner deaths only, and continue to use the case numbers, the only ones available, from TDCJ. We have made a note in our data where we revised our historic data. 
+
+I think that covers it. If you have questions or notice anything fishy in the data, give us a shout. We're happy to talk about it.
+
+Have a great weekend. Stay safe, all.
+
 ## 2021-05-07
 
 Hey folks. With our latest data this week, we have a few minor updates to past weeks' data as well as a change in format for our population snapshots. 

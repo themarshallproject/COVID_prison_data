@@ -1,66 +1,117 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,staff_partial_dose,staff_full_dose,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,prisoners_partial_dose,prisoners_full_dose,as_of_date,notes
 Alabama,AL,,,,,,,,,,,,,,,,
+Alaska,AK,,,330,,0,,,,33204,2420,,5,,2313,05/11/2021,
+Arizona,AZ,,,2768,2757,,,,46927,,12296,12216,60,,,05/11/2021,
+Arkansas,AR,,,,,4,,,,,11351,11318,52,,,05/11/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+California,CA,,,16485,16331,28,31642,28855,125541,,49240,48386,222,68107,65626,05/14/2021,
+Colorado,CO,,,1881,,0,3320,,19919,215728,8942,,29,9778,,05/11/2021,
+Connecticut,CT,,73296,1684,1661,0,2697,,,113335,4475,4448,19,4386,,05/11/2021,
+Delaware,DE,,,,,,,,,,,,,,,,
+Florida,FL,,,,,,,,,,,,,,,05/11/2021,
+Georgia,GA,,,1733,1703,4,1448,,,,3864,3759,93,21901,,05/11/2021,
+Hawaii,HI,,,230,229,0,,,,17822,1970,1958,9,375,1290,05/11/2021,"Of those fully vaccinated, 1005 received the one-shot Johnson & Johnson vaccine."
+Idaho,ID,6428,,480,478,0,249,213,11643,,4141,4081,6,2613,2032,05/11/2021,
+Illinois,IL,,231007,4525,4452,1,,4272,,579437,10892,10878,88,,18895,05/11/2021,
+Indiana,IN,,5672,1530,1502,4,,,,22730,3679,3583,51,10265,5368,05/11/2021,
+Iowa,IA,,,706,702,2,1303,1274,,46773,4883,4855,19,3644,1439,05/12/2021,25 Staff and 548 prisoners have received the one-shot Johnson and Johnson vaccine.
+Kansas,KS,,,1216,,6,1502,,,,6111,,16,6355,,05/13/2021,Vaccines as of 5/12
+Kentucky,KY,,,1103,,5,,,,,7904,,48,,,05/13/2021,
+Louisiana,LA,2467,,936,926,6,2172,2106,8995,,3205,3106,36,8877,5944,05/11/2021,
+Maine,ME,,,,,0,,735,,10199,197,,1,,284,05/14/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
+Maryland,MD,,,,,,,,,,,,,,,,
+Massachusetts,MA,,,950,,,3132,2831,,35635,,,21,4665,4401,05/12/2021,
+Michigan,MI,,223650,4330,,6,,,41692,849219,26655,25548,141,,19722,05/13/2021,vaccine numbers from 5/14
+Minnesota,MN,,,1132,931,0,,2086,,115202,4229,4197,12,1056,4223,05/11/2021,3775 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
+Mississippi,MS,,,,,,691,537,,3436,1399,,23,10844,8734,05/12/2021,
+Missouri,MO,,12983,2597,2583,6,,,,84492,5793,5630,48,11902,,05/11/2021,
+Montana,MT,,,287,,0,,,,,1136,,6,,,05/12/2021,
+Nebraska,NE,,,,,,,,,,,,,,,,
+Nevada,NV,,,998,,3,1274,845,,,4560,,57,5754,851,05/11/2021,
+New Hampshire,NH,,,185,,,,,,1943,458,455,3,1277,537,05/11/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Jersey,NJ,,,,,,,,,,,,,,,,
+New Mexico,NM,,,965,960,0,1662,,,49828,2985,2952,28,2920,1874,05/11/2021,
+New York,NY,,,5184,5113,8,7546,7675,,87849,6556,6472,35,3938,8024,05/11/2021,"153 staff and 5,106 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine."
+North Carolina,NC,,138637,3942,3823,13,6914,5807,41771,137126,10047,7976,55,18017,14598,05/11/2021,
+North Dakota,ND,1257,24185,299,294,1,,,3754,35593,634,633,1,984,1002,05/11/2021,79 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+Ohio,OH,,,4912,4867,10,7146,,,77055,9763,6963,135,23443,,05/13/2021,
+Oklahoma,OK,,17232,1073,,,,,,32349,7425,,55,,,05/11/2021,
+Oregon,OR,,,875,858,0,,,,29149,3611,3434,42,,8469,05/11/2021,The number of vaccinated prisoners does not include those who have been vaccinated and released/paroled.
+Pennsylvania,PA,,,4934,,,3373,3353,,117103,11344,,137,,,05/11/2021,"The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
+Rhode Island,RI,,,454,453,1,904,899,,,1233,1220,2,,,05/14/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
+South Carolina,SC,,,1128,1102,2,,,,36790,3303,3212,42,,,05/11/2021,
+South Dakota,SD,,424,191,191,0,,,,8700,2342,2334,7,2164,,05/11/2021,
+Tennessee,TN,,,1537,1502,5,,,,45441,6682,6626,42,,,05/10/2021,
+Texas,TX,,225083,11695,11289,46,13099,11278,,516946,34611,33167,265,,,05/11/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/12, 183 staff and 5065 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
+Utah,UT,,,,,,,,,,,,,,,,
+Vermont,VT,,,111,107,0,0,467,3040,22315,461,460,0,,,05/11/2021,
+Virginia,VA,,21106,2582,2540,,6811,5349,,117503,,8951,,17711,16008,05/13/2021,
+Washington,WA,,,1242,,2,3679,,,,6234,6203,14,6636,,05/11/2021,
+West Virginia,WV,,13792,496,488,1,,,,10520,1629,1609,12,,,05/11/2021,
+Wisconsin,WI,,,2553,2543,,,,,108412,10967,10748,31,9388,3916,05/12/2021,Vaccine numbers as of 5/11. 1787 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
+Wyoming,WY,,,303,300,0,,,,32178,900,879,3,,,05/10/2021,
+Federal,US,,,6932,6756,4,,18333,113003,,,,,,59901,05/11/2021,
+Alabama,AL,,,1045,1021,3,838,,,16014,1647,1573,65,3286,,05/05/2021,
 Alaska,AK,,,330,,0,,,,32715,2411,,5,3046,2313,05/04/2021,Vaccines as of 5/2
 Arizona,AZ,,,2766,2752,,,,46700,,12282,12209,58,,,05/04/2021,
 Arkansas,AR,,,,,4,,,,,11320,11310,52,,,05/04/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
-California,CA,,,,,,27829,26024,124136,,49222,48374,222,67265,62993,05/04/2021,
+California,CA,,,16441,16261,28,27968,26207,124553,,49228,48379,222,67658,64298,05/07/2021,
 Colorado,CO,,,1847,,0,3289,,19804,211756,8925,,29,9729,,05/04/2021,
 Connecticut,CT,,70903,1667,1651,0,2697,,,113335,4471,4435,19,4386,,05/04/2021,
 Delaware,DE,,6049,764,754,1,,1116,,13750,2044,2025,13,2020,998,05/03/2021,
 Florida,FL,,,5970,5737,9,,,,,18069,17846,218,,,05/05/2021,
 Georgia,GA,,,1725,1702,4,1362,,,,3861,3738,93,16361,,05/04/2021,
-Hawaii,HI,,,230,227,,,,,17297,1970,1958,9,,,05/04/2021,
+Hawaii,HI,,,230,227,0,,,,17297,1970,1958,9,,,05/04/2021,
 Idaho,ID,6427,,480,474,0,249,213,11572,,4137,4068,6,2311,1718,05/04/2021,
 Illinois,IL,,222546,4495,4417,1,,4272,,564391,10887,10872,88,,18895,05/04/2021,
 Indiana,IN,,5660,1528,1500,4,,,,22428,3663,3530,51,7449,4061,05/04/2021,
 Iowa,IA,,,705,700,2,1302,1232,,46301,4878,4848,19,3432,408,05/04/2021,Staff fully vaxxed=17 single dose + 1215 second dose. Prisoner fully vaxed=164 single dose+244 second dose
 Kansas,KS,,,1216,,6,1484,,,,6106,,16,6344,,05/06/2021,Vaccines as of 5/5
-Kentucky,KY,,,1101,,5,,,,,7903,,48,,,05/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Kentucky,KY,,,1101,,5,1519,,,,7903,,48,7082,,05/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2467,,935,925,6,,,8954,,3205,3106,36,,,05/04/2021,
-Maine,ME,,,,,,,,,10108,196,,,,,05/07/2021,
-Maryland,MD,,,,,,,,,,,,,,,,
+Maine,ME,,,,,0,,,,10108,196,,1,,284,05/07/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
+Maryland,MD,,77886,2310,2254,4,4011,3968,,70693,4460,4406,30,8616,5005,05/07/2021,
 Massachusetts,MA,,,943,,,3127,2831,,35262,,,21,4660,4397,05/05/2021,
 Michigan,MI,,219806,4298,,6,,,41606,814314,26462,25476,141,,19532,05/06/2021,Vaccine numbers from 5/7
-Minnesota,MN,,,1122,914,0,1983,2296,,114329,4228,4161,12,1075,4168,05/04/2021,3730 prisoners and 1091 staff have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
-Mississippi,MS,,,,,,,,,,,,,,,,
+Minnesota,MN,,,1122,914,0,1983,,,114329,4228,4161,12,,4168,05/04/2021,3730 prisoners and 1091 staff have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
+Mississippi,MS,,,,,,,,,,1399,,23,,,05/04/2021,
 Missouri,MO,,12981,2590,2578,6,,,,83371,5726,5608,48,10795,,05/04/2021,
-Montana,MT,,,,,,,,,,,,,1584,853,05/05/2021,
+Montana,MT,,,,,0,,,,,,,6,1584,853,05/05/2021,
 Nebraska,NE,,,,,,,,3676,6783,982,976,6,,,05/07/2021,
 Nevada,NV,,,993,,3,1253,836,,,4557,,57,5101,741,05/04/2021,
-New Hampshire,NH,,,184,181,0,,,,1898,458,455,3,1368,537,05/04/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,05/04/2021,
+New Hampshire,NH,,,184,181,0,,,,1898,458,455,3,1277,537,05/04/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Jersey,NJ,,206169,2874,,,,,,275802,4797,,53,,,05/02/2021,
 New Mexico,NM,,,965,955,0,1659,1627,,49828,2985,2949,28,2467,1436,05/04/2021,
 New York,NY,,,5168,5072,8,7546,7599,,86237,6538,6458,35,3938,5875,05/06/2021,
 North Carolina,NC,,131075,3910,3811,13,6914,5807,41540,134551,10040,7999,53,18017,14598,05/04/2021,"Includes released prisooners: 845 at least one dose, 498 fully vaccinated"
 North Dakota,ND,1252,23984,295,292,1,,,3705,35236,634,633,1,974,964,05/04/2021,49 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
-Ohio,OH,,,4897,4850,10,7137,,,75439,9740,7020,135,23248,,05/06/2021,
+Ohio,OH,,,4897,4850,10,7137,,,75439,9750,7020,135,23248,,05/06/2021,
 Oklahoma,OK,,16945,1071,,,,1087,,32172,7422,,55,,11801,05/04/2021,Vaccination numbers as of 5/6
 Oregon,OR,,,864,846,0,,,,29145,3607,3431,42,,,05/04/2021,
-Pennsylvania,PA,,,4922,,,3321,3299,,115309,11310,,136,24512,24203,05/06/2021,"Prisoner vaccine numbers as of 5/7. The vaccination numbers now include prisoners who have been released after being vaccinated and thus may appear to be a larger growth than it should. The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
+Pennsylvania,PA,,,4922,,,3321,3299,,115309,11319,,136,24512,24203,05/06/2021,"Prisoner vaccine numbers as of 5/7. The vaccination numbers now include prisoners who have been released after being vaccinated and thus may appear to be a larger growth than it should. The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,454,451,1,893,891,,,1222,1216,2,,,05/07/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1120,1102,2,,,,,3276,3202,42,2442,1802,05/04/2021,
-South Dakota,SD,,423,191,191,0,,,,8548,2341,2334,7,,,05/04/2021,
+South Dakota,SD,,423,191,191,0,,,,8548,2341,2334,7,2164,,05/04/2021,
 Tennessee,TN,,,1537,1500,5,,,,45147,6678,6616,42,,,05/06/2021,
-Texas,TX,,219079,11639,11208,46,13001,11102,,506136,34596,33116,187,,,05/04/2021,"Vaccine numbers as of 5/7, 176 staff and 4512 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners vaccinated."
+Texas,TX,,219079,11639,11208,46,13001,11102,,506136,34596,33116,265,,,05/04/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/7, 176 staff and 4512 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners vaccinated."
 Utah,UT,,,402,396,,,,,28826,3456,3410,16,377,259,05/05/2021,
-Vermont,VT,,,110,,,,,3006,21975,460,,,,,05/04/2021,
+Vermont,VT,,,110,106,0,0,467,3006,21975,460,460,0,808,,05/04/2021,
 Virginia,VA,,20815,2573,2529,5,6755,5287,,114423,9104,8946,56,17455,15831,05/04/2021,
 Washington,WA,,,1227,,2,3672,,,,6225,6197,14,6096,,05/04/2021,
-West Virginia,WV,,13623,489,481,1,,,,10431,1628,1609,12,,,05/04/2021,
+West Virginia,WV,,13735,494,484,1,834,812,,10458,1629,1609,12,803,1471,05/07/2021,1471 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2547,2529,,,,,105290,10960,10745,31,9126,3164,05/04/2021,1787 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
-Wyoming,WY,,,,,,,,,,,,,,,,
+Wyoming,WY,,,303,300,0,,,,32020,899,879,3,,,05/04/2021,
 Federal,US,,,6910,6745,4,,18130,112045,,,,,,54075,05/04/2021,na
 Alabama,AL,,,1045,1020,3,829,,,15981,1644,1568,65,2370,,04/28/2021,
 Alaska,AK,,,325,,0,,,,32385,2408,,5,2757,2242,04/26/2021,vaccine numbers as of 4/25
 Arizona,AZ,,,2762,2745,,,,46331,,12271,12200,55,,,04/27/2021,
 Arkansas,AR,,,,,4,,,,,11320,11285,52,,,04/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
-California,CA,,,16384,16201,26,,25931,123356,,49219,48371,222,66823,58248,04/27/2021,Staff cases as of 4/30
+California,CA,,,16384,16201,26,27844,25931,123356,,49219,48371,222,66823,58248,04/27/2021,Staff cases as of 4/30
 Colorado,CO,,,1731,,0,3153,,19630,207431,8881,,29,9572,,04/27/2021,
 Connecticut,CT,,67647,1664,1642,0,2697,,,103484,4469,4404,19,4386,,04/27/2021,
 Delaware,DE,,,,,,,,,,,,13,,,04/27/2021,
 Florida,FL,,,5917,5694,9,,,,,18059,17839,218,,,04/28/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Georgia,GA,,,1718,1696,4,1285,,,,3850,3643,93,11683,,04/27/2021,
-Hawaii,HI,,,227,227,0,,,,16988,1969,1956,9,584,1907,04/27/2021,
+Hawaii,HI,,,227,227,0,,,,16988,1969,1956,9,,,04/27/2021,"We had originally been given vaccination numbers for prisons and jails combined. In order to be comparable to the COVID case numbers, we only track prison cases and vaccinations. We've withdrawn this week's data because it is not comparable. More recent weeks are only for those in prisons."
 Idaho,ID,5996,,480,470,0,249,213,11472,,4130,4063,6,2171,1579,04/27/2021,
 Illinois,IL,,209513,4461,4385,1,,4272,,548203,10878,10862,88,,18895,04/27/2021,
 Indiana,IN,,5639,1521,1492,4,,,,21772,3617,3504,51,6850,3055,04/27/2021,
@@ -68,7 +119,7 @@ Iowa,IA,,,704,699,2,1291,1220,,45779,4872,4841,19,3382,237,04/27/2021,Staff full
 Kansas,KS,,,1214,,6,1484,,,,6103,,16,6287,,04/29/2021,Vaccines as of 4/28
 Kentucky,KY,,,1100,,5,,,,,7903,,48,,,04/29/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2465,,932,921,6,,,8880,,3204,3106,36,,,04/27/2021,
-Maine,ME,,,,,,,,,9951,193,,,,,04/30/2021,
+Maine,ME,,,,,0,,,,9951,193,,1,,284,04/30/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
 Maryland,MD,,69512,2295,2222,4,4011,3968,,68447,4440,4378,30,8039,3630,04/30/2021,
 Massachusetts,MA,,,942,,,3126,2829,,35043,3022,,21,4654,4396,04/28/2021,
 Michigan,MI,,212824,4250,,6,,,41508,788321,26428,25349,,,19416,04/29/2021,Vaccine numbers from 4/30. 7761 prisoners received the one-shot Johnson & Johnson vaccine and were fully vaccinated.
@@ -79,7 +130,7 @@ Montana,MT,,,285,,0,,,,,1135,,6,1290,619,04/26/2021,
 Nebraska,NE,,,,,,,,3675,6782,982,976,6,,,04/29/2021,
 Nevada,NV,,,988,,3,1247,833,,,4549,,57,3822,641,04/27/2021,
 New Hampshire,NH,,,183,178,0,,,,1841,458,455,3,1136,537,04/27/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,04/27/2021,
+New Jersey,NJ,,200487,2850,,,,,,,,,53,,,04/25/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,958,953,0,1640,1580,,49026,2983,2949,28,2043,1258,04/28/2021,
 New York,NY,,,5150,5029,8,7546,7545,,84113,6509,6408,35,3757,3812,04/27/2021,23 staff and 894 incarcerated people have got the one-shot Johnson & Johnson vaccine and are fully vaccinated.
 North Carolina,NC,,126730,3892,3724,12,6658,5338,41314,132125,10038,8062,53,16611,11078,04/27/2021,"DoC is counting vaccinations only among current prisoners. 693 prisoners who've been released have either been partially or fully vaccinated. 238 fully vaccinated, 455 first dose only. I've updated numbers accordingly"
@@ -90,18 +141,18 @@ Oregon,OR,,,860,842,0,,,,27935,3604,3425,42,,,04/27/2021,
 Pennsylvania,PA,,,4890,,,3237,3212,,112258,11288,,135,,,04/27/2021,"Pennsylvania is removing counts of people vaccinated when they are released from prison. As a result, their numbers dropped this week and we are working to get a fuller accounting. The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,452,449,1,893,891,,,1219,1211,2,,,04/30/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1114,1092,2,,,,35602,3255,3193,42,1363,723,04/27/2021,
-South Dakota,SD,,423,191,191,0,,,,8415,2341,2334,7,2167,,04/27/2021,
+South Dakota,SD,,423,191,191,0,,,,8415,2341,2334,7,2164,,04/27/2021,
 Tennessee,TN,,,1524,1485,5,,,,43760,6669,6603,42,,,04/27/2021,
-Texas,TX,,216583,11618,11164,46,12457,10653,,500597,34585,33095,187,,,04/27/2021,Vaccine numbers as of 4/28. 156 staff and 3648 prisoners have received the one-shot Johnson & Johnson vaccine.
+Texas,TX,,216583,11618,11164,46,12457,10653,,500597,34585,33095,265,,,04/27/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 4/28. 156 staff and 3648 prisoners have received the one-shot Johnson & Johnson vaccine.
 Utah,UT,,,,,,,,,,,,16,377,259,04/27/2021,
-Vermont,VT,,,108,,,,,2976,21506,459,,,,,04/27/2021,
+Vermont,VT,,,108,103,0,0,467,2976,21506,459,,0,797,,04/27/2021,
 Virginia,VA,,,,,5,,,,,9101,,56,,,04/27/2021,
 Washington,WA,,,1208,,2,3667,,,,6216,6183,14,5407,,04/27/2021,
-West Virginia,WV,,13564,487,480,1,1914,1774,,10390,1628,1609,12,781,1011,04/30/2021,1011 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
+West Virginia,WV,,13564,487,480,1,834,780,,10390,1628,1609,12,781,1011,04/30/2021,1011 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2537,2522,,,,,102123,10951,10729,26,6437,,04/27/2021,
-Wyoming,WY,,,,,,,,,,,,,,,04/27/2021,
+Wyoming,WY,,,303,296,0,,,,31417,888,877,3,,,04/27/2021,
 Federal,US,,,6872,6706,4,,17878,111253,,,48537,,,45633,04/27/2021,
-Alabama,AL,,,1044,1020,3,824,,,15871,1638,1566,65,1740,,04/21/2020,
+Alabama,AL,,,1044,1020,3,824,,,15871,1638,1566,65,1740,,04/21/2021,
 Alaska,AK,,,325,,0,,,,31019,2404,,5,2692,1935,04/20/2021,prisoner vaccine numbers as of 4/18
 Arizona,AZ,,,2754,2739,,,,46323,,12268,12151,54,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arkansas,AR,,,,,4,,,,,11303,11256,52,3722,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
@@ -111,7 +162,7 @@ Connecticut,CT,,66376,1653,1628,0,2697,,,103484,4444,4359,19,4362,,04/20/2021,
 Delaware,DE,,,,,,,,,,2040,1960,13,,,04/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Florida,FL,,,5876,5593,9,,,,,18053,17778,216,,,04/21/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Georgia,GA,,,1715,1686,4,1191,,,,3805,3642,93,6323,,04/20/2021,
-Hawaii,HI,,,227,225,0,,,,16742,1969,1956,9,512,1870,04/20/2021,"Of those fully vaccinated, 1570 received the one-shot Johnson & Johnson vaccine."
+Hawaii,HI,,,227,225,0,,,,16742,1969,1956,9,,,04/20/2021,"We had originally been given vaccination numbers for prisons and jails combined. In order to be comparable to the COVID case numbers, we only track prison cases and vaccinations. We've withdrawn this week's data because it is not comparable. More recent weeks are only for those in prisons."
 Idaho,ID,5985,,473,470,0,249,213,11450,,4130,4062,6,1592,1534,04/20/2021,
 Illinois,IL,,189210,4438,4341,1,,4272,,516541,10877,10855,88,,18895,04/20/2021,358 staff have self-disclosed that they have received both doses from outside providers.
 Indiana,IN,,5621,1519,1487,4,,,,21435,3577,3422,51,5165,2050,04/20/2021,
@@ -119,7 +170,7 @@ Iowa,IA,,,701,699,2,1263,1219,,44991,4854,4829,19,1964,237,04/20/2021,The number
 Kansas,KS,,,1212,,6,1458,,,,6103,,16,6139,,04/22/2021,vaccination numbers as of 4/22
 Kentucky,KY,,,1097,,5,,,,,7901,,48,,,04/22/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2458,,931,921,6,,,8819,,3204,3106,36,,,04/20/2021,
-Maine,ME,,,,,0,,802,,9821,175,,1,,284,04/23/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
+Maine,ME,,,,,0,,,,9821,175,,1,,284,04/23/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
 Maryland,MD,,69490,2273,2178,4,4011,3968,,68414,4407,4359,30,6905,1709,04/23/2021,
 Massachusetts,MA,,,938,,,,,,34794,3022,,21,,,04/21/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Michigan,MI,,205404,4195,,5,,,41391,760943,26242,25124,,12547,19194,04/22/2021,Vaccine numbers from 4/23. 7632 prisoners received the one-shot Johnson & Johnson vaccine and were fully vaccinated.
@@ -130,7 +181,7 @@ Montana,MT,,,285,,0,,,,,1135,,6,1290,619,04/22/2021,15 people were fully vaccina
 Nebraska,NE,,,,,,,,3675,6782,982,976,6,,,04/23/2021,
 Nevada,NV,,,986,,3,1237,833,,,4537,,57,2179,442,04/20/2021,
 New Hampshire,NH,,,182,178,0,,,,1797,458,455,3,1016,537,04/20/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,04/20/2021,
+New Jersey,NJ,,195060,2824,,,,,,264257,4794,,53,,,04/18/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,956,952,0,,,,48266,2978,2947,28,1804,1015,04/20/2021,
 New York,NY,,,5106,,8,,,,81760,6489,6338,35,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 North Carolina,NC,,118690,3866,3706,12,6605,4877,41048,129484,10030,8094,53,16611,8643,04/20/2021,
@@ -141,16 +192,16 @@ Oregon,OR,,,851,840,0,,,,27917,3586,3424,42,,,04/20/2021,"We have been told vacc
 Pennsylvania,PA,,,4848,,,3163,3133,,109820,11251,,135,20381,19490,04/20/2021,"The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,450,446,1,893,891,,,1214,1204,2,,,04/23/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1111,1085,2,,,11205,,3252,,41,1345,723,04/20/2021,
-South Dakota,SD,,422,191,191,0,,,,8267,2341,2334,7,,,04/20/2021,
+South Dakota,SD,,422,191,191,0,,,,8267,2341,2334,7,2164,,04/20/2021,
 Tennessee,TN,,,1518,1479,5,,,,42576,6649,6598,42,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,210239,11545,11078,46,12065,,,490376,34559,32954,187,,,04/20/2021,"Vaccine numbers as of 4/21. TDCJ is unable to provide a breakdown of how many people are fully or partially vaccinated with the Moderna vaccine, but are reporting 3648 have received the one-shot Johnson & Johnson vaccine."
+Texas,TX,,210239,11545,11078,46,12065,,,490376,34559,32954,265,,,04/20/2021,"Vaccine numbers as of 4/21. TDCJ is unable to provide a breakdown of how many We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. people are fully or partially vaccinated with the Moderna vaccine, but are reporting 3648 have received the one-shot Johnson & Johnson vaccine."
 Utah,UT,,,399,396,,,,,27729,,3382,16,312,258,04/21/2021,
 Vermont,VT,,,105,102,0,,467,2954,21136,459,,0,737,,04/20/2021,
 Virginia,VA,,20501,2542,2505,5,6532,5047,,109969,9098,8866,56,17079,15173,04/22/2021,
 Washington,WA,,,1186,,2,3618,,,,6211,6178,14,4739,,04/20/2021,Washington originally reported an incorrect number for prisoner cases and later revised it. We've updated our data here accordingly.
-West Virginia,WV,,13393,483,478,1,1914,1774,,10326,1628,1578,12,334,1011,04/23/2021,1011 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
+West Virginia,WV,,13393,483,478,1,834,780,,10326,1628,1578,12,334,1011,04/23/2021,1011 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2525,2518,,,,,100313,10949,10729,26,3888,,04/20/2021,
-Wyoming,WY,,,,,,,,,,,,,,,,
+Wyoming,WY,,,298,293,0,,,,30531,885,877,3,,,04/20/2021,
 Federal,US,,,6850,6250,4,,17735,110239,,,,,,41076,04/20/2021,
 Alabama,AL,,,1044,1019,3,824,,,15692,1635,1547,65,1740,,04/14/2021,
 Alaska,AK,,,,,0,,,,30387,2399,,5,2677,1839,04/12/2021,Vaccination numbers as of 4/11
@@ -162,7 +213,7 @@ Connecticut,CT,,63062,1647,1613,0,2697,,,98599,4399,4328,19,4362,,04/13/2021,
 Delaware,DE,,,,,,1301,1015,,13272,,,13,1981,238,04/16/2021,
 Florida,FL,,,5829,5590,8,,,,,18048,17778,215,,,04/14/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Georgia,GA,,,1710,1675,4,,,,,3797,3607,93,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Hawaii,HI,,,226,225,0,,,,16416,1968,1956,9,512,1870,04/13/2021,"Of those fully vaccinated, 1570 received the one-shot Johnson & Johnson vaccine."
+Hawaii,HI,,,226,225,0,,,,16416,1968,1956,9,,,04/13/2021,"We had originally been given vaccination numbers for prisons and jails combined. In order to be comparable to the COVID case numbers, we only track prison cases and vaccinations. We've withdrawn this week's data because it is not comparable. More recent weeks are only for those in prisons."
 Idaho,ID,5982,,472,470,0,224,143,11395,,4127,4062,6,1361,1250,04/13/2021,
 Illinois,IL,,181863,4397,4296,1,,4272,,497675,10864,10840,88,,18895,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Indiana,IN,,5606,1515,1485,4,,,,20698,3522,3418,51,,,04/14/2021,
@@ -170,7 +221,7 @@ Iowa,IA,,,701,698,2,1238,1218,,44678,4849,4820,19,932,233,04/15/2021,13 staff an
 Kansas,KS,,,1212,,6,1455,,,,6101,,16,5929,,04/15/2021,vaccine numbers as of 4/14
 Kentucky,KY,,,1094,,5,,,,,7901,,48,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2455,,928,915,6,,,8782,,3204,3105,36,,,04/13/2021,
-Maine,ME,,,,,0,,802,,9566,170,,1,,284,04/16/2021,All prisoners have been vaccinated with the one-shot Johnson & Johnson vaccine.
+Maine,ME,,,,,0,,,,9566,170,,1,,284,04/16/2021,All prisoners have been vaccinated with the one-shot Johnson & Johnson vaccine.
 Maryland,MD,,65866,2249,2164,4,4011,3968,,67545,4394,4344,30,5168,790,04/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Massachusetts,MA,,,935,,,3116,2819,,34361,3021,,21,4624,4377,04/14/2021,
 Michigan,MI,,191194,4116,,5,,,41311,727543,26202,24852,,12490,17935,04/14/2021,7632 received the one-shot Johnson & Johnson vaccine.
@@ -181,7 +232,7 @@ Montana,MT,,,285,,0,,,,,1135,,6,,506,04/14/2021,
 Nebraska,NE,,,,,,,,3676,6782,982,,6,,,04/16/2021,
 Nevada,NV,,,981,,3,1230,822,,,4537,,57,1520,214,04/13/2021,
 New Hampshire,NH,,,176,176,0,,,,1757,458,454,3,490,385,04/13/2021,
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,04/13/2021,
+New Jersey,NJ,,189454,2788,,,,,,,,,53,,,04/11/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,953,948,0,1640,1580,,47556,2976,2944,28,1514,824,04/13/2021,
 New York,NY,,,5080,4936,8,7538,7498,,80566,6462,6299,35,3618,3450,04/14/2021,23 staff and 894 incarcerated people have got the one-shot Johnson & Johnson vaccine and are fully vaccinated.
 North Carolina,NC,,114045,3854,3698,12,6524,4810,40747,126903,10021,8148,53,15872,5787,04/13/2021,we initially had the partially vaccinated number for prisoners instead of the fully vaccinated. We have updated this now.
@@ -192,20 +243,20 @@ Oregon,OR,,,846,837,,,,,24852,3580,3420,42,,,04/13/2021,"We have been told vacci
 Pennsylvania,PA,,,4804,4680,,,2984,,107386,11215,10837,135,,19430,04/14/2021,"This week, Pennsylvania resumed reporting data after it took down its dashboard for several months for revisions. The state is no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
 Rhode Island,RI,,,448,440,1,,,,,1208,1196,2,1626,1345,04/16/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. The vaccine numbers for this week were later revised by RIDOC.
 South Carolina,SC,,,1100,1080,2,,,,,3246,3190,40,729,723,04/13/2021,
-South Dakota,SD,,422,191,191,0,,,,8155,2341,2334,7,,,04/13/2021,
+South Dakota,SD,,422,191,191,0,,,,8155,2341,2334,7,2164,,04/13/2021,
 Tennessee,TN,,,1512,1476,5,,,,41768,6647,6596,42,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,205586,11514,11022,45,11893,9729,,482039,34504,32936,187,,,04/13/2021,
+Texas,TX,,205586,11514,11022,45,11893,9729,,482039,34504,32936,265,,,04/13/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,399,396,,,,,27460,3453,3378,16,261,162,04/13/2021,
 Vermont,VT,,,103,98,0,,467,2930,20579,459,,0,720,,04/13/2021,Staff have received the one-shot Johnson & Johnson vaccine.
 Virginia,VA,,20038,2524,2480,5,6416,4924,,105953,9039,8860,56,16860,14458,04/13/2021,
 Washington,WA,,,1171,,2,3551,,,,6203,6177,14,3815,,04/13/2021,
 West Virginia,WV,,13201,480,475,1,834,780,,10271,1628,1575,12,,1011,04/17/2021,All prisoner received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2522,2511,,,,,98657,10932,10726,26,3293,,04/13/2021,
-Wyoming,WY,,,,,,,,,,,,3,,,04/13/2021,
+Wyoming,WY,,,296,293,0,,,,29694,884,874,3,,,04/13/2021,
 Federal,US,,,6831,5614,4,,17529,109772,,,47764,,,35867,04/13/2021,
-Alabama,AL,,,1040,982,3,808,,,15599,1632,1503,65,871,,04/07/2020,
+Alabama,AL,,,1040,982,3,808,,,15599,1632,1503,65,871,,04/07/2021,
 Alaska,AK,,,,,,,,,29981,2396,,5,2518,1598,04/05/2021,
-Arizona,AZ,,,2742,2731,,,,43652,,12215,12137,53,,,04/06/2020,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Arizona,AZ,,,2742,2731,,,,43652,,12215,12137,53,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arkansas,AR,,,,,4,1440,,,,11245,11199,52,82,0,04/06/2021,Vaccine numbers as of 4/6
 California,CA,,,,,26,27030,24811,121456,,49203,48362,218,62730,43760,04/06/2021,"In the succeeding weeks, California revised its number of covid cases among prisoners and we have revised this accordingly."
 Colorado,CO,,,1633,,,2906,,19235,196517,8800,,29,7556,,04/06/2021,
@@ -221,18 +272,18 @@ Iowa,IA,,,701,698,2,,,,44100,4839,4812,19,206,206,04/07/2021,Vaccination numbers
 Kansas,KS,,,1212,,6,1453,,,,6098,,16,5822,,04/08/2021,Vaccination numbers as of 4/7
 Kentucky,KY,,,1091,,5,,,,,7899,,48,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2453,,926,911,6,,,8706,,3202,3101,36,,,04/06/2021,
-Maine,ME,,,59,58,0,,802,,,168,166,1,,284,04/08/2021,All prisoners have been vaccinated with the on-shot Johnson & Johnson vaccine.
+Maine,ME,,,59,58,0,,,,,168,166,1,,284,04/08/2021,All prisoners have been vaccinated with the on-shot Johnson & Johnson vaccine.
 Maryland,MD,,62244,2222,2151,4,4011,3968,,66828,4381,4319,26,3827,787,04/09/2021,
 Massachusetts,MA,,,930,,,2953,2804,,33817,3021,,21,4620,4279,04/07/2021,
 Michigan,MI,,191194,4039,,5,,,41234,701601,26156,24526,140,12489,15576,04/08/2021,Vaccine numbers as of 4/9. 7402 people received the J&J one-shot vaccine.
 Minnesota,MN,,,1066,867,0,740,1670,,106508,4064,3859,12,,3739,04/06/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new. testing method, they don't have new presumed positives that will be added to this column. Among the staff vaccines, 1078 received the one-shot Johnson and Johnson vaccine,  and 3484 prisoners got the single shot Johnson and Johnson shot. These totals are included in the ""fully vaccinated"" field."
 Mississippi,MS,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Missouri,MO,,12961,2576,2568,6,,,,79729,5628,5545,48,5609,3303,04/06/2020,
+Missouri,MO,,12961,2576,2568,6,,,,79729,5628,5545,48,5609,3303,04/06/2021,
 Montana,MT,,,282,,0,,,,,1135,,6,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Nebraska,NE,,,557,549,,,,3676,6776,982,976,6,,,04/09/2021,Staff case totals from 4/8
 Nevada,NV,,,978,,3,1228,820,,,4523,,57,1520,156,04/06/2021,
 New Hampshire,NH,,,176,,0,491,254,,1716,458,450,3,385,339,04/06/2021,
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,04/06/2021,
+New Jersey,NJ,,184146,2752,,,,,,253527,4778,,53,,,04/04/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,951,946,0,1632,1569,,44368,2972,2939,28,1117,569,04/06/2021,
 New York,NY,,,5021,4861,8,7538,7323,,78318,6397,6205,35,3374,2165,04/06/2021,415 incarcerated individuals have received the Johnson and Johnson one-shot vaccine. We have revised the vaccine numbers for prisoners initially reported for this week.
 North Carolina,NC,,105131,3812,3686,12,6374,4623,40502,124361,10006,8170,53,15042,2884,04/06/2021,
@@ -245,14 +296,14 @@ Rhode Island,RI,,,412,410,1,,,,,1200,1192,2,,,04/09/2021,"Subtracting 4 presumed
 South Carolina,SC,,,1094,1067,2,,,,,3240,3181,40,729,723,04/06/2021,
 South Dakota,SD,,421,191,190,0,,,,7983,,,7,2164,,04/06/2021,South Dakota later revised their number of prisoner cases but did not provide new figures for this week.
 Tennessee,TN,,,1501,1471,5,,,,40954,6639,6595,42,,,04/06/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,200267,11458,10922,45,,,,469741,34464,32910,187,,,04/06/2021,
+Texas,TX,,200267,11458,10922,45,,,,469741,34464,32910,265,,,04/06/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,399,396,,,,,27228,3450,3372,16,261,162,04/05/2021,Vaccine numbers as of 4/6
 Vermont,VT,,,100,96,0,,467,2904,20211,457,,0,578,,04/06/2021,"Staff vaccination numbers do NOT include healthcare workers, who are contractors. Staff are given J&J 1-dose vaccine. The initial number we were given for staff vaccines included transposed digits and has been updated."
 Virginia,VA,,19384,2511,2460,5,6336,4807,,101955,9012,8859,56,16684,14111,04/06/2021,Virginia later revised its number of staff tests and we have updated our figure here accordingly.
 Washington,WA,,,1158,,2,,,,,6192,6172,14,,,04/06/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week."
 West Virginia,WV,,12957,476,467,1,834,780,,10063,1593,1540,9,,1011,04/09/2021,Prisoners are receiving the single-shot J&J vaccine.
 Wisconsin,WI,,,2519,2502,,,,,97589,10929,10707,26,1382,,04/06/2021,Vaccine number as of 4/5
-Wyoming,WY,,,296,293,,,,,28380,879,872,3,,,04/06/2021,
+Wyoming,WY,,,296,293,0,,,,28380,879,872,3,,,04/06/2021,
 Federal,US,,,6773,5519,4,,17286,109031,,,,,,29658,04/06/2021,"The number of deaths in federal prisons dropped by 5 this week. The BOP said it has removed data on several private prisons it is no longer contracting with to hold people. As a result, we're not publishing their number of prisoner deaths."
 Alabama,AL,,,1039,982,3,662,,,15550,1611,1499,64,871,,03/31/2021,
 Alaska,AK,,,,,,,,,29585,2394,,5,,,04/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
@@ -283,7 +334,7 @@ Montana,MT,,,282,,0,0,0,,,1135,,6,724,318,03/31/2021,The department didn't provi
 Nebraska,NE,,,,,,,,3676,6776,982,974,6,,,03/29/2021,
 Nevada,NV,,,977,,3,,,,,4518,,57,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 New Hampshire,NH,,,175,,,,,,1697,457,449,3,358,304,03/30/2021,
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,03/30/2021,
+New Jersey,NJ,,178740,2721,,,,,,,,,53,,,03/28/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,947,919,0,1517,1517,,44368,2972,2937,28,896,565,03/30/2021,
 New York,NY,,,4963,4807,8,7538,7215,,76508,6315,6136,35,3374,1447,03/30/2021,
 North Carolina,NC,,100403,3798,3681,12,,,40355,122321,10001,8194,53,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
@@ -296,14 +347,14 @@ Rhode Island,RI,,,412,406,1,,,,,1198,1185,2,,,04/02/2021,"Subtracting 4 presumed
 South Carolina,SC,,,1084,1059,2,,,,,3236,3159,40,729,200,03/30/2021,
 South Dakota,SD,,417,189,189,0,,,,7901,2340,2333,7,,,03/30/2021,
 Tennessee,TN,,9270,1493,1468,5,,,,40445,6635,6581,42,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,193095,11415,10835,44,11490,7988,,458844,34396,32885,187,,,03/30/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week. Staff vaccines as of 4/2"
+Texas,TX,,193095,11415,10835,44,11490,7988,,458844,34396,32885,265,,,03/30/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week. Staff vaccines as of 4/2"
 Utah,UT,,,399,396,,,,,27053,3443,3372,16,243,144,03/31/2021,Vax numbers as of 4/1
 Vermont,VT,,,99,90,0,,467,2885,19690,457,,0,188,,03/30/2021,"Staff vaccination numbers do NOT include healthcare workers, who are contractors. Staff are given J&J 1-dose vaccine."
 Virginia,VA,,,,,5,,,,,9011,,56,16362,,03/30/2021,Virginia later revised their number of partially vaccinated staff and we have updated our figures here.
 Washington,WA,,,1149,,2,,,,,6190,6170,14,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 West Virginia,WV,,12270,469,462,1,834,780,,9911,1557,1535,9,989,0,03/30/2021,"Vax numbers as of 4/3, J&J vaccine"
 Wisconsin,WI,,,2509,2500,,,,,97092,10923,10692,25,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Wyoming,WY,,,296,291,,,,,28374,865,851,3,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Wyoming,WY,,,296,291,0,,,,28374,865,851,3,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Federal,US,,,6721,5453,4,,16897,108612,,,,243,,24066,03/30/2021,
 Alabama,AL,,,1036,971,3,30,,,15493,1595,1492,63,0,0,03/24/2021,
 Alaska,AK,,,313,,0,,,,27299,2384,,5,2048,,03/23/2021,
@@ -334,7 +385,7 @@ Montana,MT,,,278,,0,0,0,,,1129,,6,484,233,03/24/2021,
 Nebraska,NE,,,,,,,,,,,,,,,,
 Nevada,NV,,,972,,3,1167,787,,,4515,,57,866,2,03/23/2021,Vaccine numbers as of 3/26
 New Hampshire,NH,,,175,,0,,,,1644,452,448,3,358,304,03/23/2021,
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,03/23/2021,
+New Jersey,NJ,,173214,2698,,,,,,242494,4750,,53,,,03/21/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,946,915,0,1517,1517,,41406,2968,2805,28,,,03/23/2021,
 New York,NY,,,4919,4771,8,7538,6571,,74307,6241,6087,35,3374,968,03/25/2021,
 North Carolina,NC,,91229,3780,3660,12,,,40092,119610,9962,8186,53,,,03/23/2021,
@@ -347,14 +398,14 @@ Rhode Island,RI,,,408,404,1,,,,,1190,1169,2,1582,,03/26/2021,Subtracting 4 presu
 South Carolina,SC,,,1077,1050,2,,,9920,31063,3234,3107,40,729,0,03/23/2021,
 South Dakota,SD,,417,189,187,0,,,,7761,2340,2333,7,,,03/23/2021,
 Tennessee,TN,,,1490,1467,5,3101,,,40299,6634,6579,42,6274,,03/24/2021,Vaccine numbers as of 3/26
-Texas,TX,,187308,11363,10770,43,10894,7050,,450608,34344,32808,187,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Texas,TX,,187308,11363,10770,43,10894,7050,,450608,34344,32808,265,,,03/23/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Utah,UT,,,396,343,0,,,,26728,3442,3353,16,184,85,03/25/2021,"Vaccines for staff have been offered through clinics that the corrections department coordinated with state health officials, and staff can also receive the vaccine through their local health department. They are not reporting a total for staff."
 Vermont,VT,,,93,86,0,,467,2860,19048,455,,0,163,,03/23/2021,The 467 fully vaccinated staff received the one-shot Johnson and Johnson vaccine.
 Virginia,VA,,,2472,2439,5,,4524,,99859,9008,8854,56,16045,13391,03/23/2021,Virginia later revised their number of partially vaccinated staff and we have updated our figures here.
-Washington,WA,,,1145,,2,,,,,6187,6169,14,,,03/23/2020,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Washington,WA,,,1145,,2,,,,,6187,6169,14,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 West Virginia,WV,,11908,463,458,1,,,,9776,1556,1535,9,0,0,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wisconsin,WI,,,2504,2494,,,,,95115,10903,10681,25,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Wyoming,WY,,,293,287,,,,,27409,851,808,3,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Wyoming,WY,,,293,287,0,,,,27409,851,808,3,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Federal,US,,,6665,5313,4,,16448,107867,,,,242,,18288,03/23/2021,"The week of March 9, 2021, the number of total prisoner cases dropped in the federal system by about 25 and have dropped since then. A spokesman attributed the change to their practice of removing prisoners who have been released from their counts of both active cases and recovered cases. This likely leads to an undercount of cases.  More info: https://twitter.com/MarshallProj/status/1375500147384270852"
 Alabama,AL,,,1034,971,3,,,,15338,1567,1488,63,0,0,03/17/2021,"We are told vaccinations have begun for staff this week, but no numbers have been released yet."
 Alaska,AK,,,303,,0,,,,27029,2382,,5,1966,428,03/18/2021,Vaccine numbers as of 3/16.
@@ -385,7 +436,7 @@ Montana,MT,,,277,,0,0,0,,,1129,,6,484,211,03/18/2021,
 Nebraska,NE,,,,,,,,3675,,982,970,6,,,03/19/2021,
 Nevada,NV,,,971,,3,,,,,4513,,57,,,03/16/2021,
 New Hampshire,NH,,,174,173,0,,,,1610,452,448,3,358,304,03/16/2021,
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,03/16/2021,
+New Jersey,NJ,,167683,2642,,,,,,,,,53,,,03/14/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,943,914,0,1517,1517,,,2957,2770,28,574,,03/16/2021,
 New York,NY,,,4860,4703,8,7526,3457,,72068,6170,5950,34,3321,313,03/18/2021,
 North Carolina,NC,,87452,3766,3530,12,5519,3790,39776,116050,9898,8164,52,2981,1786,03/16/2021,
@@ -398,7 +449,7 @@ Rhode Island,RI,,,405,400,1,,,,,1171,1153,2,,,03/15/2021,"We have been told vacc
 South Carolina,SC,,,1070,1039,2,,,,,3221,3071,40,729,0,03/16/2021,
 South Dakota,SD,,415,188,187,0,,,,7639,2340,2333,7,,,03/16/2021,
 Tennessee,TN,,9224,1482,1464,5,,,,39711,6620,6564,42,,,03/16/2021,
-Texas,TX,,182819,11316,10708,43,,,,439892,34309,32687,187,,,03/16/2021,Staff vaccine numbers as of 3/18
+Texas,TX,,182819,11316,10708,43,,,,439892,34309,32687,263,,,03/16/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Staff vaccine numbers as of 3/18.
 Utah,UT,,,396,343,,,,,26107,3439,3262,15,,,03/15/2021,
 Vermont,VT,,,88,80,0,,467,2831,18123,443,410,0,109,,03/16/2021,
 Virginia,VA,,19061,2458,2427,5,6204,4098,,98577,9005,8837,56,15482,12615,03/16/2021,
@@ -436,7 +487,7 @@ Montana,MT,,,277,,0,0,0,,,1129,,6,484,211,03/10/2021,108 prisoners recewived the
 Nebraska,NE,,,,,,,,3674,6772,,,6,,,03/12/2021,Nebraska's number of prisoner cases dropped by 1 this week.
 Nevada,NV,,,971,,3,,,,,4510,,57,,,03/09/2021,
 New Hampshire,NH,,,174,173,0,491,254,,1545,450,446,3,331,26,03/09/2021,
-New Jersey,NJ,,,2255,,,,,,,4684,,53,,,03/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,162234,2610,,,,,,231541,4674,,53,,,03/07/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,938,904,0,1517,,,37683,2869,2580,28,574,,03/09/2021,
 New York,NY,,,4808,4651,8,7451,1681,,70454,6054,5759,34,1981,221,03/10/2021,
 North Carolina,NC,,81108,3740,3494,12,5519,3790,39566,113592,9833,8168,50,2981,1786,03/09/2021,
@@ -449,7 +500,7 @@ Rhode Island,RI,,,405,399,1,,884,,,1167,1153,2,1394,1020,03/12/2021,Subtracting 
 South Carolina,SC,,,1062,1022,2,,,,,3176,3018,39,,0,03/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Dakota,SD,,412,187,186,0,,,,7515,2340,2332,7,,,03/09/2021,South Dakota's prisoner case numbers dropped by 1 this week. We're inquiring as to why.
 Tennessee,TN,,9218,1480,1461,4,,,,39158,6613,6544,42,,,03/09/2021,
-Texas,TX,,177111,11249,10605,43,8219,5830,,428706,34227,32316,187,628,0,03/09/2021,
+Texas,TX,,177111,11249,10605,43,8219,5830,,428706,34227,32316,263,628,0,03/09/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,396,343,,,,,25255,3432,3211,15,,,03/08/2021,
 Vermont,VT,,,82,67,0,,467,2794,17050,411,,0,109,,03/09/2021,"467 Vermont staff had the one-shot Johnson & Johnson vaccine, so we're putting them under ""2nd dose"""
 Virginia,VA,,18989,2452,2415,5,6083,4004,,94786,8993,8835,56,15322,11868,03/09/2021,
@@ -487,7 +538,7 @@ Montana,MT,,,,,,0,0,,,,,,,,03/02/2021,"We have been told vaccinations have begun
 Nebraska,NE,,,,,,,,3671,6742,971,963,6,,,03/05/2021,
 Nevada,NV,,,969,,3,,,,,4510,,57,,,03/02/2021,
 New Hampshire,NH,,,173,172,0,,,,1497,450,445,2,,,03/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-New Jersey,NJ,,,2227,,,,,,,4556,,53,,,03/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,156818,2590,,,,,,,,,53,,,02/28/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,934,903,0,1517,,,,2869,2580,28,574,,03/02/2021,
 New York,NY,,,4731,,8,7439,0,,68237,5942,5618,33,822,0,03/02/2021,
 North Carolina,NC,,76950,3677,3407,12,,2501,39285,110227,9743,8043,47,,1049,03/02/2021,The number of recovered cases among prisoners dropped this week. A prisons spokesman said it's due to some recovered prisoners being released recently.
@@ -500,7 +551,7 @@ Rhode Island,RI,,,399,391,1,,,,,1155,1140,2,,,03/04/2021,"Subtracting 4 presumed
 South Carolina,SC,,,1050,1003,2,,,9678,,3161,2991,37,163,0,03/02/2021,
 South Dakota,SD,,409,186,186,0,,,,7377,,2332,7,,,03/02/2021,South Dakota's number of prisoner cases was later revised down by 1.
 Tennessee,TN,,,1479,1450,4,,,,38820,6597,6538,42,0,0,03/04/2021,
-Texas,TX,,169334,11170,10503,41,7331,4892,,416798,34078,32089,187,628,0,03/02/2021,
+Texas,TX,,169334,11170,10503,41,7331,4892,,416798,34078,32089,262,628,0,03/02/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,396,343,,,,,24260,3399,3174,15,,,03/01/2021,
 Vermont,VT,,,77,,,,,2781,16415,402,,0,,,03/03/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,18270,2442,2396,5,5630,3066,,93502,8988,8828,55,14481,6850,03/02/2021,
@@ -538,7 +589,7 @@ Montana,MT,,,277,,0,0,0,,,1129,,6,110,0,02/22/2021,
 Nebraska,NE,,,538,516,,,,3668,6701,967,939,6,,,02/22/2021,
 Nevada,NV,,,,,3,,,,,4497,,57,,,02/23/2021,
 New Hampshire,NH,,,173,172,0,,,,1475,447,445,2,,,02/24/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-New Jersey,NJ,,,2076,,,,,,,4345,,53,,,02/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,151589,2553,,,,,,220573,4567,,53,,,02/21/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,922,876,0,1517,,,36502,2661,2519,28,574,,02/23/2021,The number of staff cases was input incorrectly and has been updated.
 New York,NY,,,4656,4436,8,,,,66726,5815,5485,33,,,02/23/2021,They are vaccinating but not breaking down numbers for prisoners or staff yet.
 North Carolina,NC,,70763,3652,3372,10,5196,1270,38917,106206,9512,8047,47,2638,172,02/23/2021,
@@ -551,7 +602,7 @@ Rhode Island,RI,,,395,389,1,,,,,1150,1129,2,1352,412,02/25/2021,Subtracting 4 pr
 South Carolina,SC,,,1036,961,2,,,,,3082,2947,37,0,0,02/24/2021,
 South Dakota,SD,,409,186,186,0,,,,7265,2337,2330,7,,,02/23/2021,
 Tennessee,TN,,9202,1475,1447,4,1436,,,38212,6580,6519,42,0,0,02/24/2021,
-Texas,TX,,163843,11070,10159,41,,,,407607,33980,31221,187,0,0,02/23/2021,
+Texas,TX,,163843,11070,10159,41,,,,407607,33980,31221,260,0,0,02/23/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,396,343,,,,,23592,3306,3098,15,,,02/22/2021,
 Vermont,VT,,,66,,,,,2751,15445,275,,0,,,02/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,,2422,2347,5,5385,2192,,91689,8987,,55,13585,3449,02/23/2021,
@@ -589,7 +640,7 @@ Montana,MT,,,276,,0,0,0,,,1129,,6,110,0,02/17/2021,
 Nebraska,NE,,,,,,,,,,,,,,,,
 Nevada,NV,,,969,,3,,,,,4496,,57,,,02/16/2021,"Nevada later revised their staff deaths down by 1. They also later adjusted their staff and prisoner cases down, saying they had been inadvertantly counting negatives as positives. They did not provide updated historic case numbers, so we are leaving those blank for this week."
 New Hampshire,NH,,,172,171,,,,,1446,447,442,2,,,02/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-New Jersey,NJ,,,2076,,,,,,,4345,,53,,,02/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,146621,2516,,,,,,,,,53,,,02/14/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,915,870,0,1517,,,33486,2581,2468,28,574,,02/16/2021,
 New York,NY,,,4540,,7,,,,64546,5686,5142,32,,,02/16/2021,
 North Carolina,NC,,66362,3612,3238,9,4753,0,38675,103314,9455,7874,46,2559,0,02/16/2021,
@@ -602,7 +653,7 @@ Rhode Island,RI,,,390,383,1,,,,,1132,1120,2,,,02/15/2021,"Subtracting 4 presumed
 South Carolina,SC,,,993,916,2,,,9369,,3049,2839,37,0,0,02/16/2021,
 South Dakota,SD,,408,186,186,0,,,,7145,2337,2330,7,,,02/16/2021,
 Tennessee,TN,,9195,1470,1438,4,1436,0,,38108,6575,6507,41,0,0,02/17/2021,
-Texas,TX,,162026,10980,9955,40,,,,405446,33882,31008,187,0,0,02/17/2021,
+Texas,TX,,162026,10980,9955,40,,,,405446,33882,31008,260,0,0,02/17/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,379,322,,,,,22665,3261,3059,15,,,02/15/2021,
 Vermont,VT,,,64,,,,,2717,14370,265,249,0,,,02/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,,2398,2288,4,,1089,,90063,8977,8330,54,13449,1192,02/16/2021,
@@ -640,7 +691,7 @@ Montana,MT,,,276,,0,0,0,,,1129,,6,110,0,02/08/2021,Vaccinations as of 2/9
 Nebraska,NE,,,,,,,,3661,6636,959,910,6,,,02/12/2021,
 Nevada,NV,,,964,,3,,,,,4496,,57,,,02/09/2021,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,172,,,,,,1400,446,439,2,,,02/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-New Jersey,NJ,,,2007,,,,,,,4283,,52,,,02/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,141251,2489,,,,,,209685,4488,,52,,,02/07/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,888,847,0,1517,,,33486,2581,2468,28,574,,02/09/2021,
 New York,NY,,,4487,4130,7,,,,63056,5527,4884,31,,,02/10/2021,
 North Carolina,NC,,60262,3516,3128,9,4334,0,38406,99251,9265,7846,44,1647,0,02/09/2021,
@@ -653,7 +704,7 @@ Rhode Island,RI,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in thi
 South Carolina,SC,,,975,862,2,,,,,2999,2823,37,0,0,02/09/2021,staff vaccinated in community
 South Dakota,SD,,407,186,185,0,,,,7075,2337,2330,7,,,02/09/2021,
 Tennessee,TN,,,1463,1419,4,1436,,,37921,6555,6440,41,0,0,02/09/2021,
-Texas,TX,,157011,10877,9823,38,,,,394179,33742,30648,187,0,0,02/09/2021,
+Texas,TX,,157011,10877,9823,38,,,,394179,33742,30648,254,0,0,02/09/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,379,322,,,,,22246,3192,3045,15,,,02/09/2021,
 Vermont,VT,,,59,,,,,2698,13946,252,245,0,,,02/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,,2371,2240,3,4533,,,88667,8865,8085,54,11112,,02/09/2021,
@@ -691,7 +742,7 @@ Montana,MT,,,275,,0,0,0,,,1128,,6,0,0,02/03/2021,Montana will not release inform
 Nebraska,NE,,,,,,,,3660,6577,956,893,6,,,02/05/2021,
 Nevada,NV,,,954,,3,,,,,4495,,57,,,02/02/2021,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,169,166,0,,,,1371,443,425,2,,,02/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-New Jersey,NJ,,,2007,,,,,,,4283,,52,,,02/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,136065,2442,,,,,,,,,52,,,01/31/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,882,799,0,,,,31841,2549,2379,26,,,02/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 New York,NY,,,4403,3947,7,,,,60255,5163,4554,31,,,02/02/2021,
 North Carolina,NC,,55949,3398,2928,7,2444,0,38246,95755,9109,7420,42,853,0,02/02/2021,
@@ -704,7 +755,7 @@ Rhode Island,RI,,,382,373,1,,,,,1113,1092,2,895,248,02/01/2021,Vaccine numbers a
 South Carolina,SC,,,948,822,2,,,9279,,2974,2741,37,0,0,02/02/2021,
 South Dakota,SD,,406,185,184,0,,,,6957,2337,2330,7,,,02/02/2021,
 Tennessee,TN,,9153,1451,1374,4,1436,,,37548,6540,6401,41,0,0,02/02/2021,
-Texas,TX,,149935,10651,9465,37,5987,,,376621,33246,29282,187,0,0,02/02/2021,
+Texas,TX,,149935,10651,9465,37,5987,,,376621,33246,29282,248,0,0,02/02/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,364,311,0,,,,21593,3147,3015,15,79,,02/02/2021,
 Vermont,VT,,,53,39,0,,,2675,13502,247,242,0,8,0,02/02/2021,"Prison health care staff have been vaccinated, but not COs, and they don't have those figures yet. This week's prisoner tests initially had the total number of positive test results, not the unique number of positive results. It has been updated."
 Virginia,VA,,,2336,2160,3,3589,,,86057,8607,7886,54,7137,,02/04/2021,
@@ -742,7 +793,7 @@ Montana,MT,,,265,,0,0,0,,,1127,,6,0,0,01/26/2021,This week's staff cases initial
 Nebraska,NE,,,,,,,,,,,,,,,,
 Nevada,NV,,,945,,3,,,,,4487,,57,,,01/26/2021,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,163,160,0,,,,1321,430,407,2,,,01/26/2021,They have begun vaccinating but aren't releasing numbers yet.
-New Jersey,NJ,,,2007,,,,,,,4283,,52,,,01/26/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,130623,2365,,,,,,197082,4307,,52,,,01/24/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,877,749,0,1507,,,30681,2489,2261,26,565,,01/26/2021,
 New York,NY,,,4187,3657,7,,,,56725,4808,3832,30,,,01/26/2021,
 North Carolina,NC,,49545,3248,2782,7,1987,0,37980,92076,8703,7252,42,644,0,01/26/2021,prisoners > 65 vaccinated
@@ -755,7 +806,7 @@ Rhode Island,RI,,,375,367,1,800,119,,,1104,1065,2,,,01/27/2021,"Subtracting 4 pr
 South Carolina,SC,,,916,771,2,,,,,2941,2648,37,0,0,01/26/2021,
 South Dakota,SD,,403,184,183,0,,,,6880,2337,2329,7,,,01/26/2021,
 Tennessee,TN,,9129,1437,1263,4,,,,36770,6469,6358,39,0,0,01/26/2021,
-Texas,TX,,141791,10323,8970,37,4967,,,359629,32622,28476,181,0,0,01/26/2021,The number of prisoner tests was input incorrectly and has been updated.
+Texas,TX,,141791,10323,8970,37,4967,,,359629,32622,28476,246,0,0,01/26/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. The number of prisoner tests was input incorrectly and has been updated.
 Utah,UT,,,364,311,,,,,20683,3122,2387,15,,,01/26/2021,
 Vermont,VT,,,50,39,0,,,2651,12722,244,242,0,0,0,01/26/2021,"The state's website originally said 251 recovered, but it was incorrect and we adjusted it here before publication."
 Virginia,VA,,,,,3,2171,,,,8302,,53,1302,,01/26/2021,
@@ -793,7 +844,7 @@ Montana,MT,,,,,,0,0,,,,,,0,0,01/19/2021,
 Nebraska,NE,,,,,,,,3646,6464,932,871,6,,,01/22/2021,
 Nevada,NV,,,935,,3,,,,,4482,,57,0,0,01/19/2021,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,160,149,,,,,1267,417,381,2,,,01/19/2021,
-New Jersey,NJ,,,1933,,,,,,,3956,,52,,,01/19/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,125266,2282,,,,,,,,,52,,,01/17/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,868,685,0,1507,,,30476,2441,2206,26,565,,01/19/2021,
 New York,NY,,,3952,,7,,,,56091,4502,3379,29,,,01/20/2021,
 North Carolina,NC,,49453,3040,2487,7,200,0,37743,89090,8360,6966,40,0,0,01/20/2021,
@@ -806,7 +857,7 @@ Rhode Island,RI,,,371,357,1,,,,,1083,1039,2,,,01/21/2021,"We have been told vacc
 South Carolina,SC,,,859,695,2,,,9059,,2919,2398,37,0,0,01/19/2021,
 South Dakota,SD,,400,183,180,0,,,,6772,2336,2328,6,,,01/19/2021,
 Tennessee,TN,,9072,1417,1230,4,0,0,,36507,6439,6328,38,0,0,01/19/2021,
-Texas,TX,,135515,10001,8399,36,,,,349212,32284,27333,177,0,0,01/19/2021,
+Texas,TX,,135515,10001,8399,36,,,,349212,32284,27333,241,0,0,01/19/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,,,,,,,20177,3101,2374,15,,,01/20/2021,
 Vermont,VT,,,41,36,0,,,2632,12056,244,241,0,0,0,01/19/2021,
 Virginia,VA,,,2188,1874,3,1177,,,81392,8107,7482,52,648,,01/20/2021,
@@ -844,7 +895,7 @@ Montana,MT,,,263,,0,0,0,,,1124,,6,0,0,01/11/2021,
 Nebraska,NE,,,,,,,,3596,6282,890,863,6,,,01/15/2021,
 Nevada,NV,,,932,,3,,,,,4462,,57,0,0,01/12/2021,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,154,142,,,,,,407,361,2,,,01/12/2021,
-New Jersey,NJ,,,1674,,,,,,,3620,,52,,,01/12/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,119677,2187,,,,,,183641,3906,,52,,,01/10/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,194,848,654,0,1347,,,29228,2367,2124,25,0,0,01/12/2021,
 New York,NY,,,3618,2813,6,,,,52541,3804,2944,28,0,0,01/12/2021,
 North Carolina,NC,,41652,2900,2213,7,50,0,37620,86460,8132,6704,39,0,0,01/12/2021,
@@ -857,7 +908,7 @@ Rhode Island,RI,,,364,350,1,410,109,,,1060,987,2,392,85,01/14/2021,Vaccines as o
 South Carolina,SC,,,823,681,2,,,8889,,2803,2347,35,0,0,01/13/2021,
 South Dakota,SD,,397,181,179,0,,,,6692,2336,2323,6,,,01/12/2021,
 Tennessee,TN,,,1383,1102,3,0,0,,35956,6392,6271,35,0,0,01/12/2021,
-Texas,TX,,129299,9639,7965,34,,,,333122,31322,26540,177,0,0,01/12/2021,
+Texas,TX,,129299,9639,7965,34,,,,333122,31322,26540,237,0,0,01/12/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,325,251,,,,,19110,3057,2111,15,,,01/11/2021,
 Vermont,VT,,,38,,,,,2608,11738,243,241,0,0,0,01/12/2021,
 Virginia,VA,,,2049,1689,2,,,,79327,7784,,50,,,01/12/2021,
@@ -895,7 +946,7 @@ Montana,MT,,,262,,0,0,0,,,1124,,6,0,0,01/05/2021,
 Nebraska,NE,,,,,,,,3521,6059,876,810,6,,,01/04/2021,
 Nevada,NV,,,892,,3,,,,,4347,,53,0,0,01/05/2021,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,145,,,,,,1122,373,289,1,,,01/05/2021,
-New Jersey,NJ,,,1674,,,,,,,3620,,52,,,01/05/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+New Jersey,NJ,,114124,2078,,,,,,,,,52,,,01/03/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,829,650,0,0,0,,26959,2294,2060,24,0,0,01/05/2021,
 New York,NY,,,3242,2370,6,,,,49215,3337,2524,24,0,0,01/05/2021,
 North Carolina,NC,,38135,2730,2050,7,4,0,37447,81779,7670,6527,36,0,0,01/05/2021,
@@ -908,7 +959,7 @@ Rhode Island,RI,,,316,295,1,113,,,,987,934,2,265,,01/04/2021,Subtracting 4 presu
 South Carolina,SC,,,756,603,2,0,0,8788,23406,2728,,34,0,0,01/05/2021,Staff testing began 1/7
 South Dakota,SD,,395,180,177,0,,,,6561,2333,2323,6,,,01/05/2021,
 Tennessee,TN,,,1306,1026,3,0,0,,35630,6353,6233,34,0,0,01/05/2021,A number from another state inadvertently wound up in Tennesse as the number of prisoner tests for this week. It has been removed.
-Texas,TX,,123234,9009,7477,34,,,,314230,30115,25850,177,0,0,01/05/2021,
+Texas,TX,,123234,9009,7477,34,,,,314230,30115,25850,236,0,0,01/05/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,312,238,,,,,18310,3017,1777,15,,,01/06/2021,
 Vermont,VT,,,32,,0,,,2566,11335,243,241,0,0,0,01/05/2021,
 Virginia,VA,,,1901,1551,2,,,,76801,7495,,47,,,01/05/2021,
@@ -946,7 +997,7 @@ Montana,MT,,,262,,0,0,0,,,1124,,6,0,0,12/30/2020,
 Nebraska,NE,,,461,375,,,,3518,5972,873,777,6,,,12/28/2020,
 Nevada,NV,,,852,,3,,,,,4262,,51,0,0,12/29/2020,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,130,,0,,,,1065,334,219,0,0,0,12/29/2020,"Staff began receiving vaccines on 12/24, but they don't have a concrete count of the numbers yet."
-New Jersey,NJ,,,1674,,,,,,,3620,,52,,,12/29/2020,"We have been told vaccinations have begun in this system this week, but they have not released numbers."
+New Jersey,NJ,,109290,1932,,,,,,171368,3720,,52,,,12/27/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
 New Mexico,NM,,,812,589,0,0,0,,26267,2229,1616,23,0,0,12/28/2020,
 New York,NY,,,2957,2030,6,,,,46646,2945,2156,21,0,0,12/29/2020,
 North Carolina,NC,,32404,2439,1842,7,0,0,37288,79556,7420,6202,32,0,0,12/29/2020,The staff testing number is as of 12/26. The rest are from 12/29
@@ -959,7 +1010,7 @@ Rhode Island,RI,,,311,284,1,113,,,,984,864,2,130,,12/31/2020,Subtracting 4 presu
 South Carolina,SC,,,700,589,2,0,0,8577,,2489,2332,34,0,0,12/29/2020,
 South Dakota,SD,,389,176,174,0,,,,6413,2329,2321,5,,,12/29/2020,
 Tennessee,TN,,8754,1148,916,3,0,0,,35371,6211,6069,32,0,0,12/29/2020,
-Texas,TX,,116345,8463,7003,30,,,,291661,28421,25560,177,0,0,12/29/2020,
+Texas,TX,,116345,8463,7003,30,,,,291661,28421,25560,235,0,0,12/29/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,286,223,,,,,17222,2867,1634,12,,,12/29/2020,
 Vermont,VT,,,32,30,0,0,0,2539,10991,242,240,0,0,0,12/29/2020,
 Virginia,VA,,,1741,1370,2,0,0,,73256,7080,5860,45,0,0,12/29/2020,
@@ -997,7 +1048,7 @@ Montana,MT,,,,,,0,0,,,,,,0,0,12/22/2020,
 Nebraska,NE,,,,,,,,,,,,,,,12/22/2020,"Because of the Christmas holiday, Nebraska said it won't update its numbers this week."
 Nevada,NV,,,782,,2,,,,,3957,,36,0,0,12/22/2020,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,92,,0,0,0,,959,274,76,0,0,0,12/22/2020,
-New Jersey,NJ,,,1487,,,0,0,,,3557,,52,0,0,12/22/2020,
+New Jersey,NJ,,104052,1854,,,0,0,,,,,52,0,0,12/20/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,787,541,0,0,0,,26267,2209,1562,21,0,0,12/22/2020,
 New York,NY,,,2627,1785,6,,,,44048,2479,1899,20,0,0,12/22/2020,
 North Carolina,NC,,30055,2309,1731,6,0,0,37216,77127,7035,5974,29,0,0,12/22/2020,Staff testing number is as of 12/16. The rest are from 12/22
@@ -1010,7 +1061,7 @@ Rhode Island,RI,,,292,273,1,107,0,,,934,860,2,104,0,12/27/2020,Rhode Island bega
 South Carolina,SC,,,643,576,2,0,0,8569,,2453,2299,34,0,0,12/22/2020,
 South Dakota,SD,,387,175,171,0,0,0,,6301,,2299,5,0,0,12/22/2020,vaccine numbers sent via email from PIO
 Tennessee,TN,,,1136,899,2,0,0,,,6194,6058,31,0,0,12/22/2020,vaccine numbers sent via email from PIO
-Texas,TX,,111117,8058,6772,28,,,,276831,27640,25412,177,0,0,12/22/2020,
+Texas,TX,,111117,8058,6772,28,,,,276831,27640,25412,235,0,0,12/22/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,252,205,,,,,16476,2627,1622,11,,,12/21/2020,
 Vermont,VT,,,30,29,0,0,0,2520,10430,242,240,0,0,0,12/22/2020,vaccine numbers sent via email from PIO
 Virginia,VA,,,1566,1241,1,0,0,,71205,6740,5178,39,0,0,12/22/2020,
@@ -1048,7 +1099,7 @@ Montana,MT,,,260,,0,,,,,1113,,6,,,12/14/2020,"Staff cases include 55 employees o
 Nebraska,NE,,,,,,,,3447,5743,855,720,6,,,12/18/2020,
 Nevada,NV,,,680,68,2,,,,,3181,28,30,,,12/15/2020,"In April, Nevada revised its cases and deaths for this week. "
 New Hampshire,NH,,,73,50,0,,,,791,171,24,0,,,12/15/2020,
-New Jersey,NJ,,,1487,,,,,,,3557,,52,,,12/15/2020,
+New Jersey,NJ,,97825,1748,,,,,,157745,3602,,52,,,12/13/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,748,494,0,,,,25315,2009,1524,14,,,12/15/2020,
 New York,NY,,,2333,1764,6,,,36020,,2156,1791,18,,,12/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,18597,2003,1553,6,,,36963,72700,6687,5532,29,,,12/16/2020,
@@ -1061,7 +1112,7 @@ Rhode Island,RI,,,272,,1,,,,,790,,0,,,12/17/2020,
 South Carolina,SC,,,623,564,2,,,8506,,2448,2299,33,,,12/15/2020,
 South Dakota,SD,,382,172,169,0,,,,5924,2305,2282,5,,,12/15/2020,
 Tennessee,TN,,8554,1051,853,2,,,,,6137,6032,29,,,12/15/2020,"Tennessee later revised their numbers of prisoner tests down, but were not able to provide an updated figure for this week."
-Texas,TX,,102070,7610,6535,27,,,,263704,27171,24058,172,,,12/15/2020,
+Texas,TX,,102070,7610,6535,27,,,,263704,27171,24058,234,,,12/15/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,242,172,,,,,13663,2282,1050,10,,,12/16/2020,
 Vermont,VT,,,29,28,0,,,2495,9807,241,230,0,,,12/15/2020,"The number of recoveries dropped this week. ""9 incarcerated individuals in Mississippi tested positive again during mass testing. All 9 individuals were part of the original group of 185 that tested positive at TCCF, so these are not new unique positive cases."""
 Virginia,VA,,,1406,1114,1,,,,66757,6132,4766,35,,,12/15/2020,
@@ -1099,7 +1150,7 @@ Montana,MT,,,255,,0,,,,,1053,,4,,,12/08/2020,"Staff cases include 55 employees o
 Nebraska,NE,,,,,,,,3342,5525,786,666,6,,,12/11/2020,
 Nevada,NV,,,603,,2,,,,,2333,,19,,,12/08/2020,"In April, Nevada revised its cases and deaths for this week. We believe the jumps in cases this week are due to counting changes and earlier weeks may have been artificially lower, particularly for deaths."
 New Hampshire,NH,,,57,,,,,,470,,,0,,,12/09/2020,
-New Jersey,NJ,,,1401,,,,,,,3393,,52,,,12/08/2020,
+New Jersey,NJ,,91639,1610,,,,,,,,,52,,,12/06/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,656,376,0,,,,24670,1786,1495,14,,,12/08/2020,
 New York,NY,,,2103,1650,6,,,35936,,1959,1755,18,,,12/10/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,14297,,1887,1441,5,,,36385,65570,6059,5071,28,,,12/08/2020,
@@ -1112,7 +1163,7 @@ Rhode Island,RI,,,253,,0,,,,,,,0,,,12/10/2020,
 South Carolina,SC,,,584,544,2,,,8427,,2418,2218,33,,,12/09/2020,
 South Dakota,SD,,379,171,160,0,,,,5452,2287,2150,4,,,12/08/2020,
 Tennessee,TN,,,929,784,2,,,,,6075,5995,28,,,12/09/2020,"Tennessee later revised their numbers of prisoner tests down, but were not able to provide an updated figure for this week."
-Texas,TX,,97575,7317,6191,25,,,,256286,26807,23821,167,,,12/08/2020,
+Texas,TX,,97575,7317,6191,25,,,,256286,26807,23821,233,,,12/08/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,210,166,0,,,,12429,1906,753,9,,,12/08/2020,
 Vermont,VT,,,29,26,0,,,2466,9317,241,239,0,,,12/08/2020,
 Virginia,VA,,16092,1251,1024,1,,,,63211,5213,4515,35,,,12/09/2020,
@@ -1150,7 +1201,7 @@ Montana,MT,,,266,,0,,,,,1011,,4,,,11/30/2020,"Staff cases include 55 employees o
 Nebraska,NE,,,359,257,,,,3268,5200,743,502,5,,,12/04/2020,
 Nevada,NV,,,359,67,2,,,,,1044,27,2,,,12/01/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,42,19,0,,,385,,13,1,0,,,12/01/2020,
-New Jersey,NJ,,,1307,1189,,,,,139949,3310,,52,,,12/01/2020,
+New Jersey,NJ,,85210,1497,,,,,,144481,3372,,52,,,11/29/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,604,300,0,,,,22474,1592,579,11,,,12/01/2020,
 New York,NY,,,1896,1580,6,,,35899,,1826,1682,18,,,12/02/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,11063,1647,1305,5,,,36257,63444,5724,4556,24,,,12/02/2020,
@@ -1165,7 +1216,7 @@ For prisoners: similar issues hold for calculating the right number of presumpti
 South Carolina,SC,,,574,529,2,,,8407,20607,2411,2215,32,,,12/01/2020,
 South Dakota,SD,,369,164,155,0,,,,4909,2159,2079,4,,,12/01/2020,
 Tennessee,TN,,8141,795,681,2,,,,,6025,5960,28,,,12/02/2020,"Tennessee later revised their numbers of prisoner tests down, but were not able to provide an updated figure for this week."
-Texas,TX,,93239,6895,5759,23,,,,247831,26473,23617,167,,,12/01/2020,
+Texas,TX,,93239,6895,5759,23,,,,247831,26473,23617,233,,,12/01/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,168,120,0,,,,9993,1461,716,9,,,11/30/2020,
 Vermont,VT,,,27,24,0,,,2421,8820,241,239,0,,,12/01/2020,
 Virginia,VA,,,1107,958,1,,,,55872,4706,4312,34,,,12/02/2020,
@@ -1203,7 +1254,7 @@ Montana,MT,,,244,,0,,,,,969,,4,,,11/23/2020,Staff numbers include 55 cases at th
 Nebraska,NE,,,321,228,,,,3210,4755,677,312,4,,,11/27/2020,
 Nevada,NV,,,339,65,2,,,,,674,27,0,,,11/24/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,30,15,0,,,,257,7,1,0,,,11/24/2020,
-New Jersey,NJ,,,1182,,,,,,,3144,,52,,,11/24/2020,
+New Jersey,NJ,,79100,1383,,,,,,,,,52,,,11/22/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,553,241,0,,,,22474,1479,566,11,,,11/24/2020,
 New York,NY,,,1720,1523,5,,,35596,,1737,1621,18,,,11/24/2020,The staff cases and recovered figures are as of 11/25. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1560,1242,4,,,35973,60639,5322,4238,24,,,11/24/2020,
@@ -1216,7 +1267,7 @@ Rhode Island,RI,,,,,,,,,,,,,,,,
 South Carolina,SC,,,564,524,2,,,8350,,2410,2215,31,,,11/24/2020,
 South Dakota,SD,,353,159,146,0,,,,4576,2104,2038,3,,,11/24/2020,
 Tennessee,TN,,,,,,,,,,,,,,,,
-Texas,TX,,90545,6591,5487,23,,,,244243,26373,22491,167,,,11/24/2020,
+Texas,TX,,90545,6591,5487,23,,,,244243,26373,22491,229,,,11/24/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,168,120,,,,,9022,1289,707,9,,,11/25/2020,
 Vermont,VT,,,25,24,0,,,2397,8543,241,238,0,,,11/24/2020,
 Virginia,VA,,,1020,906,1,,,,54030,4590,4100,34,,,11/24/2020,
@@ -1254,7 +1305,7 @@ Montana,MT,,,232,,0,,,,,880,,2,,,11/16/2020,Including 55 staff members at the pr
 Nebraska,NE,,,,,,,,2752,4111,577,281,3,,,11/20/2020,
 Nevada,NV,,,275,49,2,,,,,577,27,0,,,11/17/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,16,13,0,,,,148,1,1,0,,,11/17/2020,
-New Jersey,NJ,,,1182,,,,,,,3144,,52,,,11/17/2020,
+New Jersey,NJ,,72577,1286,,,,,,130665,3169,,52,,,11/15/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,384,102,0,,,,20673,1266,560,8,,,11/17/2020,
 New York,NY,,,1617,1482,5,,,35556,,1709,1564,18,,,11/17/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1472,1168,4,,,35619,57615,4909,3928,22,,,11/17/2020,
@@ -1267,7 +1318,7 @@ Rhode Island,RI,,,145,,0,,,,,279,,0,,,11/17/2020,"11/17 data shows 240 cases amo
 South Carolina,SC,,,549,513,2,,,,,2396,2162,31,,,11/17/2020,
 South Dakota,SD,,345,154,133,0,,,,4366,2078,1849,3,,,11/17/2020,
 Tennessee,TN,,,795,681,2,,,,34690,5941,5715,27,,,11/17/2020,
-Texas,TX,,85017,6222,5226,23,,,,233993,25781,22412,165,,,11/17/2020,The number of prisoner deaths was incorrect and has been updated.
+Texas,TX,,85017,6222,5226,23,,,,233993,25781,22412,227,,,11/17/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. The number of prisoner deaths was incorrect and has been updated.
 Utah,UT,,,129,92,,,,,7063,1161,358,,,,11/18/2020,
 Vermont,VT,,,25,24,0,,,2361,8117,240,238,0,,,11/17/2020,
 Virginia,VA,,,,,1,,,,,4260,,34,,,11/17/2020,
@@ -1305,7 +1356,7 @@ Montana,MT,,,209,,0,,,,,865,,2,,,11/10/2020,"The number of staff cases, which in
 Nebraska,NE,,,,,,,,2310,3479,429,269,3,,,11/13/2020,
 Nevada,NV,,,203,46,2,,,,,170,27,0,,,11/10/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,13,12,0,,,139,,1,1,0,,,11/10/2020,
-New Jersey,NJ,,,1112,,,,,,,3114,,52,,,11/10/2020,
+New Jersey,NJ,,67517,1213,,,,,,,,,52,,,11/08/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,325,93,0,,,,20673,1120,555,5,,,11/10/2020,
 New York,NY,,,1558,,5,,,32818,,1644,1527,18,,,11/10/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1377,1114,2,,,35374,55756,4555,3811,22,,,11/12/2020,
@@ -1318,7 +1369,7 @@ Rhode Island,RI,,,,,,,,,,,,,,,,
 South Carolina,SC,,,537,511,2,,,,,2378,2105,31,,,11/10/2020,
 South Dakota,SD,,321,144,96,0,,,,4179,2009,1768,1,,,11/10/2020,
 Tennessee,TN,,7579,708,645,2,,,,33907,5705,5687,27,,,11/10/2020,
-Texas,TX,,81982,5892,5020,21,,,,230577,25548,22357,163,,,11/10/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,81982,5892,5020,21,,,,230577,25548,22357,224,,,11/10/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,103,70,0,,,,4115,886,358,0,,,11/09/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,24,24,0,,,2315,7844,240,238,0,,,11/10/2020,
 Virginia,VA,,,,,1,,,,,4190,,33,,,11/10/2020,
@@ -1356,7 +1407,7 @@ Montana,MT,,,199,,0,,,,,763,,0,,,11/02/2020,Staff cases include CoreCivic-run Cr
 Nebraska,NE,,,,,,,,2134,3164,283,241,2,,,11/01/2020,
 Nevada,NV,,,171,43,2,,,,,42,27,0,,,11/03/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,12,12,0,,,134,,1,1,0,,,11/03/2020,
-New Jersey,NJ,,,1059,,,,,,,3052,,52,,,11/03/2020,
+New Jersey,NJ,,61374,1174,,,,,,117468,3080,,52,,,11/01/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,232,93,0,,,,19524,808,541,4,,,11/03/2020,
 New York,NY,,,1522,,5,,,29726,,1590,1227,18,,,11/03/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1296,1059,2,,,35144,54440,4330,3512,20,,,11/03/2020,
@@ -1369,7 +1420,7 @@ Rhode Island,RI,,,104,,0,,,,,60,,0,,,11/05/2020,"Staff cases include 58 cases am
 South Carolina,SC,,,528,494,2,,,8045,,2356,2074,31,,,11/03/2020,
 South Dakota,SD,,298,128,76,0,,,,3886,1791,1337,0,,,11/03/2020,
 Tennessee,TN,,,708,645,2,,,,33907,5705,5687,27,,,11/06/2020,
-Texas,TX,,78332,5599,4854,21,,,,221090,23429,22244,163,,,11/03/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,78332,5599,4854,21,,,,221090,23429,22244,222,,,11/03/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,80,66,0,,,,3465,642,355,0,,,11/03/2020,Staff deaths backfilled based on 11/10 data. The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,24,23,0,,,2295,7650,240,238,0,,,11/03/2020,
 Virginia,VA,,,885,811,1,,,,47204,3971,3766,33,,,11/03/2020,
@@ -1407,7 +1458,7 @@ Montana,MT,,,157,,0,,,,,661,,0,,,10/26/2020,Includes 51 at Crossroads per CoreCi
 Nebraska,NE,,,,,,,,,,,,,,,,
 Nevada,NV,,,159,42,2,,,,,41,27,0,,,10/27/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,12,12,0,,,124,,1,1,0,,,10/27/2020,
-New Jersey,NJ,,,1059,,,,,,,3052,,52,,,10/26/2020,
+New Jersey,NJ,,54827,1132,,,,,,,,,52,,,10/25/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,193,87,0,,,,18857,735,525,4,,,10/27/2020,
 New York,NY,,,1479,1358,5,,,25785,,1566,817,18,,,10/27/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1233,1012,2,,,35036,53073,4110,3208,18,,,10/27/2020,
@@ -1420,7 +1471,7 @@ Rhode Island,RI,,,104,,0,,,,,52,,0,,,10/27/2020,Backfilled deaths based on info 
 South Carolina,SC,,,517,485,2,,,7985,,2334,1950,31,,,10/27/2020,
 South Dakota,SD,255,,94,44,0,,,2784,,1588,402,0,,,10/27/2020,
 Tennessee,TN,,7453,540,442,2,,,,33215,5686,5588,27,,,10/27/2020,
-Texas,TX,,76599,5438,4753,21,,,,217018,23362,21133,163,,,10/27/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,76599,5438,4753,21,,,,217018,23362,21133,220,,,10/27/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,76,61,0,,,,2698,347,111,0,,,10/27/2020,Staff deaths backfilled based on 11/10 data. The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,23,23,0,,,2267,7418,240,238,0,,,10/27/2020,
 Virginia,VA,,,867,796,1,,,,45214,3919,3662,33,,,10/28/2020,
@@ -1458,7 +1509,7 @@ Montana,MT,,,97,,0,,,,,458,,0,,,10/19/2020,"Montana stopped reporting staff figu
 Nebraska,NE,,,,,,,,2096,3075,260,234,2,,,10/23/2020,
 Nevada,NV,,,149,39,2,,,,,41,27,0,,,10/20/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,12,12,0,,,114,,1,1,0,,,10/20/2020,
-New Jersey,NJ,,61000,1059,,,,,,101446,3050,,52,,,10/20/2020,
+New Jersey,NJ,,48181,1104,,,,,,100918,3051,,52,,,10/18/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,159,83,0,,,,18546,671,521,4,,,10/20/2020,
 New York,NY,,,1415,1340,5,,,23545,,977,780,18,,,10/20/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1157,958,1,,,34830,50696,3798,2967,18,,,10/20/2020,
@@ -1471,7 +1522,7 @@ Rhode Island,RI,,,93,,0,,,,,43,,0,,,10/20/2020,Backfilled deaths based on info f
 South Carolina,SC,,,507,457,2,,,7889,,2315,1891,31,,,10/20/2020,
 South Dakota,SD,,198,54,40,0,,,,1017,442,247,0,,,10/20/2020,
 Tennessee,TN,,,540,442,2,,,,31129,5613,5328,27,,,10/20/2020,
-Texas,TX,,70939,5198,4627,21,,,,214466,23283,21021,157,,,10/20/2020,"In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,70939,5198,4627,21,,,,214466,23283,21021,219,,,10/20/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,,,0,,,,,,,0,,,10/20/2020,Deaths backfilled based on 11/10 data.
 Vermont,VT,,,22,22,0,,,2231,7171,240,238,0,,,10/20/2020,
 Virginia,VA,,,825,777,1,,,,42748,3856,3657,33,,,10/21/2020,
@@ -1509,7 +1560,7 @@ Montana,MT,,,72,,0,,,,,343,,0,,,10/13/2020,
 Nebraska,NE,,,,,,,,,,,,,,,,
 Nevada,NV,,,146,39,2,,,,,39,27,0,,,10/13/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,12,,,,,103,,1,,,,,10/13/2020,
-New Jersey,NJ,,61000,1033,1003,,,,,99446,3030,,52,,,10/13/2020,Testing figures are estimates from NJ DOC who said they've done more than this number of staff and prisoner tests.
+New Jersey,NJ,,42233,1074,,,,,,,,,52,,,10/11/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,130,79,0,,,,17018,567,512,4,,,10/13/2020,
 New York,NY,,,1367,1314,5,,,20541,,867,761,17,,,10/13/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1096,862,1,,,34571,48347,3394,2616,17,,,10/13/2020,
@@ -1522,7 +1573,7 @@ Rhode Island,RI,,,86,,0,,,,,37,,0,,,10/13/2020,Backfilled deaths based on info f
 South Carolina,SC,,,500,445,2,,,7795,,2280,1791,31,,,10/13/2020,
 South Dakota,SD,,177,44,36,0,,,,768,256,225,0,,,10/13/2020,
 Tennessee,TN,,,540,442,2,,,,31129,5586,5328,25,,,10/15/2020,
-Texas,TX,,70663,4988,4068,21,,,,212234,23137,20738,157,,,10/13/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,70663,4988,4068,21,,,,212234,23137,20738,218,,,10/13/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,63,28,0,,,,2592,343,66,0,,,10/14/2020,
 Vermont,VT,,,22,22,0,,,2195,6866,240,238,0,,,10/13/2020,
 Virginia,VA,,,804,759,1,,,,42318,3719,3564,33,,,10/13/2020,
@@ -1560,7 +1611,7 @@ Montana,MT,,,,,0,,,,,,,0,,,10/08/2020,
 Nebraska,NE,,,,,,,,1905,2738,242,191,1,,,10/09/2020,
 Nevada,NV,,,142,39,2,,,,,39,27,0,,,10/06/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,99,,1,1,0,,,10/06/2020,
-New Jersey,NJ,,,1033,,,,,,,3030,,52,,,10/06/2020,
+New Jersey,NJ,,36215,1063,,,,,,85972,3032,,52,,,10/04/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,118,77,0,,,,16850,567,512,4,,,10/06/2020,
 New York,NY,,,1351,,5,,,17665,,791,756,17,,,10/06/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,1014,733,1,,,34297,46947,3271,2414,16,,,10/06/2020,
@@ -1573,7 +1624,7 @@ Rhode Island,RI,,,82,,0,,,,,36,,0,,,10/06/2020,Backfilled deaths based on info f
 South Carolina,SC,,,491,430,2,,,,,2203,1600,31,,,10/06/2020,
 South Dakota,SD,,159,35,29,0,,,,752,245,180,0,,,10/06/2020,
 Tennessee,TN,,,540,442,2,,,,30414,5555,5306,22,,,10/07/2020,
-Texas,TX,,70425,4892,3973,21,,,,210411,23065,20673,157,,,10/06/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,70425,4892,3973,21,,,,210411,23065,20673,214,,,10/06/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,56,28,0,,,,2260,271,66,0,,,10/07/2020,Staff deaths backfilled based on 10/14 data.
 Vermont,VT,,,22,22,0,,,2162,6676,240,238,0,,,10/06/2020,
 Virginia,VA,,,792,748,1,,,,42287,3698,3477,33,,,10/06/2020,
@@ -1611,7 +1662,7 @@ Montana,MT,,,28,,0,,,,,156,,0,,,10/02/2020,
 Nebraska,NE,,,,,,,,,,231,146,1,,,10/02/2020,
 Nevada,NV,,,136,36,2,,,,,37,26,0,,,09/29/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,93,,1,1,0,,,09/30/2020,
-New Jersey,NJ,,,1020,,,,,,,3023,,49,,,09/29/2020,
+New Jersey,NJ,,29932,1039,,,,,,,,,49,,,09/27/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,113,74,0,,,,16378,563,506,4,,,09/29/2020,
 New York,NY,,,1332,1309,5,,,15282,,775,756,17,,,09/29/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,949,727,1,,,,34204,2875,2352,14,,,09/29/2020,
@@ -1624,7 +1675,7 @@ Rhode Island,RI,,,79,,0,,,,,36,,0,,,09/29/2020,Backfilled deaths based on info f
 South Carolina,SC,,,479,416,2,,,6692,,2148,1483,31,,,09/29/2020,
 South Dakota,SD,146,,30,22,0,,,604,,192,116,0,,,09/29/2020,
 Tennessee,TN,,5903,507,410,2,,,,29716,5329,5254,20,,,09/30/2020,
-Texas,TX,,69992,4804,3850,20,,,,206751,22746,20598,157,,,09/29/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,69992,4804,3850,20,,,,206751,22746,20598,212,,,09/29/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,42,28,0,,,,1931,120,49,0,,,09/29/2020,Staff deaths backfilled based on 10/14 data. The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,22,22,0,,,2112,6205,240,238,0,,,09/29/2020,
 Virginia,VA,,,774,706,1,,,,39260,3639,3276,31,,,09/29/2020,
@@ -1662,7 +1713,7 @@ Montana,MT,,,27,,0,,,,,132,,0,,,09/25/2020,
 Nebraska,NE,,,,,,,,2102,,210,135,1,,,09/25/2020,
 Nevada,NV,,,128,36,2,,,,,35,26,0,,,09/22/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,90,,1,1,0,,,09/22/2020,
-New Jersey,NJ,,,1014,,,,,,,3020,,49,,,09/22/2020,
+New Jersey,NJ,,23818,1024,,,,,,71121,3030,,49,,,09/20/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,103,69,0,,,,15533,549,504,4,,,09/22/2020,
 New York,NY,,,1329,1305,5,,,13012,,773,756,17,,,09/22/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,880,681,1,,,,33975,2579,2134,12,,,09/22/2020,
@@ -1675,7 +1726,7 @@ Rhode Island,RI,,,78,,0,,,,,36,,0,,,09/22/2020,Backfilled deaths based on info f
 South Carolina,SC,,,470,412,2,,,6615,,2050,1383,27,,,09/22/2020,
 South Dakota,SD,129,,23,16,0,,,442,,124,10,0,,,09/22/2020,
 Tennessee,TN,,5888,483,315,2,,,,29578,5328,5163,17,,,09/22/2020,
-Texas,TX,,68619,4717,3727,20,,,,203441,21653,20249,151,,,09/22/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,68619,4717,3727,20,,,,203441,21653,20249,210,,,09/22/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,,,0,,,,1636,66,48,0,,,09/21/2020,Staff deaths backfilled based on 10/14 data. The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,22,22,0,,,2051,5945,240,238,0,,,09/22/2020,
 Virginia,VA,,,761,662,1,,,,38722,3542,2761,24,,,09/22/2020,
@@ -1713,7 +1764,7 @@ Montana,MT,,,20,,0,,,,,112,,0,,,09/18/2020,
 Nebraska,NE,,,121,64,,,,1979,,196,28,1,,,09/18/2020,
 Nevada,NV,,,123,34,2,,,,,35,26,0,,,09/15/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,84,,1,1,0,,,09/15/2020,
-New Jersey,NJ,,42171,1011,967,,,,,65115,3010,,49,,,09/14/2020,
+New Jersey,NJ,,17819,1016,,,,,,,,,49,,,09/13/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,90,66,0,,,,13584,525,503,4,,,09/15/2020,
 New York,NY,,,1325,,5,,,8603,,755,738,17,,,09/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,757,635,1,,,,33803,2389,1825,11,,,09/15/2020,
@@ -1726,7 +1777,7 @@ Rhode Island,RI,,,78,,0,,,,,35,,0,,,09/15/2020,Backfilled deaths based on info f
 South Carolina,SC,,,464,380,1,,,5936,,1994,1226,24,,,09/15/2020,
 South Dakota,SD,112,,16,12,0,,,284,,25,10,0,,,09/15/2020,
 Tennessee,TN,,5297,403,280,2,,,,29151,5183,4577,16,,,09/15/2020,
-Texas,TX,,66359,4626,3625,20,,,,201004,21562,19680,151,,,09/15/2020,One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19.
+Texas,TX,,66359,4626,3625,20,,,,201004,21562,19680,207,,,09/15/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,29,27,0,,,,1528,63,46,0,,,09/14/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,22,21,0,,,2014,5462,240,236,0,,,09/15/2020,
 Virginia,VA,,,720,636,1,,,,37816,3127,2697,19,,,09/15/2020,
@@ -1764,7 +1815,7 @@ Montana,MT,,,12,,0,,,,,79,,0,,,09/11/2020,
 Nebraska,NE,,,82,63,,,,1546,,57,9,,,,09/11/2020,
 Nevada,NV,,,110,32,2,,,,,34,25,0,,,09/08/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,79,,1,1,0,,,09/08/2020,
-New Jersey,NJ,,,1000,,,,,,,3009,,49,,,09/08/2020,
+New Jersey,NJ,,12002,1012,,,,,,,,,49,,,09/06/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,82,60,0,,,,12929,512,493,4,,,09/08/2020,
 New York,NY,,,1320,,5,,,8592,,755,738,17,,,09/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,738,616,1,,,,33661,2205,1663,11,,,09/08/2020,
@@ -1777,7 +1828,7 @@ Rhode Island,RI,,,78,,0,,,,,34,,0,,,09/08/2020,Backfilled deaths based on info f
 South Carolina,SC,,,454,346,1,,,5557,,1888,866,19,,,09/08/2020,
 South Dakota,SD,105,,12,11,0,,,253,,10,6,0,,,09/08/2020,
 Tennessee,TN,,5266,312,250,1,,,,29098,4986,3409,15,,,09/09/2020,
-Texas,TX,,65383,4518,3447,20,,,,199135,21399,18643,142,,,09/08/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,65383,4518,3447,20,,,,199135,21399,18643,203,,,09/08/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,4,,0,,,,1417,60,46,0,,,09/08/2020,Staff deaths backfilled based on 9/15 data. The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,2022,22,21,0,,,1978,5024,240,233,0,,,09/08/2020,
 Virginia,VA,,,,,,,,,,2972,,15,,,09/08/2020,
@@ -1815,7 +1866,7 @@ Montana,MT,,,9,,0,,,,,22,,0,,,09/03/2020,
 Nebraska,NE,,,,,,,,955,,11,10,0,,,08/28/2020,
 Nevada,NV,,,104,32,2,,,,,32,25,0,,,09/01/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,76,,1,1,0,,,09/01/2020,
-New Jersey,NJ,,30240,1000,948,,,,,55446,3008,,49,,,09/01/2020,
+New Jersey,NJ,,5978,1009,,,,,,,,,49,,,08/30/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,10601,,81,55,0,,,,12322,512,491,4,,,09/01/2020,
 New York,NY,,,1320,1289,5,,,8571,,755,738,17,,,09/01/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,694,553,1,,,,33426,1978,1635,10,,,09/01/2020,
@@ -1828,7 +1879,7 @@ Rhode Island,RI,,,78,,0,,,,,33,,0,,,09/01/2020,Backfilled deaths based on info f
 South Carolina,SC,,,428,326,1,,,4595,,1666,709,16,,,09/01/2020,
 South Dakota,SD,100,,11,9,0,,,243,,6,5,0,,,09/02/2020,
 Tennessee,TN,,5254,308,196,1,,,,26102,4560,3354,12,,,09/01/2020,
-Texas,TX,,63488,4368,3337,20,,,,194412,20617,17879,136,,,09/01/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,63488,4368,3337,20,,,,194412,20617,17879,198,,,09/01/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,4,4,0,,,,1357,46,46,0,,,09/01/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,1879,22,21,0,,,1932,4900,240,231,0,,,09/01/2020,
 Virginia,VA,9245,,646,583,0,,,35361,,2710,2490,14,,,09/01/2020,
@@ -1866,7 +1917,7 @@ Montana,MT,,,9,,0,,,,,17,,0,,,08/27/2020,
 Nebraska,NE,,,,,,,,953,,10,10,0,,,08/21/2020,
 Nevada,NV,,,94,32,2,,,,,28,25,0,,,08/25/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,72,,1,1,0,,,08/25/2020,
-New Jersey,NJ,,24262,1000,935,,,,,54510,3008,,49,,,08/25/2020,"The number of cases among inmates decreased because the prison officials took out some cases that were retested and returned negative from the phase 2 positives. Those were tested some time in the last month, but it's unclear how far back those positives had been included in the count"
+New Jersey,NJ,,,1000,935,,,,,56462,3009,,49,,,08/23/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for cases among prisoners. These figures revealed many new cases but also exclude cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,80,33,0,,,,11765,509,480,4,,,08/25/2020,
 New York,NY,,,1318,1282,5,,,8556,,755,738,17,,,08/25/2020,
 North Carolina,NC,,,572,499,1,,,,33022,1819,1525,10,,,08/25/2020,
@@ -1879,7 +1930,7 @@ Rhode Island,RI,,,78,,0,,,,,33,,0,,,08/25/2020,Backfilled deaths based on info f
 South Carolina,SC,,,402,304,1,,,4376,,1462,607,13,,,08/25/2020,
 South Dakota,SD,89,,9,8,0,,,208,,5,5,0,,,08/25/2020,
 Tennessee,TN,,5231,274,163,1,,,,24618,3367,3259,9,,,08/25/2020,
-Texas,TX,,61525,4265,3159,20,,,,188613,19599,17649,132,,,08/25/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,61525,4265,3159,20,,,,188613,19599,17649,190,,,08/25/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,4,4,0,,,,1220,46,45,0,,,08/24/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,1755,22,21,0,,,1884,4659,240,206,0,,,08/25/2020,
 Virginia,VA,,,,,,,,,,2621,,13,,,08/25/2020,
@@ -1917,7 +1968,7 @@ Montana,MT,,,9,,,,,,,15,,,,,08/18/2020,
 Nebraska,NE,,,55,42,,,,950,,10,10,0,,,08/14/2020,
 Nevada,NV,,,87,32,1,,,,,27,23,0,,,08/18/2020,"In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,69,,1,1,0,,,08/18/2020,
-New Jersey,NJ,,17529,981,920,,,,,43586,3119,,49,,,08/18/2020,
+New Jersey,NJ,,,981,920,,,,,43038,2997,,49,,,08/18/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for cases among prisoners. These figures revealed many new cases but also exclude cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,75,26,0,,,,11196,508,460,4,,,08/18/2020,
 New York,NY,,,1317,,5,,,8519,,755,736,17,,,08/18/2020,"This week's staff recovered figures initially included a figure reported by the DOC that was later stated to be incorrect. The DOC did not provide a corrected figure, so it has since then been removed. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated."
 North Carolina,NC,,,528,437,1,,,,32848,1650,1351,10,,,08/18/2020,
@@ -1930,7 +1981,7 @@ Rhode Island,RI,,,76,,0,,,,,29,,0,,,08/18/2020,Backfilled deaths based on info f
 South Carolina,SC,,,364,254,1,,,3885,,1262,466,12,,,08/18/2020,
 South Dakota,SD,88,,9,8,0,,,181,,5,5,0,,,08/18/2020,
 Tennessee,TN,,5186,237,153,1,,,,23964,3318,3245,9,,,08/18/2020,
-Texas,TX,,58767,4059,2848,20,,,,181858,18756,15656,119,,,08/18/2020,"One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,58767,4059,2848,20,,,,181858,18756,15656,182,,,08/18/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. One prisoner who died was later recategorized in October by TDCJ as a death unrelated to COVID-19. In November, Texas re-classified several other deaths that had been presumed to be connected to coronavirus as unrelated to COVID."
 Utah,UT,,,4,4,0,,,,1160,46,43,0,,,08/18/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,1606,22,20,0,,,1834,4171,239,171,0,,,08/18/2020,
 Virginia,VA,8020,,603,486,0,,,31815,,2555,2036,13,,,08/18/2020,
@@ -1968,7 +2019,7 @@ Montana,MT,,,,,0,,,,,,,0,,,08/14/2020,
 Nebraska,NE,,,49,34,,,,945,,10,10,0,,,08/07/2020,
 Nevada,NV,,,,32,1,,,,,25,23,0,,,08/11/2020,"This week's staff cases were originally 94. Since then, the numbers have been revised according to prison officials, reflecting a lower number (87) in the following week. This week's figure has been updated to NA until the correct figures can be obtained. In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,61,,1,1,0,,,08/11/2020,
-New Jersey,NJ,,13148,971,895,,,,,41186,3023,,49,,,08/11/2020,
+New Jersey,NJ,,,971,895,,,,,28771,2981,,49,,,08/09/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for cases among prisoners. These figures revealed many new cases but also exclude cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,73,21,0,,,,9659,505,438,4,,,08/11/2020,"This week's prisoner testing numbers were initially noted as prisoners tested, but have since been changed to number of tests for prisoners - which may include the same inmate tested more than once"
 New York,NY,,,1313,,5,,,8475,,755,643,17,,,08/11/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 North Carolina,NC,,,493,374,1,,,,32509,1504,1272,10,,,08/11/2020,
@@ -1981,7 +2032,8 @@ Rhode Island,RI,,,76,,0,,,,,26,,0,,,08/11/2020,Backfilled deaths based on info f
 South Carolina,SC,,,324,218,1,,,3752,,1127,378,12,,,08/12/2020,
 South Dakota,SD,87,,8,6,0,,,166,,5,5,0,,,08/11/2020,
 Tennessee,TN,,5151,200,140,0,,,,23673,3267,3214,8,,,08/11/2020,
-Texas,TX,,57681,3847,2468,16,,,,179134,18495,14573,111,,,08/11/2020,"In November, Texas re-classified several deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,57681,3847,2468,16,,,,179134,18495,14573,174,,,08/11/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. In November, Texas re-classified several deaths that had been presumed to be connected to coronavirus as unrelated to COVID.
+"
 Utah,UT,,,4,4,0,,,,949,46,41,0,,,08/10/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,1525,21,20,0,,,1783,3884,201,49,0,,,08/11/2020,
 Virginia,VA,7525,,569,456,0,,,,,2406,,13,,,08/13/2020,
@@ -2019,7 +2071,7 @@ Montana,MT,466,,8,,,,,1924,,13,,,,,08/04/2020,
 Nebraska,NE,,,42,26,,,,939,,10,10,0,,,07/31/2020,
 Nevada,NV,,,78,30,1,,,,,,22,0,,,08/04/2020,"Nevada's cases dropped by 1 this week, and we are inquiring as to why. In late December, Nevada revised its number of deaths and this week's figures were adjusted accordingly."
 New Hampshire,NH,,,11,11,0,,,60,,1,1,0,,,08/04/2020,
-New Jersey,NJ,,13148,781,,,,,,36290,2960,,49,,,08/04/2020,
+New Jersey,NJ,,,781,,,,,,14731,2955,,49,,,08/02/2020,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for cases among prisoners. These figures revealed many new cases but also exclude cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly."
 New Mexico,NM,,,,,,,,,9659,505,438,4,,,08/04/2020,
 New York,NY,,,1311,1272,5,,,5879,,604,542,17,,,08/04/2020,
 North Carolina,NC,,,409,319,1,,,,32274,1456,1036,8,,,08/04/2020,
@@ -2032,7 +2084,8 @@ Rhode Island,RI,,,75,,0,,,,,25,20,0,,,08/04/2020,
 South Carolina,SC,,,296,187,1,,,3244,,975,236,10,,,08/04/2020,
 South Dakota,SD,77,,8,6,0,,,133,,5,5,0,,,08/03/2020,
 Tennessee,TN,,5014,183,125,0,,,,23526,3221,3204,5,,,08/04/2020,
-Texas,TX,,55467,3546,2185,14,,,,174407,17068,12493,111,,,08/04/2020,"In November, Texas re-classified several deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,55467,3546,2185,14,,,,174407,17068,12493,164,,,08/04/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. In November, Texas re-classified several deaths that had been presumed to be connected to coronavirus as unrelated to COVID.
+"
 Utah,UT,,,4,4,0,,,,892,43,40,0,,,08/03/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,1449,20,20,0,,,1753,3617,149,46,0,,,08/04/2020,
 Virginia,VA,7525,,520,392,0,,,29642,,2151,1507,13,,,08/04/2020,
@@ -2083,7 +2136,7 @@ Rhode Island,RI,,,48,,0,,,,,22,,0,,,07/28/2020,Backfilled deaths based on info f
 South Carolina,SC,,,263,158,1,,,2376,,786,214,9,,,07/29/2020,
 South Dakota,SD,67,,6,5,0,,,133,,5,4,0,,,07/28/2020,
 Tennessee,TN,,,158,112,0,,,,23477,3213,3185,5,,,07/28/2020,"Tennessee later revised the number of prisoner tests conducted, and the number has been adjusted here accordingly."
-Texas,TX,,50607,3213,1860,14,,,,161371,15241,10686,101,,,07/28/2020,"Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column. In November, Texas re-classified several deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
+Texas,TX,,50607,3213,1860,14,,,,161371,15241,10686,152,,,07/28/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column. In November, Texas re-classified several deaths that had been presumed to be connectedto coronavirus as unrelated to COVID. We have adjusted our death totals accordingly."
 Utah,UT,,,4,4,0,,,,796,41,15,0,,,07/29/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,1309,20,19,0,,,1492,2919,48,46,0,,,07/28/2020,
 Virginia,VA,,,478,346,0,,,28590,,1876,1484,13,,,07/29/2020,
@@ -2134,7 +2187,7 @@ Rhode Island,RI,,,29,,0,,,,,21,,0,,,07/23/2020,
 South Carolina,SC,,,231,112,1,,,1871,,651,155,8,,,07/21/2020,
 South Dakota,SD,67,,6,5,0,,,131,,4,4,0,,,07/21/2020,
 Tennessee,TN,4865,4905,133,102,0,,,,23438,3195,3183,4,,,07/21/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
-Texas,TX,,46150,2801,1562,11,,,,147971,13454,9963,94,,,07/21/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,46150,2801,1562,11,,,,147971,13454,9963,137,,,07/21/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,4,0,,,,687,38,14,0,,,07/20/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,19,0,,,1451,2778,48,45,0,,,07/21/2020,
 Virginia,VA,,,435,322,0,,,25567,,1821,1472,13,,,07/21/2020,
@@ -2172,7 +2225,7 @@ Montana,MT,458,,3,,0,,,1886,,11,,,,,07/14/2020,The number of prisoner and staff 
 Nebraska,NE,,,23,20,,,,898,,8,8,0,,,07/10/2020,
 Nevada,NV,2648,,49,27,0,,,12368,,18,17,0,,,07/15/2020,
 New Hampshire,NH,,,11,11,0,,,43,,1,1,0,,,07/10/2020,
-New Jersey,NJ,,6713,781,762,,,,,22813,2892,,49,,,07/14/2020,
+New Jersey,NJ,,,781,762,,,,,,2892,,49,,,07/14/2020,
 New Mexico,NM,4363,,33,10,0,,,7220,,467,381,4,,,07/14/2020,
 New York,NY,,,1300,1253,5,,,4055,,545,495,16,,,07/10/2020,The number of prisoners and staff recovered dropped by 1 each this week. We have not yet learned why they changed.
 North Carolina,NC,2935,,249,194,1,,,8793,,1052,802,5,,,07/14/2020,
@@ -2185,7 +2238,7 @@ Rhode Island,RI,,,22,,0,,,,,21,,0,,,07/14/2020,Backfilled deaths based on info f
 South Carolina,SC,,,189,95,1,,,1171,,563,128,7,,,07/14/2020,
 South Dakota,SD,64,,5,5,0,,,130,,4,4,0,,,07/13/2020,
 Tennessee,TN,4865,4905,121,98,0,,,,23353,3186,3173,4,,,07/13/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
-Texas,TX,,41814,2160,1165,9,,,,137831,12071,7703,94,,,07/14/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,41814,2160,1165,9,,,,137831,12071,7703,127,,,07/14/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,4,0,,,,685,38,13,0,,,07/13/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,1309,20,19,0,,,1413,2646,47,45,0,,,07/14/2020,
 Virginia,VA,,,388,307,0,,,25352,,1530,1452,11,,,07/14/2020,The number of prisoners recovered dropped by one this week. We are inquiring as to why and will update when we can.
@@ -2223,7 +2276,7 @@ Montana,MT,195,,3,3,0,,,723,,3,3,0,,,07/07/2020,The number of prisoner and staff
 Nebraska,NE,,,,,,,,894,,8,7,0,,,07/03/2020,
 Nevada,NV,,2648,41,26,0,,,,12368,16,15,0,,,07/07/2020,
 New Hampshire,NH,,,11,11,0,,,40,,1,1,0,,,07/07/2020,
-New Jersey,NJ,,6713,781,762,,,,,22484,2869,,46,,,07/09/2020,
+New Jersey,NJ,,,781,762,,,,,,2869,,46,,,07/09/2020,
 New Mexico,NM,4191,,22,5,0,,,6346,,461,244,3,,,07/07/2020,
 New York,NY,,,1299,1254,5,,,2813,,541,496,16,,,07/07/2020,
 North Carolina,NC,2831,,220,169,1,,,5958,,887,768,5,,,07/07/2020,
@@ -2236,7 +2289,7 @@ Rhode Island,RI,,,21,18,0,,,,,20,12,0,,,07/09/2020,The number of prisoners who t
 South Carolina,SC,,,153,82,1,,,1003,,346,116,5,,,07/08/2020,
 South Dakota,SD,64,,5,5,0,,,130,,4,4,0,,,07/07/2020,
 Tennessee,TN,4865,4905,113,98,0,,,,23352,3184,3173,4,,,07/07/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
-Texas,TX,,38460,1782,999,9,,,,128796,9592,7376,88,,,07/07/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,38460,1782,999,9,,,,128796,9592,7376,121,,,07/07/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,4,0,,,,546,30,13,0,,,07/06/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,19,0,,,1374,2250,47,45,0,,,07/07/2020,
 Virginia,VA,,,369,293,0,,,25328,,1516,1453,11,,,07/07/2020,
@@ -2274,7 +2327,7 @@ Montana,MT,195,,3,3,0,,,723,,3,3,0,,,06/30/2020,The number of prisoner and staff
 Nebraska,NE,,,,,,,,,,,,,,,,
 Nevada,NV,2560,,38,,0,,,12368,,15,,0,,,06/30/2020,
 New Hampshire,NH,,,11,11,0,,,37,,1,1,0,,,07/01/2020,
-New Jersey,NJ,,6713,781,725,3,,,,20342,2821,,46,,,06/30/2020,
+New Jersey,NJ,,,781,725,3,,,,,2821,,46,,,06/30/2020,
 New Mexico,NM,3683,,19,5,0,,,5965,,450,112,3,,,07/01/2020,New Mexico has updated its staff and prisoner case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1298,1252,5,,,1421,,519,495,16,,,06/30/2020,
 North Carolina,NC,2420,,199,161,1,,,4565,,799,744,5,,,06/30/2020,
@@ -2287,7 +2340,7 @@ Rhode Island,RI,,,21,17,0,,,,,18,12,0,,,06/29/2020,The number of prisoners who t
 South Carolina,SC,,,122,78,1,,,794,,255,101,2,,,06/30/2020,
 South Dakota,SD,63,,5,5,0,,,123,,4,4,0,,,06/30/2020,
 Tennessee,TN,4865,4905,99,93,0,,,,23143,3173,3166,4,,,06/30/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
-Texas,TX,,35407,1455,928,8,,,,117639,8240,6790,79,,,06/29/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,35407,1455,928,8,,,,117639,8240,6790,116,,,06/29/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,4,0,,,,544,28,12,0,,,06/30/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,19,0,,,1327,2156,47,45,0,,,06/30/2020,"The number of prisoner cases dropped by 3 this week to 47. Numbers are lower than last week for prisoner tests and total positive tests. They did some checks on their data and found that inmate tests contained 27 duplicates. Also added a line for ""unique positive cases"" which is lower than last week's positive tests, which included some inmates that got multiple positive results."
 Virginia,VA,,,343,272,0,,,22929,,1512,1389,11,,,06/30/2020,
@@ -2338,7 +2391,7 @@ Rhode Island,RI,,,19,,0,,,,,18,,0,,,06/23/2020,Deaths filled in based on later w
 South Carolina,SC,,,97,67,1,,,585,,133,81,2,,,06/23/2020,
 South Dakota,SD,60,,5,4,0,,,117,,4,4,0,,,06/23/2020,
 Tennessee,TN,4865,4905,99,93,0,,,,23141,3171,3078,4,,,06/23/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
-Texas,TX,,32115,1237,846,8,,,,108367,7575,6255,69,,,06/23/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,32115,1237,846,8,,,,108367,7575,6255,104,,,06/23/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,4,0,,,,364,14,10,0,,,06/22/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,971,20,19,0,,,1330,1888,47,43,0,,,06/24/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,317,229,0,,,,,1494,1073,10,,,06/23/2020,
@@ -2376,7 +2429,7 @@ Montana,MT,111,,3,,,,,291,,2,,,,,06/17/2020,The number of prisoner and staff cas
 Nebraska,NE,,,20,13,,,,400,,7,7,0,,,06/16/2020,
 Nevada,NV,1563,,30,,0,,,8766,,8,,0,,,06/16/2020,
 New Hampshire,NH,,,11,11,0,,,31,,1,0,0,,,06/16/2020,
-New Jersey,NJ,6713,,781,640,3,,,,20995,2655,,46,,,06/16/2020,"They don't track ""prisoner recoveries"". The number of staff tests dropped this week. We're inquiring as to why."
+New Jersey,NJ,,,781,640,3,,,,,2655,,46,,,06/16/2020,"They don't track ""prisoner recoveries"". The number of staff tests dropped this week. We're inquiring as to why."
 New Mexico,NM,2982,,17,5,0,,,4775,,320,17,2,,,06/17/2020,New Mexico initially reported 60 staff cases this week. It later revised those numbers and we have updated them here. New Mexico has also updated its prisoner case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1285,1229,5,,,1304,,517,484,16,,,06/16/2020,
 North Carolina,NC,2441,,158,137,1,,,2750,,714,635,5,,,06/17/2020,
@@ -2389,7 +2442,7 @@ Rhode Island,RI,,,17,,0,,,,,17,,0,,,06/18/2020,"In early July, Rhode Island bega
 South Carolina,SC,,,91,61,1,,,525,,109,74,2,,,06/18/2020,
 South Dakota,SD,58,,5,4,0,,,115,,4,4,0,,,06/16/2020,
 Tennessee,TN,4865,4905,97,75,0,,,,22987,3137,3076,4,,,06/16/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
-Texas,TX,,31715,1129,763,8,,,,107696,7467,4824,54,,,06/16/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,31715,1129,763,8,,,,107696,7467,4824,97,,,06/16/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,4,0,,,,315,14,10,0,,,06/15/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,19,0,,,1230,,45,43,0,,,06/16/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,301,187,0,,,21295,,1328,947,9,,,06/16/2020,
@@ -2427,7 +2480,7 @@ Montana,MT,111,,3,,0,,,291,,2,,0,,,06/09/2020,The number of prisoner cases and t
 Nebraska,NE,,,,,,,,,,,,,,,,
 Nevada,NV,571,,28,,0,,,5001,,7,,0,,,06/09/2020,
 New Hampshire,NH,,,11,11,0,,,24,,1,,0,,,06/09/2020,
-New Jersey,NJ,,7146,778,,3,,,,,2451,,46,,,06/09/2020,"We've moved the staff tests figure from previous releases to ""staff tests with multiples"" after the agency clarified their earlier numbers."
+New Jersey,NJ,,,778,,3,,,,,2451,,46,,,06/09/2020,"We've moved the staff tests figure from previous releases to ""staff tests with multiples"" after the agency clarified their earlier numbers."
 New Mexico,NM,2528,,11,4,0,,,3144,,243,17,2,,,06/10/2020,New Mexico has updated its case numbers over the past several weeks after they incorrectly reported them to us. The new figures are reflected here.
 New York,NY,,,1284,1217,4,,,1280,,512,468,16,,,06/09/2020,
 North Carolina,NC,250,,152,126,1,,,1955,,691,624,5,,,06/09/2020,"Staff tests are based on testing information from one facility, Neuse, in May. NC has not updated the figures since."
@@ -2440,7 +2493,7 @@ Rhode Island,RI,1194,,16,,0,,,1679,,16,,0,,,06/10/2020,"In early July, Rhode Isl
 South Carolina,SC,,,83,56,1,,,402,,102,68,2,,,06/09/2020,
 South Dakota,SD,55,,4,3,0,,,109,,4,3,0,,,06/09/2020,
 Tennessee,TN,4865,4905,97,69,0,,,,22840,3079,2653,4,,,06/09/2020,The number we had originally been given for Tennessee's staff tests were total tests rather than unique people tested. We've now updated the number with new figures from the Department of Corrections.
-Texas,TX,,28705,1053,630,7,,,,96894,6998,2669,46,,,06/09/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,28705,1053,630,7,,,,96894,6998,2669,83,,,06/09/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,4,0,,,,315,14,10,0,,,06/09/2020,"The number of prisoners tested jumped from last week because the department is now testing new arrivals, unless they decline, in which case they're quarantined for 2 weeks. All intake happens one day a week, on Wednesdays.The PIO clarified that ""intakes tested"" in their tracker is in fact a subset of ""inmates tested."" The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated."
 Vermont,VT,,798,20,19,0,,,1214,1432,45,43,0,,,06/09/2020,"Number of staff tests is since 5/1. State DOH is working on a records request to provie the total number of staff tests from the beginning ot the pandemic. At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,,,,,,,19673,1295,843,9,,,06/09/2020,"We are not reporting staff cases this week, which dropped to 121, as Virginia is only reporting ""active"" cases. We're trying to get an accurate cumulative number."
@@ -2491,7 +2544,7 @@ Rhode Island,RI,1031,,16,,0,,,1068,,15,,0,,,06/01/2020,"In early July, Rhode Isl
 South Carolina,SC,,,77,52,1,,,331,,95,51,2,,,06/02/2020,
 South Dakota,SD,54,,3,3,0,,,94,,3,3,0,,,06/02/2020,
 Tennessee,TN,4526,,94,61,0,,,,22123,2888,2652,4,,,06/03/2020,
-Texas,TX,,20180,966,470,7,,,,62937,6592,1550,40,,,06/02/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,20180,966,470,7,,,,62937,6592,1550,73,,,06/02/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,,,,,,211,11,10,0,,,06/02/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,19,0,,,872,,45,43,0,,,06/02/2020,"At the end of June, Vermont said it had inadvertantly counted some prisoners with positive cases more than once for several weeks. We've since revised this week's prisoner case counts accordingly."
 Virginia,VA,,,140,,,,,,,1228,671,9,,,06/01/2020,
@@ -2542,7 +2595,7 @@ Rhode Island,RI,935,,16,,0,,,720,,11,,0,,,05/28/2020,"In early July, Rhode Islan
 South Carolina,SC,,,71,47,1,,,,,79,42,2,,,05/28/2020,
 South Dakota,SD,54,,3,3,0,,,90,,3,2,0,,,05/27/2020,
 Tennessee,TN,4526,,79,47,0,,,,20816,2661,2593,4,,,05/27/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of prisoners tested. One prisoner could have tested positive more than once in this sum. For the staff, Tennessee has revised the number of people tested."
-Texas,TX,,17123,878,,7,,,,51536,4440,1349,36,,,05/27/2020,"Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column."
+Texas,TX,,17123,878,,7,,,,51536,4440,1349,65,,,05/27/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column."
 Utah,UT,,,4,,,,,,182,10,10,0,,,05/27/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,18,0,,,482,660,45,43,0,,,05/27/2020,
 Virginia,VA,,,115,,,,,12000,,1149,613,6,,,05/27/2020,
@@ -2593,7 +2646,7 @@ Rhode Island,RI,651,,12,,0,,,350,,7,,0,,,05/20/2020,"In early July, Rhode Island
 South Carolina,SC,425,,70,,1,,,169,,65,,2,,,05/20/2020,
 South Dakota,SD,52,,3,,0,,,87,,2,,0,,,05/20/2020,
 Tennessee,TN,,,74,,0,,,,20752,2649,,4,,,05/20/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,,12952,750,,7,,,,41223,2214,,32,,,05/20/2020,"Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column."
+Texas,TX,,12952,750,,7,,,,41223,2214,,59,,,05/20/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column."
 Utah,UT,,,4,,0,,,,123,10,,0,,,05/20/2020,All the positive cases are in halfway houses. The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,,0,,,318,,45,,0,,,05/20/2020,"The ""positive results"" section of the Covid dashboard reflects 48 positives, but the dashboard notes that 3 of them are re-tests. The 223 inmate tests include 2 inmates housed at a private prison in Mississippi. / Confirmed with Rachel Feldman that deaths are still 0."
 Virginia,VA,,,74,,0,,,8124,,902,,5,,,05/20/2020,
@@ -2644,7 +2697,7 @@ Rhode Island,RI,361,,11,,0,,,170,,5,,0,,,05/12/2020,"In early July, Rhode Island
 South Carolina,SC,425,,63,,1,,,152,,60,,2,,,05/13/2020,
 South Dakota,SD,50,,3,,0,,,86,,2,,0,,,05/14/2020,
 Tennessee,TN,,,64,,0,,,,19424,2574,,3,,,05/13/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,,5142,697,,7,,,,9476,1798,,30,,,05/14/2020,"Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column."
+Texas,TX,,5142,697,,7,,,,9476,1798,,55,,,05/14/2020,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Earlier updates to the data overcounted the number of employee tests by adding ""Strike Team Tests"" to ""Reported Tests."" TDCJ has now confirmed that ""Reported Tests"" was intended to be the total. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column."
 Utah,UT,,,4,,0,,,,115,10,,0,,,05/13/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,20,,0,,,223,,45,,0,,,05/13/2020,"For the first week, Vermont began releasing the total number of prisoners tested, rather than the total tests administered, so this figure dropped from weeks past. At the private prison in Mississippi that holds some Vermont prisoners, 2 were tested and 0 were positive."
 Virginia,VA,,,73,,0,,,5605,,725,,5,,,05/13/2020,
@@ -2695,7 +2748,7 @@ Rhode Island,RI,200,,11,,0,,,110,,,,0,,,05/06/2020,"In early July, Rhode Island 
 South Carolina,SC,,,56,,1,,,,,42,,2,,,05/06/2020,
 South Dakota,SD,46,,3,,0,,,82,,2,,0,,,05/06/2020,South Dakota initially reported 4 self-reported positives among staff on this day and later changed it to 3.
 Tennessee,TN,,,55,,0,,,,5962,1959,,1,,,05/05/2020,"Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,,2379,504,,5,,,,2134,1336,,23,,,05/06/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,2379,504,,5,,,,2134,1336,,40,,,05/06/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,4,,0,,,,101,10,,0,,,05/06/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,154,,19,,0,,,,384,45,,0,,,05/06/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
 Virginia,VA,,,65,,0,,,,,580,,3,,,05/06/2020,
@@ -2746,7 +2799,7 @@ Rhode Island,RI,77,,10,,0,,,108,,3,,0,,,04/30/2020,"1(former inmate tested durin
 South Carolina,SC,,,45,,1,,,,,15,,0,,,04/28/2020,
 South Dakota,SD,36,,2,,0,,,74,,2,,0,,,04/29/2020,
 Tennessee,TN,,,,,0,,,,3834,759,,0,,,04/29/2020,"Staff deaths backfilled from 5/6 update. Since testing everyone in all of their prisons, Tennessee has said it is releasing the total number of tests conducted and positive cases, and not the number of individuals. One prisoner could have tested positive more than once in this sum."
-Texas,TX,,1795,381,,5,,,,1697,1050,,12,,,04/29/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,1795,381,,5,,,,1697,1050,,26,,,04/29/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,2,,0,,,,95,10,,0,,,04/29/2020,The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,18,,0,,,,378,38,,0,,,04/29/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we've moved this figure into the Prisoner_tests_with_multiples column"
 Virginia,VA,,,65,,0,,,,,479,,3,,,04/29/2020,
@@ -2797,7 +2850,7 @@ Rhode Island,RI,,,6,,0,,,103,,1,,0,,,04/22/2020,the 1 case is someone awaiting t
 South Carolina,SC,,,36,,1,,,,,2,,0,,,04/22/2020,
 South Dakota,SD,,,,,0,,,,,2,,0,,,04/23/2020,Staff deaths backfilled from 4/29 update.
 Tennessee,TN,,,35,,0,,,,3239,211,,0,,,04/22/2020,"Prisoner test numbers are total number of tests conducted, not individuals tested."
-Texas,TX,,1299,252,,2,,,,1053,594,,5,,,04/22/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,1299,252,,2,,,,1053,594,,12,,,04/22/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,2,,0,,,,79,10,,0,,,04/22/2020,All 10 cases (and 66 tests) are in halfway houses. The number of tests conducted was mistakenly placed in the column for the total number of people tested. This has been updated.
 Vermont,VT,,,18,,0,,,,221,38,,0,,,04/22/2020,Prisoner tests total may included multiple tests of the same prisoners. So we've moved these figures into the Prisoner_tests_with_multiples column. 27 inmate tests with results pending and 25 for staff.
 Virginia,VA,,,57,,0,,,,,236,,1,,,04/22/2020,
@@ -2848,7 +2901,7 @@ Rhode Island,RI,,,5,,0,,,16,,0,,0,,,04/15/2020,
 South Carolina,SC,,,29,,1,,,,,0,,0,,,04/15/2020,
 South Dakota,SD,,,,,0,,,,,2,,0,,,04/15/2020,Staff deaths backfilled from 4/29 update.
 Tennessee,TN,,,0,,0,,,69,,7,,0,,,04/15/2020,
-Texas,TX,,940,137,,1,,,,524,284,,4,,,04/15/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,940,137,,1,,,,524,284,,6,,,04/15/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,,,0,,,,,9,,0,,,04/15/2020,"Cases have all been at a ""community correctional"" facility (a halfway house). Prisoner deaths backfilled based on 4/22 response"
 Vermont,VT,,,18,,0,,,,206,33,,0,,,04/14/2020,Prisoner tests total may included multiple tests of the same prisoners. So we've moved this figure into the prisoner_tests_with_multiples column.
 Virginia,VA,,,34,,0,,,,,53,,1,,,04/15/2020,
@@ -2899,7 +2952,7 @@ Rhode Island,RI,,,3,,0,,,10,,0,,0,,,04/08/2020,
 South Carolina,SC,,,21,,0,,,,,0,,0,,,04/07/2020,
 South Dakota,SD,,,,,,,,,,1,,0,,,04/08/2020,
 Tennessee,TN,,,0,,0,,,,,1,,0,,,04/09/2020,
-Texas,TX,,405,51,,1,,,,234,47,,1,,,04/08/2020,Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
+Texas,TX,,405,51,,1,,,,234,47,,2,,,04/08/2020,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Texas' testing numbers may include multiple tests of a single prisoner or staff member and have been moved to the _with_multiples column.
 Utah,UT,,,,,0,,,,,2,,0,,,04/08/2020,Both cases in halfway-house style facilities.
 Vermont,VT,,,4,,0,,,,200,1,,0,,,04/09/2020,"Prisoner tests total may include multiple tests of the same prisoners, so we have moved this figure to the prisoner_tests_with_multiples column."
 Virginia,VA,,,21,,0,,,,,21,,0,,,04/09/2020,
