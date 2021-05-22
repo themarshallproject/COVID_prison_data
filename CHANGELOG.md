@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-05-21
+Howdy everybody! Just a quick note that we've updated the data with the new COVID case counts in prisons for the week. If you have any questions, or see anything amiss, please reach out at info+covid@themarshallproject.org. Have a good weekend!
+
 
 ## 2021-05-14
 

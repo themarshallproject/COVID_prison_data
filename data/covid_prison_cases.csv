@@ -1,9 +1,60 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,staff_partial_dose,staff_full_dose,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,prisoners_partial_dose,prisoners_full_dose,as_of_date,notes
-Alabama,AL,,,,,,,,,,,,,,,,
+Alabama,AL,,,1052,1038,3,848,,,16211,1651,1582,66,5935,,05/19/2021,
+Alaska,AK,,,330,,0,,,,34006,2423,,5,3233,2755,05/18/2021,
+Arizona,AZ,,,2771,2759,,,,46958,,12297,12223,59,,,05/18/2021,
+Arkansas,AR,,,,,,,,,,,,,,,,
+California,CA,,,16537,16403,28,32025,29240,126208,,49237,48390,222,69165,66555,05/21/2021,
+Colorado,CO,,,1897,,0,3418,,20097,220177,8954,,29,10043,,05/18/2021,
+Connecticut,CT,,76475,1686,1675,0,2697,,,120109,4486,4454,19,4600,,05/18/2021,
+Delaware,DE,,,,,,,,,,,,,,,,
+Florida,FL,,,6036,5837,,,,,,18071,17852,221,,,05/19/2021,
+Georgia,GA,,,1737,1711,4,1494,,,,3865,3765,93,22681,,05/18/2021,
+Hawaii,HI,,,250,230,0,,,,18126,1974,1959,9,,,05/18/2021,
+Idaho,ID,6432,,481,479,0,249,213,11699,,4144,4089,6,2793,2196,05/18/2021,
+Illinois,IL,,246155,4557,4482,1,,4272,,598063,10898,10887,88,,18895,05/18/2021,
+Indiana,IN,,5682,1532,1508,4,,,,23007,3684,3584,51,11834,6282,05/18/2021,
+Iowa,IA,,,707,703,2,1309,1312,,47627,4887,4964,19,3702,3367,05/19/2021,30 Staff and 900 prisoners have received the one-shot Johnson and Johnson vaccine.
+Kansas,KS,,,1218,,6,,,,,6114,,16,,,05/18/2021,
+Kentucky,KY,,,1106,,5,,,,,7908,,48,,,05/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Louisiana,LA,2468,,937,927,6,2190,2141,9079,,3206,3107,36,9287,6368,05/19/2021,
+Maine,ME,,,,,,,,,10324,197,,,,,05/21/2021,
+Maryland,MD,,,,,,,,,,,,,,,,
+Massachusetts,MA,,,,,,,,,,,,,,,,
+Michigan,MI,,230592,4365,,6,,,41762,881458,26664,25611,141,,19768,05/20/2021,
+Minnesota,MN,,,1134,936,0,,2133,,116026,4229,4197,12,1180,4401,05/18/2021,3862 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
+Mississippi,MS,,,,,,,,,,,,,,,,
+Missouri,MO,,12985,2605,2591,6,,,,85163,5826,5687,48,12216,,05/20/2021,
+Montana,MT,,,,,,,,,,,,,,,05/18/2021,
+Nebraska,NE,,,,,,,,3676,6784,982,976,6,,,05/21/2021,
+Nevada,NV,,,1001,,3,,,,,4565,,,,,05/18/2021,
+New Hampshire,NH,,,186,,,,,,1993,460,456,3,1304,1255,05/18/2021,173 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Jersey,NJ,,,,,,,,,,,,,,,,
+New Mexico,NM,,,968,964,,1678,1649,,50252,2986,2957,28,,,05/18/2021,
+New York,NY,,,5197,5138,8,7546,7675,,97375,6561,6497,35,3938,10604,05/19/2021,153 staff and 7686 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine.
+North Carolina,NC,,142760,3960,3831,13,6982,6403,42024,139099,10056,7940,55,17552,15695,05/18/2021,"Includes released prisoners: 845 at least one dose, 498 fully vaccinated"
+North Dakota,ND,1266,24537,299,298,1,,,3795,35996,634,633,1,1006,1040,05/18/2021,Vaccine numbers as of 5/19. 111 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+Ohio,OH,,,4920,4883,10,7244,,,78872,9807,6932,135,23646,,05/18/2021,
+Oklahoma,OK,,17284,1074,,,,,,32683,7429,,55,,,05/18/2021,
+Oregon,OR,,,881,864,,,,,29151,3613,3439,42,,,05/18/2021,
+Pennsylvania,PA,,,4948,,,3430,3410,,119839,11359,,138,,,05/19/2021,"The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
+Rhode Island,RI,,,455,454,1,,,,,1238,1232,2,,,05/21/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 
+South Carolina,SC,,,1133,1112,2,,,,37645,3317,3220,42,4066,3653,05/18/2021,
+South Dakota,SD,,424,191,191,0,,,,8840,2342,2335,7,,,05/18/2021,
+Tennessee,TN,,,1541,1516,5,,,,46743,6684,6638,42,,,05/18/2021,
+Texas,TX,,231051,11712,11315,46,13162,11502,,527873,34620,33176,269,,,05/18/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/20, 194 staff and 5288 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
+Utah,UT,,,402,396,,,,,29340,3463,3438,16,377,358,05/20/2021,
+Vermont,VT,,,112,108,0,0,467,3061,22902,462,461,0,812,,05/18/2021,
+Virginia,VA,,21766,2589,2559,5,6852,5374,,118989,9111,8954,56,17971,16174,05/20/2021,
+Washington,WA,,,1263,,2,3693,,,,6240,6212,14,7363,,05/18/2021,
+West Virginia,WV,,14043,498,494,1,834,812,,10611,1629,1610,12,803,1519,05/21/2021,1519 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
+Wisconsin,WI,,,2560,2548,,,,,113112,10975,10757,32,9836,6549,05/18/2021,Vaccine numbers as of 5/16. 1845 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
+Wyoming,WY,,,,,,,,,,,,,,,,
+Federal,US,,,6946,6792,4,,18772,113660,,,,,,65442,05/18/2021,
+Alabama,AL,,,1046,1037,3,844,,,16066,1649,1580,66,4065,,05/12/2021,
 Alaska,AK,,,330,,0,,,,33204,2420,,5,,2313,05/11/2021,
-Arizona,AZ,,,2768,2757,,,,46927,,12296,12216,60,,,05/11/2021,
+Arizona,AZ,,,2768,2757,,,,46927,,12296,12216,59,,,05/11/2021,The number of deaths this week was revised shortly after this was published after the medical examiner ruled one death was not COVID-related. We adjusted our data accordingly.
 Arkansas,AR,,,,,4,,,,,11351,11318,52,,,05/11/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
-California,CA,,,16485,16331,28,31642,28855,125541,,49240,48386,222,68107,65626,05/14/2021,
+California,CA,,,16485,16331,28,31642,28855,125541,,49229,48386,222,68107,65626,05/14/2021,
 Colorado,CO,,,1881,,0,3320,,19919,215728,8942,,29,9778,,05/11/2021,
 Connecticut,CT,,73296,1684,1661,0,2697,,,113335,4475,4448,19,4386,,05/11/2021,
 Delaware,DE,,,,,,,,,,,,,,,,
@@ -15,38 +66,38 @@ Illinois,IL,,231007,4525,4452,1,,4272,,579437,10892,10878,88,,18895,05/11/2021,
 Indiana,IN,,5672,1530,1502,4,,,,22730,3679,3583,51,10265,5368,05/11/2021,
 Iowa,IA,,,706,702,2,1303,1274,,46773,4883,4855,19,3644,1439,05/12/2021,25 Staff and 548 prisoners have received the one-shot Johnson and Johnson vaccine.
 Kansas,KS,,,1216,,6,1502,,,,6111,,16,6355,,05/13/2021,Vaccines as of 5/12
-Kentucky,KY,,,1103,,5,,,,,7904,,48,,,05/13/2021,
+Kentucky,KY,,,1103,,5,1524,,,,7904,,48,7125,,05/13/2021,
 Louisiana,LA,2467,,936,926,6,2172,2106,8995,,3205,3106,36,8877,5944,05/11/2021,
 Maine,ME,,,,,0,,735,,10199,197,,1,,284,05/14/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
-Maryland,MD,,,,,,,,,,,,,,,,
+Maryland,MD,,82404,2321,2276,4,4011,3968,,72192,4466,4425,30,9181,5810,05/14/2021,
 Massachusetts,MA,,,950,,,3132,2831,,35635,,,21,4665,4401,05/12/2021,
 Michigan,MI,,223650,4330,,6,,,41692,849219,26655,25548,141,,19722,05/13/2021,vaccine numbers from 5/14
 Minnesota,MN,,,1132,931,0,,2086,,115202,4229,4197,12,1056,4223,05/11/2021,3775 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
 Mississippi,MS,,,,,,691,537,,3436,1399,,23,10844,8734,05/12/2021,
 Missouri,MO,,12983,2597,2583,6,,,,84492,5793,5630,48,11902,,05/11/2021,
-Montana,MT,,,287,,0,,,,,1136,,6,,,05/12/2021,
-Nebraska,NE,,,,,,,,,,,,,,,,
+Montana,MT,,,287,,0,,,,,1136,,6,1659,935,05/12/2021,Vaccine numbers as of 5/14
+Nebraska,NE,,,,,,,,3676,6783,982,976,6,,,05/14/2021,
 Nevada,NV,,,998,,3,1274,845,,,4560,,57,5754,851,05/11/2021,
 New Hampshire,NH,,,185,,,,,,1943,458,455,3,1277,537,05/11/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
 New Jersey,NJ,,,,,,,,,,,,,,,,
-New Mexico,NM,,,965,960,0,1662,,,49828,2985,2952,28,2920,1874,05/11/2021,
+New Mexico,NM,,,965,960,0,1662,1632,,49828,2985,2952,28,2920,1874,05/11/2021,
 New York,NY,,,5184,5113,8,7546,7675,,87849,6556,6472,35,3938,8024,05/11/2021,"153 staff and 5,106 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine."
-North Carolina,NC,,138637,3942,3823,13,6914,5807,41771,137126,10047,7976,55,18017,14598,05/11/2021,
+North Carolina,NC,,138637,3942,3823,13,6914,5807,41771,137126,10047,7976,55,17172,14447,05/11/2021,
 North Dakota,ND,1257,24185,299,294,1,,,3754,35593,634,633,1,984,1002,05/11/2021,79 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
 Ohio,OH,,,4912,4867,10,7146,,,77055,9763,6963,135,23443,,05/13/2021,
 Oklahoma,OK,,17232,1073,,,,,,32349,7425,,55,,,05/11/2021,
 Oregon,OR,,,875,858,0,,,,29149,3611,3434,42,,8469,05/11/2021,The number of vaccinated prisoners does not include those who have been vaccinated and released/paroled.
 Pennsylvania,PA,,,4934,,,3373,3353,,117103,11344,,137,,,05/11/2021,"The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
-Rhode Island,RI,,,454,453,1,904,899,,,1233,1220,2,,,05/14/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
+Rhode Island,RI,,,454,453,1,902,899,,,1233,1220,2,,,05/14/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 13 staff and 51 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1128,1102,2,,,,36790,3303,3212,42,,,05/11/2021,
 South Dakota,SD,,424,191,191,0,,,,8700,2342,2334,7,2164,,05/11/2021,
 Tennessee,TN,,,1537,1502,5,,,,45441,6682,6626,42,,,05/10/2021,
-Texas,TX,,225083,11695,11289,46,13099,11278,,516946,34611,33167,265,,,05/11/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/12, 183 staff and 5065 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
+Texas,TX,,225083,11695,11289,46,13099,11278,,516946,34611,33167,269,,,05/11/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/12, 183 staff and 5065 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
 Utah,UT,,,,,,,,,,,,,,,,
 Vermont,VT,,,111,107,0,0,467,3040,22315,461,460,0,,,05/11/2021,
-Virginia,VA,,21106,2582,2540,,6811,5349,,117503,,8951,,17711,16008,05/13/2021,
+Virginia,VA,,21106,2582,2540,5,6811,5349,,117503,,8951,56,17711,16008,05/13/2021,
 Washington,WA,,,1242,,2,3679,,,,6234,6203,14,6636,,05/11/2021,
-West Virginia,WV,,13792,496,488,1,,,,10520,1629,1609,12,,,05/11/2021,
+West Virginia,WV,,13918,496,492,1,834,812,,10523,1629,1609,12,803,1486,05/14/2021,1486 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2553,2543,,,,,108412,10967,10748,31,9388,3916,05/12/2021,Vaccine numbers as of 5/11. 1787 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
 Wyoming,WY,,,303,300,0,,,,32178,900,879,3,,,05/10/2021,
 Federal,US,,,6932,6756,4,,18333,113003,,,,,,59901,05/11/2021,
@@ -54,7 +105,7 @@ Alabama,AL,,,1045,1021,3,838,,,16014,1647,1573,65,3286,,05/05/2021,
 Alaska,AK,,,330,,0,,,,32715,2411,,5,3046,2313,05/04/2021,Vaccines as of 5/2
 Arizona,AZ,,,2766,2752,,,,46700,,12282,12209,58,,,05/04/2021,
 Arkansas,AR,,,,,4,,,,,11320,11310,52,,,05/04/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
-California,CA,,,16441,16261,28,27968,26207,124553,,49228,48379,222,67658,64298,05/07/2021,
+California,CA,,,16441,16261,28,27968,26207,124553,,49221,48379,222,67658,64298,05/07/2021,
 Colorado,CO,,,1847,,0,3289,,19804,211756,8925,,29,9729,,05/04/2021,
 Connecticut,CT,,70903,1667,1651,0,2697,,,113335,4471,4435,19,4386,,05/04/2021,
 Delaware,DE,,6049,764,754,1,,1116,,13750,2044,2025,13,2020,998,05/03/2021,
@@ -66,7 +117,7 @@ Illinois,IL,,222546,4495,4417,1,,4272,,564391,10887,10872,88,,18895,05/04/2021,
 Indiana,IN,,5660,1528,1500,4,,,,22428,3663,3530,51,7449,4061,05/04/2021,
 Iowa,IA,,,705,700,2,1302,1232,,46301,4878,4848,19,3432,408,05/04/2021,Staff fully vaxxed=17 single dose + 1215 second dose. Prisoner fully vaxed=164 single dose+244 second dose
 Kansas,KS,,,1216,,6,1484,,,,6106,,16,6344,,05/06/2021,Vaccines as of 5/5
-Kentucky,KY,,,1101,,5,1519,,,,7903,,48,7082,,05/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Kentucky,KY,,,1101,,5,1519,,,,7903,,48,7082,,05/06/2021,
 Louisiana,LA,2467,,935,925,6,,,8954,,3205,3106,36,,,05/04/2021,
 Maine,ME,,,,,0,,,,10108,196,,1,,284,05/07/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
 Maryland,MD,,77886,2310,2254,4,4011,3968,,70693,4460,4406,30,8616,5005,05/07/2021,
@@ -82,7 +133,7 @@ New Hampshire,NH,,,184,181,0,,,,1898,458,455,3,1277,537,05/04/2021,132 prisoners
 New Jersey,NJ,,206169,2874,,,,,,275802,4797,,53,,,05/02/2021,
 New Mexico,NM,,,965,955,0,1659,1627,,49828,2985,2949,28,2467,1436,05/04/2021,
 New York,NY,,,5168,5072,8,7546,7599,,86237,6538,6458,35,3938,5875,05/06/2021,
-North Carolina,NC,,131075,3910,3811,13,6914,5807,41540,134551,10040,7999,53,18017,14598,05/04/2021,"Includes released prisooners: 845 at least one dose, 498 fully vaccinated"
+North Carolina,NC,,131075,3910,3811,13,6914,5807,41540,134551,10040,7999,53,17172,14447,05/04/2021,"Includes released prisoners: 845 at least one dose, 498 fully vaccinated"
 North Dakota,ND,1252,23984,295,292,1,,,3705,35236,634,633,1,974,964,05/04/2021,49 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
 Ohio,OH,,,4897,4850,10,7137,,,75439,9750,7020,135,23248,,05/06/2021,
 Oklahoma,OK,,16945,1071,,,,1087,,32172,7422,,55,,11801,05/04/2021,Vaccination numbers as of 5/6
@@ -92,7 +143,7 @@ Rhode Island,RI,,,454,451,1,893,891,,,1222,1216,2,,,05/07/2021,Subtracting 4 pre
 South Carolina,SC,,,1120,1102,2,,,,,3276,3202,42,2442,1802,05/04/2021,
 South Dakota,SD,,423,191,191,0,,,,8548,2341,2334,7,2164,,05/04/2021,
 Tennessee,TN,,,1537,1500,5,,,,45147,6678,6616,42,,,05/06/2021,
-Texas,TX,,219079,11639,11208,46,13001,11102,,506136,34596,33116,265,,,05/04/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/7, 176 staff and 4512 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners vaccinated."
+Texas,TX,,219079,11639,11208,46,13001,11102,,506136,34596,33116,269,,,05/04/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/7, 176 staff and 4512 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners vaccinated."
 Utah,UT,,,402,396,,,,,28826,3456,3410,16,377,259,05/05/2021,
 Vermont,VT,,,110,106,0,0,467,3006,21975,460,460,0,808,,05/04/2021,
 Virginia,VA,,20815,2573,2529,5,6755,5287,,114423,9104,8946,56,17455,15831,05/04/2021,
@@ -105,7 +156,7 @@ Alabama,AL,,,1045,1020,3,829,,,15981,1644,1568,65,2370,,04/28/2021,
 Alaska,AK,,,325,,0,,,,32385,2408,,5,2757,2242,04/26/2021,vaccine numbers as of 4/25
 Arizona,AZ,,,2762,2745,,,,46331,,12271,12200,55,,,04/27/2021,
 Arkansas,AR,,,,,4,,,,,11320,11285,52,,,04/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
-California,CA,,,16384,16201,26,27844,25931,123356,,49219,48371,222,66823,58248,04/27/2021,Staff cases as of 4/30
+California,CA,,,16384,16201,26,27844,25931,123356,,49215,48371,222,66823,58248,04/27/2021,Staff cases as of 4/30
 Colorado,CO,,,1731,,0,3153,,19630,207431,8881,,29,9572,,04/27/2021,
 Connecticut,CT,,67647,1664,1642,0,2697,,,103484,4469,4404,19,4386,,04/27/2021,
 Delaware,DE,,,,,,,,,,,,13,,,04/27/2021,
@@ -143,7 +194,7 @@ Rhode Island,RI,,,452,449,1,893,891,,,1219,1211,2,,,04/30/2021,Subtracting 4 pre
 South Carolina,SC,,,1114,1092,2,,,,35602,3255,3193,42,1363,723,04/27/2021,
 South Dakota,SD,,423,191,191,0,,,,8415,2341,2334,7,2164,,04/27/2021,
 Tennessee,TN,,,1524,1485,5,,,,43760,6669,6603,42,,,04/27/2021,
-Texas,TX,,216583,11618,11164,46,12457,10653,,500597,34585,33095,265,,,04/27/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 4/28. 156 staff and 3648 prisoners have received the one-shot Johnson & Johnson vaccine.
+Texas,TX,,216583,11618,11164,46,12457,10653,,500597,34585,33095,269,,,04/27/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 4/28. 156 staff and 3648 prisoners have received the one-shot Johnson & Johnson vaccine.
 Utah,UT,,,,,,,,,,,,16,377,259,04/27/2021,
 Vermont,VT,,,108,103,0,0,467,2976,21506,459,,0,797,,04/27/2021,
 Virginia,VA,,,,,5,,,,,9101,,56,,,04/27/2021,
@@ -156,7 +207,7 @@ Alabama,AL,,,1044,1020,3,824,,,15871,1638,1566,65,1740,,04/21/2021,
 Alaska,AK,,,325,,0,,,,31019,2404,,5,2692,1935,04/20/2021,prisoner vaccine numbers as of 4/18
 Arizona,AZ,,,2754,2739,,,,46323,,12268,12151,54,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arkansas,AR,,,,,4,,,,,11303,11256,52,3722,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
-California,CA,,,16323,16137,26,27806,25844,122801,,49215,48370,222,66601,55131,04/23/2021,
+California,CA,,,16323,16137,26,27806,25844,122801,,49214,48370,222,66601,55131,04/23/2021,
 Colorado,CO,,,1692,,0,3030,,19498,203320,8847,,29,9535,,04/20/2021,
 Connecticut,CT,,66376,1653,1628,0,2697,,,103484,4444,4359,19,4362,,04/20/2021,
 Delaware,DE,,,,,,,,,,2040,1960,13,,,04/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
@@ -194,7 +245,7 @@ Rhode Island,RI,,,450,446,1,893,891,,,1214,1204,2,,,04/23/2021,Subtracting 4 pre
 South Carolina,SC,,,1111,1085,2,,,11205,,3252,,41,1345,723,04/20/2021,
 South Dakota,SD,,422,191,191,0,,,,8267,2341,2334,7,2164,,04/20/2021,
 Tennessee,TN,,,1518,1479,5,,,,42576,6649,6598,42,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,210239,11545,11078,46,12065,,,490376,34559,32954,265,,,04/20/2021,"Vaccine numbers as of 4/21. TDCJ is unable to provide a breakdown of how many We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. people are fully or partially vaccinated with the Moderna vaccine, but are reporting 3648 have received the one-shot Johnson & Johnson vaccine."
+Texas,TX,,210239,11545,11078,46,12065,,,490376,34559,32954,269,,,04/20/2021,"Vaccine numbers as of 4/21. TDCJ is unable to provide a breakdown of how many We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. people are fully or partially vaccinated with the Moderna vaccine, but are reporting 3648 have received the one-shot Johnson & Johnson vaccine."
 Utah,UT,,,399,396,,,,,27729,,3382,16,312,258,04/21/2021,
 Vermont,VT,,,105,102,0,,467,2954,21136,459,,0,737,,04/20/2021,
 Virginia,VA,,20501,2542,2505,5,6532,5047,,109969,9098,8866,56,17079,15173,04/22/2021,
@@ -245,7 +296,7 @@ Rhode Island,RI,,,448,440,1,,,,,1208,1196,2,1626,1345,04/16/2021,Subtracting 4 p
 South Carolina,SC,,,1100,1080,2,,,,,3246,3190,40,729,723,04/13/2021,
 South Dakota,SD,,422,191,191,0,,,,8155,2341,2334,7,2164,,04/13/2021,
 Tennessee,TN,,,1512,1476,5,,,,41768,6647,6596,42,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,205586,11514,11022,45,11893,9729,,482039,34504,32936,265,,,04/13/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,205586,11514,11022,45,11893,9729,,482039,34504,32936,269,,,04/13/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,399,396,,,,,27460,3453,3378,16,261,162,04/13/2021,
 Vermont,VT,,,103,98,0,,467,2930,20579,459,,0,720,,04/13/2021,Staff have received the one-shot Johnson & Johnson vaccine.
 Virginia,VA,,20038,2524,2480,5,6416,4924,,105953,9039,8860,56,16860,14458,04/13/2021,
@@ -296,7 +347,7 @@ Rhode Island,RI,,,412,410,1,,,,,1200,1192,2,,,04/09/2021,"Subtracting 4 presumed
 South Carolina,SC,,,1094,1067,2,,,,,3240,3181,40,729,723,04/06/2021,
 South Dakota,SD,,421,191,190,0,,,,7983,,,7,2164,,04/06/2021,South Dakota later revised their number of prisoner cases but did not provide new figures for this week.
 Tennessee,TN,,,1501,1471,5,,,,40954,6639,6595,42,,,04/06/2021,"We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,200267,11458,10922,45,,,,469741,34464,32910,265,,,04/06/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,200267,11458,10922,45,,,,469741,34464,32910,269,,,04/06/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,399,396,,,,,27228,3450,3372,16,261,162,04/05/2021,Vaccine numbers as of 4/6
 Vermont,VT,,,100,96,0,,467,2904,20211,457,,0,578,,04/06/2021,"Staff vaccination numbers do NOT include healthcare workers, who are contractors. Staff are given J&J 1-dose vaccine. The initial number we were given for staff vaccines included transposed digits and has been updated."
 Virginia,VA,,19384,2511,2460,5,6336,4807,,101955,9012,8859,56,16684,14111,04/06/2021,Virginia later revised its number of staff tests and we have updated our figure here accordingly.
@@ -347,12 +398,12 @@ Rhode Island,RI,,,412,406,1,,,,,1198,1185,2,,,04/02/2021,"Subtracting 4 presumed
 South Carolina,SC,,,1084,1059,2,,,,,3236,3159,40,729,200,03/30/2021,
 South Dakota,SD,,417,189,189,0,,,,7901,2340,2333,7,,,03/30/2021,
 Tennessee,TN,,9270,1493,1468,5,,,,40445,6635,6581,42,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Texas,TX,,193095,11415,10835,44,11490,7988,,458844,34396,32885,265,,,03/30/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week. Staff vaccines as of 4/2"
+Texas,TX,,193095,11415,10835,44,11490,7988,,458844,34396,32885,269,,,03/30/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. We have been told prisoner vaccinations have begun in this system, but they have not released numbers for this week. Staff vaccines as of 4/2"
 Utah,UT,,,399,396,,,,,27053,3443,3372,16,243,144,03/31/2021,Vax numbers as of 4/1
 Vermont,VT,,,99,90,0,,467,2885,19690,457,,0,188,,03/30/2021,"Staff vaccination numbers do NOT include healthcare workers, who are contractors. Staff are given J&J 1-dose vaccine."
 Virginia,VA,,,,,5,,,,,9011,,56,16362,,03/30/2021,Virginia later revised their number of partially vaccinated staff and we have updated our figures here.
 Washington,WA,,,1149,,2,,,,,6190,6170,14,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-West Virginia,WV,,12270,469,462,1,834,780,,9911,1557,1535,9,989,0,03/30/2021,"Vax numbers as of 4/3, J&J vaccine"
+West Virginia,WV,,12270,469,462,1,834,780,,9911,1557,1535,9,,989,03/30/2021,"Vax numbers as of 4/3, J&J vaccine"
 Wisconsin,WI,,,2509,2500,,,,,97092,10923,10692,25,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wyoming,WY,,,296,291,0,,,,28374,865,851,3,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Federal,US,,,6721,5453,4,,16897,108612,,,,243,,24066,03/30/2021,
@@ -398,7 +449,7 @@ Rhode Island,RI,,,408,404,1,,,,,1190,1169,2,1582,,03/26/2021,Subtracting 4 presu
 South Carolina,SC,,,1077,1050,2,,,9920,31063,3234,3107,40,729,0,03/23/2021,
 South Dakota,SD,,417,189,187,0,,,,7761,2340,2333,7,,,03/23/2021,
 Tennessee,TN,,,1490,1467,5,3101,,,40299,6634,6579,42,6274,,03/24/2021,Vaccine numbers as of 3/26
-Texas,TX,,187308,11363,10770,43,10894,7050,,450608,34344,32808,265,,,03/23/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Texas,TX,,187308,11363,10770,43,10894,7050,,450608,34344,32808,269,,,03/23/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Utah,UT,,,396,343,0,,,,26728,3442,3353,16,184,85,03/25/2021,"Vaccines for staff have been offered through clinics that the corrections department coordinated with state health officials, and staff can also receive the vaccine through their local health department. They are not reporting a total for staff."
 Vermont,VT,,,93,86,0,,467,2860,19048,455,,0,163,,03/23/2021,The 467 fully vaccinated staff received the one-shot Johnson and Johnson vaccine.
 Virginia,VA,,,2472,2439,5,,4524,,99859,9008,8854,56,16045,13391,03/23/2021,Virginia later revised their number of partially vaccinated staff and we have updated our figures here.
@@ -449,7 +500,7 @@ Rhode Island,RI,,,405,400,1,,,,,1171,1153,2,,,03/15/2021,"We have been told vacc
 South Carolina,SC,,,1070,1039,2,,,,,3221,3071,40,729,0,03/16/2021,
 South Dakota,SD,,415,188,187,0,,,,7639,2340,2333,7,,,03/16/2021,
 Tennessee,TN,,9224,1482,1464,5,,,,39711,6620,6564,42,,,03/16/2021,
-Texas,TX,,182819,11316,10708,43,,,,439892,34309,32687,263,,,03/16/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Staff vaccine numbers as of 3/18.
+Texas,TX,,182819,11316,10708,43,,,,439892,34309,32687,267,,,03/16/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Staff vaccine numbers as of 3/18.
 Utah,UT,,,396,343,,,,,26107,3439,3262,15,,,03/15/2021,
 Vermont,VT,,,88,80,0,,467,2831,18123,443,410,0,109,,03/16/2021,
 Virginia,VA,,19061,2458,2427,5,6204,4098,,98577,9005,8837,56,15482,12615,03/16/2021,
@@ -500,7 +551,7 @@ Rhode Island,RI,,,405,399,1,,884,,,1167,1153,2,1394,1020,03/12/2021,Subtracting 
 South Carolina,SC,,,1062,1022,2,,,,,3176,3018,39,,0,03/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 South Dakota,SD,,412,187,186,0,,,,7515,2340,2332,7,,,03/09/2021,South Dakota's prisoner case numbers dropped by 1 this week. We're inquiring as to why.
 Tennessee,TN,,9218,1480,1461,4,,,,39158,6613,6544,42,,,03/09/2021,
-Texas,TX,,177111,11249,10605,43,8219,5830,,428706,34227,32316,263,628,0,03/09/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,177111,11249,10605,43,8219,5830,,428706,34227,32316,267,628,0,03/09/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,396,343,,,,,25255,3432,3211,15,,,03/08/2021,
 Vermont,VT,,,82,67,0,,467,2794,17050,411,,0,109,,03/09/2021,"467 Vermont staff had the one-shot Johnson & Johnson vaccine, so we're putting them under ""2nd dose"""
 Virginia,VA,,18989,2452,2415,5,6083,4004,,94786,8993,8835,56,15322,11868,03/09/2021,
@@ -551,7 +602,7 @@ Rhode Island,RI,,,399,391,1,,,,,1155,1140,2,,,03/04/2021,"Subtracting 4 presumed
 South Carolina,SC,,,1050,1003,2,,,9678,,3161,2991,37,163,0,03/02/2021,
 South Dakota,SD,,409,186,186,0,,,,7377,,2332,7,,,03/02/2021,South Dakota's number of prisoner cases was later revised down by 1.
 Tennessee,TN,,,1479,1450,4,,,,38820,6597,6538,42,0,0,03/04/2021,
-Texas,TX,,169334,11170,10503,41,7331,4892,,416798,34078,32089,262,628,0,03/02/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,169334,11170,10503,41,7331,4892,,416798,34078,32089,266,628,0,03/02/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,396,343,,,,,24260,3399,3174,15,,,03/01/2021,
 Vermont,VT,,,77,,,,,2781,16415,402,,0,,,03/03/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,18270,2442,2396,5,5630,3066,,93502,8988,8828,55,14481,6850,03/02/2021,
@@ -602,7 +653,7 @@ Rhode Island,RI,,,395,389,1,,,,,1150,1129,2,1352,412,02/25/2021,Subtracting 4 pr
 South Carolina,SC,,,1036,961,2,,,,,3082,2947,37,0,0,02/24/2021,
 South Dakota,SD,,409,186,186,0,,,,7265,2337,2330,7,,,02/23/2021,
 Tennessee,TN,,9202,1475,1447,4,1436,,,38212,6580,6519,42,0,0,02/24/2021,
-Texas,TX,,163843,11070,10159,41,,,,407607,33980,31221,260,0,0,02/23/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,163843,11070,10159,41,,,,407607,33980,31221,264,0,0,02/23/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,396,343,,,,,23592,3306,3098,15,,,02/22/2021,
 Vermont,VT,,,66,,,,,2751,15445,275,,0,,,02/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,,2422,2347,5,5385,2192,,91689,8987,,55,13585,3449,02/23/2021,
@@ -653,7 +704,7 @@ Rhode Island,RI,,,390,383,1,,,,,1132,1120,2,,,02/15/2021,"Subtracting 4 presumed
 South Carolina,SC,,,993,916,2,,,9369,,3049,2839,37,0,0,02/16/2021,
 South Dakota,SD,,408,186,186,0,,,,7145,2337,2330,7,,,02/16/2021,
 Tennessee,TN,,9195,1470,1438,4,1436,0,,38108,6575,6507,41,0,0,02/17/2021,
-Texas,TX,,162026,10980,9955,40,,,,405446,33882,31008,260,0,0,02/17/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,162026,10980,9955,40,,,,405446,33882,31008,264,0,0,02/17/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,379,322,,,,,22665,3261,3059,15,,,02/15/2021,
 Vermont,VT,,,64,,,,,2717,14370,265,249,0,,,02/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,,2398,2288,4,,1089,,90063,8977,8330,54,13449,1192,02/16/2021,
@@ -704,7 +755,7 @@ Rhode Island,RI,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in thi
 South Carolina,SC,,,975,862,2,,,,,2999,2823,37,0,0,02/09/2021,staff vaccinated in community
 South Dakota,SD,,407,186,185,0,,,,7075,2337,2330,7,,,02/09/2021,
 Tennessee,TN,,,1463,1419,4,1436,,,37921,6555,6440,41,0,0,02/09/2021,
-Texas,TX,,157011,10877,9823,38,,,,394179,33742,30648,254,0,0,02/09/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,157011,10877,9823,38,,,,394179,33742,30648,258,0,0,02/09/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,379,322,,,,,22246,3192,3045,15,,,02/09/2021,
 Vermont,VT,,,59,,,,,2698,13946,252,245,0,,,02/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Virginia,VA,,,2371,2240,3,4533,,,88667,8865,8085,54,11112,,02/09/2021,
@@ -755,7 +806,7 @@ Rhode Island,RI,,,382,373,1,,,,,1113,1092,2,895,248,02/01/2021,Vaccine numbers a
 South Carolina,SC,,,948,822,2,,,9279,,2974,2741,37,0,0,02/02/2021,
 South Dakota,SD,,406,185,184,0,,,,6957,2337,2330,7,,,02/02/2021,
 Tennessee,TN,,9153,1451,1374,4,1436,,,37548,6540,6401,41,0,0,02/02/2021,
-Texas,TX,,149935,10651,9465,37,5987,,,376621,33246,29282,248,0,0,02/02/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,149935,10651,9465,37,5987,,,376621,33246,29282,252,0,0,02/02/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,364,311,0,,,,21593,3147,3015,15,79,,02/02/2021,
 Vermont,VT,,,53,39,0,,,2675,13502,247,242,0,8,0,02/02/2021,"Prison health care staff have been vaccinated, but not COs, and they don't have those figures yet. This week's prisoner tests initially had the total number of positive test results, not the unique number of positive results. It has been updated."
 Virginia,VA,,,2336,2160,3,3589,,,86057,8607,7886,54,7137,,02/04/2021,
@@ -806,7 +857,7 @@ Rhode Island,RI,,,375,367,1,800,119,,,1104,1065,2,,,01/27/2021,"Subtracting 4 pr
 South Carolina,SC,,,916,771,2,,,,,2941,2648,37,0,0,01/26/2021,
 South Dakota,SD,,403,184,183,0,,,,6880,2337,2329,7,,,01/26/2021,
 Tennessee,TN,,9129,1437,1263,4,,,,36770,6469,6358,39,0,0,01/26/2021,
-Texas,TX,,141791,10323,8970,37,4967,,,359629,32622,28476,246,0,0,01/26/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. The number of prisoner tests was input incorrectly and has been updated.
+Texas,TX,,141791,10323,8970,37,4967,,,359629,32622,28476,250,0,0,01/26/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. The number of prisoner tests was input incorrectly and has been updated.
 Utah,UT,,,364,311,,,,,20683,3122,2387,15,,,01/26/2021,
 Vermont,VT,,,50,39,0,,,2651,12722,244,242,0,0,0,01/26/2021,"The state's website originally said 251 recovered, but it was incorrect and we adjusted it here before publication."
 Virginia,VA,,,,,3,2171,,,,8302,,53,1302,,01/26/2021,
@@ -857,7 +908,7 @@ Rhode Island,RI,,,371,357,1,,,,,1083,1039,2,,,01/21/2021,"We have been told vacc
 South Carolina,SC,,,859,695,2,,,9059,,2919,2398,37,0,0,01/19/2021,
 South Dakota,SD,,400,183,180,0,,,,6772,2336,2328,6,,,01/19/2021,
 Tennessee,TN,,9072,1417,1230,4,0,0,,36507,6439,6328,38,0,0,01/19/2021,
-Texas,TX,,135515,10001,8399,36,,,,349212,32284,27333,241,0,0,01/19/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,135515,10001,8399,36,,,,349212,32284,27333,244,0,0,01/19/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,,,,,,,20177,3101,2374,15,,,01/20/2021,
 Vermont,VT,,,41,36,0,,,2632,12056,244,241,0,0,0,01/19/2021,
 Virginia,VA,,,2188,1874,3,1177,,,81392,8107,7482,52,648,,01/20/2021,
@@ -908,7 +959,7 @@ Rhode Island,RI,,,364,350,1,410,109,,,1060,987,2,392,85,01/14/2021,Vaccines as o
 South Carolina,SC,,,823,681,2,,,8889,,2803,2347,35,0,0,01/13/2021,
 South Dakota,SD,,397,181,179,0,,,,6692,2336,2323,6,,,01/12/2021,
 Tennessee,TN,,,1383,1102,3,0,0,,35956,6392,6271,35,0,0,01/12/2021,
-Texas,TX,,129299,9639,7965,34,,,,333122,31322,26540,237,0,0,01/12/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,129299,9639,7965,34,,,,333122,31322,26540,240,0,0,01/12/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,325,251,,,,,19110,3057,2111,15,,,01/11/2021,
 Vermont,VT,,,38,,,,,2608,11738,243,241,0,0,0,01/12/2021,
 Virginia,VA,,,2049,1689,2,,,,79327,7784,,50,,,01/12/2021,
@@ -959,7 +1010,7 @@ Rhode Island,RI,,,316,295,1,113,,,,987,934,2,265,,01/04/2021,Subtracting 4 presu
 South Carolina,SC,,,756,603,2,0,0,8788,23406,2728,,34,0,0,01/05/2021,Staff testing began 1/7
 South Dakota,SD,,395,180,177,0,,,,6561,2333,2323,6,,,01/05/2021,
 Tennessee,TN,,,1306,1026,3,0,0,,35630,6353,6233,34,0,0,01/05/2021,A number from another state inadvertently wound up in Tennesse as the number of prisoner tests for this week. It has been removed.
-Texas,TX,,123234,9009,7477,34,,,,314230,30115,25850,236,0,0,01/05/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
+Texas,TX,,123234,9009,7477,34,,,,314230,30115,25850,237,0,0,01/05/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative.
 Utah,UT,,,312,238,,,,,18310,3017,1777,15,,,01/06/2021,
 Vermont,VT,,,32,,0,,,2566,11335,243,241,0,0,0,01/05/2021,
 Virginia,VA,,,1901,1551,2,,,,76801,7495,,47,,,01/05/2021,
