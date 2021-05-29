@@ -1,35 +1,86 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,staff_partial_dose,staff_full_dose,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,prisoners_partial_dose,prisoners_full_dose,as_of_date,notes
+Alabama,AL,,,1052,1043,3,855,,,16334,1654,1584,66,8813,,05/26/2021,
+Alaska,AK,,,330,,0,,,,34006,2427,,5,3289,2830,05/26/2021,
+Arizona,AZ,,,2772,2764,,,,47269,,12307,12226,,,,05/25/2021,
+Arkansas,AR,,,,,4,,,,,11376,11350,52,,,05/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+California,CA,,,16770,16694,28,33231,30800,126921,,49254,48395,224,69798,67329,05/28/2021,
+Colorado,CO,,,1920,,0,3524,,20251,223801,8956,,29,10239,,05/26/2021,
+Connecticut,CT,,79422,1687,1681,0,2697,,,125072,4523,4458,19,4714,,05/25/2021,
+Delaware,DE,,,,,,,,,,,,,,,,
+Florida,FL,,,,,,,,,,,,,,,,
+Georgia,GA,,,1739,1715,4,1494,,,,3867,3765,93,24139,,05/25/2021,
+Hawaii,HI,,,250,235,,,,,18325,1980,1959,9,,,05/25/2021,
+Idaho,ID,6437,,482,479,0,249,213,11804,,4148,4089,6,3029,2272,05/25/2021,
+Illinois,IL,,256100,4576,4504,,,,,616682,10904,10892,,,,05/25/2021,
+Indiana,IN,,5697,1537,1511,4,,,,23268,3703,3643,51,13259,7852,05/25/2021,
+Iowa,IA,,,707,704,2,1310,1315,,48019,4889,4864,19,3712,3981,05/25/2021,30 Staff and 926 prisoners have received the one-shot Johnson and Johnson vaccine.
+Kansas,KS,,,1218,,6,,,,,6114,,16,,,05/27/2021,
+Kentucky,KY,,,1107,,5,,,,,7908,,48,,,05/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Louisiana,LA,2472,,939,927,6,2193,2152,9119,,3207,3108,36,9336,7882,05/26/2021,
+Maine,ME,,,,,,,,,10389,197,,,790,761,05/28/2021,
+Maryland,MD,,,,,,,,,,,,,,,,
+Massachusetts,MA,,,953,,,3133,2836,,37750,,,21,4687,4404,05/26/2021,
+Michigan,MI,,240818,4387,,6,,,41925,909819,26679,25698,,,19833,05/28/2021,
+Minnesota,MN,,,1134,943,0,,2152,,116542,4229,4206,12,1297,4534,05/25/2021,3888 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
+Mississippi,MS,,,,,,,,,,,,,,,,
+Missouri,MO,,12995,2611,2591,6,,,,86577,5848,5749,48,12476,,05/25/2021,
+Montana,MT,,,285,,0,,,,,1138,,6,,,05/25/2021,
+Nebraska,NE,,,,,,,,3676,6784,982,976,6,,,05/28/2021,
+Nevada,NV,,,1005,,3,1280,,,,4566,,,6318,,05/25/2021,
+New Hampshire,NH,,,186,,,,,,2031,460,457,3,1352,1490,05/28/2021,186 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Jersey,NJ,,,,,,,,,,,,,,,,
+New Mexico,NM,,,971,965,0,1681,1668,,53452,2987,2958,28,3532,2834,05/25/2021,
+New York,NY,,,5211,5155,8,8102,7880,,98671,6576,6517,35,3938,11667,05/25/2021,354 staff and 8452 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine.
+North Carolina,NC,,149982,3975,3850,13,6982,6403,42279,141318,10068,7899,55,17552,15695,05/25/2021,
+North Dakota,ND,1276,24764,300,299,1,,,3849,36212,634,633,1,1006,1077,05/25/2021,136 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+Ohio,OH,,,4932,4901,10,7399,,,80574,9833,6946,135,24062,,05/27/2021,
+Oklahoma,OK,,17286,1074,,,,,,32842,7431,,56,,,05/25/2021,
+Oregon,OR,,,882,874,,,,,29152,3614,3451,42,,,05/26/2021,
+Pennsylvania,PA,,,4961,,,3466,3446,,121739,11375,,138,,,05/25/2021,"The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
+Rhode Island,RI,,,456,454,1,,,,,1243,1238,2,,,05/28/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 
+South Carolina,SC,,,1134,1117,2,,,,38629,3326,3228,42,5972,5701,05/25/2021,
+South Dakota,SD,,424,191,191,0,,,,8975,2342,2335,7,,,05/25/2021,
+Tennessee,TN,,,1542,1518,5,,,,48032,6691,6641,42,,,05/27/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for the number of people vaccinated for this week."
+Texas,TX,,237322,11738,11351,47,13169,11759,,539723,34639,33185,269,,,05/26/2021,"This week's prisoner deaths totals are based on data from the Texas Justice Initiative. Vaccine numbers as of 5/26, 196 staff and 5431 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
+Utah,UT,,,,,,,,,,,,,,,,
+Vermont,VT,,,112,110,0,0,467,3102,23260,463,462,0,821,,05/26/2021,They're only reporting incarcerated people *currently in their custody* who have received at least one dose.
+Virginia,VA,,21766,2595,2572,5,6917,5418,,119870,9112,8958,56,18041,16179,05/27/2021,
+Washington,WA,,,1276,,2,3711,,,,6249,6221,14,7926,,05/25/2021,
+West Virginia,WV,,14221,501,495,1,834,812,,10705,1630,1610,12,803,1533,05/28/2021,1533 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
+Wisconsin,WI,,,2568,2556,,,,,115106,10976,10763,32,10154,8849,05/25/2021,
+Wyoming,WY,,,,,0,,,,,,,,,,05/25/2021,
+Federal,US,,,6965,6832,4,,18878,114091,,,,,,69181,05/25/2021,
 Alabama,AL,,,1052,1038,3,848,,,16211,1651,1582,66,5935,,05/19/2021,
 Alaska,AK,,,330,,0,,,,34006,2423,,5,3233,2755,05/18/2021,
 Arizona,AZ,,,2771,2759,,,,46958,,12297,12223,59,,,05/18/2021,
-Arkansas,AR,,,,,,,,,,,,,,,,
+Arkansas,AR,,,,,4,,,,,11373,11329,52,,,05/18/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
 California,CA,,,16537,16403,28,32025,29240,126208,,49237,48390,222,69165,66555,05/21/2021,
 Colorado,CO,,,1897,,0,3418,,20097,220177,8954,,29,10043,,05/18/2021,
 Connecticut,CT,,76475,1686,1675,0,2697,,,120109,4486,4454,19,4600,,05/18/2021,
-Delaware,DE,,,,,,,,,,,,,,,,
+Delaware,DE,,,,,1,,1128,,14077,2049,2030,13,2217,1793,05/20/2021,
 Florida,FL,,,6036,5837,,,,,,18071,17852,221,,,05/19/2021,
 Georgia,GA,,,1737,1711,4,1494,,,,3865,3765,93,22681,,05/18/2021,
 Hawaii,HI,,,250,230,0,,,,18126,1974,1959,9,,,05/18/2021,
 Idaho,ID,6432,,481,479,0,249,213,11699,,4144,4089,6,2793,2196,05/18/2021,
 Illinois,IL,,246155,4557,4482,1,,4272,,598063,10898,10887,88,,18895,05/18/2021,
 Indiana,IN,,5682,1532,1508,4,,,,23007,3684,3584,51,11834,6282,05/18/2021,
-Iowa,IA,,,707,703,2,1309,1312,,47627,4887,4964,19,3702,3367,05/19/2021,30 Staff and 900 prisoners have received the one-shot Johnson and Johnson vaccine.
-Kansas,KS,,,1218,,6,,,,,6114,,16,,,05/18/2021,
+Iowa,IA,,,707,703,2,1309,1312,,47627,4887,4864,19,3702,3367,05/19/2021,30 Staff and 900 prisoners have received the one-shot Johnson and Johnson vaccine. The number of prisoners recovered from COVID-19 for this week was transcribed incorrectly and has been updated.
+Kansas,KS,,,1217,,6,1417,,,,6114,,16,6325,,05/18/2021,
 Kentucky,KY,,,1106,,5,,,,,7908,,48,,,05/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2468,,937,927,6,2190,2141,9079,,3206,3107,36,9287,6368,05/19/2021,
-Maine,ME,,,,,,,,,10324,197,,,,,05/21/2021,
-Maryland,MD,,,,,,,,,,,,,,,,
-Massachusetts,MA,,,,,,,,,,,,,,,,
+Maine,ME,,,63,63,0,802,790,,10324,197,,1,757,588,05/21/2021,
+Maryland,MD,,86892,2327,2291,4,4103,3968,,72775,4470,4431,30,10066,7148,05/21/2021,
+Massachusetts,MA,,,953,,,3132,2831,,37609,,,21,4665,4401,05/19/2021,
 Michigan,MI,,230592,4365,,6,,,41762,881458,26664,25611,141,,19768,05/20/2021,
 Minnesota,MN,,,1134,936,0,,2133,,116026,4229,4197,12,1180,4401,05/18/2021,3862 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
-Mississippi,MS,,,,,,,,,,,,,,,,
+Mississippi,MS,,,,,,691,545,,3442,1399,,23,10844,8734,05/19/2021,
 Missouri,MO,,12985,2605,2591,6,,,,85163,5826,5687,48,12216,,05/20/2021,
-Montana,MT,,,,,,,,,,,,,,,05/18/2021,
+Montana,MT,,,285,,0,,,,,,,6,,,05/18/2021,
 Nebraska,NE,,,,,,,,3676,6784,982,976,6,,,05/21/2021,
 Nevada,NV,,,1001,,3,,,,,4565,,,,,05/18/2021,
 New Hampshire,NH,,,186,,,,,,1993,460,456,3,1304,1255,05/18/2021,173 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
-New Jersey,NJ,,,,,,,,,,,,,,,,
-New Mexico,NM,,,968,964,,1678,1649,,50252,2986,2957,28,,,05/18/2021,
+New Jersey,NJ,,216939,2901,,,,,,287436,4799,,53,,,05/16/2021,
+New Mexico,NM,,,968,964,0,1678,1649,,50252,2986,2957,28,,,05/18/2021,
 New York,NY,,,5197,5138,8,7546,7675,,97375,6561,6497,35,3938,10604,05/19/2021,153 staff and 7686 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine.
 North Carolina,NC,,142760,3960,3831,13,6982,6403,42024,139099,10056,7940,55,17552,15695,05/18/2021,"Includes released prisoners: 845 at least one dose, 498 fully vaccinated"
 North Dakota,ND,1266,24537,299,298,1,,,3795,35996,634,633,1,1006,1040,05/18/2021,Vaccine numbers as of 5/19. 111 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
@@ -40,7 +91,7 @@ Pennsylvania,PA,,,4948,,,3430,3410,,119839,11359,,138,,,05/19/2021,"The state is
 Rhode Island,RI,,,455,454,1,,,,,1238,1232,2,,,05/21/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 
 South Carolina,SC,,,1133,1112,2,,,,37645,3317,3220,42,4066,3653,05/18/2021,
 South Dakota,SD,,424,191,191,0,,,,8840,2342,2335,7,,,05/18/2021,
-Tennessee,TN,,,1541,1516,5,,,,46743,6684,6638,42,,,05/18/2021,
+Tennessee,TN,,,1541,1516,5,,,,46743,6684,6638,42,,,05/18/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for the number of people vaccinated for this week."
 Texas,TX,,231051,11712,11315,46,13162,11502,,527873,34620,33176,269,,,05/18/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/20, 194 staff and 5288 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
 Utah,UT,,,402,396,,,,,29340,3463,3438,16,377,358,05/20/2021,
 Vermont,VT,,,112,108,0,0,467,3061,22902,462,461,0,812,,05/18/2021,
@@ -48,7 +99,7 @@ Virginia,VA,,21766,2589,2559,5,6852,5374,,118989,9111,8954,56,17971,16174,05/20/
 Washington,WA,,,1263,,2,3693,,,,6240,6212,14,7363,,05/18/2021,
 West Virginia,WV,,14043,498,494,1,834,812,,10611,1629,1610,12,803,1519,05/21/2021,1519 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2560,2548,,,,,113112,10975,10757,32,9836,6549,05/18/2021,Vaccine numbers as of 5/16. 1845 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
-Wyoming,WY,,,,,,,,,,,,,,,,
+Wyoming,WY,,,304,301,0,,,,32662,902,893,3,,,05/18/2021,
 Federal,US,,,6946,6792,4,,18772,113660,,,,,,65442,05/18/2021,
 Alabama,AL,,,1046,1037,3,844,,,16066,1649,1580,66,4065,,05/12/2021,
 Alaska,AK,,,330,,0,,,,33204,2420,,5,,2313,05/11/2021,
@@ -57,7 +108,7 @@ Arkansas,AR,,,,,4,,,,,11351,11318,52,,,05/11/2021,"We have been told vaccination
 California,CA,,,16485,16331,28,31642,28855,125541,,49229,48386,222,68107,65626,05/14/2021,
 Colorado,CO,,,1881,,0,3320,,19919,215728,8942,,29,9778,,05/11/2021,
 Connecticut,CT,,73296,1684,1661,0,2697,,,113335,4475,4448,19,4386,,05/11/2021,
-Delaware,DE,,,,,,,,,,,,,,,,
+Delaware,DE,,,,,,,,,,,,13,,,05/11/2021,
 Florida,FL,,,,,,,,,,,,,,,05/11/2021,
 Georgia,GA,,,1733,1703,4,1448,,,,3864,3759,93,21901,,05/11/2021,
 Hawaii,HI,,,230,229,0,,,,17822,1970,1958,9,375,1290,05/11/2021,"Of those fully vaccinated, 1005 received the one-shot Johnson & Johnson vaccine."
@@ -65,7 +116,7 @@ Idaho,ID,6428,,480,478,0,249,213,11643,,4141,4081,6,2613,2032,05/11/2021,
 Illinois,IL,,231007,4525,4452,1,,4272,,579437,10892,10878,88,,18895,05/11/2021,
 Indiana,IN,,5672,1530,1502,4,,,,22730,3679,3583,51,10265,5368,05/11/2021,
 Iowa,IA,,,706,702,2,1303,1274,,46773,4883,4855,19,3644,1439,05/12/2021,25 Staff and 548 prisoners have received the one-shot Johnson and Johnson vaccine.
-Kansas,KS,,,1216,,6,1502,,,,6111,,16,6355,,05/13/2021,Vaccines as of 5/12
+Kansas,KS,,,1216,,6,,,,,6111,,16,,,05/13/2021,"Vaccines as of 5/12. Kansas later revised its prisoner and staff vaccine totals, so we removed the earlier reported numbers for this week."
 Kentucky,KY,,,1103,,5,1524,,,,7904,,48,7125,,05/13/2021,
 Louisiana,LA,2467,,936,926,6,2172,2106,8995,,3205,3106,36,8877,5944,05/11/2021,
 Maine,ME,,,,,0,,735,,10199,197,,1,,284,05/14/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
@@ -75,11 +126,11 @@ Michigan,MI,,223650,4330,,6,,,41692,849219,26655,25548,141,,19722,05/13/2021,vac
 Minnesota,MN,,,1132,931,0,,2086,,115202,4229,4197,12,1056,4223,05/11/2021,3775 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
 Mississippi,MS,,,,,,691,537,,3436,1399,,23,10844,8734,05/12/2021,
 Missouri,MO,,12983,2597,2583,6,,,,84492,5793,5630,48,11902,,05/11/2021,
-Montana,MT,,,287,,0,,,,,1136,,6,1659,935,05/12/2021,Vaccine numbers as of 5/14
+Montana,MT,,,285,,0,,,,,1136,,6,1659,935,05/12/2021,Vaccine numbers as of 5/14. The number of staff cases for this week was transcribed incorrectly and has been updated.
 Nebraska,NE,,,,,,,,3676,6783,982,976,6,,,05/14/2021,
 Nevada,NV,,,998,,3,1274,845,,,4560,,57,5754,851,05/11/2021,
 New Hampshire,NH,,,185,,,,,,1943,458,455,3,1277,537,05/11/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
-New Jersey,NJ,,,,,,,,,,,,,,,,
+New Jersey,NJ,,211511,2889,,,,,,,,,53,,,05/09/2021,
 New Mexico,NM,,,965,960,0,1662,1632,,49828,2985,2952,28,2920,1874,05/11/2021,
 New York,NY,,,5184,5113,8,7546,7675,,87849,6556,6472,35,3938,8024,05/11/2021,"153 staff and 5,106 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine."
 North Carolina,NC,,138637,3942,3823,13,6914,5807,41771,137126,10047,7976,55,17172,14447,05/11/2021,
@@ -91,9 +142,9 @@ Pennsylvania,PA,,,4934,,,3373,3353,,117103,11344,,137,,,05/11/2021,"The state is
 Rhode Island,RI,,,454,453,1,902,899,,,1233,1220,2,,,05/14/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 13 staff and 51 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1128,1102,2,,,,36790,3303,3212,42,,,05/11/2021,
 South Dakota,SD,,424,191,191,0,,,,8700,2342,2334,7,2164,,05/11/2021,
-Tennessee,TN,,,1537,1502,5,,,,45441,6682,6626,42,,,05/10/2021,
+Tennessee,TN,,,1537,1502,5,,,,45441,6682,6626,42,,,05/10/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for the number of people vaccinated for this week."
 Texas,TX,,225083,11695,11289,46,13099,11278,,516946,34611,33167,269,,,05/11/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/12, 183 staff and 5065 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
-Utah,UT,,,,,,,,,,,,,,,,
+Utah,UT,,,,396,,,,,,,,16,,,05/11/2021,
 Vermont,VT,,,111,107,0,0,467,3040,22315,461,460,0,,,05/11/2021,
 Virginia,VA,,21106,2582,2540,5,6811,5349,,117503,,8951,56,17711,16008,05/13/2021,
 Washington,WA,,,1242,,2,3679,,,,6234,6203,14,6636,,05/11/2021,
@@ -116,7 +167,7 @@ Idaho,ID,6427,,480,474,0,249,213,11572,,4137,4068,6,2311,1718,05/04/2021,
 Illinois,IL,,222546,4495,4417,1,,4272,,564391,10887,10872,88,,18895,05/04/2021,
 Indiana,IN,,5660,1528,1500,4,,,,22428,3663,3530,51,7449,4061,05/04/2021,
 Iowa,IA,,,705,700,2,1302,1232,,46301,4878,4848,19,3432,408,05/04/2021,Staff fully vaxxed=17 single dose + 1215 second dose. Prisoner fully vaxed=164 single dose+244 second dose
-Kansas,KS,,,1216,,6,1484,,,,6106,,16,6344,,05/06/2021,Vaccines as of 5/5
+Kansas,KS,,,1216,,6,,,,,6106,,16,,,05/06/2021,"Vaccines as of 5/5. Kansas later revised its prisoner and staff vaccine totals, so we removed the earlier reported numbers for this week."
 Kentucky,KY,,,1101,,5,1519,,,,7903,,48,7082,,05/06/2021,
 Louisiana,LA,2467,,935,925,6,,,8954,,3205,3106,36,,,05/04/2021,
 Maine,ME,,,,,0,,,,10108,196,,1,,284,05/07/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
@@ -142,7 +193,7 @@ Pennsylvania,PA,,,4922,,,3321,3299,,115309,11319,,136,24512,24203,05/06/2021,"Pr
 Rhode Island,RI,,,454,451,1,893,891,,,1222,1216,2,,,05/07/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1120,1102,2,,,,,3276,3202,42,2442,1802,05/04/2021,
 South Dakota,SD,,423,191,191,0,,,,8548,2341,2334,7,2164,,05/04/2021,
-Tennessee,TN,,,1537,1500,5,,,,45147,6678,6616,42,,,05/06/2021,
+Tennessee,TN,,,1537,1500,5,,,,45147,6678,6616,42,,,05/06/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for the number of people vaccinated for this week."
 Texas,TX,,219079,11639,11208,46,13001,11102,,506136,34596,33116,269,,,05/04/2021,"We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 5/7, 176 staff and 4512 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners vaccinated."
 Utah,UT,,,402,396,,,,,28826,3456,3410,16,377,259,05/05/2021,
 Vermont,VT,,,110,106,0,0,467,3006,21975,460,460,0,808,,05/04/2021,
@@ -167,7 +218,7 @@ Idaho,ID,5996,,480,470,0,249,213,11472,,4130,4063,6,2171,1579,04/27/2021,
 Illinois,IL,,209513,4461,4385,1,,4272,,548203,10878,10862,88,,18895,04/27/2021,
 Indiana,IN,,5639,1521,1492,4,,,,21772,3617,3504,51,6850,3055,04/27/2021,
 Iowa,IA,,,704,699,2,1291,1220,,45779,4872,4841,19,3382,237,04/27/2021,Staff fully vaxxed=13 one shot + 1207 two shots. Prisoners fully vaxxed= 23 one shot + 214 two shots
-Kansas,KS,,,1214,,6,1484,,,,6103,,16,6287,,04/29/2021,Vaccines as of 4/28
+Kansas,KS,,,1214,,6,,,,,6103,,16,6287,,04/29/2021,"Vaccines as of 4/28. Kansas later revised its staff vaccine totals, so we removed the earlier reported numbers for this week."
 Kentucky,KY,,,1100,,5,,,,,7903,,48,,,04/29/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2465,,932,921,6,,,8880,,3204,3106,36,,,04/27/2021,
 Maine,ME,,,,,0,,,,9951,193,,1,,284,04/30/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
@@ -193,7 +244,7 @@ Pennsylvania,PA,,,4890,,,3237,3212,,112258,11288,,135,,,04/27/2021,"Pennsylvania
 Rhode Island,RI,,,452,449,1,893,891,,,1219,1211,2,,,04/30/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1114,1092,2,,,,35602,3255,3193,42,1363,723,04/27/2021,
 South Dakota,SD,,423,191,191,0,,,,8415,2341,2334,7,2164,,04/27/2021,
-Tennessee,TN,,,1524,1485,5,,,,43760,6669,6603,42,,,04/27/2021,
+Tennessee,TN,,,1524,1485,5,,,,43760,6669,6603,42,,,04/27/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for the number of people vaccinated for this week."
 Texas,TX,,216583,11618,11164,46,12457,10653,,500597,34585,33095,269,,,04/27/2021,We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. Vaccine numbers as of 4/28. 156 staff and 3648 prisoners have received the one-shot Johnson & Johnson vaccine.
 Utah,UT,,,,,,,,,,,,16,377,259,04/27/2021,
 Vermont,VT,,,108,103,0,0,467,2976,21506,459,,0,797,,04/27/2021,
@@ -218,7 +269,7 @@ Idaho,ID,5985,,473,470,0,249,213,11450,,4130,4062,6,1592,1534,04/20/2021,
 Illinois,IL,,189210,4438,4341,1,,4272,,516541,10877,10855,88,,18895,04/20/2021,358 staff have self-disclosed that they have received both doses from outside providers.
 Indiana,IN,,5621,1519,1487,4,,,,21435,3577,3422,51,5165,2050,04/20/2021,
 Iowa,IA,,,701,699,2,1263,1219,,44991,4854,4829,19,1964,237,04/20/2021,The number of staff cases for this week was incorrect and have been updated. Staff fully vaxxed=13 one shot + 1206 two shots. Prisoners fully vaxxed= 23 one shot + 214 two shots
-Kansas,KS,,,1212,,6,1458,,,,6103,,16,6139,,04/22/2021,vaccination numbers as of 4/22
+Kansas,KS,,,1212,,6,,,,,6103,,16,6139,,04/22/2021,"vaccination numbers as of 4/22. Kansas later revised its staff vaccine totals, so we removed the earlier reported numbers for this week."
 Kentucky,KY,,,1097,,5,,,,,7901,,48,,,04/22/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2458,,931,921,6,,,8819,,3204,3106,36,,,04/20/2021,
 Maine,ME,,,,,0,,,,9821,175,,1,,284,04/23/2021,All of the prisoners vaccinated in Maine have received the one-shot Johnson & Johnson vaccine.
@@ -244,7 +295,7 @@ Pennsylvania,PA,,,4848,,,3163,3133,,109820,11251,,135,20381,19490,04/20/2021,"Th
 Rhode Island,RI,,,450,446,1,893,891,,,1214,1204,2,,,04/23/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 11 staff and 44 prisoners received the on-shot Johnson & Johnson vaccine
 South Carolina,SC,,,1111,1085,2,,,11205,,3252,,41,1345,723,04/20/2021,
 South Dakota,SD,,422,191,191,0,,,,8267,2341,2334,7,2164,,04/20/2021,
-Tennessee,TN,,,1518,1479,5,,,,42576,6649,6598,42,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Tennessee,TN,,,1518,1479,5,,,,42576,6649,6598,42,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for the number of people vaccinated for this week."
 Texas,TX,,210239,11545,11078,46,12065,,,490376,34559,32954,269,,,04/20/2021,"Vaccine numbers as of 4/21. TDCJ is unable to provide a breakdown of how many We have revised this week's prisoner deaths totals based on data from the Texas Justice Initiative. people are fully or partially vaccinated with the Moderna vaccine, but are reporting 3648 have received the one-shot Johnson & Johnson vaccine."
 Utah,UT,,,399,396,,,,,27729,,3382,16,312,258,04/21/2021,
 Vermont,VT,,,105,102,0,,467,2954,21136,459,,0,737,,04/20/2021,
@@ -269,7 +320,7 @@ Idaho,ID,5982,,472,470,0,224,143,11395,,4127,4062,6,1361,1250,04/13/2021,
 Illinois,IL,,181863,4397,4296,1,,4272,,497675,10864,10840,88,,18895,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Indiana,IN,,5606,1515,1485,4,,,,20698,3522,3418,51,,,04/14/2021,
 Iowa,IA,,,701,698,2,1238,1218,,44678,4849,4820,19,932,233,04/15/2021,13 staff and 23 prisoners have received the 1-shot Johnson & Johnson vaccine.
-Kansas,KS,,,1212,,6,1455,,,,6101,,16,5929,,04/15/2021,vaccine numbers as of 4/14
+Kansas,KS,,,1212,,6,,,,,6101,,16,5929,,04/15/2021,"vaccine numbers as of 4/14. Kansas later revised its staff vaccine totals, so we removed the earlier reported numbers for this week."
 Kentucky,KY,,,1094,,5,,,,,7901,,48,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2455,,928,915,6,,,8782,,3204,3105,36,,,04/13/2021,
 Maine,ME,,,,,0,,,,9566,170,,1,,284,04/16/2021,All prisoners have been vaccinated with the one-shot Johnson & Johnson vaccine.
@@ -320,7 +371,7 @@ Idaho,ID,5973,,472,467,0,224,143,11309,,4122,4060,6,529,204,04/06/2021,"Of the 4
 Illinois,IL,,166664,4342,4261,1,,,,476115,10853,10810,88,,,04/06/2021,
 Indiana,IN,,5547,1500,1474,4,,,,19897,3480,3415,51,,,04/06/2021,
 Iowa,IA,,,701,698,2,,,,44100,4839,4812,19,206,206,04/07/2021,Vaccination numbers come from 4/5. Iowa later revised their staff vaccine numbers down.
-Kansas,KS,,,1212,,6,1453,,,,6098,,16,5822,,04/08/2021,Vaccination numbers as of 4/7
+Kansas,KS,,,1212,,6,,,,,6098,,16,5822,,04/08/2021,"Vaccination numbers as of 4/7. Kansas later revised its staff vaccine totals, so we removed the earlier reported numbers for this week."
 Kentucky,KY,,,1091,,5,,,,,7899,,48,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2453,,926,911,6,,,8706,,3202,3101,36,,,04/06/2021,
 Maine,ME,,,59,58,0,,,,,168,166,1,,284,04/08/2021,All prisoners have been vaccinated with the on-shot Johnson & Johnson vaccine.
@@ -328,7 +379,7 @@ Maryland,MD,,62244,2222,2151,4,4011,3968,,66828,4381,4319,26,3827,787,04/09/2021
 Massachusetts,MA,,,930,,,2953,2804,,33817,3021,,21,4620,4279,04/07/2021,
 Michigan,MI,,191194,4039,,5,,,41234,701601,26156,24526,140,12489,15576,04/08/2021,Vaccine numbers as of 4/9. 7402 people received the J&J one-shot vaccine.
 Minnesota,MN,,,1066,867,0,740,1670,,106508,4064,3859,12,,3739,04/06/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new. testing method, they don't have new presumed positives that will be added to this column. Among the staff vaccines, 1078 received the one-shot Johnson and Johnson vaccine,  and 3484 prisoners got the single shot Johnson and Johnson shot. These totals are included in the ""fully vaccinated"" field."
-Mississippi,MS,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Mississippi,MS,,,,,,,,,,,,23,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Missouri,MO,,12961,2576,2568,6,,,,79729,5628,5545,48,5609,3303,04/06/2021,
 Montana,MT,,,282,,0,,,,,1135,,6,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Nebraska,NE,,,557,549,,,,3676,6776,982,976,6,,,04/09/2021,Staff case totals from 4/8
@@ -371,7 +422,7 @@ Idaho,ID,5881,,469,464,0,224,143,11127,,4117,4059,6,449,204,03/30/2021,"In addit
 Illinois,IL,,162042,4299,4217,1,4057,,,471928,10844,10796,88,18381,,03/30/2021,
 Indiana,IN,,5536,1497,1472,4,2730,,,19062,3472,3413,51,2172,813,03/30/2021,
 Iowa,IA,,,700,698,2,,,,,4829,4808,19,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Kansas,KS,,,1209,,6,,,,,6098,,16,5794,,04/01/2021,Vax numbers as of 3/31
+Kansas,KS,,,1209,,6,,,,,6098,,16,5794,,04/01/2021,"Vax numbers as of 3/31. Kansas later revised its staff vaccine totals, so we removed the earlier reported numbers for this week."
 Kentucky,KY,,,1084,,5,,,,,7891,,48,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2450,,925,907,6,,,8620,,3199,3099,36,,,03/30/2021,
 Maine,ME,,,59,56,0,708,708,,8125,168,165,1,,125,03/30/2021,All prisoners have been vaccinated with the on-shot Johnson & Johnson vaccine.
@@ -414,7 +465,7 @@ Arkansas,AR,,,,,4,1049,972,,,11187,11135,52,0,0,03/23/2021,
 California,CA,,,16037,15706,26,,,120334,,49195,48335,216,,,03/23/2021,Staff cases are from 3/22
 Colorado,CO,,,1598,,0,2731,,18893,183870,8733,,29,4046,,03/23/2021,
 Connecticut,CT,,55177,1613,1562,0,2600,,,83266,4352,4198,19,4134,,03/23/2021,
-Delaware,DE,,,,,,,,,,,,,,,,
+Delaware,DE,,,,,,,,,,,,,,,03/23/2021,
 Florida,FL,,,5679,5426,7,0,0,,,17930,17701,213,0,0,03/24/2021,
 Georgia,GA,,,1691,1637,4,,,,,3674,3536,93,,,03/23/2021,
 Hawaii,HI,,,223,222,0,,,,15627,1963,1948,9,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
@@ -433,7 +484,7 @@ Minnesota,MN,,,1038,854,0,740,1033,,104259,3966,3855,12,369,240,03/23/2021,"Subt
 Mississippi,MS,,573,220,161,,619,353,,3360,1397,1373,23,4241,0,03/26/2021,
 Missouri,MO,,12960,2575,2561,6,,,,78209,5581,5506,48,4785,,03/23/2021,
 Montana,MT,,,278,,0,0,0,,,1129,,6,484,233,03/24/2021,
-Nebraska,NE,,,,,,,,,,,,,,,,
+Nebraska,NE,,,,,,,,,,982,,6,,,03/23/2021,
 Nevada,NV,,,972,,3,1167,787,,,4515,,57,866,2,03/23/2021,Vaccine numbers as of 3/26
 New Hampshire,NH,,,175,,0,,,,1644,452,448,3,358,304,03/23/2021,
 New Jersey,NJ,,173214,2698,,,,,,242494,4750,,53,,,03/21/2021,"In May 2021, New Jersey's Department of Corrections revised much of its historic data for tests and cases among prisoners and staff. These figures revealed many new cases but also exclude prisoner cases in residential community release programs that were reported prior to August of 2020, including one death. We have retained the one death in a reentry center, but otherwise are now reporting only data for prisons. We have updated this week accordingly. We have been told vaccinations have begun in this system this week, but they have not released numbers."
@@ -481,7 +532,7 @@ Maryland,MD,,55104,2159,2096,4,4011,3968,,64183,4289,4210,24,830,697,03/19/2021,
 Massachusetts,MA,,,912,,,2939,2628,,30659,3017,,20,4585,4154,03/17/2021,
 Michigan,MI,,161937,3713,,4,,,40948,614211,25707,23866,139,11160,3978,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Vaccine numbers as of 3/19/21"
 Minnesota,MN,,,1030,848,0,729,441,,101778,3958,3847,12,352,234,03/16/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
-Mississippi,MS,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Mississippi,MS,,,,,,,,,,,,23,,,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Missouri,MO,,12941,2571,2557,6,,,,76960,5563,5487,48,4362,0,03/16/2021,
 Montana,MT,,,277,,0,0,0,,,1129,,6,484,211,03/18/2021,
 Nebraska,NE,,,,,,,,3675,,982,970,6,,,03/19/2021,
@@ -685,7 +736,7 @@ Maryland,MD,,47931,2073,1902,4,,,,53480,4067,3960,22,,,02/15/2021,"Maryland chan
 Massachusetts,MA,,,899,,,2882,1303,,27796,2992,,20,4330,830,02/17/2021,
 Michigan,MI,,134280,3567,,4,,,40603,509647,25039,22538,138,,,02/16/2021,
 Minnesota,MN,,,1000,820,0,444,110,,94886,3883,3810,11,238,110,02/16/2021,"Subtracted 38 presumed positives from inmate recovery numbers, which we have to do each week. Staff returned to work numbers are fine as is. These 38 are from some time in April - since they switched to a new testing method, they don't have new presumed positives that will be added to this column."
-Mississippi,MS,,,,,,,,,,,,,0,0,02/18/2021,
+Mississippi,MS,,,,,,,,,,,,23,0,0,02/18/2021,
 Missouri,MO,,,,,6,,,,,5494,5400,42,0,0,02/17/2021,Missouri's total cases omitted deaths and has been updated.
 Montana,MT,,,276,,0,0,0,,,1129,,6,110,0,02/17/2021,
 Nebraska,NE,,,,,,,,,,,,,,,,
