@@ -1,36 +1,87 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,staff_partial_dose,staff_full_dose,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,prisoners_partial_dose,prisoners_full_dose,as_of_date,notes
+Alabama,AL,,,,,,,,,,,,,,,,
+Alaska,AK,,,330,,0,,,,34006,2430,,5,3344,2927,05/31/2021,
+Arizona,AZ,,,2779,2766,,,,47487,,12318,12234,,,,06/01/2021,
+Arkansas,AR,,,,,4,,,,,11399,11295,52,,,06/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
+California,CA,,,,,,,30840,127305,,49298,48396,224,69946,67481,06/01/2021,
+Colorado,CO,,,1929,,0,3606,,20326,226598,8959,,29,10343,,06/01/2021,
+Connecticut,CT,,82819,1689,1684,0,2697,,,129735,4543,4467,19,4795,,06/01/2021,
+Delaware,DE,,,,,,,,,,,,,,,,
+Florida,FL,,,6066,5908,9,,,,,18072,17851,221,,,06/01/2021,
+Georgia,GA,,,1739,1717,4,1589,,,,3868,3765,93,25364,,06/03/2021,
+Hawaii,HI,,,259,248,0,,,,18828,2053,1963,9,,,06/01/2021,
+Idaho,ID,6440,,482,480,0,249,213,11809,,4159,4089,6,3353,3033,06/01/2021,
+Illinois,IL,,264287,4597,4534,1,,4868,,633996,10909,10897,88,,18895,06/01/2021,
+Indiana,IN,,5708,1542,1511,4,,,,23601,3708,3644,51,,,06/01/2021,
+Iowa,IA,,,709,705,2,1310,1323,,48475,4889,4864,19,3715,4460,06/04/2021,Vaccines as of 6/1
+Kansas,KS,,,1218,,6,,,,,6114,,16,,,06/03/2021,
+Kentucky,KY,,,,,,,,,,,,,,,,
+Louisiana,LA,2474,,943,929,6,2199,2158,9141,,3208,3109,36,9362,8524,06/01/2021,Vaccinations as of June 2.
+Maine,ME,,,,,,,,,10441,197,,,801,1139,06/04/2021,
+Maryland,MD,,,,,,,,,,,,,,,,
+Massachusetts,MA,,,954,,,3133,2836,,38038,,,21,4752,4412,06/02/2021,
+Michigan,MI,,247353,4392,,6,,,41997,929806,26684,25854,141,,20074,06/03/2021,
+Minnesota,MN,,,1135,944,0,,,,117203,4229,4219,12,1330,4609,06/01/2021,3956 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
+Mississippi,MS,,,,,,692,546,,3444,1399,,23,10844,8734,06/03/2021,
+Missouri,MO,,12995,2616,2595,6,,,,86577,5855,5769,48,12663,,06/01/2021,
+Montana,MT,,,,,0,,,,,1138,,6,,1018,06/02/2021,38 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+Nebraska,NE,,,,,,,,3676,6784,982,976,6,,,06/04/2021,
+Nevada,NV,,,1006,,3,,,,,4568,,,,,06/01/2021,
+New Hampshire,NH,,,186,186,0,,,,2034,460,457,3,1352,1490,06/01/2021,186 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Jersey,NJ,,,,,,,,,,,,,,,,
+New Mexico,NM,,,972,966,0,1684,1671,,53452,2987,2958,28,3587,3185,06/01/2021,
+New York,NY,,,5207,5154,8,7546,7928,,99966,6589,6526,35,3965,16447,06/02/2021,398 staff and 9070 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine.
+North Carolina,NC,,153667,3984,3869,13,,,42485,142860,10072,7874,55,,,06/01/2021,
+North Dakota,ND,1286,24978,300,299,1,,,3905,36686,634,633,1,1006,1133,06/04/2021,182 people were fully vaccinated with the one-shot Johnson & Johnson vaccine. Vaccine numbers as of 6/2 and tests as of 6/1
+Ohio,OH,,,4942,4913,10,7475,,,,,6912,135,24362,,06/03/2021,
+Oklahoma,OK,,17286,1074,,,,,,32944,7435,,56,,,06/02/2021,
+Oregon,OR,,,885,878,0,,,,29152,3614,3456,42,,9276,06/01/2021,The number of vaccinated now includes those who have been released after being vaccinated.
+Pennsylvania,PA,,,4975,,,3482,3462,,124711,11398,,138,,,,"The state is also no longer reporting cases in community corrections, so we are adding in the last known number of cases there, 309. As a result, these case numbers are almost certainly an undercount."
+Rhode Island,RI,,,456,454,1,,902,,,1244,1241,2,,,06/04/2021,Subtracting 4 presumed positives among prisoners and 13 presumed positives from staff. 
+South Carolina,SC,,,1138,1123,2,,,,39276,3334,3233,42,7012,6248,06/01/2021,
+South Dakota,SD,,424,191,191,0,,,,9069,2342,2335,7,2194,,06/01/2021,Vaccine numbers only reflect currently incarcerated people.
+Tennessee,TN,,,,,,,,,,,,,,,,
+Texas,TX,,239137,11751,11374,48,13232,12125,,545479,34658,33190,269,,,06/01/2021,This week's prisoner deaths totals are based on data from the Texas Justice Initiative.
+Utah,UT,,,402,396,,,,,29901,3472,3448,18,380,375,06/03/2021,
+Vermont,VT,,,112,111,0,0,467,3126,23444,463,,0,859,,06/01/2021,They're only reporting incarcerated people *currently in their custody* who have received at least one dose.
+Virginia,VA,,21766,2605,2578,5,6964,5489,,120722,9112,8960,56,18412,16429,06/03/2021,
+Washington,WA,,,1282,,2,3716,,,,6252,6225,14,7989,,06/01/2021,
+West Virginia,WV,,14307,502,498,1,,812,,10755,1631,1610,12,,2388,06/04/2021,1585 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
+Wisconsin,WI,,,2574,2564,,,,,118963,10986,10766,32,10464,10715,06/01/2021,1952 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
+Wyoming,WY,,,,,,,,,,,,,,,,
+Federal,US,,,6972,6837,4,,19000,114733,,,,255,,73050,06/01/2021,
 Alabama,AL,,,1052,1043,3,855,,,16334,1654,1584,66,8813,,05/26/2021,
 Alaska,AK,,,330,,0,,,,34006,2427,,5,3289,2830,05/26/2021,
 Arizona,AZ,,,2772,2764,,,,47269,,12307,12226,,,,05/25/2021,
-Arkansas,AR,,,,,4,,,,,11376,11350,52,,,05/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+Arkansas,AR,,,,,4,,,,,11376,11298,52,,,05/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,16770,16694,28,33231,30800,126921,,49254,48395,224,69798,67329,05/28/2021,
 Colorado,CO,,,1920,,0,3524,,20251,223801,8956,,29,10239,,05/26/2021,
 Connecticut,CT,,79422,1687,1681,0,2697,,,125072,4523,4458,19,4714,,05/25/2021,
 Delaware,DE,,,,,,,,,,,,,,,,
-Florida,FL,,,,,,,,,,,,,,,,
+Florida,FL,,,,,9,,,,,,,221,,,05/25/2021,
 Georgia,GA,,,1739,1715,4,1494,,,,3867,3765,93,24139,,05/25/2021,
-Hawaii,HI,,,250,235,,,,,18325,1980,1959,9,,,05/25/2021,
+Hawaii,HI,,,250,235,0,,,,18325,1980,1959,9,,,05/25/2021,
 Idaho,ID,6437,,482,479,0,249,213,11804,,4148,4089,6,3029,2272,05/25/2021,
-Illinois,IL,,256100,4576,4504,,,,,616682,10904,10892,,,,05/25/2021,
+Illinois,IL,,256100,4576,4504,1,,,,616682,10904,10892,88,,18895,05/25/2021,
 Indiana,IN,,5697,1537,1511,4,,,,23268,3703,3643,51,13259,7852,05/25/2021,
 Iowa,IA,,,707,704,2,1310,1315,,48019,4889,4864,19,3712,3981,05/25/2021,30 Staff and 926 prisoners have received the one-shot Johnson and Johnson vaccine.
 Kansas,KS,,,1218,,6,,,,,6114,,16,,,05/27/2021,
 Kentucky,KY,,,1107,,5,,,,,7908,,48,,,05/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Louisiana,LA,2472,,939,927,6,2193,2152,9119,,3207,3108,36,9336,7882,05/26/2021,
 Maine,ME,,,,,,,,,10389,197,,,790,761,05/28/2021,
-Maryland,MD,,,,,,,,,,,,,,,,
+Maryland,MD,,91496,2334,2301,4,,4059,,76314,4477,4436,30,10639,7825,05/28/2021,
 Massachusetts,MA,,,953,,,3133,2836,,37750,,,21,4687,4404,05/26/2021,
 Michigan,MI,,240818,4387,,6,,,41925,909819,26679,25698,,,19833,05/28/2021,
 Minnesota,MN,,,1134,943,0,,2152,,116542,4229,4206,12,1297,4534,05/25/2021,3888 prisoners have received the one-shot Johnson & Johnson vaccine. We remove 38 presumed positives from the recovered prisoners each week
-Mississippi,MS,,,,,,,,,,,,,,,,
+Mississippi,MS,,,,,,,,,,1399,,23,10844,8734,,
 Missouri,MO,,12995,2611,2591,6,,,,86577,5848,5749,48,12476,,05/25/2021,
 Montana,MT,,,285,,0,,,,,1138,,6,,,05/25/2021,
 Nebraska,NE,,,,,,,,3676,6784,982,976,6,,,05/28/2021,
 Nevada,NV,,,1005,,3,1280,,,,4566,,,6318,,05/25/2021,
-New Hampshire,NH,,,186,,,,,,2031,460,457,3,1352,1490,05/28/2021,186 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Hampshire,NH,,,186,186,0,,,,2031,460,457,3,1352,1490,05/28/2021,186 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
 New Jersey,NJ,,,,,,,,,,,,,,,,
 New Mexico,NM,,,971,965,0,1681,1668,,53452,2987,2958,28,3532,2834,05/25/2021,
-New York,NY,,,5211,5155,8,8102,7880,,98671,6576,6517,35,3938,11667,05/25/2021,354 staff and 8452 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New York,NY,,,,,8,7546,7880,,98671,6576,6517,35,3938,11667,05/25/2021,354 staff and 8452 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine.
 North Carolina,NC,,149982,3975,3850,13,6982,6403,42279,141318,10068,7899,55,17552,15695,05/25/2021,
 North Dakota,ND,1276,24764,300,299,1,,,3849,36212,634,633,1,1006,1077,05/25/2021,136 people were fully vaccinated with the one-shot Johnson & Johnson vaccine.
 Ohio,OH,,,4932,4901,10,7399,,,80574,9833,6946,135,24062,,05/27/2021,
@@ -41,7 +92,7 @@ Rhode Island,RI,,,456,454,1,,,,,1243,1238,2,,,05/28/2021,Subtracting 4 presumed 
 South Carolina,SC,,,1134,1117,2,,,,38629,3326,3228,42,5972,5701,05/25/2021,
 South Dakota,SD,,424,191,191,0,,,,8975,2342,2335,7,,,05/25/2021,
 Tennessee,TN,,,1542,1518,5,,,,48032,6691,6641,42,,,05/27/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for the number of people vaccinated for this week."
-Texas,TX,,237322,11738,11351,47,13169,11759,,539723,34639,33185,269,,,05/26/2021,"This week's prisoner deaths totals are based on data from the Texas Justice Initiative. Vaccine numbers as of 5/26, 196 staff and 5431 prisoners have received the one-shot Johnson and Johnson vaccine. Beyond that, TDCJ is not releasing numbers for prisoners partially and fully vaccinated."
+Texas,TX,,237322,11738,11351,47,13169,11759,,539723,34639,33185,269,56121,29250,05/26/2021,"This week's prisoner deaths totals are based on data from the Texas Justice Initiative. Vaccine numbers as of 5/26, 196 staff and 5385 prisoners have received the one-shot Johnson and Johnson vaccine."
 Utah,UT,,,,,,,,,,,,,,,,
 Vermont,VT,,,112,110,0,0,467,3102,23260,463,462,0,821,,05/26/2021,They're only reporting incarcerated people *currently in their custody* who have received at least one dose.
 Virginia,VA,,21766,2595,2572,5,6917,5418,,119870,9112,8958,56,18041,16179,05/27/2021,
@@ -49,16 +100,16 @@ Washington,WA,,,1276,,2,3711,,,,6249,6221,14,7926,,05/25/2021,
 West Virginia,WV,,14221,501,495,1,834,812,,10705,1630,1610,12,803,1533,05/28/2021,1533 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2568,2556,,,,,115106,10976,10763,32,10154,8849,05/25/2021,
 Wyoming,WY,,,,,0,,,,,,,,,,05/25/2021,
-Federal,US,,,6965,6832,4,,18878,114091,,,,,,69181,05/25/2021,
+Federal,US,,,6965,6832,4,,18878,114091,,,,255,,69181,05/25/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1052,1038,3,848,,,16211,1651,1582,66,5935,,05/19/2021,
 Alaska,AK,,,330,,0,,,,34006,2423,,5,3233,2755,05/18/2021,
 Arizona,AZ,,,2771,2759,,,,46958,,12297,12223,59,,,05/18/2021,
-Arkansas,AR,,,,,4,,,,,11373,11329,52,,,05/18/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+Arkansas,AR,,,,,4,,,,,11373,11277,52,,,05/18/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,16537,16403,28,32025,29240,126208,,49237,48390,222,69165,66555,05/21/2021,
 Colorado,CO,,,1897,,0,3418,,20097,220177,8954,,29,10043,,05/18/2021,
 Connecticut,CT,,76475,1686,1675,0,2697,,,120109,4486,4454,19,4600,,05/18/2021,
 Delaware,DE,,,,,1,,1128,,14077,2049,2030,13,2217,1793,05/20/2021,
-Florida,FL,,,6036,5837,,,,,,18071,17852,221,,,05/19/2021,
+Florida,FL,,,6036,5837,9,,,,,18071,17852,221,,,05/19/2021,
 Georgia,GA,,,1737,1711,4,1494,,,,3865,3765,93,22681,,05/18/2021,
 Hawaii,HI,,,250,230,0,,,,18126,1974,1959,9,,,05/18/2021,
 Idaho,ID,6432,,481,479,0,249,213,11699,,4144,4089,6,2793,2196,05/18/2021,
@@ -78,7 +129,7 @@ Missouri,MO,,12985,2605,2591,6,,,,85163,5826,5687,48,12216,,05/20/2021,
 Montana,MT,,,285,,0,,,,,,,6,,,05/18/2021,
 Nebraska,NE,,,,,,,,3676,6784,982,976,6,,,05/21/2021,
 Nevada,NV,,,1001,,3,,,,,4565,,,,,05/18/2021,
-New Hampshire,NH,,,186,,,,,,1993,460,456,3,1304,1255,05/18/2021,173 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Hampshire,NH,,,186,184,0,,,,1993,460,456,3,1304,1255,05/18/2021,173 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
 New Jersey,NJ,,216939,2901,,,,,,287436,4799,,53,,,05/16/2021,
 New Mexico,NM,,,968,964,0,1678,1649,,50252,2986,2957,28,,,05/18/2021,
 New York,NY,,,5197,5138,8,7546,7675,,97375,6561,6497,35,3938,10604,05/19/2021,153 staff and 7686 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine.
@@ -100,16 +151,16 @@ Washington,WA,,,1263,,2,3693,,,,6240,6212,14,7363,,05/18/2021,
 West Virginia,WV,,14043,498,494,1,834,812,,10611,1629,1610,12,803,1519,05/21/2021,1519 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2560,2548,,,,,113112,10975,10757,32,9836,6549,05/18/2021,Vaccine numbers as of 5/16. 1845 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
 Wyoming,WY,,,304,301,0,,,,32662,902,893,3,,,05/18/2021,
-Federal,US,,,6946,6792,4,,18772,113660,,,,,,65442,05/18/2021,
+Federal,US,,,6946,6792,4,,18772,113660,,,,253,,65442,05/18/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1046,1037,3,844,,,16066,1649,1580,66,4065,,05/12/2021,
 Alaska,AK,,,330,,0,,,,33204,2420,,5,,2313,05/11/2021,
 Arizona,AZ,,,2768,2757,,,,46927,,12296,12216,59,,,05/11/2021,The number of deaths this week was revised shortly after this was published after the medical examiner ruled one death was not COVID-related. We adjusted our data accordingly.
-Arkansas,AR,,,,,4,,,,,11351,11318,52,,,05/11/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+Arkansas,AR,,,,,4,,,,,11351,11266,52,,,05/11/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,16485,16331,28,31642,28855,125541,,49229,48386,222,68107,65626,05/14/2021,
 Colorado,CO,,,1881,,0,3320,,19919,215728,8942,,29,9778,,05/11/2021,
 Connecticut,CT,,73296,1684,1661,0,2697,,,113335,4475,4448,19,4386,,05/11/2021,
 Delaware,DE,,,,,,,,,,,,13,,,05/11/2021,
-Florida,FL,,,,,,,,,,,,,,,05/11/2021,
+Florida,FL,,,,,9,,,,,,,,,,05/11/2021,
 Georgia,GA,,,1733,1703,4,1448,,,,3864,3759,93,21901,,05/11/2021,
 Hawaii,HI,,,230,229,0,,,,17822,1970,1958,9,375,1290,05/11/2021,"Of those fully vaccinated, 1005 received the one-shot Johnson & Johnson vaccine."
 Idaho,ID,6428,,480,478,0,249,213,11643,,4141,4081,6,2613,2032,05/11/2021,
@@ -129,7 +180,7 @@ Missouri,MO,,12983,2597,2583,6,,,,84492,5793,5630,48,11902,,05/11/2021,
 Montana,MT,,,285,,0,,,,,1136,,6,1659,935,05/12/2021,Vaccine numbers as of 5/14. The number of staff cases for this week was transcribed incorrectly and has been updated.
 Nebraska,NE,,,,,,,,3676,6783,982,976,6,,,05/14/2021,
 Nevada,NV,,,998,,3,1274,845,,,4560,,57,5754,851,05/11/2021,
-New Hampshire,NH,,,185,,,,,,1943,458,455,3,1277,537,05/11/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
+New Hampshire,NH,,,185,184,0,,,,1943,458,455,3,1277,537,05/11/2021,132 prisoners were fully vaccinated with the one-shot Johnson & Johnson vaccine.
 New Jersey,NJ,,211511,2889,,,,,,,,,53,,,05/09/2021,
 New Mexico,NM,,,965,960,0,1662,1632,,49828,2985,2952,28,2920,1874,05/11/2021,
 New York,NY,,,5184,5113,8,7546,7675,,87849,6556,6472,35,3938,8024,05/11/2021,"153 staff and 5,106 incarcerated individuals have been fully vaccinated with the one-shot Johnson & Johnson vaccine."
@@ -151,11 +202,11 @@ Washington,WA,,,1242,,2,3679,,,,6234,6203,14,6636,,05/11/2021,
 West Virginia,WV,,13918,496,492,1,834,812,,10523,1629,1609,12,803,1486,05/14/2021,1486 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2553,2543,,,,,108412,10967,10748,31,9388,3916,05/12/2021,Vaccine numbers as of 5/11. 1787 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
 Wyoming,WY,,,303,300,0,,,,32178,900,879,3,,,05/10/2021,
-Federal,US,,,6932,6756,4,,18333,113003,,,,,,59901,05/11/2021,
+Federal,US,,,6932,6756,4,,18333,113003,,,,252,,59901,05/11/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1045,1021,3,838,,,16014,1647,1573,65,3286,,05/05/2021,
 Alaska,AK,,,330,,0,,,,32715,2411,,5,3046,2313,05/04/2021,Vaccines as of 5/2
 Arizona,AZ,,,2766,2752,,,,46700,,12282,12209,58,,,05/04/2021,
-Arkansas,AR,,,,,4,,,,,11320,11310,52,,,05/04/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+Arkansas,AR,,,,,4,,,,,11320,11258,52,,,05/04/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,16441,16261,28,27968,26207,124553,,49221,48379,222,67658,64298,05/07/2021,
 Colorado,CO,,,1847,,0,3289,,19804,211756,8925,,29,9729,,05/04/2021,
 Connecticut,CT,,70903,1667,1651,0,2697,,,113335,4471,4435,19,4386,,05/04/2021,
@@ -202,11 +253,11 @@ Washington,WA,,,1227,,2,3672,,,,6225,6197,14,6096,,05/04/2021,
 West Virginia,WV,,13735,494,484,1,834,812,,10458,1629,1609,12,803,1471,05/07/2021,1471 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2547,2529,,,,,105290,10960,10745,31,9126,3164,05/04/2021,1787 people were fully vaccinated with Johnson & Johnson's one-shot vaccine
 Wyoming,WY,,,303,300,0,,,,32020,899,879,3,,,05/04/2021,
-Federal,US,,,6910,6745,4,,18130,112045,,,,,,54075,05/04/2021,na
+Federal,US,,,6910,6745,4,,18130,112045,,,,252,,54075,05/04/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1045,1020,3,829,,,15981,1644,1568,65,2370,,04/28/2021,
 Alaska,AK,,,325,,0,,,,32385,2408,,5,2757,2242,04/26/2021,vaccine numbers as of 4/25
 Arizona,AZ,,,2762,2745,,,,46331,,12271,12200,55,,,04/27/2021,
-Arkansas,AR,,,,,4,,,,,11320,11285,52,,,04/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+Arkansas,AR,,,,,4,,,,,11320,11233,52,,,04/27/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,16384,16201,26,27844,25931,123356,,49215,48371,222,66823,58248,04/27/2021,Staff cases as of 4/30
 Colorado,CO,,,1731,,0,3153,,19630,207431,8881,,29,9572,,04/27/2021,
 Connecticut,CT,,67647,1664,1642,0,2697,,,103484,4469,4404,19,4386,,04/27/2021,
@@ -253,11 +304,11 @@ Washington,WA,,,1208,,2,3667,,,,6216,6183,14,5407,,04/27/2021,
 West Virginia,WV,,13564,487,480,1,834,780,,10390,1628,1609,12,781,1011,04/30/2021,1011 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2537,2522,,,,,102123,10951,10729,26,6437,,04/27/2021,
 Wyoming,WY,,,303,296,0,,,,31417,888,877,3,,,04/27/2021,
-Federal,US,,,6872,6706,4,,17878,111253,,,48537,,,45633,04/27/2021,
+Federal,US,,,6872,6706,4,,17878,111253,,,48537,251,,45633,04/27/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1044,1020,3,824,,,15871,1638,1566,65,1740,,04/21/2021,
 Alaska,AK,,,325,,0,,,,31019,2404,,5,2692,1935,04/20/2021,prisoner vaccine numbers as of 4/18
 Arizona,AZ,,,2754,2739,,,,46323,,12268,12151,54,,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Arkansas,AR,,,,,4,,,,,11303,11256,52,3722,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+Arkansas,AR,,,,,4,,,,,11303,11173,52,3722,,04/20/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,16323,16137,26,27806,25844,122801,,49214,48370,222,66601,55131,04/23/2021,
 Colorado,CO,,,1692,,0,3030,,19498,203320,8847,,29,9535,,04/20/2021,
 Connecticut,CT,,66376,1653,1628,0,2697,,,103484,4444,4359,19,4362,,04/20/2021,
@@ -304,11 +355,11 @@ Washington,WA,,,1186,,2,3618,,,,6211,6178,14,4739,,04/20/2021,Washington origina
 West Virginia,WV,,13393,483,478,1,834,780,,10326,1628,1578,12,334,1011,04/23/2021,1011 fully vaccinated prisoners received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2525,2518,,,,,100313,10949,10729,26,3888,,04/20/2021,
 Wyoming,WY,,,298,293,0,,,,30531,885,877,3,,,04/20/2021,
-Federal,US,,,6850,6250,4,,17735,110239,,,,,,41076,04/20/2021,
+Federal,US,,,6850,6250,4,,17735,110239,,,,251,,41076,04/20/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1044,1019,3,824,,,15692,1635,1547,65,1740,,04/14/2021,
 Alaska,AK,,,,,0,,,,30387,2399,,5,2677,1839,04/12/2021,Vaccination numbers as of 4/11
 Arizona,AZ,,,2745,2732,,,,46140,,12263,12147,53,,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Arkansas,AR,,,,,4,3333,,,,11273,11225,52,374,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week."
+Arkansas,AR,,,,,4,3333,,,,11273,11173,52,374,,04/13/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,16284,16084,26,27539,25282,122071,,49208,48369,220,65728,45865,04/13/2021,"In the succeeding weeks, California revised its number of covid cases among prisoners and we have revised this accordingly."
 Colorado,CO,,,1650,,0,2972,,19368,200051,8827,,29,9164,,04/13/2021,
 Connecticut,CT,,63062,1647,1613,0,2697,,,98599,4399,4328,19,4362,,04/13/2021,
@@ -355,11 +406,11 @@ Washington,WA,,,1171,,2,3551,,,,6203,6177,14,3815,,04/13/2021,
 West Virginia,WV,,13201,480,475,1,834,780,,10271,1628,1575,12,,1011,04/17/2021,All prisoner received the one-shot Johnson & Johnson vaccine.
 Wisconsin,WI,,,2522,2511,,,,,98657,10932,10726,26,3293,,04/13/2021,
 Wyoming,WY,,,296,293,0,,,,29694,884,874,3,,,04/13/2021,
-Federal,US,,,6831,5614,4,,17529,109772,,,47764,,,35867,04/13/2021,
+Federal,US,,,6831,5614,4,,17529,109772,,,47764,248,,35867,04/13/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1040,982,3,808,,,15599,1632,1503,65,871,,04/07/2021,
 Alaska,AK,,,,,,,,,29981,2396,,5,2518,1598,04/05/2021,
 Arizona,AZ,,,2742,2731,,,,43652,,12215,12137,53,,,04/06/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Arkansas,AR,,,,,4,1440,,,,11245,11199,52,82,0,04/06/2021,Vaccine numbers as of 4/6
+Arkansas,AR,,,,,4,1440,,,,11245,11147,52,82,0,04/06/2021,Vaccine numbers as of 4/6 The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,,,26,27030,24811,121456,,49203,48362,218,62730,43760,04/06/2021,"In the succeeding weeks, California revised its number of covid cases among prisoners and we have revised this accordingly."
 Colorado,CO,,,1633,,,2906,,19235,196517,8800,,29,7556,,04/06/2021,
 Connecticut,CT,,61768,1634,1591,0,2697,,,92322,4380,4262,19,4362,,04/06/2021,
@@ -406,11 +457,11 @@ Washington,WA,,,1158,,2,,,,,6192,6172,14,,,04/06/2021,"We have been told prisone
 West Virginia,WV,,12957,476,467,1,834,780,,10063,1593,1540,9,,1011,04/09/2021,Prisoners are receiving the single-shot J&J vaccine.
 Wisconsin,WI,,,2519,2502,,,,,97589,10929,10707,26,1382,,04/06/2021,Vaccine number as of 4/5
 Wyoming,WY,,,296,293,0,,,,28380,879,872,3,,,04/06/2021,
-Federal,US,,,6773,5519,4,,17286,109031,,,,,,29658,04/06/2021,"The number of deaths in federal prisons dropped by 5 this week. The BOP said it has removed data on several private prisons it is no longer contracting with to hold people. As a result, we're not publishing their number of prisoner deaths."
+Federal,US,,,6773,5519,4,,17286,109031,,,,246,,29658,04/06/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1039,982,3,662,,,15550,1611,1499,64,871,,03/31/2021,
 Alaska,AK,,,,,,,,,29585,2394,,5,,,04/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arizona,AZ,,,2738,2724,,,,43647,,12206,12108,50,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Arkansas,AR,,,,,4,,,,,11229,11173,52,0,0,03/30/2021,
+Arkansas,AR,,,,,4,,,,,11229,11121,52,0,0,03/30/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,,,26,26878,24483,120994,,49199,48349,217,57999,41936,03/30/2021,"In the succeeding weeks, California revised its number of covid cases among prisoners and we have revised this accordingly."
 Colorado,CO,,,1611,,0,2769,,19063,192384,8767,,29,5495,,03/30/2021,"Not all offered vaccine since not all eligible until 4/2. Update on 4/1: 5,820 inmates (approximately 43 %) that have received at least the first dose of the vaccine."
 Connecticut,CT,,58551,1625,1572,0,2658,,,88491,4362,4216,19,4216,,03/30/2021,
@@ -457,11 +508,11 @@ Washington,WA,,,1149,,2,,,,,6190,6170,14,,,03/30/2021,"We have been told vaccina
 West Virginia,WV,,12270,469,462,1,834,780,,9911,1557,1535,9,,989,03/30/2021,"Vax numbers as of 4/3, J&J vaccine"
 Wisconsin,WI,,,2509,2500,,,,,97092,10923,10692,25,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wyoming,WY,,,296,291,0,,,,28374,865,851,3,,,03/30/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Federal,US,,,6721,5453,4,,16897,108612,,,,243,,24066,03/30/2021,
+Federal,US,,,6721,5453,4,,16897,108612,,,,246,,24066,03/30/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1036,971,3,30,,,15493,1595,1492,63,0,0,03/24/2021,
 Alaska,AK,,,313,,0,,,,27299,2384,,5,2048,,03/23/2021,
 Arizona,AZ,,,2734,2722,,,,43646,,12205,12055,50,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Arkansas,AR,,,,,4,1049,972,,,11187,11135,52,0,0,03/23/2021,
+Arkansas,AR,,,,,4,1049,972,,,11187,11083,52,0,0,03/23/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,16037,15706,26,,,120334,,49195,48335,216,,,03/23/2021,Staff cases are from 3/22
 Colorado,CO,,,1598,,0,2731,,18893,183870,8733,,29,4046,,03/23/2021,
 Connecticut,CT,,55177,1613,1562,0,2600,,,83266,4352,4198,19,4134,,03/23/2021,
@@ -508,11 +559,11 @@ Washington,WA,,,1145,,2,,,,,6187,6169,14,,,03/23/2021,"We have been told vaccina
 West Virginia,WV,,11908,463,458,1,,,,9776,1556,1535,9,0,0,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wisconsin,WI,,,2504,2494,,,,,95115,10903,10681,25,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wyoming,WY,,,293,287,0,,,,27409,851,808,3,,,03/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Federal,US,,,6665,5313,4,,16448,107867,,,,242,,18288,03/23/2021,"The week of March 9, 2021, the number of total prisoner cases dropped in the federal system by about 25 and have dropped since then. A spokesman attributed the change to their practice of removing prisoners who have been released from their counts of both active cases and recovered cases. This likely leads to an undercount of cases.  More info: https://twitter.com/MarshallProj/status/1375500147384270852"
+Federal,US,,,6665,5313,4,,16448,107867,,,,245,,18288,03/23/2021,"The week of March 9, 2021, the number of total prisoner cases dropped in the federal system by about 25 and have dropped since then. A spokesman attributed the change to their practice of removing prisoners who have been released from their counts of both active cases and recovered cases. This likely leads to an undercount of cases.  More info: https://twitter.com/MarshallProj/status/1375500147384270852 The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. "
 Alabama,AL,,,1034,971,3,,,,15338,1567,1488,63,0,0,03/17/2021,"We are told vaccinations have begun for staff this week, but no numbers have been released yet."
 Alaska,AK,,,303,,0,,,,27029,2382,,5,1966,428,03/18/2021,Vaccine numbers as of 3/16.
 Arizona,AZ,,,2714,2676,,,,43632,,12176,11907,,,,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week. Arizona later revised their prisoner death numbers, classifying five suspected COVID-19 deaths as unrelated. They would not provide updated figures for past weeks, so we have left these blank."
-Arkansas,AR,,,,,4,1049,972,,,11172,11122,52,0,0,03/16/2021,
+Arkansas,AR,,,,,4,1049,972,,,11172,11070,52,0,0,03/16/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15970,15396,26,26101,,119887,,49176,48299,216,42809,,03/16/2021,Vaccine numbers as of 3/14
 Colorado,CO,,,1589,,0,2655,,18823,180386,8706,,29,2218,,03/16/2021,
 Connecticut,CT,,53922,1582,1540,0,2549,,,78729,4245,4111,19,3362,,03/16/2021,
@@ -559,11 +610,11 @@ Washington,WA,,,1139,,2,,,,,6185,6165,14,,,03/16/2021,"We have been told vaccina
 West Virginia,WV,,11474,462,456,1,790,711,,9735,1554,1535,9,0,0,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wisconsin,WI,,,2500,2489,,,,,94342,10888,10661,25,,,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Wyoming,WY,,,292,287,0,,,,26297,846,794,3,,,03/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Federal,US,,,6641,5246,4,,16069,107228,,,48456,240,,15148,03/16/2021,The Bureau of Prisons reported 100 fewer cases among prisoners this week than last.active cases and recovered cases. We're inquiring as to why.
+Federal,US,,,6641,5246,4,,16069,107228,,,48456,243,,15148,03/16/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. The Bureau of Prisons reported 100 fewer cases among prisoners this week than last.active cases and recovered cases. We're inquiring as to why.
 Alabama,AL,,,1029,969,3,,,,15211,1557,1446,62,0,0,03/08/2021,
 Alaska,AK,,,,,,,,,25480,2330,,5,,,03/08/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arizona,AZ,,,2709,2670,,,,43625,,12044,11896,,,,03/09/2021,"Arizona later revised their prisoner death numbers, classifying four suspected COVID-19 deaths as unrelated. They would not provide updated figures for past weeks, so we have left these blank. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Arkansas,AR,,,,,4,1049,972,,,11146,11084,52,0,0,03/09/2021,
+Arkansas,AR,,,,,4,1049,972,,,11146,11032,52,0,0,03/09/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15897,15351,26,25885,,119315,,49161,48229,212,42397,,03/09/2021,
 Colorado,CO,,,1578,,0,2590,,18706,178054,8691,,29,936,,03/09/2021,
 Connecticut,CT,,50639,1561,1506,0,2503,,,73559,4193,3995,19,2327,,03/09/2021,
@@ -610,11 +661,11 @@ Washington,WA,,,1133,,2,,,,,6184,6145,14,,,03/09/2021,"We have been told vaccina
 West Virginia,WV,,11075,458,454,1,790,711,,9681,1553,1535,8,0,0,03/09/2021,
 Wisconsin,WI,,,2492,2483,,2688,,,93698,10875,10649,25,,,03/09/2021,"We have been told vaccinations have begun in this system, but they have not released breakdowns for prisoners for this week. Staff numbers are as of 3/12"
 Wyoming,WY,,,290,285,0,,,,26033,795,785,3,,,03/09/2021,
-Federal,US,,,6547,4984,4,,15319,106499,,,48382,240,,12955,03/09/2021,The Bureau of Prisons reported 25 fewer cases among prisoners this week than last. A spokesman said it may be because they remove prisoners who have been released from their counts of both active cases and recovered cases.
+Federal,US,,,6547,4984,4,,15319,106499,,,48382,243,,12955,03/09/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. The Bureau of Prisons reported 25 fewer cases among prisoners this week than last. A spokesman said it may be because they remove prisoners who have been released from their counts of both active cases and recovered cases.
 Alabama,AL,,,1025,969,3,0,0,,15152,1530,1441,61,0,0,03/01/2021,
 Alaska,AK,,,290,,0,,,,24785,2327,,5,1472,233,03/02/2021,vaccines as of 3/1
 Arizona,AZ,,,2688,2536,,,,43612,,12009,11802,,,,03/02/2021,"Arizona later revised their prisoner death numbers, classifying four suspected COVID-19 deaths as unrelated. They would not provide updated figures for past weeks, so we have left these blank. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
-Arkansas,AR,,,,,4,,,,,11106,11030,52,0,0,03/02/2021,
+Arkansas,AR,,,,,4,,,,,11106,10978,52,0,0,03/02/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15810,15347,26,25626,,118784,,49115,48029,212,40905,,03/02/2021,The number of tests for this week included an extra digit and has been corrected here.
 Colorado,CO,,,1567,,0,2587,,18555,173938,8662,,29,659,,03/02/2021,
 Connecticut,CT,,47391,1548,1490,0,2460,,,68823,4117,3923,19,1938,,03/02/2021,
@@ -661,11 +712,11 @@ Washington,WA,,,1124,,2,,,,,6176,6104,14,,,03/02/2021,"We have been told vaccina
 West Virginia,WV,,10662,456,450,1,790,711,,9668,1553,1535,8,0,0,03/02/2021,
 Wisconsin,WI,,,2486,2474,,,,,92225,10859,10637,25,,,03/02/2021,They are vaccinating but haven't released numbers this week.
 Wyoming,WY,,,289,274,0,,,,24650,789,755,3,,,03/02/2021,
-Federal,US,,,6511,4891,4,,13228,105951,,49324,48037,239,,10278,03/02/2021,
+Federal,US,,,6511,4891,4,,13228,105951,,49324,48037,242,,10278,03/02/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1013,937,3,0,0,,15115,1506,1432,61,0,0,02/22/2021,
 Alaska,AK,,,,,,,,,23836,2316,,5,625,92,02/22/2021,
 Arizona,AZ,,,2664,2491,,,,,,11932,9333,,,,02/23/2021,"Arizona later revised their prisoner death numbers, classifying five suspected COVID-19 deaths as unrelated. They would not provide updated figures for past weeks, so we have left these blank. . They are vaccinating but not giving breakdowns."
-Arkansas,AR,,,,,4,1042,851,,,11033,11007,52,0,0,02/23/2021,
+Arkansas,AR,,,,,4,1042,851,,,11033,10955,52,0,0,02/23/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15713,15259,26,24959,,118352,,49036,47360,210,37588,,02/23/2021,
 Colorado,CO,,,1550,,0,2444,,18436,168378,8626,,29,641,,02/23/2021,
 Connecticut,CT,,41326,1537,1465,0,2392,,,63305,3932,3812,19,978,,02/23/2021,
@@ -712,11 +763,11 @@ Washington,WA,,,1106,,2,,,,,6157,6077,14,,,02/23/2021,"We have been told vaccina
 West Virginia,WV,,10213,453,448,1,725,551,,9640,1553,1535,8,0,0,02/23/2021,
 Wisconsin,WI,,,2478,2462,,,,,90565,10839,10597,25,,,02/23/2021,
 Wyoming,WY,,,275,262,0,,,,23749,770,722,3,,,02/23/2021,
-Federal,US,,,6452,4766,4,,11352,104713,,49144,47358,236,,8971,02/23/2021,
+Federal,US,,,6452,4766,4,,11352,104713,,49144,47358,239,,8971,02/23/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. 
 Alabama,AL,,,1005,847,3,0,0,,15075,1499,1355,60,0,0,02/15/2021,
 Alaska,AK,,,,,,,,,,,,,,,02/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arizona,AZ,,,2635,2448,,,,43621,,11860,9146,,,,02/16/2021,"Arizona later revised their prisoner death numbers, classifying five suspected COVID-19 deaths as unrelated. They would not provide updated figures for past weeks, so we have left these blank."
-Arkansas,AR,,,,,4,1042,851,,,11032,10953,52,0,0,02/16/2021,
+Arkansas,AR,,,,,4,1042,851,,,11032,10901,52,0,0,02/16/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15513,15030,25,24645,,117763,,48837,46723,208,33445,,02/16/2021,
 Colorado,CO,,,1529,,0,2403,,18332,163837,8549,,28,553,,02/16/2021,
 Connecticut,CT,,41326,1502,1412,0,,,,59338,3932,3812,19,,,02/16/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
@@ -763,11 +814,11 @@ Washington,WA,,,1089,,2,,,,,6116,5892,14,,,02/16/2021,Washington is vaccinating 
 West Virginia,WV,,9787,449,446,1,723,542,,9625,1553,1530,8,0,0,02/16/2021,
 Wisconsin,WI,,,2468,2437,,,,,89238,10831,10593,25,,,02/16/2021,
 Wyoming,WY,,,263,255,0,,,,22365,742,705,3,,,02/16/2021,
-Federal,US,,,6339,4652,4,,9710,103211,,48519,46603,236,,7552,02/16/2021,
+Federal,US,,,6339,4652,4,,9710,103211,,48519,46603,239,,7552,02/16/2021,The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting.
 Alabama,AL,,,1001,843,3,0,0,,14890,1485,1274,60,0,0,02/08/2021,
 Alaska,AK,,,,,,,,,22222,2302,,5,,,02/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arizona,AZ,,,2592,2355,,,,43587,,11611,8216,50,,,02/09/2021,
-Arkansas,AR,,,,,4,,,,,10992,10896,52,0,0,02/09/2021,
+Arkansas,AR,,,,,4,,,,,10992,10844,52,0,0,02/09/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15498,14726,25,23759,,117133,,48375,45981,206,25659,,02/09/2021,
 Colorado,CO,,,1520,,0,2305,,18210,159986,8397,,28,260,,02/09/2021,
 Connecticut,CT,,,,,,,,,,,,,,,,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
@@ -814,11 +865,11 @@ Washington,WA,,,1087,,2,,,,,6066,5789,13,,,02/09/2021,"We have been told vaccina
 West Virginia,WV,,9467,447,442,1,723,542,,9584,1550,1530,4,0,0,02/09/2021,
 Wisconsin,WI,,,2460,2412,,,,,88150,10788,10556,25,,,02/09/2021,
 Wyoming,WY,,,259,249,0,,,,21663,706,680,,,,02/09/2021,
-Federal,US,,,6269,4542,4,,,102645,,48071,46118,231,,,02/09/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
+Federal,US,,,6269,4542,4,,,102645,,48071,46118,234,,,02/09/2021,"The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Alabama,AL,,,978,817,3,0,0,,14773,1413,1206,60,0,0,02/02/2021,
 Alaska,AK,,,271,,0,,,,21236,2299,,5,,,02/02/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arizona,AZ,,,2526,2213,,,,,,10924,8107,48,,,02/02/2021,
-Arkansas,AR,,,,,4,,,,,10954,10864,52,0,0,02/02/2021,
+Arkansas,AR,,,,,4,,,,,10954,10812,52,0,0,02/02/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15314,14302,23,22785,,116751,,47502,44600,195,12810,,02/02/2021,Vaccine numbers as of 2/1
 Colorado,CO,,,1501,,0,,,18129,154798,8273,,28,222,,02/02/2021,Vaccine numbers as of 2/1
 Connecticut,CT,,36826,1447,1253,0,,,,53885,3811,3620,19,30,0,02/02/2021,
@@ -865,11 +916,11 @@ Washington,WA,,,1076,,2,,,,,5940,5489,10,,,02/02/2021,"We have been told vaccina
 West Virginia,WV,,9029,440,432,1,723,542,,9505,1548,1527,4,0,0,02/02/2021,"The vaccination numbers include all staff, not just the ones counted in our covid count"
 Wisconsin,WI,,,2437,2392,,,,,87243,10783,10465,25,0,0,02/02/2021,
 Wyoming,WY,,,251,241,0,,,,20853,688,621,,,,02/02/2021,
-Federal,US,,,6163,4335,3,,1027,101596,,47615,45040,226,,1051,02/02/2021,"This week's cases originally omitted active cases in privately run facilities. The number has been updated. The vaccine numbers here are as of 2/4 and only reflect those who have received two doses, not just one as they had earlier reported."
+Federal,US,,,6163,4335,3,,1027,101596,,47615,45040,229,,1051,02/02/2021,"The total number of prisoner deaths has been updated after a review of private facilities that were removed from the BOP's reporting. This week's cases originally omitted active cases in privately run facilities. The number has been updated. The vaccine numbers here are as of 2/4 and only reflect those who have received two doses, not just one as they had earlier reported."
 Alabama,AL,,,951,800,3,0,0,,14694,1369,1198,60,0,0,01/25/2021,
 Alaska,AK,,,268,,0,,,,19858,2294,,5,,,01/25/2021,Alaska is not tracking vaccination numbers for staff or prisoners.
 Arizona,AZ,,,2429,1911,,,,43447,,9547,7563,47,,,01/26/2021,
-Arkansas,AR,,,,,4,,,,,10905,10791,52,0,0,01/26/2021,
+Arkansas,AR,,,,,4,,,,,10905,10739,52,0,0,01/26/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,15012,13676,22,22068,,116347,,46595,43309,187,7007,,01/26/2021,
 Colorado,CO,,,1453,,0,,,18024,150662,8147,,27,,,01/26/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Connecticut,CT,,35339,1411,1165,0,235,,,48558,3723,3445,19,0,0,01/26/2021,
@@ -920,7 +971,7 @@ Federal,US,,,6022,4032,3,,,100601,,47183,43624,222,,,01/26/2021,"We have been to
 Alabama,AL,,,907,774,3,0,0,,14552,1294,1138,57,0,0,01/18/2021,
 Alaska,AK,,,256,,0,,,,19213,2269,,5,,,01/19/2021,They are vaccinating but not tracking numbers.
 Arizona,AZ,,,2254,1775,,0,0,43396,,8778,7138,45,0,0,01/19/2021,
-Arkansas,AR,,,,,,,,,,10877,10720,52,0,0,01/19/2021,
+Arkansas,AR,,,,,,,,,,10877,10668,52,0,0,01/19/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,14560,12421,19,21165,,116167,,45486,40696,175,3280,,01/19/2021,
 Colorado,CO,,,1435,,0,2153,,17966,145871,8006,,25,215,,01/20/2021,
 Connecticut,CT,,34512,1313,1026,0,235,,,44161,3547,3225,17,0,0,01/19/2021,
@@ -971,7 +1022,7 @@ Federal,US,,,5772,3792,3,,,99247,,45317,40895,216,,,01/19/2021,"The number of pr
 Alabama,AL,,,863,550,2,0,0,,14447,1262,1026,54,0,0,01/12/2021,
 Alaska,AK,,,256,,0,,,,18507,2222,,5,,,01/12/2021,They are vaccinating but not tracking numbers. The number of staff cases was off by one and has been updated.
 Arizona,AZ,,,2137,1693,,0,0,43136,,8042,6591,44,0,0,01/12/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,,,,,4,501,0,,,10832,10696,51,0,0,01/12/2021,
+Arkansas,AR,,,,,4,501,0,,,10832,10645,51,0,0,01/12/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,13957,11311,13,,,115858,,44079,38028,162,,,01/12/2021,"The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Colorado,CO,,,1368,,0,,,17865,139888,7842,,25,,,01/12/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Connecticut,CT,,32328,1234,947,0,235,,,,3508,3140,16,0,0,01/14/2021,
@@ -1022,7 +1073,7 @@ Federal,US,,,5605,3553,3,7576,,98614,,44757,39695,204,5457,,01/15/2021,The vacci
 Alabama,AL,,,,,,0,0,,,,,,0,0,01/05/2021,
 Alaska,AK,,,232,,0,,,,17155,2153,,5,,,01/05/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Arizona,AZ,,,1930,1539,,0,0,43016,,7608,5781,39,0,0,01/05/2021,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,,,,,4,130,0,,,10741,10455,51,0,0,01/05/2021,
+Arkansas,AR,,,,,4,130,0,,,10741,10404,51,0,0,01/05/2021,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,12993,8962,11,,,115726,,41562,33784,139,,,01/05/2021,"The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated. We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Colorado,CO,,,1316,,0,,,17800,133447,7512,,25,,,01/05/2021,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Connecticut,CT,,30106,1127,871,0,0,0,,38489,3289,2756,14,0,0,01/05/2021,
@@ -1073,7 +1124,7 @@ Federal,US,,,4835,2997,3,,,96647,,42066,35596,196,,,01/05/2021,"The number of te
 Alabama,AL,,,804,529,2,0,0,,12671,1161,1003,54,0,0,12/28/2020,
 Alaska,AK,,,216,,0,46,0,,15996,1966,,5,8,0,12/28/2020,
 Arizona,AZ,,,1769,1441,,0,0,42749,,6415,4723,34,0,0,12/29/2020,
-Arkansas,AR,,,,,3,0,0,,,10579,9969,50,0,0,12/29/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
+Arkansas,AR,,,,,3,0,0,,,10579,9919,50,0,0,12/29/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,11706,7732,11,,,115673,,38398,29809,120,,,12/29/2020,Vaccines have begun to be distributed but California's Correctional Health Care Services has not released specific numbers of people vaccinated thus far. The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1239,,,,,17766,127291,7125,,24,,,12/29/2020,"We have been told vaccinations have begun in this system, but they have not released numbers for this week."
 Connecticut,CT,,29271,998,789,0,0,0,,,2955,2406,13,0,0,12/29/2020,
@@ -1124,7 +1175,7 @@ Federal,US,,,4489,2821,2,,,94610,,39556,32199,193,,,12/29/2020,Vaccines have bee
 Alabama,AL,,,795,518,2,0,0,,11111,1094,979,54,0,0,12/21/2020,
 Alaska,AK,,,198,,0,,,,15668,1905,,3,,,12/22/2020,"Staff and prisoners in the infirmary were offered vaccines the week before, but they do not have counts yet."
 Arizona,AZ,,,1655,1351,,0,0,42654,,6249,4086,34,0,0,12/22/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,,,,,2,0,0,,,10203,9575,50,0,0,12/22/2020,
+Arkansas,AR,,,,,2,0,0,,,10203,9525,50,0,0,12/22/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,10531,7120,11,,,115514,,34866,24114,112,,,12/22/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1185,,0,,,17731,120370,6810,,19,0,0,12/22/2020,Have started vaccinating some staffers but no numbers yet
 Connecticut,CT,,25690,982,702,0,0,0,,30909,2801,2258,13,0,0,12/22/2020,
@@ -1175,7 +1226,7 @@ Federal,US,,,4340,2718,2,,,92765,,36533,30296,183,,,12/22/2020,Have started vacc
 Alabama,AL,,,769,502,2,,,,10805,1068,944,48,,,12/14/2020,
 Alaska,AK,,,179,,0,,,,14870,1539,,3,,,12/16/2020,
 Arizona,AZ,,,1485,1197,,,,42401,,5463,3177,33,,,12/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,,,,,2,,,,,9745,9291,50,,,12/15/2020,
+Arkansas,AR,,,,,2,,,,,9745,9241,50,,,12/15/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,8958,6146,10,,,114684,,30745,20865,101,,,12/15/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1097,,0,,,17712,112599,6276,,17,,,12/15/2020,
 Connecticut,CT,,,,,,,,,,,,,,,,
@@ -1226,7 +1277,7 @@ Federal,US,,,4159,2398,2,,,88506,,33410,27075,175,,,12/15/2020,The number of tes
 Alabama,AL,,,729,479,2,,,,10584,1033,782,43,,,12/09/2020,
 Alaska,AK,,,147,,0,,,,13603,1217,,3,,,12/08/2020,
 Arizona,AZ,,,1296,1008,,,,42173,,4293,2866,32,,,12/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,,,,,2,,,,,9386,,49,,,12/08/2020,
+Arkansas,AR,,,,,2,,,,,9386,8371,49,,,12/08/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,7498,5306,10,,,112802,,24782,18844,93,,,12/08/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,1011,,0,,,17690,105821,5754,,14,,,12/08/2020,
 Connecticut,CT,,20827,827,604,0,,,,25291,2382,1942,10,,,12/08/2020,
@@ -1277,7 +1328,7 @@ Federal,US,,,3791,2142,2,,,84267,,30312,23577,165,,,12/08/2020,The number of tes
 Alabama,AL,,,667,439,2,,,,7032,855,735,34,,,11/30/2020,
 Alaska,AK,,,129,,0,,,,11931,851,,2,,,12/01/2020,
 Arizona,AZ,,,1111,899,,,,42115,,3176,2780,28,,,12/01/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,5114,,813,,2,,,19960,,9014,8606,49,,,12/01/2020,
+Arkansas,AR,5114,,813,,2,,,19960,,9014,,49,,,12/01/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,6939,5117,10,,,112305,,22508,18028,90,,,12/04/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,817,,0,,,17469,95756,4548,,11,,,12/01/2020,
 Connecticut,CT,,19677,732,574,0,,,,23246,1930,1785,8,,,12/01/2020,
@@ -1330,7 +1381,7 @@ Federal,US,,,3408,1984,2,,,81044,,26388,21492,157,,,12/01/2020,The number of tes
 Alabama,AL,,,645,435,2,,,,6984,834,724,34,,,11/27/2020,
 Alaska,AK,,,111,,0,,,,10724,644,,1,,,11/24/2020,
 Arizona,AZ,,,996,824,,,,41870,,2954,2627,28,,,11/24/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,,,780,,2,,,,19732,8786,8331,48,,,11/24/2020,"389 staff cases since Sept. 1, plus 399 from Wellpath, which stopped reporting cases on Sept. 1."
+Arkansas,AR,,,780,,2,,,,19732,8786,8283,48,,,11/24/2020,"389 staff cases since Sept. 1, plus 399 from Wellpath, which stopped reporting cases on Sept. 1. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,5903,4473,10,,,110344,,19479,16181,85,,,11/25/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,725,,,,,16327,84678,3535,,7,,,11/24/2020,
 Connecticut,CT,,19613,668,531,0,,,,23125,1809,1692,8,,,11/24/2020,
@@ -1381,7 +1432,7 @@ Federal,US,,,3122,1795,2,,,79017,,24317,19926,157,,,11/24/2020,The number of tes
 Alabama,AL,,,582,413,2,,,,6852,775,519,32,,,11/16/2020,
 Alaska,AK,,,95,,0,,,,9664,521,,0,,,11/18/2020,
 Arizona,AZ,,,903,807,,,,41572,,2815,2609,28,,,11/17/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
-Arkansas,AR,,,,,2,,,19512,,8566,8003,48,,,11/17/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,2,,,19512,,8566,7955,48,,,11/17/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,4915,4208,10,,,107762,,18083,15556,83,,,11/20/2020,The number of tested people was mistakenly placed in the column for the total number of tests. This has been updated.
 Colorado,CO,,,570,,,,,16137,77785,2933,,6,,,11/18/2020,
 Connecticut,CT,,19212,612,505,0,,,,23065,1749,1692,8,,,11/17/2020,
@@ -1432,7 +1483,7 @@ Federal,US,,,2792,1677,2,,,75896,,22203,18956,152,,,11/17/2020,The number of tes
 Alabama,AL,,,542,408,2,,,6783,,751,496,32,,,11/11/2020,
 Alaska,AK,,,74,,0,,,,8674,357,,0,,,11/10/2020,
 Arizona,AZ,,,855,769,,,,41380,,2667,2609,28,,,11/10/2020,
-Arkansas,AR,,,,,2,,,19294,,8343,7720,48,,,11/10/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,2,,,19294,,8343,7672,48,,,11/10/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,,,10,,,104053,,16749,15183,82,,,11/10/2020,
 Colorado,CO,,,,,0,,,,65192,1996,,4,,,11/10/2020,
 Connecticut,CT,,18550,556,451,0,,,,22341,1686,1673,7,,,11/10/2020,
@@ -1483,7 +1534,7 @@ Federal,US,,,2526,1543,2,,,73247,,20495,17842,146,,,11/10/2020,The number of tes
 Alabama,AL,,,490,405,2,,,,6554,711,458,28,,,11/02/2020,
 Alaska,AK,,,64,,0,,,,8121,240,,0,,,11/03/2020,
 Arizona,AZ,,,792,731,,,,41196,,2648,2603,28,,,11/03/2020,
-Arkansas,AR,,,,,2,,,18771,,7820,7325,48,,,11/03/2020,"Arkansas is no longer reporting cumulative staff positive cases, but said they have 65 active staff cases now."
+Arkansas,AR,,,,,2,,,18771,,7820,7277,48,,,11/03/2020,"Arkansas is no longer reporting cumulative staff positive cases, but said they have 65 active staff cases now. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,4499,4032,10,,,101518,,16057,14753,80,,,11/03/2020,
 Colorado,CO,,,366,,,,,17395,58374,1718,,4,,,11/03/2020,
 Connecticut,CT,,15308,503,451,0,,,,22341,1674,1659,7,,,11/03/2020,
@@ -1534,7 +1585,7 @@ Federal,US,,,2327,1396,2,,,70937,,19184,17041,141,,,11/03/2020,The number of tes
 Alabama,AL,,,455,388,2,,,,5339,532,416,27,,,10/26/2020,Updated this week's totals after seeing last week's numbers we caught halfway into a daily update.
 Alaska,AK,,,52,,0,,,,7523,186,,0,,,10/27/2020,
 Arizona,AZ,,,758,716,,,,40937,,2636,2593,28,,,10/27/2020,
-Arkansas,AR,,,,,2,,,18480,,7529,6904,48,,,10/27/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,2,,,18480,,7529,6856,48,,,10/27/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,4317,3668,10,,,100145,,15620,14615,76,,,10/27/2020,
 Colorado,CO,,,294,190,0,,,16111,50385,1407,987,4,,,10/27/2020,
 Connecticut,CT,,13554,482,424,0,,,,20646,1673,1621,7,,,10/27/2020,
@@ -1585,7 +1636,7 @@ Federal,US,,,2198,1323,2,,,68668,,18166,15968,137,,,10/27/2020,The number of tes
 Alabama,AL,,,439,384,2,,,,3270,459,387,27,,,10/19/2020,
 Alaska,AK,,,39,,0,,,,7006,159,,0,,,10/20/2020,
 Arizona,AZ,,,729,712,,,,40756,,2621,2578,28,,,10/20/2020,
-Arkansas,AR,,,,,2,,,18035,,7084,6560,47,,,10/20/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,2,,,18035,,7084,6513,47,,,10/20/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,4034,3322,10,,,98291,,15306,14298,70,,,10/20/2020,
 Colorado,CO,,,226,,0,,,15268,43665,1197,895,3,,,10/20/2020,
 Connecticut,CT,,13159,460,413,0,,,,20117,1669,1547,7,,,10/20/2020,
@@ -1636,7 +1687,7 @@ Federal,US,,,2066,1266,2,,,66060,,17449,15573,136,,,10/20/2020,The number of tes
 Alabama,AL,,,415,369,2,,,3155,,441,382,26,,,10/14/2020,
 Alaska,AK,,,,,0,,,,6369,83,,0,,,10/12/2020,
 Arizona,AZ,,,714,704,,,,40460,,2613,2559,28,,,10/13/2020,
-Arkansas,AR,,,,,2,,,17825,,6874,6392,45,,,10/13/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,2,,,17825,,6874,6347,45,,,10/13/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,3896,2965,10,,,96486,,15187,13726,69,,,10/13/2020,
 Colorado,CO,,,179,153,0,,,14332,38886,972,889,3,,,10/13/2020,
 Connecticut,CT,12448,,440,413,0,,,19407,,1634,1547,7,,,10/13/2020,
@@ -1687,7 +1738,7 @@ Federal,US,,,1954,1216,2,,,63111,,16446,14566,135,,,10/13/2020,The number of tes
 Alabama,AL,,,411,364,2,,,2797,,439,381,25,,,10/05/2020,
 Alaska,AK,,,34,,0,,,,6133,82,,0,,,10/07/2020,
 Arizona,AZ,,,710,697,,,,40290,,2599,2557,28,,,10/06/2020,
-Arkansas,AR,,,,,2,,,17583,,6606,6093,45,,,10/06/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,2,,,17583,,6606,6048,45,,,10/06/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,3793,2850,10,,,94805,,14870,12686,69,,,10/06/2020,
 Colorado,CO,,,157,147,0,,,13139,36687,893,889,3,,,10/06/2020,
 Connecticut,CT,,11403,424,402,0,,,,18348,1558,1547,7,,,10/06/2020,
@@ -1738,7 +1789,7 @@ Federal,US,,,1914,1190,2,,,60916,,16012,14249,134,,,10/06/2020,The number of tes
 Alabama,AL,,,398,363,2,,,2079,,415,377,23,,,09/28/2020,
 Alaska,AK,,,32,,0,,,,5741,65,,0,,,09/29/2020,
 Arizona,AZ,,,701,691,,,,40036,,2586,2525,28,,,09/29/2020,
-Arkansas,AR,,,,,2,,,17400,,6422,5841,42,,,09/29/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,2,,,17400,,6422,5799,42,,,09/29/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,3644,2783,9,,,93407,,14223,11712,67,,,09/29/2020,
 Colorado,CO,,,153,144,0,,,12677,34985,892,886,3,,,09/29/2020,
 Connecticut,CT,,10083,413,396,0,,,,18348,1558,1547,7,,,10/01/2020,
@@ -1789,7 +1840,8 @@ Federal,US,,,1850,1133,2,,,58849,,15595,13602,133,,,09/29/2020,The number of tes
 Alabama,AL,,,385,341,2,,,2011,,408,370,22,,,09/21/2020,
 Alaska,AK,,,32,,0,,,,5499,63,,0,,,09/23/2020,
 Arizona,AZ,,,697,686,,,,39823,,2565,2478,28,,,09/22/2020,
-Arkansas,AR,,,,,1,,,17124,,6146,5767,39,,,09/22/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,1,,,17124,,6146,5728,39,,,09/22/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
+"
 California,CA,,,3504,2644,9,,,92106,,13710,10967,60,,,09/22/2020,
 Colorado,CO,,,147,138,0,,,12004,32853,892,885,3,,,09/22/2020,
 Connecticut,CT,,10083,408,396,0,,,,18348,1558,1547,7,,,09/22/2020,
@@ -1840,7 +1892,7 @@ Federal,US,,,1773,1099,2,,,56220,,15016,12875,131,,,09/22/2020,The number of tes
 Alabama,AL,,,377,341,2,,,1954,,403,334,21,,,09/14/2020,
 Alaska,AK,,,31,,0,,,,5136,57,,0,,,09/14/2020,
 Arizona,AZ,,,694,682,,,,38916,,2511,1805,27,,,09/15/2020,
-Arkansas,AR,,,,,1,,,16812,,5834,5606,39,,,09/15/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,1,,,16812,,5834,5567,39,,,09/15/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,3366,2305,9,,,90417,,12125,10075,60,,,09/15/2020,
 Colorado,CO,,,143,135,0,,,11387,31462,888,883,3,,,09/15/2020,
 Connecticut,CT,,9870,407,394,0,,,,18348,1558,1544,7,,,09/16/2020,
@@ -1891,7 +1943,8 @@ Federal,US,,,1695,1057,2,,,53683,,14215,12167,129,,,09/15/2020,The number of tes
 Alabama,AL,,,373,340,2,,,1886,,386,317,20,,,09/07/2020,
 Alaska,AK,,,,,,,,,4704,51,,,,,09/08/2020,
 Arizona,AZ,,,689,676,,,,,,2425,1560,27,,,09/08/2020,Arizona later said the number of prisoner tests initially reported on this date included duplicates and errors. It has not yet provided an updated figure.
-Arkansas,AR,,,,,1,,,16727,,5752,5271,39,,,09/08/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November."
+Arkansas,AR,,,,,1,,,16727,,5752,5232,39,,,09/08/2020,"On Sept. 1, Arkansas changed its tracking system for staff cases. We've removed weeks after the switch when Arkansas was reporting unchanged figures until new tallies were available in November. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
+"
 California,CA,,,3236,1779,9,,,88909,,11388,9622,59,,,09/08/2020,
 Colorado,CO,,,136,130,0,,,11145,30890,886,883,3,,,09/08/2020,
 Connecticut,CT,,8429,403,394,0,,,,17664,1553,1538,7,,,09/08/2020,
@@ -1942,7 +1995,7 @@ Federal,US,,,1631,986,2,,,51393,,13539,11430,126,,,09/08/2020,The number of test
 Alabama,AL,,,365,330,2,,,1726,,353,304,20,,,09/02/2020,
 Alaska,AK,,,,,,,,,4578,49,,,,,09/01/2020,
 Arizona,AZ,,,681,664,,,,38367,,2131,930,27,,,09/01/2020,
-Arkansas,AR,5114,,399,381,1,,,16646,,5570,5119,39,,,09/01/2020,
+Arkansas,AR,5114,,399,381,1,,,16646,,5570,5080,39,,,09/01/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,2829,1561,9,,,86283,,10658,9095,58,,,09/01/2020,Staff figures are from 8/31.
 Colorado,CO,,,130,126,0,,,10654,29557,883,879,3,,,09/01/2020,
 Connecticut,CT,,7654,399,385,0,,,,17459,1549,1519,7,,,09/01/2020,
@@ -1993,7 +2046,7 @@ Federal,US,,,1596,929,2,,,49591,,13139,11130,125,,,09/01/2020,
 Alabama,AL,,,353,276,2,,,,,336,,19,,,08/25/2020,Alabama's data for this week was later revised with updated numbers after initially the wrong number of prisoner cases was reported.
 Alaska,AK,,,,,0,,,,4082,39,,0,,,08/26/2020,Alaska later said its number of staff cases for this week was an error.
 Arizona,AZ,,,673,638,,,,24156,,1880,876,26,,,08/25/2020,
-Arkansas,AR,5067,,396,374,1,,,16143,,5194,4675,38,,,08/25/2020,
+Arkansas,AR,5067,,396,374,1,,,16143,,5194,4637,38,,,08/25/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,2718,1472,9,,,83324,,10163,8404,57,,,08/25/2020,
 Colorado,CO,,,124,119,0,,,10368,27290,883,871,3,,,08/25/2020,
 Connecticut,CT,,6462,394,385,0,,,,15173,1538,1449,7,,,08/25/2020,
@@ -2044,7 +2097,7 @@ Federal,US,,,1532,893,1,,,46999,,12525,10806,122,,,08/25/2020,
 Alabama,AL,,,348,270,2,,,1393,,323,188,18,,,08/18/2020,
 Alaska,AK,,,30,,0,,,,3729,31,,0,,,08/18/2020,Total staff cases as of 8/20
 Arizona,AZ,,,654,599,,,,14871,,1612,461,25,,,08/18/2020,
-Arkansas,AR,4179,,370,341,1,,,13035,,5038,4166,36,,,08/18/2020,
+Arkansas,AR,4179,,370,341,1,,,13035,,5038,4130,36,,,08/18/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,2385,1100,9,,,79595,,9650,7868,55,,,08/18/2020,
 Colorado,CO,,,121,108,0,,,9476,24407,877,855,3,,,08/18/2020,
 Connecticut,CT,,6135,394,382,0,,,,13778,1500,1388,7,,,08/18/2020,
@@ -2095,7 +2148,7 @@ Federal,US,,,1436,843,1,,,44492,,11953,10360,120,,,08/18/2020,
 Alabama,AL,,,337,200,2,,,1269,,238,167,16,,,08/11/2020,
 Alaska,AK,,,17,,0,,,,3365,26,,0,,,08/11/2020,
 Arizona,AZ,,,635,561,,,,11290,,1572,455,22,,,08/11/2020,
-Arkansas,AR,3412,,346,303,1,,,10684,,4665,3883,34,,,08/11/2020,"Arkansas announced last week it will test all inmates by end of the month, so we may see some spikes in coming weeks."
+Arkansas,AR,3412,,346,303,1,,,10684,,4665,3849,34,,,08/11/2020,"Arkansas announced last week it will test all inmates by end of the month, so we may see some spikes in coming weeks. The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count."
 California,CA,,,2082,970,9,,,75817,,8816,7313,53,,,08/11/2020,
 Colorado,CO,,,117,100,0,,,9011,21883,862,853,3,,,08/11/2020,
 Connecticut,CT,,5941,391,379,0,,,,12629,1446,1388,7,,,08/11/2020,Connecticut revised its initial numbers of tests and recovered cases.
@@ -2147,7 +2200,7 @@ Federal,US,,,1355,768,1,,,41058,,11524,10034,116,,,08/11/2020,The prisoner death
 Alabama,AL,,,309,175,2,,,1040,,215,141,16,,,08/04/2020,
 Alaska,AK,,,16,,0,,,,2918,23,,0,,,08/04/2020,
 Arizona,AZ,,,599,508,,,,8411,,1429,444,21,,,08/04/2020,
-Arkansas,AR,3102,,342,221,1,,,9458,,4182,3718,31,,,08/04/2020,
+Arkansas,AR,3102,,342,221,1,,,9458,,4182,3687,31,,,08/04/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,1892,882,8,,,70864,,8382,6753,50,,,08/04/2020,
 Colorado,CO,,,95,85,0,,,8892,19506,860,797,3,,,08/04/2020,
 Connecticut,CT,,5361,388,378,0,,,,11274,1433,1388,7,,,08/05/2020,
@@ -2199,7 +2252,7 @@ Federal,US,,,1263,720,1,,,38364,,11213,8994,109,,,08/04/2020,The prisoner deaths
 Alabama,AL,,,291,166,2,,,736,,199,114,15,,,07/28/2020,
 Alaska,AK,,,15,,0,,,,2345,17,2,0,,,07/28/2020,
 Arizona,AZ,,,520,441,,,,5227,,824,397,16,,,07/28/2020,
-Arkansas,AR,2878,,309,221,1,,,8763,,3851,3007,27,,,07/28/2020,
+Arkansas,AR,2878,,309,221,1,,,8763,,3851,2980,27,,,07/28/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,1665,689,3,,,65843,,7706,5790,47,,,07/28/2020,
 Colorado,CO,,,91,78,0,,,7968,16452,841,691,3,,,07/28/2020,
 Connecticut,CT,,4900,386,378,0,,,,10840,1401,1330,7,,,07/28/2020,
@@ -2250,7 +2303,7 @@ Federal,US,,,1142,681,1,,,36226,,10779,6870,105,,,07/28/2020,
 Alabama,AL,,,269,151,2,,,664,,165,41,14,,,07/22/2020,
 Alaska,AK,,,12,,0,,,,2168,16,2,0,,,07/22/2020,
 Arizona,AZ,,,439,370,,,,4905,,684,376,13,,,07/21/2020,
-Arkansas,AR,2378,,259,214,1,,,8583,,3789,2970,25,,,07/21/2020,
+Arkansas,AR,2378,,259,214,1,,,8583,,3789,2945,25,,,07/21/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,1486,616,3,,,59808,,7066,4940,40,,,07/21/2020,
 Colorado,CO,,,73,63,0,,,7386,13723,783,628,3,,,07/21/2020,
 Connecticut,CT,976,,383,377,0,,,10016,,1344,1324,7,,,07/21/2020,
@@ -2301,7 +2354,7 @@ Federal,US,,,995,644,1,,,33336,,10154,5797,102,,,07/21/2020,
 Alabama,AL,568,,220,131,2,,,,,138,29,12,,,07/14/2020,
 Alaska,AK,,,12,,0,,,,1593,2,2,0,,,07/14/2020,
 Arizona,AZ,,,371,262,,,,4496,,569,255,13,,,07/14/2020,
-Arkansas,AR,2378,,259,214,1,,,7777,,3482,2311,16,,,07/14/2020,
+Arkansas,AR,2378,,259,214,1,,,7777,,3482,2295,16,,,07/14/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,1291,536,3,,,52389,,6458,3897,35,,,07/14/2020,
 Colorado,CO,,,67,58,0,,,6579,11642,668,627,3,,,07/14/2020,
 Connecticut,CT,974,,382,377,0,,,10014,,1343,1324,7,,,07/14/2020,"Connecticut's prisoner cases dropped by 3 to 1,343, and the number of prisoners tested and recovered also dropped this week. The state said, ""Please note that a recent internal audit/review of the our data found some duplicate information, and as a result the numbers for both 'positive offenders' and also for the number of offenders 'recovered' went down a bit."""
@@ -2352,7 +2405,7 @@ Federal,US,,,887,629,1,,,29067,,8896,5407,99,,,07/14/2020,
 Alabama,AL,,,184,100,2,,,490,,97,28,10,,,07/07/2020,
 Alaska,AK,,,11,11,0,,,,1233,2,2,0,,,07/07/2020,
 Arizona,AZ,,,303,182,,,,4092,,481,250,13,,,07/07/2020,
-Arkansas,AR,2305,,242,184,1,,,7092,,2981,2309,14,,,07/07/2020,
+Arkansas,AR,2305,,242,184,1,,,7092,,2981,2295,14,,,07/07/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,1119,456,2,,,47477,,5372,2904,29,,,07/07/2020,
 Colorado,CO,,,54,54,0,,,4804,,631,626,3,,,07/07/2020,
 Connecticut,CT,,,381,377,0,,,10114,,1343,1333,7,,,07/07/2020,The prisoner cases for this week were revised later after Connecticut identified some duplicates in the numbers.
@@ -2403,7 +2456,7 @@ Federal,US,,,794,603,1,,,25310,,7639,5369,98,,,07/07/2020,
 Alabama,AL,,,166,84,1,,,329,,68,18,7,,,06/30/2020,
 Alaska,AK,,,11,11,0,,,849,,2,2,0,,,07/01/2020,
 Arizona,AZ,,,226,149,,,,3432,,421,218,9,,,06/30/2020,
-Arkansas,AR,2203,,218,184,1,,,7037,,2487,1886,13,,,06/30/2020,
+Arkansas,AR,2203,,218,184,1,,,7037,,2487,1873,13,,,06/30/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,847,370,2,,,40753,,4939,2226,22,,,06/30/2020,
 Colorado,CO,,,53,51,0,,,4395,,630,625,3,,,06/30/2020,
 Connecticut,CT,,,380,377,0,,,9504,,1342,1333,7,,,06/30/2020,
@@ -2454,7 +2507,7 @@ Federal,US,,,728,575,1,,,22110,,6947,5335,94,,,06/30/2020,
 Alabama,AL,,,149,53,0,,,289,,54,14,4,,,06/23/2020,
 Alaska,AK,,,11,11,0,,,722,,2,2,0,,,06/23/2020,
 Arizona,AZ,,,166,114,1,,,3024,,349,194,9,,,06/23/2020,
-Arkansas,AR,2125,,188,141,1,,,6961,,2301,1391,11,,,06/23/2020,
+Arkansas,AR,2125,,188,141,1,,,6961,,2301,1380,11,,,06/23/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,673,317,2,,,31725,,3800,1880,19,,,06/23/2020,
 Colorado,CO,,,50,48,0,,,4113,8407,629,623,3,,,06/23/2020,
 Connecticut,CT,,,380,377,0,,,,,1256,1238,7,,,06/26/2020,
@@ -2505,7 +2558,7 @@ Federal,US,,,692,528,1,,,19934,,6621,5171,91,,,06/23/2020,The number of tested p
 Alabama,AL,,,131,33,,,,265,,43,14,4,,,06/15/2020,
 Alaska,AK,,,11,11,0,,,643,,2,2,0,,,06/16/2020,
 Arizona,AZ,,,120,87,1,,,2764,,265,130,8,,,06/16/2020,
-Arkansas,AR,956,,172,116,1,,,4453,,1801,1242,11,,,06/16/2020,
+Arkansas,AR,956,,172,116,1,,,4453,,1801,1231,11,,,06/16/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,564,269,2,,,25666,,3225,1032,17,,,06/16/2020,
 Colorado,CO,,,50,46,0,,,3980,7867,628,617,3,,,06/16/2020,"The number of prisoners recovered dropped by 1 this week, and we're inquiring as to why."
 Connecticut,CT,571,,380,371,0,,,6249,,1210,1076,7,,,06/16/2020,
@@ -2556,7 +2609,7 @@ Federal,US,,,671,502,1,,,17262,,6458,5145,88,,,06/16/2020,The number of tested p
 Alabama,AL,,,102,27,0,,,220,,27,8,2,,,06/09/2020,
 Alaska,AK,,,11,11,0,,,572,,2,2,0,,,06/09/2020,
 Arizona,AZ,,,111,78,1,,,2013,,242,108,7,,,06/09/2020,"DOC confirmed staffer's death but wouldn't release the cause, which multiple news outlets report it was covid-19: https://www.abc15.com/news/local-news/investigations/sources-death-of-an-arizona-department-of-corrections-staffer-due-to-covid-19"
-Arkansas,AR,894,,135,116,1,,,4392,,1336,1234,11,,,06/09/2020,
+Arkansas,AR,894,,135,116,1,,,4392,,1336,1223,11,,,06/09/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,459,217,2,,,21441,,3028,577,12,,,06/09/2020,
 Colorado,CO,,,50,40,0,,,3902,,626,618,3,,,06/12/2020,
 Connecticut,CT,,,380,371,0,,,,,1210,1075,7,,,06/12/2020,
@@ -2607,7 +2660,7 @@ Federal,US,,,644,453,1,,,,,6394,4162,81,,,06/09/2020,
 Alabama,AL,,,68,17,0,,,176,,19,8,1,,,06/01/2020,
 Alaska,AK,,,11,,0,,,519,,2,2,0,,,06/03/2020,
 Arizona,AZ,,,88,62,0,,,1393,,193,77,7,,,06/02/2020,
-Arkansas,AR,808,,135,101,1,,,2721,,1253,1229,9,,,06/02/2020,
+Arkansas,AR,808,,135,101,1,,,2721,,1253,1221,9,,,06/02/2020,The number of recovered prisoners was updated. An earlier version included the numbers of deaths in the recovered count.
 California,CA,,,348,165,1,,,15964,,2365,351,11,,,06/02/2020,
 Colorado,CO,,,43,34,0,,,3841,,621,470,2,,,06/02/2020,"Staff case figures are from 6/1, while the DOC ""reformats"" their data."
 Connecticut,CT,,,380,359,0,,,965,,870,686,7,,,06/02/2020,Total tests combines the number of current positives with the weekly number of reported negatives.

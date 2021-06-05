@@ -3,6 +3,18 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-06-04
+Hi folks. With this week's data, we have two important changes to bring to your attention. 
+
+We have revised the number of prisoners in Arkansas who recovered after testing positive for coronavirus for many weeks going back to June after finding that in most weeks the recovered totals included the number of people who died. 
+
+And as many of you know, the Federal Bureau of Prisons has removed numbers of people who left custody, or who died in private facilities that they no longer contract with. We've gone back and reviewed the public data on deaths in private facilities and have been able to add back the deaths that were removed from the BOP's website. So at least we have that figure again, which accounts for most of the increase in deaths this week over our previous known total.
+
+Hit us up at info+covid@themarshallproject.org if you have any questions.
+
+Have a good weekend, everybody.
+
+
 ## 2021-05-28
 Hello, friends. Here's our latest updated data, including some late-arriving prison systems from previous weeks. Hope you all have a great holiday weekend.
 
