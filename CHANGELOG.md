@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-06-11
+Hey everybody. Here's just a very quick update to let you know that this week's data has arrived. I will mention that over the last month or so, we've seen many states beginning to rollback their transparency, reporting less information less frequently. Some have gone from daily updates to bi-weekly and a few have said they're considering monthly updates. That, of course, makes this effort more challenging to sustain, and we're starting to think about what that means for it in the longterm and how long it can continue. We'd be curious to hear from you about what you think. How often do you like this data to update, and what pieces are most critical for your uses? And what do you use it for? Drop us a line at info+covid@themarshallproject.org. We'd love to hear from you.
+
+Stay safe and have a good weekend.
+
+
 ## 2021-06-04
 Hi folks. With this week's data, we have two important changes to bring to your attention. 
 
