@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-06-19
+Hello, friends. Sorry for the late data update this week. We're finding more and more prison systems are slowing down their releases of data. Our window of visibility into the pandemic's effects in prisons feels like it's closing. For instance, California's prisons have [announced they will no longer be reporting cases among their staff](https://twitter.com/ultracasual/status/1405675890521120770), even though it appears staff there continue to get sick.
+
+In spite of all this, here's what we were able to collect this week. Note that New York revised its staff cases this after it said it reviewed the figures and found a number of duplicates in the counts, so we pulled back higher figures they had provided in recent weeks. We also received about a month's worth of prisoner vaccination figures from Pennsylvania and have added them to our table. 
+
+That's it for this week. Hope everyone has a great weekend.
+
 ## 2021-06-11
 Hey everybody. Here's just a very quick update to let you know that this week's data has arrived. I will mention that over the last month or so, we've seen many states beginning to rollback their transparency, reporting less information less frequently. Some have gone from daily updates to bi-weekly and a few have said they're considering monthly updates. That, of course, makes this effort more challenging to sustain, and we're starting to think about what that means for it in the longterm and how long it can continue. We'd be curious to hear from you about what you think. How often do you like this data to update, and what pieces are most critical for your uses? And what do you use it for? Drop us a line at info+covid@themarshallproject.org. We'd love to hear from you.
 
