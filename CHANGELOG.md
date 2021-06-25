@@ -3,6 +3,16 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-06-25
+Hi everyone. I'm here with this week's data release, which after 15 months, will be our last regular update. Cases are plateauing at a level far below the pandemic's peak, but coronavirus is not finished in prison. We continue to see outbreaks in pockets around the country. But we also see that prison agencies are releasing less and less information and reverting to their opaqueness of the before times. 
+
+We anticipate that a few states will yet pop up with data for the week of June 22, and we'll add them here when they arrive, but we will no longer be collecting weekly data going forward. If you are in need of ongoing data, we suggest you visit the [COVID Prison Project](https://covidprisonproject.com/) and the [UCLA Law COVID Behind Bars Data Project](https://uclacovidbehindbars.org/). We'll continue to report on prison conditions and the effects of coronavirus, which will linger for months and years to come, and you can look for more stories soon. If you have ideas for stories about COVID in prisons and jails, you can always email us at info+covid@themarshallproject.org
+
+Before we stop, we, of course, had a few updates come through that affected our past data. At the beginning of May, Massachusetts conducted an audit of its testing and cases, and as a result revised its prisoner case numbers down by roughly 450 from the week before. For [our graphics](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), we estimated the case counts for all previous weeks to account for the change. For our data here, we left the originally reported figures for the past weeks in the CSV. Washington State also revised its prisoner deaths after a death certificate was updated. We adjusted the appropriate weeks back to January to remove that death that is no longer attributed to COVID-19. And finally, we added snapshots of the prisoner populations for the end of February, March, April and May, which we use to calculate our various case rates. 
+
+Please reach out and let us know if you have questions or if you've used our data. We'd love to hear more about it. Thanks, everyone, for sticking with us over the last 15 months. This particular project may be over, but the pandemic certainly isn't. There's still a lot of important reporting yet to do.
+
+
 ## 2021-06-19
 Hello, friends. Sorry for the late data update this week. We're finding more and more prison systems are slowing down their releases of data. Our window of visibility into the pandemic's effects in prisons feels like it's closing. For instance, California's prisons have [announced they will no longer be reporting cases among their staff](https://twitter.com/ultracasual/status/1405675890521120770), even though it appears staff there continue to get sick.
 

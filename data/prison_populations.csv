@@ -9,6 +9,10 @@ Alabama,AL,oct,10/31/2020,18262
 Alabama,AL,nov,11/30/2020,17914
 Alabama,AL,dec,12/31/2020,17725
 Alabama,AL,jan_2021,01/31/2021,17454
+Alabama,AL,feb_2021,02/28/2021,17308
+Alabama,AL,march_2021,03/31/2021,17134
+Alabama,AL,may_2021,04/30/2021,17051
+Alabama,AL,april_2021,04/30/2021,17051
 Alaska,AK,march,03/15/2020,4776
 Alaska,AK,april,04/15/2020,4277
 Alaska,AK,june,06/16/2020,4216
@@ -19,6 +23,10 @@ Alaska,AK,oct,10/31/2020,4586
 Alaska,AK,nov,11/30/2020,4581
 Alaska,AK,dec,12/31/2020,4559
 Alaska,AK,jan_2021,01/31/2021,4523
+Alaska,AK,feb_2021,02/28/2021,4505
+Alaska,AK,march_2021,03/31/2021,4493
+Alaska,AK,april_2021,04/30/2021,4478
+Alaska,AK,may_2021,05/31/2021,4487
 Arizona,AZ,march,03/31/2020,42360
 Arizona,AZ,april,04/30/2020,41777
 Arizona,AZ,june,06/30/2020,40529
@@ -29,6 +37,10 @@ Arizona,AZ,oct,10/31/2020,38495
 Arizona,AZ,nov,11/30/2020,38141
 Arizona,AZ,dec,12/31/2020,37731
 Arizona,AZ,jan_2021,01/31/2021,37396
+Arizona,AZ,feb_2021,02/28/2021,36975
+Arizona,AZ,march_2021,03/31/2021,36704
+Arizona,AZ,april_2021,04/30/2021,36569
+Arizona,AZ,may_2021,05/31/2021,36266
 Arkansas,AR,march,03/15/2020,17501
 Arkansas,AR,april,04/15/2020,17502
 Arkansas,AR,june,06/16/2020,16473
@@ -39,6 +51,10 @@ Arkansas,AR,oct,10/30/2020,14883
 Arkansas,AR,nov,11/30/2020,14899
 Arkansas,AR,dec,12/31/2020,14812
 Arkansas,AR,jan_2021,02/01/2021,14462
+Arkansas,AR,feb_2021,02/26/2021,14630
+Arkansas,AR,march_2021,03/31/2021,15020
+Arkansas,AR,april_2021,04/30/2021,15530
+Arkansas,AR,may_2021,05/31/2021,15898
 California,CA,march,03/11/2020,117639
 California,CA,april,04/15/2020,113632
 California,CA,june,06/17/2020,109800
@@ -49,6 +65,10 @@ California,CA,oct,11/04/2020,94433
 California,CA,nov,12/02/2020,94179
 California,CA,dec,12/30/2020,92350
 California,CA,jan_2021,01/27/2021,91341
+California,CA,feb_2021,02/24/2021,91516
+California,CA,march_2021,03/31/2021,92079
+California,CA,april_2021,04/28/2021,92836
+California,CA,may_2021,06/02/2021,95107
 Colorado,CO,march,03/31/2020,17585
 Colorado,CO,april,04/30/2020,16382
 Colorado,CO,june,06/30/2020,15807
@@ -59,6 +79,10 @@ Colorado,CO,oct,10/31/2020,14673
 Colorado,CO,nov,11/30/2020,14257
 Colorado,CO,dec,12/31/2020,13687
 Colorado,CO,jan_2021,01/31/2021,13558
+Colorado,CO,feb_2021,02/28/2021,13556
+Colorado,CO,march_2021,03/31/2021,13553
+Colorado,CO,april_2021,04/30/2021,13537
+Colorado,CO,may_2021,05/31/2021,13650
 Connecticut,CT,march,03/15/2020,12290
 Connecticut,CT,april,04/15/2020,11454
 Connecticut,CT,june,06/16/2020,10206
@@ -69,6 +93,10 @@ Connecticut,CT,oct,10/31/2020,9348
 Connecticut,CT,nov,11/30/2020,9233
 Connecticut,CT,dec,12/31/2020,9111
 Connecticut,CT,jan_2021,01/31/2021,9053
+Connecticut,CT,feb_2021,02/28/2021,9043
+Connecticut,CT,march_2021,03/31/2021,8961
+Connecticut,CT,april_2021,04/30/2021,8957
+Connecticut,CT,may_2021,05/31/2021,8957
 Delaware,DE,march,03/15/2020,5042
 Delaware,DE,april,04/15/2020,4624
 Delaware,DE,june,06/25/2020,4233
@@ -79,6 +107,10 @@ Delaware,DE,oct,10/31/2020,4457
 Delaware,DE,nov,11/20/2020,4168
 Delaware,DE,dec,12/31/2020,4358
 Delaware,DE,jan_2021,01/31/2021,4677
+Delaware,DE,feb_2021,02/28/2021,4360
+Delaware,DE,march_2021,03/31/2021,4326
+Delaware,DE,april_2021,04/30/2021,4269
+Delaware,DE,may_2021,05/31/2021,4267
 Federal,US,march,03/12/2020,172088
 Federal,US,april,04/16/2020,167720
 Federal,US,june,06/18/2020,154707
@@ -89,6 +121,10 @@ Federal,US,oct,11/05/2020,145718
 Federal,US,nov,12/03/2020,144751
 Federal,US,dec,12/31/2020,143350
 Federal,US,jan_2021,01/28/2021,143416
+Federal,US,feb_2021,03/04/2021,143443
+Federal,US,march_2021,04/01/2021,143987
+Federal,US,april_2021,04/22/2021,144016
+Federal,US,may_2021,06/03/2021,144976
 Florida,FL,march,03/15/2020,93764
 Florida,FL,april,04/15/2020,91828
 Florida,FL,june,06/16/2020,88305
@@ -99,6 +135,10 @@ Florida,FL,oct,10/31/2020,82027
 Florida,FL,nov,12/01/2020,81795
 Florida,FL,dec,12/31/2020,79523
 Florida,FL,jan_2021,02/01/2021,79322
+Florida,FL,feb_2021,02/28/2021,79476
+Florida,FL,march_2021,03/31/2021,79660
+Florida,FL,april_2021,04/30/2021,80298
+Florida,FL,may_2021,05/31/2021,80271
 Georgia,GA,march,04/01/2020,55019
 Georgia,GA,april,05/01/2020,53642
 Georgia,GA,june,07/01/2020,51213
@@ -109,6 +149,10 @@ Georgia,GA,oct,11/05/2020,48433
 Georgia,GA,nov,11/30/2020,48132
 Georgia,GA,dec,01/01/2021,47703
 Georgia,GA,jan_2021,02/01/2021,47027
+Georgia,GA,feb_2021,03/01/2021,46530
+Georgia,GA,march_2021,04/01/2021,46309
+Georgia,GA,april_2021,05/03/2021,46195
+Georgia,GA,may_2021,06/01/2021,46296
 Hawaii,HI,march,03/31/2020,4836
 Hawaii,HI,april,04/30/2020,4260
 Hawaii,HI,june,06/15/2020,4404
@@ -119,6 +163,10 @@ Hawaii,HI,oct,11/02/2020,4184
 Hawaii,HI,nov,11/30/2020,4183
 Hawaii,HI,dec,12/31/2020,4171
 Hawaii,HI,jan_2021,01/31/2021,4200
+Hawaii,HI,feb_2021,03/01/2021,4153
+Hawaii,HI,march_2021,03/31/2021,4117
+Hawaii,HI,april_2021,04/30/2021,4084
+Hawaii,HI,may_2021,05/31/2021,4134
 Idaho,ID,march,03/16/2020,7816
 Idaho,ID,april,04/15/2020,7641
 Idaho,ID,june,06/16/2020,7798
@@ -128,7 +176,11 @@ Idaho,ID,sept,09/30/2020,7155
 Idaho,ID,oct,10/30/2020,7496
 Idaho,ID,nov,11/30/2020,7407
 Idaho,ID,dec,12/31/2020,7343
+Idaho,ID,march_2021,02/01/2021,7025
+Idaho,ID,may_2021,02/01/2021,7025
+Idaho,ID,feb_2021,02/01/2021,7025
 Idaho,ID,jan_2021,02/01/2021,7025
+Idaho,ID,april_2021,02/01/2021,7025
 Illinois,IL,march,03/31/2020,36931
 Illinois,IL,april,04/30/2020,34668
 Illinois,IL,june,06/30/2020,31945
@@ -139,6 +191,10 @@ Illinois,IL,oct,10/31/2020,30651
 Illinois,IL,nov,11/30/2020,30001
 Illinois,IL,dec,12/31/2020,29225
 Illinois,IL,jan_2021,01/22/2021,29151
+Illinois,IL,feb_2021,02/28/2021,28160
+Illinois,IL,march_2021,03/31/2021,27503
+Illinois,IL,april_2021,04/30/2021,27313
+Illinois,IL,may_2021,05/31/2021,27313
 Indiana,IN,march,04/01/2020,26936
 Indiana,IN,april,05/01/2020,26418
 Indiana,IN,june,07/01/2020,25385
@@ -149,6 +205,10 @@ Indiana,IN,oct,11/01/2020,24203
 Indiana,IN,nov,12/01/2020,23978
 Indiana,IN,dec,01/01/2021,23726
 Indiana,IN,jan_2021,02/01/2021,23745
+Indiana,IN,feb_2021,03/01/2021,23745
+Indiana,IN,march_2021,04/01/2021,23769
+Indiana,IN,april_2021,05/01/2021,23554
+Indiana,IN,may_2021,06/01/2021,23510
 Iowa,IA,march,03/15/2020,8533
 Iowa,IA,april,04/15/2020,8401
 Iowa,IA,june,06/18/2020,7600
@@ -159,6 +219,10 @@ Iowa,IA,oct,10/31/2020,7415
 Iowa,IA,nov,11/30/2020,7441
 Iowa,IA,dec,12/31/2020,7542
 Iowa,IA,jan_2021,01/31/2021,7489
+Iowa,IA,feb_2021,02/28/2021,7554
+Iowa,IA,march_2021,04/05/2021,7627
+Iowa,IA,april_2021,04/30/2021,7673
+Iowa,IA,may_2021,05/31/2021,7680
 Kansas,KS,march,03/16/2020,9804
 Kansas,KS,april,04/15/2020,9673
 Kansas,KS,june,06/16/2020,9091
@@ -169,6 +233,10 @@ Kansas,KS,oct,10/30/2020,8414
 Kansas,KS,nov,11/30/2020,8408
 Kansas,KS,dec,12/31/2020,8574
 Kansas,KS,jan_2021,01/29/2021,8665
+Kansas,KS,feb_2021,03/01/2021,8719
+Kansas,KS,march_2021,03/31/2021,8745
+Kansas,KS,april_2021,04/30/2021,8682
+Kansas,KS,may_2021,06/01/2021,8650
 Kentucky,KY,march,03/16/2020,12162
 Kentucky,KY,april,04/15/2020,11782
 Kentucky,KY,june,06/15/2020,11272
@@ -179,16 +247,24 @@ Kentucky,KY,oct,10/30/2020,10242
 Kentucky,KY,nov,11/30/2020,10151
 Kentucky,KY,dec,12/30/2020,9854
 Kentucky,KY,jan_2021,01/29/2021,9706
+Kentucky,KY,feb_2021,03/01/2021,9655
+Kentucky,KY,march_2021,03/31/2021,9625
+Kentucky,KY,april_2021,04/30/2021,9708
+Kentucky,KY,may_2021,06/01/2021,9899
 Louisiana,LA,march,03/18/2020,15066
 Louisiana,LA,april,04/15/2020,14967
 Louisiana,LA,june,06/17/2020,14623
 Louisiana,LA,july,07/31/2020,14443
 Louisiana,LA,aug,08/31/2020,14313
 Louisiana,LA,sept,09/30/2020,14241
-Louisiana,LA,jan_2021,10/31/2020,14134
-Louisiana,LA,nov,10/31/2020,14134
-Louisiana,LA,dec,10/31/2020,14134
 Louisiana,LA,oct,10/31/2020,14134
+Louisiana,LA,nov,11/30/2020,14052
+Louisiana,LA,dec,12/31/2020,13903
+Louisiana,LA,jan_2021,01/31/2021,13822
+Louisiana,LA,feb_2021,02/28/2021,13722
+Louisiana,LA,march_2021,03/31/2021,13724
+Louisiana,LA,april_2021,04/30/2021,13546
+Louisiana,LA,may_2021,05/31/2021,13522
 Maine,ME,march,03/15/2020,2138
 Maine,ME,april,04/15/2020,2019
 Maine,ME,june,06/16/2020,1828
@@ -199,6 +275,10 @@ Maine,ME,oct,10/31/2020,1766
 Maine,ME,nov,12/01/2020,1718
 Maine,ME,dec,12/31/2020,1712
 Maine,ME,jan_2021,02/03/2021,1679
+Maine,ME,feb_2021,03/02/2021,1672
+Maine,ME,march_2021,04/02/2021,1661
+Maine,ME,april_2021,04/30/2021,1616
+Maine,ME,may_2021,05/28/2021,1603
 Maryland,MD,march,04/01/2020,20314
 Maryland,MD,april,05/01/2020,19731
 Maryland,MD,june,07/01/2020,19109
@@ -206,8 +286,12 @@ Maryland,MD,july,08/01/2020,17635
 Maryland,MD,aug,08/31/2020,17455
 Maryland,MD,sept,09/30/2020,18003
 Maryland,MD,oct,10/31/2020,18280
+Maryland,MD,feb_2021,11/30/2020,18426
+Maryland,MD,april_2021,11/30/2020,18426
+Maryland,MD,may_2021,11/30/2020,18426
 Maryland,MD,nov,11/30/2020,18426
 Maryland,MD,jan_2021,11/30/2020,18426
+Maryland,MD,march_2021,11/30/2020,18426
 Maryland,MD,dec,11/30/2020,18426
 Massachusetts,MA,march,03/16/2020,7969
 Massachusetts,MA,april,04/13/2020,7626
@@ -219,6 +303,10 @@ Massachusetts,MA,oct,11/02/2020,6729
 Massachusetts,MA,nov,11/30/2020,6690
 Massachusetts,MA,dec,01/04/2021,6570
 Massachusetts,MA,jan_2021,02/01/2021,6524
+Massachusetts,MA,feb_2021,03/08/2021,6374
+Massachusetts,MA,march_2021,03/29/2021,6362
+Massachusetts,MA,april_2021,05/03/2021,6318
+Massachusetts,MA,may_2021,05/31/2021,6345
 Michigan,MI,march,03/22/2020,38176
 Michigan,MI,april,04/11/2020,37687
 Michigan,MI,june,06/16/2020,35798
@@ -228,7 +316,11 @@ Michigan,MI,sept,09/30/2020,34330
 Michigan,MI,oct,10/31/2020,34134
 Michigan,MI,nov,11/30/2020,33917
 Michigan,MI,dec,12/31/2020,33617
+Michigan,MI,feb_2021,01/31/2021,33370
+Michigan,MI,march_2021,01/31/2021,33370
+Michigan,MI,may_2021,01/31/2021,33370
 Michigan,MI,jan_2021,01/31/2021,33370
+Michigan,MI,april_2021,01/31/2021,33370
 Minnesota,MN,march,03/24/2020,8904
 Minnesota,MN,april,04/20/2020,8718
 Minnesota,MN,june,06/29/2020,8402
@@ -239,6 +331,10 @@ Minnesota,MN,oct,10/31/2020,7575
 Minnesota,MN,nov,12/01/2020,7549
 Minnesota,MN,dec,01/05/2021,7427
 Minnesota,MN,jan_2021,02/03/2021,7315
+Minnesota,MN,feb_2021,03/02/2021,7327
+Minnesota,MN,march_2021,03/30/2021,7342
+Minnesota,MN,april_2021,04/27/2021,7228
+Minnesota,MN,may_2021,05/25/2021,7251
 Mississippi,MS,march,03/15/2020,17667
 Mississippi,MS,april,04/15/2020,16147
 Mississippi,MS,june,06/16/2020,15857
@@ -249,6 +345,10 @@ Mississippi,MS,oct,10/31/2020,15367
 Mississippi,MS,nov,11/30/2020,15459
 Mississippi,MS,dec,12/31/2020,15444
 Mississippi,MS,jan_2021,01/31/2021,15294
+Mississippi,MS,feb_2021,03/01/2021,15336
+Mississippi,MS,march_2021,03/31/2021,15261
+Mississippi,MS,april_2021,04/30/2021,15309
+Mississippi,MS,may_2021,05/31/2021,15532
 Missouri,MO,march,03/31/2020,25740
 Missouri,MO,april,04/30/2020,25133
 Missouri,MO,june,06/18/2020,24000
@@ -259,6 +359,10 @@ Missouri,MO,oct,10/30/2020,23554
 Missouri,MO,nov,11/30/2020,23397
 Missouri,MO,dec,12/31/2020,23106
 Missouri,MO,jan_2021,01/31/2021,23037
+Missouri,MO,feb_2021,02/28/2021,22783
+Missouri,MO,march_2021,03/31/2021,22939
+Missouri,MO,april_2021,04/30/2021,23044
+Missouri,MO,may_2021,05/31/2021,23057
 Montana,MT,march,03/15/2020,4508
 Montana,MT,april,04/15/2020,4318
 Montana,MT,june,06/16/2020,3962
@@ -269,6 +373,10 @@ Montana,MT,oct,10/31/2020,3746
 Montana,MT,nov,11/30/2020,3709
 Montana,MT,dec,12/31/2020,3620
 Montana,MT,jan_2021,01/31/2021,3686
+Montana,MT,feb_2021,02/28/2021,3762
+Montana,MT,march_2021,03/31/2021,3782
+Montana,MT,april_2021,04/30/2021,3858
+Montana,MT,may_2021,05/31/2021,3908
 Nebraska,NE,march,03/31/2020,5621
 Nebraska,NE,april,04/30/2020,5539
 Nebraska,NE,june,06/30/2020,5384
@@ -279,6 +387,10 @@ Nebraska,NE,oct,10/31/2020,5296
 Nebraska,NE,nov,11/30/2020,5308
 Nebraska,NE,dec,12/31/2020,5275
 Nebraska,NE,jan_2021,01/31/2021,5265
+Nebraska,NE,feb_2021,03/01/2021,5302
+Nebraska,NE,march_2021,04/01/2021,5320
+Nebraska,NE,april_2021,05/01/2021,5301
+Nebraska,NE,may_2021,06/01/2021,5363
 Nevada,NV,march,03/08/2020,12384
 Nevada,NV,april,04/30/2020,12152
 Nevada,NV,june,06/14/2020,11231
@@ -289,6 +401,10 @@ Nevada,NV,oct,10/31/2020,11273
 Nevada,NV,nov,11/29/2020,11222
 Nevada,NV,dec,12/27/2020,11134
 Nevada,NV,jan_2021,01/31/2021,11007
+Nevada,NV,feb_2021,03/01/2021,10926
+Nevada,NV,march_2021,03/29/2021,10841
+Nevada,NV,april_2021,04/27/2021,10777
+Nevada,NV,may_2021,06/01/2021,10640
 New Hampshire,NH,march,04/01/2020,2433
 New Hampshire,NH,april,05/01/2020,2359
 New Hampshire,NH,june,07/01/2020,2256
@@ -299,6 +415,10 @@ New Hampshire,NH,oct,11/01/2020,2184
 New Hampshire,NH,nov,12/01/2020,2155
 New Hampshire,NH,dec,01/01/2021,2136
 New Hampshire,NH,jan_2021,02/01/2021,2107
+New Hampshire,NH,feb_2021,03/01/2021,2071
+New Hampshire,NH,march_2021,04/01/2021,2053
+New Hampshire,NH,april_2021,05/01/2021,2030
+New Hampshire,NH,may_2021,06/01/2021,2016
 New Jersey,NJ,march,03/15/2020,18439
 New Jersey,NJ,april,04/15/2020,17958
 New Jersey,NJ,june,06/16/2020,16613
@@ -306,9 +426,13 @@ New Jersey,NJ,july,08/01/2020,15866
 New Jersey,NJ,aug,09/01/2020,15480
 New Jersey,NJ,sept,10/01/2020,15380
 New Jersey,NJ,oct,10/27/2020,14784
-New Jersey,NJ,jan_2021,11/30/2020,12800
 New Jersey,NJ,nov,11/30/2020,12800
-New Jersey,NJ,dec,11/30/2020,12800
+New Jersey,NJ,dec,12/31/2020,11463
+New Jersey,NJ,jan_2021,01/31/2021,11434
+New Jersey,NJ,feb_2021,02/28/2021,11128
+New Jersey,NJ,march_2021,03/31/2021,10962
+New Jersey,NJ,april_2021,04/30/2021,10875
+New Jersey,NJ,may_2021,05/31/2021,10722
 New Mexico,NM,march,03/15/2020,6573
 New Mexico,NM,april,04/15/2020,6588
 New Mexico,NM,june,06/17/2020,6328
@@ -319,6 +443,10 @@ New Mexico,NM,oct,11/01/2020,6029
 New Mexico,NM,nov,11/30/2020,6012
 New Mexico,NM,dec,12/31/2020,5847
 New Mexico,NM,jan_2021,01/31/2021,5817
+New Mexico,NM,feb_2021,02/28/2021,5772
+New Mexico,NM,march_2021,03/31/2021,5710
+New Mexico,NM,april_2021,04/30/2021,5731
+New Mexico,NM,may_2021,05/31/2021,5708
 New York,NY,march,04/01/2020,42784
 New York,NY,april,05/01/2020,40956
 New York,NY,june,06/16/2020,38723
@@ -329,6 +457,10 @@ New York,NY,oct,11/01/2020,35983
 New York,NY,nov,12/01/2020,35353
 New York,NY,dec,01/01/2021,34446
 New York,NY,jan_2021,02/01/2021,33376
+New York,NY,feb_2021,03/01/2021,32384
+New York,NY,march_2021,04/01/2021,31412
+New York,NY,april_2021,05/01/2021,31456
+New York,NY,may_2021,06/01/2021,31890
 North Carolina,NC,jan_2021,01/31/2020,29023
 North Carolina,NC,march,03/15/2020,34256
 North Carolina,NC,april,04/30/2020,33790
@@ -339,6 +471,10 @@ North Carolina,NC,sept,09/30/2020,31048
 North Carolina,NC,oct,10/31/2020,30657
 North Carolina,NC,nov,11/30/2020,30278
 North Carolina,NC,dec,12/31/2020,29321
+North Carolina,NC,feb_2021,02/28/2021,28714
+North Carolina,NC,march_2021,03/31/2021,28679
+North Carolina,NC,april_2021,04/30/2021,28746
+North Carolina,NC,may_2021,05/31/2021,28765
 North Dakota,ND,jan_2021,01/31/2020,1254
 North Dakota,ND,march,03/15/2020,1519
 North Dakota,ND,april,04/15/2020,1321
@@ -349,6 +485,10 @@ North Dakota,ND,sept,09/30/2020,1205
 North Dakota,ND,oct,10/31/2020,1191
 North Dakota,ND,nov,11/30/2020,1235
 North Dakota,ND,dec,12/31/2020,1211
+North Dakota,ND,feb_2021,02/28/2021,1293
+North Dakota,ND,march_2021,03/31/2021,1351
+North Dakota,ND,april_2021,04/30/2021,1384
+North Dakota,ND,may_2021,05/31/2021,1368
 Ohio,OH,march,03/19/2020,48765
 Ohio,OH,april,04/20/2020,48927
 Ohio,OH,june,06/16/2020,46212
@@ -359,6 +499,10 @@ Ohio,OH,oct,10/31/2020,44598
 Ohio,OH,nov,11/30/2020,44441
 Ohio,OH,dec,12/31/2020,44027
 Ohio,OH,jan_2021,01/31/2021,43665
+Ohio,OH,feb_2021,02/28/2021,43495
+Ohio,OH,march_2021,03/31/2021,43246
+Ohio,OH,april_2021,04/30/2021,43005
+Ohio,OH,may_2021,05/25/2021,43014
 Oklahoma,OK,march,03/16/2020,24956
 Oklahoma,OK,april,04/13/2020,24395
 Oklahoma,OK,june,06/16/2020,22875
@@ -369,6 +513,10 @@ Oklahoma,OK,oct,11/02/2020,21678
 Oklahoma,OK,nov,11/30/2020,21709
 Oklahoma,OK,dec,01/04/2021,21718
 Oklahoma,OK,jan_2021,02/01/2021,21665
+Oklahoma,OK,feb_2021,03/01/2021,21670
+Oklahoma,OK,march_2021,03/29/2021,21729
+Oklahoma,OK,april_2021,05/03/2021,21725
+Oklahoma,OK,may_2021,06/01/2021,21615
 Oregon,OR,jan_2021,02/01/2020,12593
 Oregon,OR,march,03/15/2020,14459
 Oregon,OR,april,04/15/2020,14407
@@ -379,6 +527,10 @@ Oregon,OR,sept,10/01/2020,13306
 Oregon,OR,oct,11/01/2020,13149
 Oregon,OR,nov,12/01/2020,12989
 Oregon,OR,dec,12/31/2020,12753
+Oregon,OR,feb_2021,03/01/2021,12404
+Oregon,OR,march_2021,04/01/2021,12322
+Oregon,OR,april_2021,05/01/2021,12190
+Oregon,OR,may_2021,06/01/2021,12098
 Pennsylvania,PA,march,03/31/2020,46559
 Pennsylvania,PA,april,04/30/2020,45251
 Pennsylvania,PA,june,06/30/2020,43916
@@ -389,6 +541,10 @@ Pennsylvania,PA,oct,10/30/2020,41140
 Pennsylvania,PA,nov,11/30/2020,40786
 Pennsylvania,PA,dec,12/31/2020,40403
 Pennsylvania,PA,jan_2021,01/31/2021,40088
+Pennsylvania,PA,feb_2021,02/28/2021,39499
+Pennsylvania,PA,march_2021,03/31/2021,39296
+Pennsylvania,PA,april_2021,04/30/2021,39080
+Pennsylvania,PA,may_2021,05/31/2021,38868
 Rhode Island,RI,march,03/15/2020,2674
 Rhode Island,RI,april,04/15/2020,2275
 Rhode Island,RI,june,06/16/2020,2180
@@ -399,6 +555,10 @@ Rhode Island,RI,oct,10/31/2020,2233
 Rhode Island,RI,nov,11/30/2020,2179
 Rhode Island,RI,dec,12/31/2020,2076
 Rhode Island,RI,jan_2021,01/31/2021,2118
+Rhode Island,RI,feb_2021,02/28/2021,2150
+Rhode Island,RI,march_2021,03/31/2021,2120
+Rhode Island,RI,april_2021,04/30/2021,2078
+Rhode Island,RI,may_2021,05/31/2021,2125
 South Carolina,SC,march,03/20/2020,18113
 South Carolina,SC,april,04/20/2020,17772
 South Carolina,SC,june,06/18/2020,17188
@@ -409,6 +569,10 @@ South Carolina,SC,oct,10/30/2020,16109
 South Carolina,SC,nov,11/30/2020,15927
 South Carolina,SC,dec,12/31/2020,15674
 South Carolina,SC,jan_2021,01/31/2021,15700
+South Carolina,SC,feb_2021,03/01/2021,15320
+South Carolina,SC,march_2021,04/01/2021,15293
+South Carolina,SC,april_2021,05/01/2021,15216
+South Carolina,SC,may_2021,06/01/2021,15159
 South Dakota,SD,march,03/31/2020,3701
 South Dakota,SD,april,04/30/2020,3546
 South Dakota,SD,june,06/30/2020,3367
@@ -419,6 +583,10 @@ South Dakota,SD,oct,10/31/2020,3205
 South Dakota,SD,nov,11/30/2020,3205
 South Dakota,SD,dec,12/31/2020,3159
 South Dakota,SD,jan_2021,01/31/2021,3145
+South Dakota,SD,feb_2021,02/28/2021,3174
+South Dakota,SD,march_2021,03/31/2021,3180
+South Dakota,SD,april_2021,04/30/2021,3181
+South Dakota,SD,may_2021,05/31/2021,3228
 Tennessee,TN,march,03/15/2020,21616
 Tennessee,TN,april,04/15/2020,21150
 Tennessee,TN,june,06/16/2020,20079
@@ -429,6 +597,10 @@ Tennessee,TN,oct,10/31/2020,19566
 Tennessee,TN,nov,11/30/2020,19605
 Tennessee,TN,dec,12/31/2020,19453
 Tennessee,TN,jan_2021,01/31/2021,19510
+Tennessee,TN,feb_2021,02/28/2021,19433
+Tennessee,TN,march_2021,03/31/2021,19687
+Tennessee,TN,april_2021,04/30/2021,19687
+Tennessee,TN,may_2021,05/31/2021,20537
 Texas,TX,jan_2021,01/31/2020,119541
 Texas,TX,march,03/31/2020,140124
 Texas,TX,april,04/30/2020,135833
@@ -439,6 +611,10 @@ Texas,TX,sept,09/30/2020,120709
 Texas,TX,oct,10/31/2020,122177
 Texas,TX,nov,11/30/2020,121876
 Texas,TX,dec,12/31/2020,120873
+Texas,TX,feb_2021,02/28/2021,117843
+Texas,TX,march_2021,03/31/2021,117491
+Texas,TX,april_2021,04/30/2021,116926
+Texas,TX,may_2021,05/31/2021,117838
 Utah,UT,march,03/15/2020,6900
 Utah,UT,april,04/15/2020,6441
 Utah,UT,june,06/16/2020,5993
@@ -449,6 +625,10 @@ Utah,UT,oct,10/31/2020,5898
 Utah,UT,nov,11/30/2020,5496
 Utah,UT,jan_2021,12/31/2020,5485
 Utah,UT,dec,12/31/2020,5485
+Utah,UT,feb_2021,02/28/2021,5581
+Utah,UT,march_2021,03/31/2021,5602
+Utah,UT,april_2021,04/30/2021,5663
+Utah,UT,may_2021,05/31/2021,5728
 Vermont,VT,march,03/15/2020,1656
 Vermont,VT,april,04/15/2020,1406
 Vermont,VT,june,06/16/2020,1395
@@ -459,6 +639,10 @@ Vermont,VT,oct,10/30/2020,1369
 Vermont,VT,nov,11/30/2020,1380
 Vermont,VT,dec,12/30/2020,1292
 Vermont,VT,jan_2021,01/29/2021,1281
+Vermont,VT,feb_2021,03/01/2021,1274
+Vermont,VT,march_2021,03/31/2021,1238
+Vermont,VT,april_2021,04/30/2021,1228
+Vermont,VT,may_2021,05/28/2021,1261
 Virginia,VA,march,03/13/2020,29161
 Virginia,VA,april,04/14/2020,28559
 Virginia,VA,june,06/16/2020,28595
@@ -469,6 +653,10 @@ Virginia,VA,oct,10/31/2020,25156
 Virginia,VA,nov,11/30/2020,24731
 Virginia,VA,dec,12/31/2020,24235
 Virginia,VA,jan_2021,01/31/2021,23811
+Virginia,VA,feb_2021,02/28/2021,23644
+Virginia,VA,march_2021,03/31/2021,23796
+Virginia,VA,april_2021,04/30/2021,23897
+Virginia,VA,may_2021,05/31/2021,23966
 Washington,WA,march,03/31/2020,17263
 Washington,WA,april,04/30/2020,16906
 Washington,WA,june,06/30/2020,15837
@@ -479,6 +667,10 @@ Washington,WA,oct,10/31/2020,15198
 Washington,WA,nov,11/30/2020,15111
 Washington,WA,dec,12/31/2020,14882
 Washington,WA,jan_2021,01/31/2021,14660
+Washington,WA,feb_2021,02/28/2021,14510
+Washington,WA,march_2021,03/31/2021,14314
+Washington,WA,april_2021,04/30/2021,14065
+Washington,WA,may_2021,04/30/2021,14065
 West Virginia,WV,march,03/15/2020,5952
 West Virginia,WV,april,04/15/2020,5556
 West Virginia,WV,june,06/15/2020,4898
@@ -489,6 +681,10 @@ West Virginia,WV,oct,10/31/2020,4247
 West Virginia,WV,nov,11/30/2020,4189
 West Virginia,WV,dec,12/31/2020,3977
 West Virginia,WV,jan_2021,01/31/2021,3987
+West Virginia,WV,feb_2021,02/28/2021,3962
+West Virginia,WV,march_2021,03/31/2021,4053
+West Virginia,WV,april_2021,04/30/2021,4071
+West Virginia,WV,may_2021,06/01/2021,4425
 Wisconsin,WI,march,03/13/2020,23591
 Wisconsin,WI,april,04/17/2020,22507
 Wisconsin,WI,june,06/12/2020,21576
@@ -499,6 +695,10 @@ Wisconsin,WI,oct,10/30/2020,20796
 Wisconsin,WI,nov,11/27/2020,20494
 Wisconsin,WI,dec,01/01/2021,20033
 Wisconsin,WI,jan_2021,01/29/2021,19783
+Wisconsin,WI,feb_2021,02/26/2021,19513
+Wisconsin,WI,march_2021,04/02/2021,19357
+Wisconsin,WI,april_2021,04/30/2021,19301
+Wisconsin,WI,may_2021,05/28/2021,19271
 Wyoming,WY,march,03/15/2020,2156
 Wyoming,WY,april,04/15/2020,2098
 Wyoming,WY,june,06/16/2020,2001
@@ -509,3 +709,7 @@ Wyoming,WY,oct,10/31/2020,2232
 Wyoming,WY,nov,11/30/2020,2157
 Wyoming,WY,dec,12/31/2020,2134
 Wyoming,WY,jan_2021,01/31/2021,2133
+Wyoming,WY,april_2021,01/31/2021,2133
+Wyoming,WY,may_2021,01/31/2021,2133
+Wyoming,WY,feb_2021,01/31/2021,2133
+Wyoming,WY,march_2021,01/31/2021,2133
