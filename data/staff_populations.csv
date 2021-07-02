@@ -1,103 +1,103 @@
-name,abbreviation,month,as_of_date,pop
-Alabama,AL,march,03/31/2020,3686
-Alabama,AL,july,06/30/2020,3792
-Alaska,AK,march,03/31/2020,1456
-Alaska,AK,july,07/31/2020,1481
-Arizona,AZ,july,08/01/2020,9095
-Arizona,AZ,march,03/31/2021,8735
-Arkansas,AR,march,03/31/2020,5460
-Arkansas,AR,july,07/31/2020,5024
-California,CA,march,03/01/2020,63471
-California,CA,july,07/31/2020,62606
-Colorado,CO,march,03/31/2020,6335
-Colorado,CO,july,07/31/2020,6281
-Connecticut,CT,march,03/01/2020,6219
-Connecticut,CT,july,08/01/2020,6155
-Delaware,DE,march,,
-Delaware,DE,july,,
-Federal,US,march,03/14/2020,36486
-Federal,US,july,08/01/2020,37127
-Florida,FL,march,03/31/2020,27133
-Florida,FL,july,07/31/2020,27219
-Georgia,GA,july,,
-Georgia,GA,march,,
-Hawaii,HI,march,03/31/2020,2100
-Hawaii,HI,july,08/05/2020,2100
-Idaho,ID,march,03/16/2020,1977
-Idaho,ID,july,07/31/2020,1982
-Illinois,IL,march,03/31/2020,12785
-Illinois,IL,july,07/31/2020,12503
-Indiana,IN,march,03/31/2020,5582
-Indiana,IN,july,06/30/2020,5357
-Iowa,IA,march,03/15/2020,2482
-Iowa,IA,july,07/31/2020,2396
-Kansas,KS,march,03/01/2020,3276
-Kansas,KS,july,07/31/2020,3153
-Kentucky,KY,march,03/31/2020,2656
-Kentucky,KY,july,07/31/2020,2614
-Louisiana,LA,july,,
-Louisiana,LA,march,,
-Maine,ME,march,02/29/2020,1130
-Maine,ME,july,07/31/2020,1124
-Maryland,MD,march,03/31/2020,6038
-Maryland,MD,july,07/31/2020,6211
-Massachusetts,MA,march,04/01/2020,4679
-Massachusetts,MA,july,08/01/2020,4764
-Michigan,MI,march,04/16/2020,11963
-Michigan,MI,july,07/31/2020,11862
-Minnesota,MN,march,04/22/2020,4421
-Minnesota,MN,july,07/24/2020,4340
-Mississippi,MS,march,09/30/2019,1734
-Mississippi,MS,july,06/30/2020,1699
-Missouri,MO,march,03/15/2020,9653
-Missouri,MO,july,07/31/2020,9488
-Montana,MT,march,03/23/2020,1286
-Montana,MT,july,07/20/2020,1308
-Nebraska,NE,march,03/31/2020,2199
-Nebraska,NE,july,07/31/2020,2132
-Nevada,NV,march,03/31/2020,2638
-Nevada,NV,july,07/31/2020,2648
-New Hampshire,NH,march,03/31/2020,823
-New Hampshire,NH,july,06/30/2020,830
-New Jersey,NJ,march,03/13/2020,8027
-New Jersey,NJ,july,,
-New Mexico,NM,july,07/31/2020,2378
-New Mexico,NM,march,,
-New York,NY,march,03/31/2020,28279
-New York,NY,july,07/31/2020,28019
-North Carolina,NC,march,03/31/2020,14037
-North Carolina,NC,july,07/31/2020,14053
-North Dakota,ND,july,07/31/2019,916
-North Dakota,ND,march,03/31/2020,910
-Ohio,OH,march,03/19/2020,12192
-Ohio,OH,july,08/01/2020,12204
-Oklahoma,OK,march,03/16/2020,4317
-Oklahoma,OK,july,07/31/2020,4187
-Oregon,OR,march,03/31/2020,4644
-Oregon,OR,july,07/31/2020,4611
-Pennsylvania,PA,march,03/31/2020,15154
-Pennsylvania,PA,july,06/30/2020,15017
-Rhode Island,RI,march,03/15/2020,1340
-Rhode Island,RI,july,07/31/2020,1383
-South Carolina,SC,march,03/15/2020,4784
-South Carolina,SC,july,08/03/2020,4755
-South Dakota,SD,march,03/31/2020,702
-South Dakota,SD,july,08/01/2020,695
-Tennessee,TN,march,03/15/2020,5176
-Tennessee,TN,july,07/31/2020,5543
-Texas,TX,march,03/15/2020,36048
-Texas,TX,july,07/31/2020,35528
-Utah,UT,march,03/31/2020,2307
-Utah,UT,july,07/31/2020,2342
-Vermont,VT,march,03/15/2020,1003
-Vermont,VT,july,07/30/2020,988
-Virginia,VA,march,03/31/2020,11962
-Virginia,VA,july,07/31/2021,11697
-Washington,WA,march,03/31/2020,8806
-Washington,WA,july,07/31/2020,8934
-West Virginia,WV,march,03/31/2020,1849
-West Virginia,WV,july,07/31/2021,1850
-Wisconsin,WI,march,03/28/2020,9400
-Wisconsin,WI,july,08/01/2021,9434
-Wyoming,WY,march,03/31/2020,1018
-Wyoming,WY,july,07/31/2021,1000
+name,abbreviation,month,as_of_date,pop,Notes
+Alabama,AL,march,03/31/2020,3686,
+Alabama,AL,july,06/30/2020,3792,
+Alaska,AK,march,03/31/2020,1456,
+Alaska,AK,july,07/31/2020,1481,
+Arizona,AZ,july,08/01/2020,9095,
+Arizona,AZ,march,03/31/2021,8735,
+Arkansas,AR,march,03/31/2020,5460,
+Arkansas,AR,july,07/31/2020,5024,
+California,CA,march,03/01/2020,63471,
+California,CA,july,07/31/2020,62606,
+Colorado,CO,march,03/31/2020,6335,
+Colorado,CO,july,07/31/2020,6281,
+Connecticut,CT,march,03/01/2020,6219,
+Connecticut,CT,july,08/01/2020,6155,
+Delaware,DE,march,,,
+Delaware,DE,july,,,
+Federal,US,march,03/14/2020,36486,
+Federal,US,july,08/01/2020,37127,
+Florida,FL,march,03/31/2020,27133,
+Florida,FL,july,07/31/2020,27219,
+Georgia,GA,july,,,
+Georgia,GA,march,,,
+Hawaii,HI,march,03/31/2020,2100,
+Hawaii,HI,july,08/05/2020,2100,
+Idaho,ID,march,03/16/2020,1977,
+Idaho,ID,july,07/31/2020,1982,
+Illinois,IL,march,03/31/2020,12785,
+Illinois,IL,july,07/31/2020,12503,
+Indiana,IN,march,03/31/2020,5582,
+Indiana,IN,july,06/30/2020,5357,
+Iowa,IA,march,03/15/2020,2482,
+Iowa,IA,july,07/31/2020,2396,
+Kansas,KS,march,03/01/2020,3276,
+Kansas,KS,july,07/31/2020,3153,
+Kentucky,KY,march,03/31/2020,2656,
+Kentucky,KY,july,07/31/2020,2614,
+Louisiana,LA,july,,,
+Louisiana,LA,march,,,
+Maine,ME,march,02/29/2020,1130,
+Maine,ME,july,07/31/2020,1124,
+Maryland,MD,march,03/31/2020,6038,
+Maryland,MD,july,07/31/2020,6211,
+Massachusetts,MA,march,03/31/2020,4607,
+Massachusetts,MA,july,06/30/2020,4573,
+Michigan,MI,march,04/16/2020,11963,
+Michigan,MI,july,07/31/2020,11862,
+Minnesota,MN,march,04/22/2020,4421,
+Minnesota,MN,july,07/24/2020,4340,
+Mississippi,MS,march,09/30/2019,2084,"We've adjusted this total to include staff at private prisons. The last known estimate of these employees was 350 for the 2018 fiscal year, so we've added that total to the DOC staff previously provided to us."
+Mississippi,MS,july,06/30/2020,2049,"We've adjusted this total to include staff at private prisons. The last known estimate of these employees was 350 for the 2018 fiscal year, so we've added that total to the DOC staff previously provided to us."
+Missouri,MO,march,03/15/2020,9653,
+Missouri,MO,july,07/31/2020,9488,
+Montana,MT,march,03/23/2020,1286,
+Montana,MT,july,07/20/2020,1308,
+Nebraska,NE,march,03/31/2020,2199,
+Nebraska,NE,july,07/31/2020,2132,
+Nevada,NV,march,03/31/2020,2638,
+Nevada,NV,july,07/31/2020,2648,
+New Hampshire,NH,march,03/31/2020,823,
+New Hampshire,NH,july,06/30/2020,830,
+New Jersey,NJ,march,03/13/2020,8027,
+New Jersey,NJ,july,,,
+New Mexico,NM,july,07/31/2020,2378,
+New Mexico,NM,march,,,
+New York,NY,march,03/31/2020,28279,
+New York,NY,july,07/31/2020,28019,
+North Carolina,NC,march,03/31/2020,14037,
+North Carolina,NC,july,07/31/2020,14053,
+North Dakota,ND,july,07/31/2019,916,
+North Dakota,ND,march,03/31/2020,910,
+Ohio,OH,march,03/19/2020,12192,
+Ohio,OH,july,08/01/2020,12204,
+Oklahoma,OK,march,03/16/2020,4317,
+Oklahoma,OK,july,07/31/2020,4187,
+Oregon,OR,march,03/31/2020,4644,
+Oregon,OR,july,07/31/2020,4611,
+Pennsylvania,PA,march,03/31/2020,16479,
+Pennsylvania,PA,july,06/30/2020,16321,
+Rhode Island,RI,march,03/15/2020,1340,
+Rhode Island,RI,july,07/31/2020,1383,
+South Carolina,SC,march,03/15/2020,4784,
+South Carolina,SC,july,08/03/2020,4755,
+South Dakota,SD,march,03/31/2020,702,
+South Dakota,SD,july,08/01/2020,695,
+Tennessee,TN,march,03/15/2020,5176,
+Tennessee,TN,july,07/31/2020,5543,
+Texas,TX,march,03/15/2020,36048,
+Texas,TX,july,07/31/2020,35528,
+Utah,UT,march,03/31/2020,2307,
+Utah,UT,july,07/31/2020,2342,
+Vermont,VT,march,03/15/2020,1003,
+Vermont,VT,july,07/30/2020,988,
+Virginia,VA,march,03/31/2020,11962,
+Virginia,VA,july,07/31/2021,11697,
+Washington,WA,march,03/31/2020,8806,
+Washington,WA,july,07/31/2020,8934,
+West Virginia,WV,march,03/31/2020,1849,
+West Virginia,WV,july,07/31/2021,1850,
+Wisconsin,WI,march,03/28/2020,9400,
+Wisconsin,WI,july,08/01/2021,9434,
+Wyoming,WY,march,03/31/2020,1018,
+Wyoming,WY,july,07/31/2021,1000,

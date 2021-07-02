@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file. This captur
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-07-02
+Hi friends, we're here with a minor update. Since last week, we [published this story](https://www.themarshallproject.org/2021/06/30/a-half-million-people-got-covid-19-in-prison-are-officials-ready-for-the-next-pandemic) assessing the toll of COVID in prisons over the last 15 months. We've had a few states get back to us with their weekly case data. And we had a few states come in with updated prisoner population snapshots and staff headcounts. One worth note, in case its a state you're interested in, is Mississippi. The staff headcounts we had from that state previously, we learned, only included state employees and not those who work at private prisons. We were also told that they couldn't tell us how many people work in private prisons there. Through the reporting of our colleague Alysia Santo, we turned up this [state budget request document](http://www.lbo.ms.gov/PublicReports/AllReportsForAgency?FiscalYear=2020&AgencyFileNumber=549-00) for the corrections department that said in fiscal year 2018, private prisons in Mississippi employed 350 people in security staff positions. This is the best estimate we had available, but we wanted to account for those workers, and have added 350 to each of the snapshots we have. 
+That's all for now. If more data trickles in over the next few weeks, we'll push an update again. Have a good holiday weekend, everybody.
+
+
 ## 2021-06-25
 Hi everyone. I'm here with this week's data release, which after 15 months, will be our last regular update. Cases are plateauing at a level far below the pandemic's peak, but coronavirus is not finished in prison. We continue to see outbreaks in pockets around the country. But we also see that prison agencies are releasing less and less information and reverting to their opaqueness of the before times. 
 

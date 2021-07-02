@@ -83,6 +83,7 @@ It includes these columns:
 * `month` - The label for the month of the snapshot. Months without a year specified are from 2020.
 * `as_of_date` - The date the data reflect. In some instances, an updated figure was not available, and we used the most recent number the agency could provide.
 * `pop` - The number of staff counted in the system's released coronavirus data.
+* `notes` - Notes about any peculiarities about a certain state's staff headcount.
 
 The fourth table in the dataset, `covid_prison_rates.csv`, contains the rates of cases and deaths for prisoners. There is one for every state and federal prison system and an additional row with the `National` totals. 
 

@@ -1,5 +1,5 @@
 name,abbreviation,staff_tests,staff_tests_with_multiples,total_staff_cases,staff_recovered,total_staff_deaths,staff_partial_dose,staff_full_dose,prisoner_tests,prisoner_tests_with_multiples,total_prisoner_cases,prisoners_recovered,total_prisoner_deaths,prisoners_partial_dose,prisoners_full_dose,as_of_date,notes
-Alabama,AL,,,,,,,,,,,,,,,,
+Alabama,AL,,,1058,1048,3,871,,,16743,1662,1595,66,10811,,06/25/2021,
 Alaska,AK,,,332,,0,,,,38707,2440,,5,3460,3097,06/22/2021,vaccines as of June 23
 Arizona,AZ,,,2787,2778,,,,47899,,12328,12251,65,,,06/22/2021,
 Arkansas,AR,,,,,4,,,,,11425,11353,52,,,06/23/2021,"We have been told vaccinations have begun in this system, but they have not released numbers of people vaccinated for this week. "
